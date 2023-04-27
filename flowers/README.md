@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1661966120231932.jpg
 Directory                       : .
-File Size                       : 1514 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:00+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1478 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -31,6 +31,382 @@ Megapixels                      : 5.2
 
 </details>
 
+<a href="BloomingTreeFlowers.jpg"><img alt="BloomingTreeFlowers.jpg" src="BloomingTreeFlowers.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : BloomingTreeFlowers.jpg
+Directory                       : .
+File Size                       : 849 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 6000
+Image Height                    : 4000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 6000x4000
+Megapixels                      : 24.0
+```
+
+</details>
+
+<a href="Fall Wallpaper Black And White.jpg"><img alt="Fall Wallpaper Black And White.jpg" src="Fall Wallpaper Black And White.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : Fall Wallpaper Black And White.jpg
+Directory                       : .
+File Size                       : 639 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 240
+Y Resolution                    : 240
+Image Width                     : 3837
+Image Height                    : 2400
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 1
+Image Size                      : 3837x2400
+Megapixels                      : 9.2
+```
+
+</details>
+
+<a href="FnJ5j1CaAAEuIJ-.jpg"><img alt="FnJ5j1CaAAEuIJ-.jpg" src="FnJ5j1CaAAEuIJ-.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : FnJ5j1CaAAEuIJ-.jpg
+Directory                       : .
+File Size                       : 66 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Image Width                     : 2048
+Image Height                    : 1366
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2048x1366
+Megapixels                      : 2.8
+```
+
+</details>
+
+<a href="FnJ5j1FaEAInX_m.jpg"><img alt="FnJ5j1FaEAInX_m.jpg" src="FnJ5j1FaEAInX_m.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : FnJ5j1FaEAInX_m.jpg
+Directory                       : .
+File Size                       : 62 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Image Width                     : 2048
+Image Height                    : 1366
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2048x1366
+Megapixels                      : 2.8
+```
+
+</details>
+
+<a href="FnJ5j1MaEAYCGtZ.jpg"><img alt="FnJ5j1MaEAYCGtZ.jpg" src="FnJ5j1MaEAYCGtZ.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : FnJ5j1MaEAYCGtZ.jpg
+Directory                       : .
+File Size                       : 81 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Image Width                     : 1366
+Image Height                    : 2048
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1366x2048
+Megapixels                      : 2.8
+```
+
+</details>
+
+<a href="FnJ5j1YaYAEZKC7.jpg"><img alt="FnJ5j1YaYAEZKC7.jpg" src="FnJ5j1YaYAEZKC7.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : FnJ5j1YaYAEZKC7.jpg
+Directory                       : .
+File Size                       : 66 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Image Width                     : 2048
+Image Height                    : 1370
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2048x1370
+Megapixels                      : 2.8
+```
+
+</details>
+
+<a href="ImperialFlowers.jpg"><img alt="ImperialFlowers.jpg" src="ImperialFlowers.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : ImperialFlowers.jpg
+Directory                       : .
+File Size                       : 109 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="MacroOnBlue.jpg"><img alt="MacroOnBlue.jpg" src="MacroOnBlue.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : MacroOnBlue.jpg
+Directory                       : .
+File Size                       : 246 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Comment                         : CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 90.
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="Xero1.jpg"><img alt="Xero1.jpg" src="Xero1.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : Xero1.jpg
+Directory                       : .
+File Size                       : 924 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+Image Width                     : 3456
+Image Height                    : 2304
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 3456x2304
+Megapixels                      : 8.0
+```
+
+</details>
+
+<a href="alex-blajan-Yeg0Od9_69I-unsplash.jpg"><img alt="alex-blajan-Yeg0Od9_69I-unsplash.jpg" src="alex-blajan-Yeg0Od9_69I-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : alex-blajan-Yeg0Od9_69I-unsplash.jpg
+Directory                       : .
+File Size                       : 1097 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 7360
+Image Height                    : 4540
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 7360x4540
+Megapixels                      : 33.4
+```
+
+</details>
+
 <a href="alexander-montes-Qv79akqGQt0-unsplash.jpg"><img alt="alexander-montes-Qv79akqGQt0-unsplash.jpg" src="alexander-montes-Qv79akqGQt0-unsplash.jpg"></a>
 
 <details>
@@ -38,13 +414,13 @@ Megapixels                      : 5.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : alexander-montes-Qv79akqGQt0-unsplash.jpg
 Directory                       : .
-File Size                       : 1460 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:00+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1426 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -98,13 +474,13 @@ Megapixels                      : 12.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : alexander-montes-Uj-_XNXk210-unsplash.jpg
 Directory                       : .
-File Size                       : 1304 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:00+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1273 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -158,13 +534,13 @@ Megapixels                      : 12.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : alexandru-acea-qEXFE5h0e8g-unsplash.jpg
 Directory                       : .
-File Size                       : 758 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:00+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 740 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -227,7 +603,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -246,79 +622,6 @@ Thumbnail Image                 : (Binary data 2452 bytes, use -b option to extr
 
 </details>
 
-<a href="alex-blajan-Yeg0Od9_69I-unsplash.jpg"><img alt="alex-blajan-Yeg0Od9_69I-unsplash.jpg" src="alex-blajan-Yeg0Od9_69I-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : alex-blajan-Yeg0Od9_69I-unsplash.jpg
-Directory                       : .
-File Size                       : 1123 kB
-File Modification Date/Time     : 2023:03:30 23:12:37+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-Image Width                     : 7360
-Image Height                    : 4540
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 7360x4540
-Megapixels                      : 33.4
-```
-
-</details>
-
 <a href="ameen-fahmy-mXpTl4jNKiA-unsplash.jpg"><img alt="ameen-fahmy-mXpTl4jNKiA-unsplash.jpg" src="ameen-fahmy-mXpTl4jNKiA-unsplash.jpg"></a>
 
 <details>
@@ -326,13 +629,13 @@ Megapixels                      : 33.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ameen-fahmy-mXpTl4jNKiA-unsplash.jpg
 Directory                       : .
-File Size                       : 367 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 359 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -386,13 +689,13 @@ Megapixels                      : 10.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : andrea-tummons-1wrjYqLqn8c-unsplash.jpg
 Directory                       : .
-File Size                       : 730 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 713 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -443,13 +746,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : andrea-tummons-oPW-njJj1oM-unsplash.jpg
 Directory                       : .
-File Size                       : 522 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 509 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -503,13 +806,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : anita-austvika-79pflgKIXhE-unsplash.jpg
 Directory                       : .
-File Size                       : 6.2 MB
-File Modification Date/Time     : 2023:03:11 21:33:31+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:03:11 21:58:28+05:30
+File Size                       : 5.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -556,6 +859,66 @@ Megapixels                      : 31.9
 
 </details>
 
+<a href="annie-spratt--JOw_8WF6Dg-unsplash.jpg"><img alt="annie-spratt--JOw_8WF6Dg-unsplash.jpg" src="annie-spratt--JOw_8WF6Dg-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt--JOw_8WF6Dg-unsplash.jpg
+Directory                       : .
+File Size                       : 4.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 3280
+Image Height                    : 4822
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 3280x4822
+Megapixels                      : 15.8
+```
+
+</details>
+
 <a href="annie-spratt-5KNecHxjTnI-unsplash.jpg"><img alt="annie-spratt-5KNecHxjTnI-unsplash.jpg" src="annie-spratt-5KNecHxjTnI-unsplash.jpg"></a>
 
 <details>
@@ -563,13 +926,13 @@ Megapixels                      : 31.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-5KNecHxjTnI-unsplash.jpg
 Directory                       : .
-File Size                       : 2.1 MB
-File Modification Date/Time     : 2023:03:30 23:05:02+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 2.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -636,13 +999,13 @@ Megapixels                      : 11.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-72WyXrvL-5M-unsplash.jpg
 Directory                       : .
-File Size                       : 5.4 MB
-File Modification Date/Time     : 2023:03:30 23:12:06+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 5.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -702,199 +1065,6 @@ Megapixels                      : 42.2
 
 </details>
 
-<a href="annie-spratt-c4zairjiKSs-unsplash.jpg"><img alt="annie-spratt-c4zairjiKSs-unsplash.jpg" src="annie-spratt-c4zairjiKSs-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt-c4zairjiKSs-unsplash.jpg
-Directory                       : .
-File Size                       : 2.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 7845
-Image Height                    : 5033
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 7845x5033
-Megapixels                      : 39.5
-```
-
-</details>
-
-<a href="annie-spratt-gBj3ALJ2uUE-unsplash.jpg"><img alt="annie-spratt-gBj3ALJ2uUE-unsplash.jpg" src="annie-spratt-gBj3ALJ2uUE-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt-gBj3ALJ2uUE-unsplash.jpg
-Directory                       : .
-File Size                       : 871 kB
-File Modification Date/Time     : 2023:03:30 23:06:45+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-Image Width                     : 4896
-Image Height                    : 3264
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4896x3264
-Megapixels                      : 16.0
-```
-
-</details>
-
-<a href="annie-spratt-hEDwwsfES2w-unsplash.jpg"><img alt="annie-spratt-hEDwwsfES2w-unsplash.jpg" src="annie-spratt-hEDwwsfES2w-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt-hEDwwsfES2w-unsplash.jpg
-Directory                       : .
-File Size                       : 2.5 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4928
-Image Height                    : 3280
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4928x3280
-Megapixels                      : 16.2
-```
-
-</details>
-
 <a href="annie-spratt-J4gm_1GKfAA-unsplash.jpg"><img alt="annie-spratt-J4gm_1GKfAA-unsplash.jpg" src="annie-spratt-J4gm_1GKfAA-unsplash.jpg"></a>
 
 <details>
@@ -902,13 +1072,13 @@ Megapixels                      : 16.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-J4gm_1GKfAA-unsplash.jpg
 Directory                       : .
-File Size                       : 3.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:01+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 3.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -951,66 +1121,6 @@ Color Components                : 3
 Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
 Image Size                      : 4896x3264
 Megapixels                      : 16.0
-```
-
-</details>
-
-<a href="annie-spratt--JOw_8WF6Dg-unsplash.jpg"><img alt="annie-spratt--JOw_8WF6Dg-unsplash.jpg" src="annie-spratt--JOw_8WF6Dg-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt--JOw_8WF6Dg-unsplash.jpg
-Directory                       : .
-File Size                       : 4.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 3280
-Image Height                    : 4822
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 3280x4822
-Megapixels                      : 15.8
 ```
 
 </details>
@@ -1022,13 +1132,13 @@ Megapixels                      : 15.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-KQ6sO8m1ZDE-unsplash.jpg
 Directory                       : .
-File Size                       : 886 kB
-File Modification Date/Time     : 2023:03:30 23:04:21+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 865 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1088,66 +1198,6 @@ Megapixels                      : 10.6
 
 </details>
 
-<a href="annie-spratt-r9eIL7jtenc-unsplash.jpg"><img alt="annie-spratt-r9eIL7jtenc-unsplash.jpg" src="annie-spratt-r9eIL7jtenc-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt-r9eIL7jtenc-unsplash.jpg
-Directory                       : .
-File Size                       : 3.1 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4565
-Image Height                    : 3264
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4565x3264
-Megapixels                      : 14.9
-```
-
-</details>
-
 <a href="annie-spratt-RULfLQOf5xU-unsplash.jpg"><img alt="annie-spratt-RULfLQOf5xU-unsplash.jpg" src="annie-spratt-RULfLQOf5xU-unsplash.jpg"></a>
 
 <details>
@@ -1155,13 +1205,13 @@ Megapixels                      : 14.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-RULfLQOf5xU-unsplash.jpg
 Directory                       : .
-File Size                       : 1561 kB
-File Modification Date/Time     : 2023:03:30 23:07:42+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1524 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1221,79 +1271,6 @@ Megapixels                      : 16.0
 
 </details>
 
-<a href="annie-spratt-tODXQIEAh9M-unsplash.jpg"><img alt="annie-spratt-tODXQIEAh9M-unsplash.jpg" src="annie-spratt-tODXQIEAh9M-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : annie-spratt-tODXQIEAh9M-unsplash.jpg
-Directory                       : .
-File Size                       : 859 kB
-File Modification Date/Time     : 2023:03:30 23:05:06+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-Image Width                     : 3999
-Image Height                    : 2661
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 3999x2661
-Megapixels                      : 10.6
-```
-
-</details>
-
 <a href="annie-spratt-V5bwp9IJrCI-unsplash.jpg"><img alt="annie-spratt-V5bwp9IJrCI-unsplash.jpg" src="annie-spratt-V5bwp9IJrCI-unsplash.jpg"></a>
 
 <details>
@@ -1301,13 +1278,13 @@ Megapixels                      : 10.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-V5bwp9IJrCI-unsplash.jpg
 Directory                       : .
-File Size                       : 4.7 MB
-File Modification Date/Time     : 2023:03:30 23:17:18+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 4.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1374,13 +1351,13 @@ Megapixels                      : 45.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : annie-spratt-X93dIa5APEI-unsplash.jpg
 Directory                       : .
-File Size                       : 568 kB
-File Modification Date/Time     : 2023:03:30 23:03:31+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 554 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1440,6 +1417,332 @@ Megapixels                      : 6.0
 
 </details>
 
+<a href="annie-spratt-c4zairjiKSs-unsplash.jpg"><img alt="annie-spratt-c4zairjiKSs-unsplash.jpg" src="annie-spratt-c4zairjiKSs-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt-c4zairjiKSs-unsplash.jpg
+Directory                       : .
+File Size                       : 2.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 7845
+Image Height                    : 5033
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 7845x5033
+Megapixels                      : 39.5
+```
+
+</details>
+
+<a href="annie-spratt-gBj3ALJ2uUE-unsplash.jpg"><img alt="annie-spratt-gBj3ALJ2uUE-unsplash.jpg" src="annie-spratt-gBj3ALJ2uUE-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt-gBj3ALJ2uUE-unsplash.jpg
+Directory                       : .
+File Size                       : 851 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 4896
+Image Height                    : 3264
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4896x3264
+Megapixels                      : 16.0
+```
+
+</details>
+
+<a href="annie-spratt-hEDwwsfES2w-unsplash.jpg"><img alt="annie-spratt-hEDwwsfES2w-unsplash.jpg" src="annie-spratt-hEDwwsfES2w-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt-hEDwwsfES2w-unsplash.jpg
+Directory                       : .
+File Size                       : 2.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4928
+Image Height                    : 3280
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4928x3280
+Megapixels                      : 16.2
+```
+
+</details>
+
+<a href="annie-spratt-r9eIL7jtenc-unsplash.jpg"><img alt="annie-spratt-r9eIL7jtenc-unsplash.jpg" src="annie-spratt-r9eIL7jtenc-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt-r9eIL7jtenc-unsplash.jpg
+Directory                       : .
+File Size                       : 2.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4565
+Image Height                    : 3264
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4565x3264
+Megapixels                      : 14.9
+```
+
+</details>
+
+<a href="annie-spratt-tODXQIEAh9M-unsplash.jpg"><img alt="annie-spratt-tODXQIEAh9M-unsplash.jpg" src="annie-spratt-tODXQIEAh9M-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : annie-spratt-tODXQIEAh9M-unsplash.jpg
+Directory                       : .
+File Size                       : 839 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 3999
+Image Height                    : 2661
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 3999x2661
+Megapixels                      : 10.6
+```
+
+</details>
+
 <a href="bady-abbas-XAkPN7aEGJM-unsplash.jpg"><img alt="bady-abbas-XAkPN7aEGJM-unsplash.jpg" src="bady-abbas-XAkPN7aEGJM-unsplash.jpg"></a>
 
 <details>
@@ -1447,13 +1750,13 @@ Megapixels                      : 6.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : bady-abbas-XAkPN7aEGJM-unsplash.jpg
 Directory                       : .
-File Size                       : 3.9 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:02+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 3.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1500,40 +1803,6 @@ Megapixels                      : 24.0
 
 </details>
 
-<a href="BloomingTreeFlowers.jpg"><img alt="BloomingTreeFlowers.jpg" src="BloomingTreeFlowers.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : BloomingTreeFlowers.jpg
-Directory                       : .
-File Size                       : 869 kB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 1
-Y Resolution                    : 1
-Image Width                     : 6000
-Image Height                    : 4000
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 6000x4000
-Megapixels                      : 24.0
-```
-
-</details>
-
 <a href="bouquet.jpg"><img alt="bouquet.jpg" src="bouquet.jpg"></a>
 
 <details>
@@ -1541,13 +1810,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : bouquet.jpg
 Directory                       : .
-File Size                       : 402 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 393 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1601,13 +1870,13 @@ Megapixels                      : 6.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : camille-orgel-LFUENr5bh1A-unsplash.jpg
 Directory                       : .
-File Size                       : 886 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 865 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1661,13 +1930,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : claire-brear-3KNUXqMgr4c-unsplash.jpg
 Directory                       : .
-File Size                       : 61 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 59 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1721,13 +1990,13 @@ Megapixels                      : 4.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : daisy2.jpg
 Directory                       : .
-File Size                       : 3.4 MB
-File Modification Date/Time     : 2023:03:25 18:06:10+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:03:26 00:41:10+05:30
+File Size                       : 3.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1791,13 +2060,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : dark-muted-bush-green-pastel.jpg
 Directory                       : .
-File Size                       : 8.9 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 8.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1822,13 +2091,13 @@ Megapixels                      : 30.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : dawid-zawila-duADlJvRI7Y-unsplash.jpg
 Directory                       : .
-File Size                       : 1084 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1059 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1882,13 +2151,13 @@ Megapixels                      : 12.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : emre-EfyQXFzu8Nw-unsplash.jpg
 Directory                       : .
-File Size                       : 535 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 523 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1942,13 +2211,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : evie-s-JY_rSd-Kb1o-unsplash.jpg
 Directory                       : .
-File Size                       : 1196 kB
-File Modification Date/Time     : 2023:03:30 23:07:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1168 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2015,13 +2284,13 @@ Megapixels                      : 36.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : evie-s-MicqqGyDQ6w-unsplash.jpg
 Directory                       : .
-File Size                       : 609 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 595 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2075,13 +2344,13 @@ Megapixels                      : 16.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : flowers.jpg
 Directory                       : .
-File Size                       : 617 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 602 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2128,142 +2397,6 @@ Megapixels                      : 12.2
 
 </details>
 
-<a href="FnJ5j1CaAAEuIJ-.jpg"><img alt="FnJ5j1CaAAEuIJ-.jpg" src="FnJ5j1CaAAEuIJ-.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : FnJ5j1CaAAEuIJ-.jpg
-Directory                       : .
-File Size                       : 68 kB
-File Modification Date/Time     : 2023:01:24 19:08:56+05:30
-File Access Date/Time           : 2023:04:13 23:48:03+05:30
-File Inode Change Date/Time     : 2023:01:25 11:37:30+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 72
-Y Resolution                    : 72
-Image Width                     : 2048
-Image Height                    : 1366
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 2048x1366
-Megapixels                      : 2.8
-```
-
-</details>
-
-<a href="FnJ5j1FaEAInX_m.jpg"><img alt="FnJ5j1FaEAInX_m.jpg" src="FnJ5j1FaEAInX_m.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : FnJ5j1FaEAInX_m.jpg
-Directory                       : .
-File Size                       : 63 kB
-File Modification Date/Time     : 2023:01:24 19:08:48+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:25 11:37:30+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 72
-Y Resolution                    : 72
-Image Width                     : 2048
-Image Height                    : 1366
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 2048x1366
-Megapixels                      : 2.8
-```
-
-</details>
-
-<a href="FnJ5j1MaEAYCGtZ.jpg"><img alt="FnJ5j1MaEAYCGtZ.jpg" src="FnJ5j1MaEAYCGtZ.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : FnJ5j1MaEAYCGtZ.jpg
-Directory                       : .
-File Size                       : 83 kB
-File Modification Date/Time     : 2023:01:24 19:08:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:25 11:37:30+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 72
-Y Resolution                    : 72
-Image Width                     : 1366
-Image Height                    : 2048
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1366x2048
-Megapixels                      : 2.8
-```
-
-</details>
-
-<a href="FnJ5j1YaYAEZKC7.jpg"><img alt="FnJ5j1YaYAEZKC7.jpg" src="FnJ5j1YaYAEZKC7.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : FnJ5j1YaYAEZKC7.jpg
-Directory                       : .
-File Size                       : 68 kB
-File Modification Date/Time     : 2023:01:24 19:08:44+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:25 11:37:30+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 72
-Y Resolution                    : 72
-Image Width                     : 2048
-Image Height                    : 1370
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 2048x1370
-Megapixels                      : 2.8
-```
-
-</details>
-
 <a href="francisco-moreno-Yp8s2MLTGJE-unsplash.jpg"><img alt="francisco-moreno-Yp8s2MLTGJE-unsplash.jpg" src="francisco-moreno-Yp8s2MLTGJE-unsplash.jpg"></a>
 
 <details>
@@ -2271,13 +2404,13 @@ Megapixels                      : 2.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : francisco-moreno-Yp8s2MLTGJE-unsplash.jpg
 Directory                       : .
-File Size                       : 263 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 257 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2331,13 +2464,13 @@ Megapixels                      : 12.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : gilberto-olimpio-Hfh8viYL9kA-unsplash.jpg
 Directory                       : .
-File Size                       : 1488 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1454 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2391,13 +2524,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : giuseppe-doto-mFK2hnYFvVQ-unsplash.jpg
 Directory                       : .
-File Size                       : 426 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 416 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2444,40 +2577,6 @@ Megapixels                      : 6.0
 
 </details>
 
-<a href="ImperialFlowers.jpg"><img alt="ImperialFlowers.jpg" src="ImperialFlowers.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : ImperialFlowers.jpg
-Directory                       : .
-File Size                       : 112 kB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 1
-Y Resolution                    : 1
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
 <a href="inga-shcheglova-CIZvO8VpGFo-unsplash.jpg"><img alt="inga-shcheglova-CIZvO8VpGFo-unsplash.jpg" src="inga-shcheglova-CIZvO8VpGFo-unsplash.jpg"></a>
 
 <details>
@@ -2485,13 +2584,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : inga-shcheglova-CIZvO8VpGFo-unsplash.jpg
 Directory                       : .
-File Size                       : 1086 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1061 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2545,13 +2644,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : jez-timms-7bVMdNYzH_8-unsplash.jpg
 Directory                       : .
-File Size                       : 6.2 MB
-File Modification Date/Time     : 2023:03:30 23:03:55+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 5.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2618,13 +2717,13 @@ Megapixels                      : 24.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : joey-huang-VzIKITZA-N0-unsplash.jpg
 Directory                       : .
-File Size                       : 4.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:04+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 4.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2678,13 +2777,13 @@ Megapixels                      : 30.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : kien-do-uUVkzxDR1D0-unsplash.jpg
 Directory                       : .
-File Size                       : 456 kB
-File Modification Date/Time     : 2023:03:30 23:07:07+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 445 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2751,13 +2850,13 @@ Megapixels                      : 13.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : light.jpg
 Directory                       : .
-File Size                       : 209 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 204 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2786,13 +2885,13 @@ Megapixels                      : 4.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : marivi-pazos-4kX1uoAAohY-unsplash.jpg
 Directory                       : .
-File Size                       : 750 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 732 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2846,13 +2945,13 @@ Megapixels                      : 14.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : markus-spiske-XQZ76LwmTAE-unsplash.jpg
 Directory                       : .
-File Size                       : 670 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 654 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2903,13 +3002,13 @@ Megapixels                      : 8.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : mrika-selimi-xBC5Cuc2z9Q-unsplash.jpg
 Directory                       : .
-File Size                       : 2.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 2.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2963,13 +3062,13 @@ Megapixels                      : 17.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : nadiia-ploshchenko-D0AyhLJ0PXU-unsplash.jpg
 Directory                       : .
-File Size                       : 5.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 5.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3023,13 +3122,13 @@ Megapixels                      : 15.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ocean.jpg
 Directory                       : .
-File Size                       : 303 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 296 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3080,13 +3179,13 @@ Megapixels                      : 5.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : olga-vilkha-7GZ9-QHlaVc-unsplash.jpg
 Directory                       : .
-File Size                       : 1189 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1162 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3140,13 +3239,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : olga-vilkha-uRhOFldnFWg-unsplash.jpg
 Directory                       : .
-File Size                       : 1773 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:05+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1732 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3200,13 +3299,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pedro-saraiva-vvoMJresXM0-unsplash.jpg
 Directory                       : .
-File Size                       : 651 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 636 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3260,13 +3359,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pexels-alfo-medeiros-12921047.jpg
 Directory                       : .
-File Size                       : 884 kB
-File Modification Date/Time     : 2023:03:19 19:55:01+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:03:20 12:40:12+05:30
+File Size                       : 863 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3323,6 +3422,79 @@ Megapixels                      : 24.3
 
 </details>
 
+<a href="pexels-lee-imho-34435.jpg"><img alt="pexels-lee-imho-34435.jpg" src="pexels-lee-imho-34435.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : pexels-lee-imho-34435.jpg
+Directory                       : .
+File Size                       : 144 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 1920
+Image Height                    : 1280
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1280
+Megapixels                      : 2.5
+```
+
+</details>
+
 <a href="pexels-lisa-fotios-1083822.jpg"><img alt="pexels-lisa-fotios-1083822.jpg" src="pexels-lisa-fotios-1083822.jpg"></a>
 
 <details>
@@ -3330,13 +3502,13 @@ Megapixels                      : 24.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pexels-lisa-fotios-1083822.jpg
 Directory                       : .
-File Size                       : 2.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 2.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3400,13 +3572,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pexels-natasha-babenko-2565347.jpg
 Directory                       : .
-File Size                       : 880 kB
-File Modification Date/Time     : 2023:03:30 23:05:59+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 859 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3473,13 +3645,13 @@ Megapixels                      : 26.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pexels-sl-wong-1023953.jpg
 Directory                       : .
-File Size                       : 1186 kB
-File Modification Date/Time     : 2023:03:19 19:54:46+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:03:20 12:40:12+05:30
+File Size                       : 1158 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3543,13 +3715,13 @@ Megapixels                      : 6.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : photo-1444912517131-2a1c46cb761f.jpg
 Directory                       : .
-File Size                       : 6.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 5.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3732,7 +3904,7 @@ Perspective Horizontal          : 0
 Perspective Rotate              : 0.0
 Perspective Scale               : 100
 Perspective Aspect              : 0
-Perspective Upright             : Off
+Perspective Upright             : 0
 Auto Lateral CA                 : 0
 Exposure 2012                   : 0.00
 Contrast 2012                   : 0
@@ -3811,13 +3983,13 @@ Lens ID                         : XF23mm F1.4 R
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : photo-1493744493046-8ae80dca89eb.jpg
 Directory                       : .
-File Size                       : 3.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:06+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 3.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3996,7 +4168,7 @@ Perspective Horizontal          : 0
 Perspective Rotate              : 0.0
 Perspective Scale               : 100
 Perspective Aspect              : 0
-Perspective Upright             : Off
+Perspective Upright             : 0
 Perspective X                   : 0.00
 Perspective Y                   : 0.00
 Auto Lateral CA                 : 1
@@ -4125,13 +4297,13 @@ Lens ID                         : AF-S DX Nikkor 35mm f/1.8G
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pinkish.jpeg
 Directory                       : .
-File Size                       : 1150 kB
-File Modification Date/Time     : 2023:02:16 12:06:19+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:03:19 23:34:04+05:30
+File Size                       : 1123 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4160,13 +4332,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : plant-foliage-vegetation-wildflower-dry-seasonal-autumn-closeup-focu-blur-soft-brown-flower-herb-vegetal.jpg
 Directory                       : .
-File Size                       : 245 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 240 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4193,13 +4365,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : razvan-dumitrasconiu-YfclfrnykH4-unsplash.jpg
 Directory                       : .
-File Size                       : 1718 kB
-File Modification Date/Time     : 2023:03:30 23:06:10+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1678 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4266,13 +4438,13 @@ Megapixels                      : 26.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : reynardo-etenia-wongso-BYIf3XanizQ-unsplash.jpg
 Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4326,13 +4498,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : roses.jpg
 Directory                       : .
-File Size                       : 419 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 409 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4383,13 +4555,13 @@ Megapixels                      : 6.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : saad-chaudhry-ioWneNxBXDk-unsplash.jpg
 Directory                       : .
-File Size                       : 894 kB
-File Modification Date/Time     : 2023:03:30 23:08:31+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 873 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4456,13 +4628,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sakura.jpg
 Directory                       : .
-File Size                       : 4.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 4.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4555,13 +4727,13 @@ Thumbnail Image                 : (Binary data 6437 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : samantha-gades-nysCDwot01c-unsplash.jpg
 Directory                       : .
-File Size                       : 1354 kB
-File Modification Date/Time     : 2023:03:30 23:04:25+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1322 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4628,13 +4800,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sebastian-molina-fotografia-natjj0CTa-s.png
 Directory                       : .
-File Size                       : 3.7 MB
-File Modification Date/Time     : 2023:02:01 20:24:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:07+05:30
-File Inode Change Date/Time     : 2023:02:02 09:47:22+05:30
+File Size                       : 3.6 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -4659,13 +4831,13 @@ Megapixels                      : 9.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : siniz-kim-Upik7lKpsAE-unsplash.jpg
 Directory                       : .
-File Size                       : 1462 kB
-File Modification Date/Time     : 2023:03:30 23:12:29+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1428 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4732,13 +4904,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tabitha-turner-BJ6b1T41MeQ-unsplash.jpg
 Directory                       : .
-File Size                       : 842 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 823 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4789,13 +4961,13 @@ Megapixels                      : 8.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tomoko-uji-5uVbaJYYoJ0-unsplash.jpg
 Directory                       : .
-File Size                       : 1117 kB
-File Modification Date/Time     : 2023:03:30 23:12:11+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:03:30 23:30:18+05:30
+File Size                       : 1091 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4862,13 +5034,13 @@ Megapixels                      : 21.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : u9EDSDA.jpeg
 Directory                       : .
-File Size                       : 343 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 335 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4892,13 +5064,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : undefined - Imgur(3).jpg
 Directory                       : .
-File Size                       : 142 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 138 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4922,13 +5094,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-951op1_3840x2160.png
 Directory                       : .
-File Size                       : 6.4 MB
-File Modification Date/Time     : 2023:03:20 15:38:20+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:03:22 21:28:28+05:30
+File Size                       : 6.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -4957,13 +5129,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-kx9ql7.jpg
 Directory                       : .
-File Size                       : 354 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 346 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4988,13 +5160,13 @@ Megapixels                      : 2.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-o59gvl.jpg
 Directory                       : .
-File Size                       : 1833 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:09+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1790 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5116,7 +5288,7 @@ Red Tone Reproduction Curve     : (Binary data 40 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 40 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 40 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -5150,13 +5322,13 @@ Light Value                     : 8.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-q6253r_3840x2160.png
 Directory                       : .
-File Size                       : 1831 kB
-File Modification Date/Time     : 2023:03:20 15:37:56+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:03:22 21:28:28+05:30
+File Size                       : 1788 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -5185,13 +5357,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-vgmmj5.jpg
 Directory                       : .
-File Size                       : 11 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 10 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5353,7 +5525,7 @@ Perspective Horizontal          : 0
 Perspective Rotate              : 0.0
 Perspective Scale               : 100
 Perspective Aspect              : 0
-Perspective Upright             : Off
+Perspective Upright             : 0
 Auto Lateral CA                 : 0
 Exposure 2012                   : 0.00
 Contrast 2012                   : +100
@@ -5427,13 +5599,13 @@ Lens ID                         : AF-S DX Nikkor 18-55mm f/3.5-5.6G VR II
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-vmz3jp_3840x2160.png
 Directory                       : .
-File Size                       : 7.4 MB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 7.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -5455,36 +5627,37 @@ Megapixels                      : 8.3
 
 </details>
 
-<a href="Xero1.jpg"><img alt="Xero1.jpg" src="Xero1.jpg"></a>
+<a href="wallpaperflare.com_wallpaper.jpg"><img alt="wallpaperflare.com_wallpaper.jpg" src="wallpaperflare.com_wallpaper.jpg"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
-File Name                       : Xero1.jpg
+ExifTool Version Number         : 12.40
+File Name                       : wallpaperflare.com_wallpaper.jpg
 Directory                       : .
-File Size                       : 946 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 315 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
 MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Orientation                     : Horizontal (normal)
-Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
-IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
-Image Width                     : 3456
-Image Height                    : 2304
-Encoding Process                : Baseline DCT, Huffman coding
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Comment                         : CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 95.
+Image Width                     : 2880
+Image Height                    : 1773
+Encoding Process                : Progressive DCT, Huffman coding
 Bits Per Sample                 : 8
 Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 3456x2304
-Megapixels                      : 8.0
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Image Size                      : 2880x1773
+Megapixels                      : 5.1
 ```
 
 </details>
@@ -5496,13 +5669,13 @@ Megapixels                      : 8.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : xnFxbPl.jpeg
 Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5526,13 +5699,13 @@ Megapixels                      : 13.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : xuan-nguyen-_fjcWT7LZPA-unsplash.jpg
 Directory                       : .
-File Size                       : 1593 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1556 KiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5586,13 +5759,13 @@ Megapixels                      : 18.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : xuan-nguyen-g9g2JC4CzdA-unsplash.jpg
 Directory                       : .
-File Size                       : 3.1 MB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 3.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5646,13 +5819,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : yousef-espanioly-0-dy5lOmnMs.png
 Directory                       : .
-File Size                       : 15 MB
-File Modification Date/Time     : 2023:02:01 20:24:44+05:30
-File Access Date/Time           : 2023:04:13 23:48:10+05:30
-File Inode Change Date/Time     : 2023:02:02 09:47:22+05:30
+File Size                       : 14 MiB
+File Modification Date/Time     : 2023:04:27 08:49:46+00:00
+File Access Date/Time           : 2023:04:27 08:49:46+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:46+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : freestocks-y_dCjaRWthY-unsplash.jpg
 Directory                       : .
-File Size                       : 1925 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:17+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1880 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -67,13 +67,13 @@ Megapixels                      : 18.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : scott-webb-sEX6PAx4lGs-unsplash.jpg
 Directory                       : .
-File Size                       : 807 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:17+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 788 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 0003adef2077d0934e691e48482106df.jpg
 Directory                       : .
-File Size                       : 174 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 170 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -80,13 +80,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 114578-coffee-cup-simple-background-minimalism.jpg
 Directory                       : .
-File Size                       : 2.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 2.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -115,6 +115,40 @@ Megapixels                      : 8.3
 
 </details>
 
+<a href="MoarBeach.jpg"><img alt="MoarBeach.jpg" src="MoarBeach.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : MoarBeach.jpg
+Directory                       : .
+File Size                       : 3.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 4896
+Image Height                    : 3264
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4896x3264
+Megapixels                      : 16.0
+```
+
+</details>
+
 <a href="aerial_trees_armin_djuhic.jpg"><img alt="aerial_trees_armin_djuhic.jpg" src="aerial_trees_armin_djuhic.jpg"></a>
 
 <details>
@@ -122,13 +156,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : aerial_trees_armin_djuhic.jpg
 Directory                       : .
-File Size                       : 3.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 3.3 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -182,13 +216,13 @@ Megapixels                      : 19.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : city.jpg
 Directory                       : .
-File Size                       : 1666 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 1627 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -239,13 +273,13 @@ Megapixels                      : 10.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : michael-benz-IgWNxx7paz4-unsplash.jpg
 Directory                       : .
-File Size                       : 2.7 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 2.6 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -292,40 +326,6 @@ Megapixels                      : 22.1
 
 </details>
 
-<a href="MoarBeach.jpg"><img alt="MoarBeach.jpg" src="MoarBeach.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : MoarBeach.jpg
-Directory                       : .
-File Size                       : 3.1 MB
-File Modification Date/Time     : 2023:04:12 00:33:12+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:12+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 1
-Y Resolution                    : 1
-Image Width                     : 4896
-Image Height                    : 3264
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4896x3264
-Megapixels                      : 16.0
-```
-
-</details>
-
 <a href="out2.png"><img alt="out2.png" src="out2.png"></a>
 
 <details>
@@ -333,13 +333,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : out2.png
 Directory                       : .
-File Size                       : 6.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:48+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 5.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -392,7 +392,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -433,13 +433,13 @@ Thumbnail Image                 : (Binary data 10737 bytes, use -b option to ext
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sander-s-Wh6h4FIv6YU-unsplash.jpg
 Directory                       : .
-File Size                       : 3.7 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 3.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -493,13 +493,13 @@ Megapixels                      : 20.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : thor-alvis-mw3jM8t4BO8-unsplash.jpg
 Directory                       : .
-File Size                       : 4.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 4.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -553,13 +553,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : undefined - Imgur(7).jpg
 Directory                       : .
-File Size                       : 2.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 1993 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -583,13 +583,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-0q8zxq.jpg
 Directory                       : .
-File Size                       : 515 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 503 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -618,13 +618,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-1j7d2w.jpg
 Directory                       : .
-File Size                       : 2.5 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 2.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -691,13 +691,13 @@ Megapixels                      : 22.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-399vk9.jpg
 Directory                       : .
-File Size                       : 707 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 691 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -726,13 +726,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-3ko7p9.jpg
 Directory                       : .
-File Size                       : 870 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 849 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -761,13 +761,13 @@ Megapixels                      : 2.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-4oxkwp.jpg
 Directory                       : .
-File Size                       : 486 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 475 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -796,13 +796,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-5d6v85.jpg
 Directory                       : .
-File Size                       : 329 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 321 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -915,14 +915,14 @@ Perspective Aspect              : 0
 Perspective Horizontal          : 0
 Perspective Rotate              : 0.0
 Perspective Scale               : 100
-Perspective Upright             : Off
+Perspective Upright             : 0
 Perspective Vertical            : 0
 Post Crop Vignette Amount       : -19
 Post Crop Vignette Feather      : 50
 Post Crop Vignette Highlight Contrast: 0
 Post Crop Vignette Midpoint     : 50
 Post Crop Vignette Roundness    : 0
-Post Crop Vignette Style        : Highlight Priority
+Post Crop Vignette Style        : 1
 Process Version                 : 6.7
 Red Hue                         : 0
 Red Saturation                  : 0
@@ -1007,7 +1007,7 @@ Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extr
 Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1041,13 +1041,13 @@ Lens ID                         : 26.3mm f/2.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-6q69oq.jpg
 Directory                       : .
-File Size                       : 1687 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:49+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 1648 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1091,13 +1091,13 @@ Thumbnail Image                 : (Binary data 11550 bytes, use -b option to ext
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-d5me1j.jpg
 Directory                       : .
-File Size                       : 3.7 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 3.6 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1133,6 +1133,7 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CC 2017
 Photoshop Quality               : 9
 Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01
 Creator Tool                    : Adobe Photoshop CC 2017 (Macintosh)
 Create Date                     : 2017:06:25 01:58:36-06:00
@@ -1212,13 +1213,13 @@ Thumbnail Image                 : (Binary data 4171 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-k915d6.jpg
 Directory                       : .
-File Size                       : 1856 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 1812 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1247,13 +1248,13 @@ Megapixels                      : 9.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-mplpzm.jpg
 Directory                       : .
-File Size                       : 475 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 464 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1282,13 +1283,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-p2e113.jpg
 Directory                       : .
-File Size                       : 1018 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 994 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1350,13 +1351,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-pkjxep.jpg
 Directory                       : .
-File Size                       : 1587 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 1550 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1425,13 +1426,13 @@ Megapixels                      : 2.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wave.jpg
 Directory                       : .
-File Size                       : 864 kB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 843 KiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1463,7 +1464,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06

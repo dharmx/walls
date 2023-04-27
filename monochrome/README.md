@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1H.jpg
 Directory                       : .
-File Size                       : 1734 kB
-File Modification Date/Time     : 2023:03:03 11:50:59+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:03:04 15:06:06+05:30
+File Size                       : 1694 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -88,6 +88,7 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS6
 Photoshop Quality               : 12
 Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
 Creator Tool                    : Adobe Photoshop Lightroom 3.6 (Windows)
 Metadata Date                   : 2013:10:24 15:35:28-04:00
@@ -242,13 +243,13 @@ Lens ID                         : E 19mm F2.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1jznxzg7jaw81.jpg
 Directory                       : .
-File Size                       : 307 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 300 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -277,13 +278,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 2 - DEl93OU-dark.jpg
 Directory                       : .
-File Size                       : 313 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 305 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -326,7 +327,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -352,13 +353,13 @@ Thumbnail Image                 : (Binary data 1721 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 2 - DEl93OU.jpg
 Directory                       : .
-File Size                       : 166 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 162 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -382,13 +383,13 @@ Megapixels                      : 2.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 94SjZ0A.jpeg
 Directory                       : .
-File Size                       : 1101 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1075 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -448,318 +449,6 @@ Megapixels                      : 5.2
 
 </details>
 
-<a href="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"><img alt="adrian-regeci-LR5-H-gLAhE-unsplash.jpg" src="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : adrian-regeci-LR5-H-gLAhE-unsplash.jpg
-Directory                       : .
-File Size                       : 495 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4015
-Image Height                    : 6020
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4015x6020
-Megapixels                      : 24.2
-```
-
-</details>
-
-<a href="ales-krivec-3sBnJqI8LXo-unsplash.jpg"><img alt="ales-krivec-3sBnJqI8LXo-unsplash.jpg" src="ales-krivec-3sBnJqI8LXo-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : ales-krivec-3sBnJqI8LXo-unsplash.jpg
-Directory                       : .
-File Size                       : 692 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4000
-Image Height                    : 2261
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4000x2261
-Megapixels                      : 9.0
-```
-
-</details>
-
-<a href="black_and_white_hill_julia_craice.jpg"><img alt="black_and_white_hill_julia_craice.jpg" src="black_and_white_hill_julia_craice.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : black_and_white_hill_julia_craice.jpg
-Directory                       : .
-File Size                       : 1192 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Exif Byte Order                 : Big-endian (Motorola, MM)
-X Resolution                    : 72
-Y Resolution                    : 72
-Resolution Unit                 : inches
-Artist                          : Julia Craice
-Y Cb Cr Positioning             : Centered
-Image Width                     : 6000
-Image Height                    : 4000
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 6000x4000
-Megapixels                      : 24.0
-```
-
-</details>
-
-<a href="blake-verdoorn-NXciM5wByZg-unsplash.jpg"><img alt="blake-verdoorn-NXciM5wByZg-unsplash.jpg" src="blake-verdoorn-NXciM5wByZg-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : blake-verdoorn-NXciM5wByZg-unsplash.jpg
-Directory                       : .
-File Size                       : 424 kB
-File Modification Date/Time     : 2023:03:13 22:44:56+05:30
-File Access Date/Time           : 2023:04:13 23:48:36+05:30
-File Inode Change Date/Time     : 2023:03:13 23:07:42+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4942
-Image Height                    : 2780
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4942x2780
-Megapixels                      : 13.7
-```
-
-</details>
-
-<a href="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"><img alt="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg" src="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg
-Directory                       : .
-File Size                       : 6.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:37+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Exif Byte Order                 : Little-endian (Intel, II)
-Orientation                     : Horizontal (normal)
-X Resolution                    : 72
-Y Resolution                    : 72
-Resolution Unit                 : inches
-Software                        : GIMP 2.10.32
-Modify Date                     : 2022:11:14 09:25:19
-Color Space                     : sRGB
-Subfile Type                    : Reduced-resolution image
-Compression                     : JPEG (old-style)
-Photometric Interpretation      : YCbCr
-Samples Per Pixel               : 3
-Thumbnail Offset                : 316
-Thumbnail Length                : 6307
-XMP Toolkit                     : XMP Core 4.4.0-Exiv2
-Document ID                     : gimp:docid:gimp:2b0f5cc7-4979-4502-bd4e-f449a8fb91ae
-Instance ID                     : xmp.iid:a76f6dea-0572-4a15-8e4f-0443930e4a19
-Original Document ID            : xmp.did:dd647b22-88c9-4c5b-966d-dee450ef0ff2
-Format                          : image/jpeg
-Api                             : 2.0
-Platform                        : Linux
-Time Stamp                      : 1668398122921561
-Version                         : 2.10.32
-Creator Tool                    : GIMP 2.10
-Metadata Date                   : 2022:11:14T09:25:19+05:30
-History Action                  : saved
-History Changed                 : /
-History Instance ID             : xmp.iid:e08a4ac8-e709-4c47-a821-cb3e4ef91cbe
-History Software Agent          : Gimp 2.10 (Linux)
-History When                    : 2022:11:14 09:25:22+05:30
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.4.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:11:14 03:51:59
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Image Width                     : 5184
-Image Height                    : 3452
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 5184x3452
-Megapixels                      : 17.9
-Thumbnail Image                 : (Binary data 6307 bytes, use -b option to extract)
-```
-
-</details>
-
 <a href="D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg"><img alt="D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg" src="D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg"></a>
 
 <details>
@@ -767,13 +456,13 @@ Thumbnail Image                 : (Binary data 6307 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg
 Directory                       : .
-File Size                       : 8.5 MB
-File Modification Date/Time     : 2023:03:03 11:49:58+05:30
-File Access Date/Time           : 2023:04:13 23:48:37+05:30
-File Inode Change Date/Time     : 2023:03:04 15:06:06+05:30
+File Size                       : 8.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -909,6 +598,385 @@ Lens ID                         : Canon EF 35mm f/1.4L USM
 
 </details>
 
+<a href="MountainDark.jpg"><img alt="MountainDark.jpg" src="MountainDark.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : MountainDark.jpg
+Directory                       : .
+File Size                       : 367 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2021:07:06 21:11:04
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"><img alt="adrian-regeci-LR5-H-gLAhE-unsplash.jpg" src="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : adrian-regeci-LR5-H-gLAhE-unsplash.jpg
+Directory                       : .
+File Size                       : 483 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4015
+Image Height                    : 6020
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4015x6020
+Megapixels                      : 24.2
+```
+
+</details>
+
+<a href="ales-krivec-3sBnJqI8LXo-unsplash.jpg"><img alt="ales-krivec-3sBnJqI8LXo-unsplash.jpg" src="ales-krivec-3sBnJqI8LXo-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : ales-krivec-3sBnJqI8LXo-unsplash.jpg
+Directory                       : .
+File Size                       : 676 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4000
+Image Height                    : 2261
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4000x2261
+Megapixels                      : 9.0
+```
+
+</details>
+
+<a href="black_and_white_hill_julia_craice.jpg"><img alt="black_and_white_hill_julia_craice.jpg" src="black_and_white_hill_julia_craice.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : black_and_white_hill_julia_craice.jpg
+Directory                       : .
+File Size                       : 1164 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Artist                          : Julia Craice
+Y Cb Cr Positioning             : Centered
+Image Width                     : 6000
+Image Height                    : 4000
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 6000x4000
+Megapixels                      : 24.0
+```
+
+</details>
+
+<a href="blake-verdoorn-NXciM5wByZg-unsplash.jpg"><img alt="blake-verdoorn-NXciM5wByZg-unsplash.jpg" src="blake-verdoorn-NXciM5wByZg-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : blake-verdoorn-NXciM5wByZg-unsplash.jpg
+Directory                       : .
+File Size                       : 415 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4942
+Image Height                    : 2780
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4942x2780
+Megapixels                      : 13.7
+```
+
+</details>
+
+<a href="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"><img alt="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg" src="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg
+Directory                       : .
+File Size                       : 5.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Little-endian (Intel, II)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : GIMP 2.10.32
+Modify Date                     : 2022:11:14 09:25:19
+Color Space                     : sRGB
+Subfile Type                    : Reduced-resolution image
+Compression                     : JPEG (old-style)
+Photometric Interpretation      : YCbCr
+Samples Per Pixel               : 3
+Thumbnail Offset                : 316
+Thumbnail Length                : 6307
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Document ID                     : gimp:docid:gimp:2b0f5cc7-4979-4502-bd4e-f449a8fb91ae
+Instance ID                     : xmp.iid:a76f6dea-0572-4a15-8e4f-0443930e4a19
+Original Document ID            : xmp.did:dd647b22-88c9-4c5b-966d-dee450ef0ff2
+Format                          : image/jpeg
+Api                             : 2.0
+Platform                        : Linux
+Time Stamp                      : 1668398122921561
+Version                         : 2.10.32
+Creator Tool                    : GIMP 2.10
+Metadata Date                   : 2022:11:14T09:25:19+05:30
+History Action                  : saved
+History Changed                 : /
+History Instance ID             : xmp.iid:e08a4ac8-e709-4c47-a821-cb3e4ef91cbe
+History Software Agent          : Gimp 2.10 (Linux)
+History When                    : 2022:11:14 09:25:22+05:30
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.4.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:11:14 03:51:59
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Image Width                     : 5184
+Image Height                    : 3452
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 5184x3452
+Megapixels                      : 17.9
+Thumbnail Image                 : (Binary data 6307 bytes, use -b option to extract)
+```
+
+</details>
+
 <a href="denny-muller-zgrakjjOfGk-unsplash.jpg"><img alt="denny-muller-zgrakjjOfGk-unsplash.jpg" src="denny-muller-zgrakjjOfGk-unsplash.jpg"></a>
 
 <details>
@@ -916,13 +984,13 @@ Lens ID                         : Canon EF 35mm f/1.4L USM
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : denny-muller-zgrakjjOfGk-unsplash.jpg
 Directory                       : .
-File Size                       : 1917 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:37+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1872 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -976,13 +1044,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : gyula-zsambok-9R-tgXDRsig-unsplash.jpg
 Directory                       : .
-File Size                       : 1240 kB
-File Modification Date/Time     : 2023:03:13 22:48:44+05:30
-File Access Date/Time           : 2023:04:13 23:48:37+05:30
-File Inode Change Date/Time     : 2023:03:13 23:07:42+05:30
+File Size                       : 1211 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1036,13 +1104,13 @@ Megapixels                      : 22.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : h9xl47mbld851.png
 Directory                       : .
-File Size                       : 13 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:37+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 13 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1083,13 +1151,13 @@ Megapixels                      : 9.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : harry-singh-qBaZ0nmS2zY-unsplash.jpg
 Directory                       : .
-File Size                       : 1448 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:38+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1414 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1143,13 +1211,13 @@ Megapixels                      : 20.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : jose-murillo-7x4dOkulU9E-unsplash.jpg
 Directory                       : .
-File Size                       : 4.1 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:38+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 4.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1203,13 +1271,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : klim-musalimov-5kjxC9SiwH8-unsplash.jpg
 Directory                       : .
-File Size                       : 1056 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:38+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1031 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1263,13 +1331,13 @@ Megapixels                      : 18.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : klim-musalimov-QvEG1o0YmsA-unsplash.jpg
 Directory                       : .
-File Size                       : 1833 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:38+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1790 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1323,13 +1391,13 @@ Megapixels                      : 20.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : lightblack.png
 Directory                       : .
-File Size                       : 5.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 5.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1369,7 +1437,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1393,13 +1461,13 @@ Megapixels                      : 1.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : marek-piwnicki-pRiUWB0YVeQ-unsplash.jpg
 Directory                       : .
-File Size                       : 2.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 2.3 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1453,13 +1521,13 @@ Megapixels                      : 18.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : monochrome-clouds.jpg
 Directory                       : .
-File Size                       : 2.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1970 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1523,13 +1591,13 @@ Megapixels                      : 16.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : monochrome-eye-character.png
 Directory                       : .
-File Size                       : 2.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 2.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1556,13 +1624,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : monochrome-mountain-cloud-moon.jpg
 Directory                       : .
-File Size                       : 147 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 143 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1587,13 +1655,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : monochrome-mountains-clouds.jpg
 Directory                       : .
-File Size                       : 730 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 713 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1654,73 +1722,6 @@ Megapixels                      : 2.3
 
 </details>
 
-<a href="MountainDark.jpg"><img alt="MountainDark.jpg" src="MountainDark.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : MountainDark.jpg
-Directory                       : .
-File Size                       : 376 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2021:07:06 21:11:04
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
 <a href="mountain.jpeg"><img alt="mountain.jpeg" src="mountain.jpeg"></a>
 
 <details>
@@ -1728,13 +1729,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : mountain.jpeg
 Directory                       : .
-File Size                       : 1417 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1384 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1758,13 +1759,13 @@ Megapixels                      : 8.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : museums-of-history-new-south-wales-PU40XfvlrEQ-unsplash.jpg
 Directory                       : .
-File Size                       : 2.9 MB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1792,13 +1793,13 @@ Megapixels                      : 21.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : nick-nice-gPm8h3DS1s4-unsplash.jpg
 Directory                       : .
-File Size                       : 1199 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:39+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1171 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1861,7 +1862,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1887,13 +1888,13 @@ Thumbnail Image                 : (Binary data 5736 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : nicolas-houdayer--gxb8dbTxPw-unsplash.jpg
 Directory                       : .
-File Size                       : 1782 kB
-File Modification Date/Time     : 2023:03:03 15:08:50+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:03:04 15:06:06+05:30
+File Size                       : 1741 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1947,13 +1948,13 @@ Megapixels                      : 20.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : nitin-mendekar-O4rpVAyAC3w-unsplash.jpg
 Directory                       : .
-File Size                       : 579 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 565 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2007,13 +2008,13 @@ Megapixels                      : 12.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pagmzD8.jpeg
 Directory                       : .
-File Size                       : 1167 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1139 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2037,13 +2038,13 @@ Megapixels                      : 12.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pier.jpeg
 Directory                       : .
-File Size                       : 2.6 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 2.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2094,7 +2095,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2119,13 +2120,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : time_passing_denis_lomme.jpg
 Directory                       : .
-File Size                       : 225 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 220 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2152,13 +2153,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tomasz-sroka-CewT9iFBcgE-unsplash.jpg
 Directory                       : .
-File Size                       : 278 kB
-File Modification Date/Time     : 2023:03:13 23:01:04+05:30
-File Access Date/Time           : 2023:04:13 23:48:40+05:30
-File Inode Change Date/Time     : 2023:03:13 23:06:59+05:30
+File Size                       : 272 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2212,13 +2213,13 @@ Megapixels                      : 43.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tqs1NJm - Imgur.png
 Directory                       : .
-File Size                       : 1182 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:41+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1154 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2266,13 +2267,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : undefined - Imgur(18).jpg
 Directory                       : .
-File Size                       : 793 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:41+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 774 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2335,13 +2336,13 @@ Megapixels                      : 5.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-3ke6ey.jpg
 Directory                       : .
-File Size                       : 1337 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:41+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1306 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2459,13 +2460,13 @@ Lens ID                         : 18.0-55.0mm f/3.5-5.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-5dlr78.jpg
 Directory                       : .
-File Size                       : 531 kB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:48:41+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 519 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2494,13 +2495,13 @@ Megapixels                      : 7.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallpaper.jpg
 Directory                       : .
-File Size                       : 677 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:48:41+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 662 KiB
+File Modification Date/Time     : 2023:04:27 08:49:49+00:00
+File Access Date/Time           : 2023:04:27 08:49:49+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

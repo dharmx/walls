@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1183004.jpg
 Directory                       : .
-File Size                       : 755 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:23+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 737 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -84,13 +84,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 17E63B95-CA3E-435D-9592-A23DAB2FEC61.jpg
 Directory                       : .
-File Size                       : 100 kB
-File Modification Date/Time     : 2023:01:18 21:01:49+05:30
-File Access Date/Time           : 2023:04:13 23:48:23+05:30
-File Inode Change Date/Time     : 2023:01:18 23:38:26+05:30
+File Size                       : 98 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -118,13 +118,13 @@ Megapixels                      : 0.290
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1920x1080-1.jpg
 Directory                       : .
-File Size                       : 127 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 124 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -157,13 +157,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1CzsXnD.jpeg
 Directory                       : .
-File Size                       : 1304 kB
-File Modification Date/Time     : 2023:01:12 14:42:44+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 1274 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -191,13 +191,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 280d9e329ee6f40ce28a43c9d823376a.jpg
 Directory                       : .
-File Size                       : 645 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 630 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -225,13 +225,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 582.png
 Directory                       : .
-File Size                       : 109 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 106 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -257,13 +257,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 609T0gn.jpeg
 Directory                       : .
-File Size                       : 5.2 MB
-File Modification Date/Time     : 2023:01:12 14:43:12+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 5.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -330,13 +330,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 68A19CE2-D02B-428A-836D-7E1DA16DED12.jpg
 Directory                       : .
-File Size                       : 18 kB
-File Modification Date/Time     : 2023:01:18 21:01:44+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:18 23:38:26+05:30
+File Size                       : 18 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -364,13 +364,13 @@ Megapixels                      : 0.200
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 6iJX5AY.jpeg
 Directory                       : .
-File Size                       : 4.3 MB
-File Modification Date/Time     : 2023:01:12 14:42:03+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 4.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -394,13 +394,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 89KhjAB.jpeg
 Directory                       : .
-File Size                       : 2.9 MB
-File Modification Date/Time     : 2023:01:12 14:42:06+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 2.8 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -463,13 +463,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 8oISuba.jpeg
 Directory                       : .
-File Size                       : 4.5 MB
-File Modification Date/Time     : 2023:01:12 14:42:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 4.3 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -536,13 +536,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : AVzR1ms.jpeg
 Directory                       : .
-File Size                       : 3.9 MB
-File Modification Date/Time     : 2023:01:12 14:42:16+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 3.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -592,143 +592,6 @@ Encoding Process                : Baseline DCT, Huffman coding
 Bits Per Sample                 : 8
 Color Components                : 3
 Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
-<a href="b1a81b6f8af0b41a9961ef4d815cfc28.jpg"><img alt="b1a81b6f8af0b41a9961ef4d815cfc28.jpg" src="b1a81b6f8af0b41a9961ef4d815cfc28.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : b1a81b6f8af0b41a9961ef4d815cfc28.jpg
-Directory                       : .
-File Size                       : 188 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 72
-Y Resolution                    : 72
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="blame.jpg"><img alt="blame.jpg" src="blame.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : blame.jpg
-Directory                       : .
-File Size                       : 2.5 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 1
-Y Resolution                    : 1
-Image Width                     : 2560
-Image Height                    : 1440
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 2560x1440
-Megapixels                      : 3.7
-```
-
-</details>
-
-<a href="caJoiwr.jpeg"><img alt="caJoiwr.jpeg" src="caJoiwr.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : caJoiwr.jpeg
-Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 14:42:09+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-Image Width                     : 3840
-Image Height                    : 2160
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
 Image Size                      : 3840x2160
 Megapixels                      : 8.3
 ```
@@ -742,13 +605,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : CMox3HF.jpeg
 Directory                       : .
-File Size                       : 3.0 MB
-File Modification Date/Time     : 2023:01:12 14:42:30+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 2.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -811,13 +674,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : DhQPRPQ.jpeg
 Directory                       : .
-File Size                       : 3.9 MB
-File Modification Date/Time     : 2023:01:12 14:42:33+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 3.8 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -880,13 +743,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : E9OtG-rXMAI5tf8.jpg
 Directory                       : .
-File Size                       : 911 kB
-File Modification Date/Time     : 2023:02:26 21:11:23+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:02:26 21:12:26+05:30
+File Size                       : 890 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -933,7 +796,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -975,13 +838,13 @@ Thumbnail Image                 : (Binary data 3530 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : Exm2Pxu.jpeg
 Directory                       : .
-File Size                       : 4.2 MB
-File Modification Date/Time     : 2023:01:12 14:43:09+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 4.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1048,13 +911,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : F3E344AA-ED43-403D-AC9B-5F6DD7F39E7A.jpg
 Directory                       : .
-File Size                       : 18 kB
-File Modification Date/Time     : 2023:01:18 21:01:47+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:18 23:38:26+05:30
+File Size                       : 17 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1075,6 +938,657 @@ Megapixels                      : 0.200
 
 </details>
 
+<a href="KVu887g.jpeg"><img alt="KVu887g.jpeg" src="KVu887g.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : KVu887g.jpeg
+Directory                       : .
+File Size                       : 4.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3840
+Image Height                    : 2160
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="Komi Wallpaper - Imgur.png"><img alt="Komi Wallpaper - Imgur.png" src="Komi Wallpaper - Imgur.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : Komi Wallpaper - Imgur.png
+Directory                       : .
+File Size                       : 1972 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 3840
+Image Height                    : 2160
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC profile
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:04:27 02:27:19
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Background Color                : 122 128 124
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="PicsArt_03-02-12.52.03.jpg"><img alt="PicsArt_03-02-12.52.03.jpg" src="PicsArt_03-02-12.52.03.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : PicsArt_03-02-12.52.03.jpg
+Directory                       : .
+File Size                       : 1094 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 2289
+Image Height                    : 2289
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2289x2289
+Megapixels                      : 5.2
+```
+
+</details>
+
+<a href="WgssQMe.jpeg"><img alt="WgssQMe.jpeg" src="WgssQMe.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : WgssQMe.jpeg
+Directory                       : .
+File Size                       : 3.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3840
+Image Height                    : 2160
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="Wzokulz.jpeg"><img alt="Wzokulz.jpeg" src="Wzokulz.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : Wzokulz.jpeg
+Directory                       : .
+File Size                       : 882 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3840
+Image Height                    : 2160
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="b1a81b6f8af0b41a9961ef4d815cfc28.jpg"><img alt="b1a81b6f8af0b41a9961ef4d815cfc28.jpg" src="b1a81b6f8af0b41a9961ef4d815cfc28.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : b1a81b6f8af0b41a9961ef4d815cfc28.jpg
+Directory                       : .
+File Size                       : 184 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="blame.jpg"><img alt="blame.jpg" src="blame.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : blame.jpg
+Directory                       : .
+File Size                       : 2.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 2560
+Image Height                    : 1440
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2560x1440
+Megapixels                      : 3.7
+```
+
+</details>
+
+<a href="caJoiwr.jpeg"><img alt="caJoiwr.jpeg" src="caJoiwr.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : caJoiwr.jpeg
+Directory                       : .
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Image Width                     : 3840
+Image Height                    : 2160
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="gYwiHRj.jpeg"><img alt="gYwiHRj.jpeg" src="gYwiHRj.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : gYwiHRj.jpeg
+Directory                       : .
+File Size                       : 1053 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 3840
+Image Height                    : 2160
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="guts-and-sky.jpg"><img alt="guts-and-sky.jpg" src="guts-and-sky.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : guts-and-sky.jpg
+Directory                       : .
+File Size                       : 877 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : 
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 0000:00:00 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Unknown ()
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : 
+Profile ID                      : 0
+Profile Description             : sRGB
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 40 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 40 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 40 bytes, use -b option to extract)
+Media White Point               : 0.9642 1 0.82491
+Profile Copyright               : Google Inc. 2016
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="guts.png"><img alt="guts.png" src="guts.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : guts.png
+Directory                       : .
+File Size                       : 1814 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC profile
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:09:22 14:07:15
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Background Color                : 255 255 255
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+Modify Date                     : 2022:09:22 14:24:59
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
 <a href="guts2.png"><img alt="guts2.png" src="guts2.png"></a>
 
 <details>
@@ -1082,13 +1596,13 @@ Megapixels                      : 0.200
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : guts2.png
 Directory                       : .
-File Size                       : 149 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 145 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1141,7 +1655,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1174,145 +1688,20 @@ Thumbnail Image                 : (Binary data 2761 bytes, use -b option to extr
 
 </details>
 
-<a href="guts-and-sky.jpg"><img alt="guts-and-sky.jpg" src="guts-and-sky.jpg"></a>
+<a href="iS21wPg.jpeg"><img alt="iS21wPg.jpeg" src="iS21wPg.jpeg"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
-File Name                       : guts-and-sky.jpg
+ExifTool Version Number         : 12.40
+File Name                       : iS21wPg.jpeg
 Directory                       : .
-File Size                       : 898 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : 
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 0000:00:00 00:00:00
-Profile File Signature          : acsp
-Primary Platform                : Unknown ()
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Media-Relative Colorimetric
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : 
-Profile ID                      : 0
-Profile Description             : sRGB
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 40 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 40 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 40 bytes, use -b option to extract)
-Media White Point               : 0.9642 1 0.82491
-Profile Copyright               : Google Inc. 2016
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="guts.png"><img alt="guts.png" src="guts.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : guts.png
-Directory                       : .
-File Size                       : 1857 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:09:22 14:07:15
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Background Color                : 255 255 255
-Pixels Per Unit X               : 2835
-Pixels Per Unit Y               : 2835
-Pixel Units                     : meters
-Modify Date                     : 2022:09:22 14:24:59
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="gYwiHRj.jpeg"><img alt="gYwiHRj.jpeg" src="gYwiHRj.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : gYwiHRj.jpeg
-Directory                       : .
-File Size                       : 1078 kB
-File Modification Date/Time     : 2023:01:12 14:43:16+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 4.6 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1379,13 +1768,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : imageedit_1_4452826165.jpg
 Directory                       : .
-File Size                       : 995 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 971 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1412,13 +1801,13 @@ Megapixels                      : 3.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : imageedit_2_4964105753.jpg
 Directory                       : .
-File Size                       : 2.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 2.2 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1439,79 +1828,6 @@ Megapixels                      : 3.7
 
 </details>
 
-<a href="iS21wPg.jpeg"><img alt="iS21wPg.jpeg" src="iS21wPg.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : iS21wPg.jpeg
-Directory                       : .
-File Size                       : 4.8 MB
-File Modification Date/Time     : 2023:01:12 14:42:26+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-DCT Encode Version              : 100
-APP14 Flags 0                   : [14]
-APP14 Flags 1                   : (none)
-Color Transform                 : YCbCr
-Image Width                     : 3840
-Image Height                    : 2160
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
 <a href="kaori.png"><img alt="kaori.png" src="kaori.png"></a>
 
 <details>
@@ -1519,13 +1835,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : kaori.png
 Directory                       : .
-File Size                       : 6.2 MB
-File Modification Date/Time     : 2023:02:01 20:18:30+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:02:02 09:48:12+05:30
+File Size                       : 5.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1543,72 +1859,6 @@ Megapixels                      : 10.2
 
 </details>
 
-<a href="Komi Wallpaper - Imgur.png"><img alt="Komi Wallpaper - Imgur.png" src="Komi Wallpaper - Imgur.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : Komi Wallpaper - Imgur.png
-Directory                       : .
-File Size                       : 2.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 3840
-Image Height                    : 2160
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:04:27 02:27:19
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Background Color                : 122 128 124
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
 <a href="kuudere.jpg"><img alt="kuudere.jpg" src="kuudere.jpg"></a>
 
 <details>
@@ -1616,13 +1866,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : kuudere.jpg
 Directory                       : .
-File Size                       : 645 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 630 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1643,79 +1893,6 @@ Megapixels                      : 2.1
 
 </details>
 
-<a href="KVu887g.jpeg"><img alt="KVu887g.jpeg" src="KVu887g.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : KVu887g.jpeg
-Directory                       : .
-File Size                       : 4.6 MB
-File Modification Date/Time     : 2023:01:12 14:42:37+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:31+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-DCT Encode Version              : 100
-APP14 Flags 0                   : [14]
-APP14 Flags 1                   : (none)
-Color Transform                 : YCbCr
-Image Width                     : 3840
-Image Height                    : 2160
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
 <a href="lEju3Oa.jpeg"><img alt="lEju3Oa.jpeg" src="lEju3Oa.jpeg"></a>
 
 <details>
@@ -1723,13 +1900,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : lEju3Oa.jpeg
 Directory                       : .
-File Size                       : 3.7 MB
-File Modification Date/Time     : 2023:01:12 14:43:06+05:30
-File Access Date/Time           : 2023:04:13 23:48:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 3.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1785,37 +1962,6 @@ Color Components                : 3
 Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
 Image Size                      : 3840x2160
 Megapixels                      : 8.3
-```
-
-</details>
-
-<a href="PicsArt_03-02-12.52.03.jpg"><img alt="PicsArt_03-02-12.52.03.jpg" src="PicsArt_03-02-12.52.03.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : PicsArt_03-02-12.52.03.jpg
-Directory                       : .
-File Size                       : 1120 kB
-File Modification Date/Time     : 2023:02:01 20:24:57+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:02:02 09:48:12+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Image Width                     : 2289
-Image Height                    : 2289
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 2289x2289
-Megapixels                      : 5.2
 ```
 
 </details>
@@ -1827,13 +1973,13 @@ Megapixels                      : 5.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : rGT0dFr.jpeg
 Directory                       : .
-File Size                       : 3.5 MB
-File Modification Date/Time     : 2023:01:12 14:42:12+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 3.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1896,13 +2042,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sBVaZSP.jpeg
 Directory                       : .
-File Size                       : 3.3 MB
-File Modification Date/Time     : 2023:01:12 14:42:49+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
+File Size                       : 3.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1965,13 +2111,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056634.jpeg
 Directory                       : .
-File Size                       : 116 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 113 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2034,7 +2180,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2060,13 +2206,13 @@ Thumbnail Image                 : (Binary data 1931 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056638.jpeg
 Directory                       : .
-File Size                       : 223 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 218 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2129,7 +2275,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2155,13 +2301,13 @@ Thumbnail Image                 : (Binary data 2357 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056641.jpeg
 Directory                       : .
-File Size                       : 289 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 282 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2224,7 +2370,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2250,13 +2396,13 @@ Thumbnail Image                 : (Binary data 2219 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056644.jpeg
 Directory                       : .
-File Size                       : 123 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 120 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2319,7 +2465,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2345,13 +2491,13 @@ Thumbnail Image                 : (Binary data 2037 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056645.jpeg
 Directory                       : .
-File Size                       : 107 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 105 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2414,7 +2560,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2440,13 +2586,13 @@ Thumbnail Image                 : (Binary data 2019 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056646.jpeg
 Directory                       : .
-File Size                       : 83 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:27+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 81 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2509,7 +2655,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2535,13 +2681,13 @@ Thumbnail Image                 : (Binary data 1756 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056649.jpeg
 Directory                       : .
-File Size                       : 128 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 125 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2604,7 +2750,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2630,13 +2776,13 @@ Thumbnail Image                 : (Binary data 2136 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056651.jpeg
 Directory                       : .
-File Size                       : 68 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 66 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2699,7 +2845,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2725,13 +2871,13 @@ Thumbnail Image                 : (Binary data 1972 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056652.jpeg
 Directory                       : .
-File Size                       : 158 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 154 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2794,7 +2940,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2820,13 +2966,13 @@ Thumbnail Image                 : (Binary data 1941 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056654.jpeg
 Directory                       : .
-File Size                       : 159 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 156 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2889,7 +3035,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2915,13 +3061,13 @@ Thumbnail Image                 : (Binary data 2146 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056656.jpeg
 Directory                       : .
-File Size                       : 323 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 316 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2984,7 +3130,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -3010,13 +3156,13 @@ Thumbnail Image                 : (Binary data 3220 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056660.jpeg
 Directory                       : .
-File Size                       : 221 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 215 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3079,7 +3225,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -3105,13 +3251,13 @@ Thumbnail Image                 : (Binary data 2443 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056664.jpeg
 Directory                       : .
-File Size                       : 241 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 236 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3174,7 +3320,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -3200,13 +3346,13 @@ Thumbnail Image                 : (Binary data 2693 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056667.jpeg
 Directory                       : .
-File Size                       : 157 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 153 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3269,7 +3415,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -3295,13 +3441,13 @@ Thumbnail Image                 : (Binary data 2487 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : uwp3056684.jpeg
 Directory                       : .
-File Size                       : 173 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:28+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 169 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3364,7 +3510,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -3383,79 +3529,6 @@ Thumbnail Image                 : (Binary data 2841 bytes, use -b option to extr
 
 </details>
 
-<a href="WgssQMe.jpeg"><img alt="WgssQMe.jpeg" src="WgssQMe.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : WgssQMe.jpeg
-Directory                       : .
-File Size                       : 3.9 MB
-File Modification Date/Time     : 2023:01:12 14:43:00+05:30
-File Access Date/Time           : 2023:04:13 23:48:29+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-DCT Encode Version              : 100
-APP14 Flags 0                   : [14]
-APP14 Flags 1                   : (none)
-Color Transform                 : YCbCr
-Image Width                     : 3840
-Image Height                    : 2160
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
 <a href="wp9263660-manga-black-and-white-wallpapers.jpg"><img alt="wp9263660-manga-black-and-white-wallpapers.jpg" src="wp9263660-manga-black-and-white-wallpapers.jpg"></a>
 
 <details>
@@ -3463,13 +3536,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wp9263660-manga-black-and-white-wallpapers.jpg
 Directory                       : .
-File Size                       : 469 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:29+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 458 KiB
+File Modification Date/Time     : 2023:04:27 08:49:48+00:00
+File Access Date/Time           : 2023:04:27 08:49:48+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3485,79 +3558,6 @@ Bits Per Sample                 : 8
 Color Components                : 1
 Image Size                      : 1700x1116
 Megapixels                      : 1.9
-```
-
-</details>
-
-<a href="Wzokulz.jpeg"><img alt="Wzokulz.jpeg" src="Wzokulz.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : Wzokulz.jpeg
-Directory                       : .
-File Size                       : 903 kB
-File Modification Date/Time     : 2023:01:12 14:42:20+05:30
-File Access Date/Time           : 2023:04:13 23:48:29+05:30
-File Inode Change Date/Time     : 2023:01:12 17:22:57+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Profile CMM Type                : Linotronic
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 1998:02:09 06:49:00
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Hewlett-Packard
-Device Model                    : sRGB
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Hewlett-Packard
-Profile ID                      : 0
-Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
-Profile Description             : sRGB IEC61966-2.1
-Media White Point               : 0.95045 1 1.08905
-Media Black Point               : 0 0 0
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Device Mfg Desc                 : IEC http://www.iec.ch
-Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
-Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
-Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
-Viewing Cond Surround           : 3.92889 4.07439 3.36179
-Viewing Cond Illuminant Type    : D50
-Luminance                       : 76.03647 80 87.12462
-Measurement Observer            : CIE 1931
-Measurement Backing             : 0 0 0
-Measurement Geometry            : Unknown
-Measurement Flare               : 0.999%
-Measurement Illuminant          : D65
-Technology                      : Cathode Ray Tube Display
-Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
-DCT Encode Version              : 100
-APP14 Flags 0                   : [14]
-APP14 Flags 1                   : (none)
-Color Transform                 : YCbCr
-Image Width                     : 3840
-Image Height                    : 2160
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
 ```
 
 </details>

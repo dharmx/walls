@@ -1,5 +1,62 @@
 # OUTRUN
 
+<a href="RDT_20210831_2145462921973183259472712.jpg"><img alt="RDT_20210831_2145462921973183259472712.jpg" src="RDT_20210831_2145462921973183259472712.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : RDT_20210831_2145462921973183259472712.jpg
+Directory                       : .
+File Size                       : 841 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 4240
+Image Height                    : 2124
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 4240x2124
+Megapixels                      : 9.0
+```
+
+</details>
+
 <a href="car.png"><img alt="car.png" src="car.png"></a>
 
 <details>
@@ -7,13 +64,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : car.png
 Directory                       : .
-File Size                       : 9.8 MB
-File Modification Date/Time     : 2023:01:22 13:39:05+05:30
-File Access Date/Time           : 2023:04:13 23:49:13+05:30
-File Inode Change Date/Time     : 2023:01:23 16:55:11+05:30
+File Size                       : 9.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -40,13 +97,13 @@ Megapixels                      : 20.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : cyberpunk-g.png
 Directory                       : .
-File Size                       : 60 kB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 58 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -99,7 +156,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -139,13 +196,13 @@ Thumbnail Image                 : (Binary data 3330 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ev-U-8pVp66LOQ-unsplash.jpg
 Directory                       : .
-File Size                       : 382 kB
-File Modification Date/Time     : 2023:03:13 22:57:15+05:30
-File Access Date/Time           : 2023:04:13 23:49:14+05:30
-File Inode Change Date/Time     : 2023:03:13 23:08:15+05:30
+File Size                       : 373 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -199,13 +256,13 @@ Megapixels                      : 8.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : feet-on-the-dashboard.png
 Directory                       : .
-File Size                       : 2.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 2.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -230,13 +287,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : iolcyn09ont81.jpg
 Directory                       : .
-File Size                       : 1968 kB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 1922 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -266,13 +323,13 @@ Megapixels                      : 5.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : neon.png
 Directory                       : .
-File Size                       : 2.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 2.3 MiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -312,7 +369,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -331,13 +388,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : od_wallhaven-j5lk95.jpg
 Directory                       : .
-File Size                       : 395 kB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:15+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 385 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -400,7 +457,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -426,13 +483,13 @@ Thumbnail Image                 : (Binary data 3408 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : outrun-skyscape.png
 Directory                       : .
-File Size                       : 2.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:15+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 1984 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -485,7 +542,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -519,63 +576,6 @@ Thumbnail Image                 : (Binary data 3792 bytes, use -b option to extr
 
 </details>
 
-<a href="RDT_20210831_2145462921973183259472712.jpg"><img alt="RDT_20210831_2145462921973183259472712.jpg" src="RDT_20210831_2145462921973183259472712.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : RDT_20210831_2145462921973183259472712.jpg
-Directory                       : .
-File Size                       : 861 kB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:15+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : FB
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 4240
-Image Height                    : 2124
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 4240x2124
-Megapixels                      : 9.0
-```
-
-</details>
-
 <a href="r.jpg"><img alt="r.jpg" src="r.jpg"></a>
 
 <details>
@@ -583,13 +583,13 @@ Megapixels                      : 9.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : r.jpg
 Directory                       : .
-File Size                       : 304 kB
-File Modification Date/Time     : 2023:01:12 17:21:55+05:30
-File Access Date/Time           : 2023:04:13 23:49:15+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
+File Size                       : 296 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -614,13 +614,13 @@ Megapixels                      : 8.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-k9oyrm.jpg
 Directory                       : .
-File Size                       : 1258 kB
-File Modification Date/Time     : 2023:01:18 10:02:38+05:30
-File Access Date/Time           : 2023:04:13 23:49:15+05:30
-File Inode Change Date/Time     : 2023:01:18 11:44:46+05:30
+File Size                       : 1229 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

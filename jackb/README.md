@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-287xgm.jpg
 Directory                       : .
-File Size                       : 304 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 297 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -72,13 +72,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-3zm8od.jpg
 Directory                       : .
-File Size                       : 322 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 314 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -137,13 +137,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-57eql1.jpg
 Directory                       : .
-File Size                       : 370 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 361 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -202,13 +202,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-6ox1ql.jpg
 Directory                       : .
-File Size                       : 788 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 770 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -249,6 +249,7 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop 2020
 Photoshop Quality               : 12
 Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.6-c148 79.164036, 2019/08/13-01:06:57
 Document ID                     : EB650C8FEB12B5CBC716020D6E55CE76
 Instance ID                     : xmp.iid:6ff42435-11ac-4fd4-b418-51a8a153ddea
@@ -313,13 +314,13 @@ Thumbnail Image                 : (Binary data 1174 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-g7rkj7.jpg
 Directory                       : .
-File Size                       : 350 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 342 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -378,13 +379,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-j32j85.jpg
 Directory                       : .
-File Size                       : 383 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 375 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -443,13 +444,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-l3loqq.jpg
 Directory                       : .
-File Size                       : 342 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 334 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -508,13 +509,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-o3omd5.jpg
 Directory                       : .
-File Size                       : 579 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 566 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -573,13 +574,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-v981x8.jpg
 Directory                       : .
-File Size                       : 339 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 331 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -638,13 +639,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-y81lj7.jpg
 Directory                       : .
-File Size                       : 407 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 398 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 22.jpg
 Directory                       : .
-File Size                       : 391 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 382 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -38,13 +38,13 @@ Megapixels                      : 4.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : fre-sonneveld-K8iHtzoIKQ4-unsplash.jpg
 Directory                       : .
-File Size                       : 1088 kB
-File Modification Date/Time     : 2023:03:03 15:03:34+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:03:04 15:09:31+05:30
+File Size                       : 1062 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -98,13 +98,13 @@ Megapixels                      : 14.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : holy-arch.png
 Directory                       : .
-File Size                       : 71 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 69 KiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -130,13 +130,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ketqb6blpnt81.jpg
 Directory                       : .
-File Size                       : 3.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 3.0 MiB
+File Modification Date/Time     : 2023:04:27 08:49:52+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -166,13 +166,13 @@ Megapixels                      : 3.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : knights-of-sidonia.png
 Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:52+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -198,13 +198,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : linux-kernel-realistic-heart-l73x95gla1ri0h1o.jpg
 Directory                       : .
-File Size                       : 119 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 117 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -228,13 +228,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : lli0c12vlvd91.png
 Directory                       : .
-File Size                       : 3.1 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 2.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -259,13 +259,13 @@ Megapixels                      : 5.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : mm7prhmrq3681.jpg
 Directory                       : .
-File Size                       : 916 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 894 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -293,13 +293,13 @@ Megapixels                      : 14.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : r2uhg0vjl2t81.png
 Directory                       : .
-File Size                       : 1456 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 1422 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -364,13 +364,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : solarized-dark-sudo-linux-logo-7b9qvch5c8csms2r.jpg
 Directory                       : .
-File Size                       : 86 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 84 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -394,13 +394,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : solarized-dragon-kali-linux-hd-r2jtcz2ut8fs8eim.jpg
 Directory                       : .
-File Size                       : 81 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:22+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 79 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -424,13 +424,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : solarized-planet.jpg
 Directory                       : .
-File Size                       : 763 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:23+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 745 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -481,7 +481,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -506,13 +506,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : vintage-casette.png
 Directory                       : .
-File Size                       : 12 MB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:23+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 11 MiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -538,13 +538,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-ymdvjg.png
 Directory                       : .
-File Size                       : 425 kB
-File Modification Date/Time     : 2023:01:12 17:21:53+05:30
-File Access Date/Time           : 2023:04:13 23:49:23+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
+File Size                       : 415 KiB
+File Modification Date/Time     : 2023:04:27 08:49:53+00:00
+File Access Date/Time           : 2023:04:27 08:49:53+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

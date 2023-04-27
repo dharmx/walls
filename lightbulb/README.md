@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : black-pendent-lamps.jpg
 Directory                       : .
-File Size                       : 1860 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1817 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -38,13 +38,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : bradley-ziffer-IAyLd1AYxdA-unsplash.jpg
 Directory                       : .
-File Size                       : 1119 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1093 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -98,13 +98,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : colby-sandells-DffzgXyE4cY-unsplash.jpg
 Directory                       : .
-File Size                       : 1071 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1046 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -158,13 +158,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : david-pennington-U5xmOrV2yzk-unsplash.jpg
 Directory                       : .
-File Size                       : 3.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 2.9 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -218,13 +218,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg
 Directory                       : .
-File Size                       : 5.7 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 5.5 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -278,13 +278,13 @@ Megapixels                      : 36.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : evenezer-marak--i66lJiejN4-unsplash.jpg
 Directory                       : .
-File Size                       : 2.4 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 2.3 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -338,13 +338,13 @@ Megapixels                      : 19.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : guillaume-bourdages-U2KhQpnPukk-unsplash.jpg
 Directory                       : .
-File Size                       : 2.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 2.1 MiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -398,13 +398,13 @@ Megapixels                      : 18.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : james-jadotte-o0UJBuZTKD8-unsplash.jpg
 Directory                       : .
-File Size                       : 865 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 844 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -458,13 +458,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : let-s-go-together-AULwJzIhDRQ-unsplash.jpg
 Directory                       : .
-File Size                       : 1418 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1385 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -518,13 +518,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : monisha-selvakumar-ms7Yu4dz2uI-unsplash.jpg
 Directory                       : .
-File Size                       : 970 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 947 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -578,13 +578,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ruthson-zimmerman-MAawiPJCQN8-unsplash.jpg
 Directory                       : .
-File Size                       : 662 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 647 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -638,13 +638,13 @@ Megapixels                      : 17.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : zach-lucero-qAriosuB-lY-unsplash.jpg
 Directory                       : .
-File Size                       : 409 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 400 KiB
+File Modification Date/Time     : 2023:04:27 08:49:47+00:00
+File Access Date/Time           : 2023:04:27 08:49:47+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:47+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

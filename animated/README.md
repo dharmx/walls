@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : city.gif
 Directory                       : .
-File Size                       : 2.5 MB
-File Modification Date/Time     : 2023:01:12 17:21:48+05:30
-File Access Date/Time           : 2023:04:13 23:46:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:48+05:30
+File Size                       : 2.4 MiB
+File Modification Date/Time     : 2023:04:27 08:49:42+00:00
+File Access Date/Time           : 2023:04:27 08:49:42+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:42+00:00
 File Permissions                : -rw-r--r--
 File Type                       : GIF
 File Type Extension             : gif

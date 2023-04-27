@@ -1,5 +1,36 @@
 # DEVICONS
 
+<a href="README.md.png"><img alt="README.md.png" src="README.md.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : README.md.png
+Directory                       : .
+File Size                       : 15 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 512
+Image Height                    : 512
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 512x512
+Megapixels                      : 0.262
+```
+
+</details>
+
 <a href="neovim.png"><img alt="neovim.png" src="neovim.png"></a>
 
 <details>
@@ -7,13 +38,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : neovim.png
 Directory                       : .
-File Size                       : 86 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 84 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -38,13 +69,13 @@ Megapixels                      : 0.262
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : nvimtree.png
 Directory                       : .
-File Size                       : 20 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 20 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -69,44 +100,13 @@ Megapixels                      : 0.262
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : packer.png
 Directory                       : .
-File Size                       : 16 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:50+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 512
-Image Height                    : 512
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 512x512
-Megapixels                      : 0.262
-```
-
-</details>
-
-<a href="README.md.png"><img alt="README.md.png" src="README.md.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : README.md.png
-Directory                       : .
-File Size                       : 16 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 16 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -131,13 +131,13 @@ Megapixels                      : 0.262
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : telescope.png
 Directory                       : .
-File Size                       : 27 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 26 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -162,13 +162,13 @@ Megapixels                      : 0.262
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : yuck.png
 Directory                       : .
-File Size                       : 1051 kB
-File Modification Date/Time     : 2023:01:12 17:21:51+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
+File Size                       : 1027 KiB
+File Modification Date/Time     : 2023:04:27 08:49:45+00:00
+File Access Date/Time           : 2023:04:27 08:49:45+00:00
+File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -208,7 +208,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
