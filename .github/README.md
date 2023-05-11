@@ -34,7 +34,7 @@ This README is auto-generated. You may view its source code [here](./generate_re
 
 ## ARCHITECTURE
 
-<a href="../architecture/15.png"><img alt="architecture/15.png" src="../architecture/15.png"></a><br/><br/><a href="../architecture/1657806675179.jpg"><img alt="architecture/1657806675179.jpg" src="../architecture/1657806675179.jpg"></a><br/><br/><a href="../architecture/175fe5597b12c33ba7c9864404772bbd.jpg"><img alt="architecture/175fe5597b12c33ba7c9864404772bbd.jpg" src="../architecture/175fe5597b12c33ba7c9864404772bbd.jpg"></a><br/><br/>
+<a href="../architecture/15.png"><img alt="architecture/15.png" src="../architecture/15.png"></a><br/><br/><a href="../architecture/1574706824146.jpg"><img alt="architecture/1574706824146.jpg" src="../architecture/1574706824146.jpg"></a><br/><br/><a href="../architecture/1657806675179.jpg"><img alt="architecture/1657806675179.jpg" src="../architecture/1657806675179.jpg"></a><br/><br/>
 
 ![See more.](../architecture/README.md)
 
@@ -214,7 +214,7 @@ This README is auto-generated. You may view its source code [here](./generate_re
 
 ## RADIUM
 
-<a href="../radium/OD_house_night_sat.jpg"><img alt="radium/OD_house_night_sat.jpg" src="../radium/OD_house_night_sat.jpg"></a><br/><br/><a href="../radium/maki.png"><img alt="radium/maki.png" src="../radium/maki.png"></a><br/><br/><a href="../radium/output-1659944018.png"><img alt="radium/output-1659944018.png" src="../radium/output-1659944018.png"></a><br/><br/>
+<a href="../radium/OD_house_night_sat.jpg"><img alt="radium/OD_house_night_sat.jpg" src="../radium/OD_house_night_sat.jpg"></a><br/><br/><a href="../radium/brain.png"><img alt="radium/brain.png" src="../radium/brain.png"></a><br/><br/><a href="../radium/maki.png"><img alt="radium/maki.png" src="../radium/maki.png"></a><br/><br/>
 
 ![See more.](../radium/README.md)
 

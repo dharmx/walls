@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 1okwkjy3l3l71.png
 Directory                       : .
-File Size                       : 1127 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1101 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -38,13 +38,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 2paggfqi38aa1.webp
 Directory                       : .
-File Size                       : 1265 kB
-File Modification Date/Time     : 2023:01:12 14:38:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 1235 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -67,13 +67,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 3ckrn0p4n3l71.png
 Directory                       : .
-File Size                       : 1672 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1633 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -98,13 +98,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 3lnurbwbfwk71.png
 Directory                       : .
-File Size                       : 1415 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1382 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -130,13 +130,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 3x9iofas38aa1.webp
 Directory                       : .
-File Size                       : 609 kB
-File Modification Date/Time     : 2023:01:12 14:38:46+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 594 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -159,13 +159,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 4irtiy2f2uk71.png
 Directory                       : .
-File Size                       : 2.1 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:51+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.0 MiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -190,13 +190,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 4lge2mhk38aa1.webp
 Directory                       : .
-File Size                       : 908 kB
-File Modification Date/Time     : 2023:01:12 14:38:50+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 887 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -219,13 +219,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 59og5ec1qxg81.jpg
 Directory                       : .
-File Size                       : 303 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 296 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -279,13 +279,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 5fvdkmet39j71.png
 Directory                       : .
-File Size                       : 11 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 11 MiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -310,13 +310,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 5sbmcohm1uk71.png
 Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.7 MiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -341,13 +341,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 8d98wrhcwlp51.png
 Directory                       : .
-File Size                       : 909 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 888 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -376,13 +376,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 8w53nbu0o3l71.png
 Directory                       : .
-File Size                       : 1731 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1690 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -407,13 +407,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 97h72d081th81.jpg
 Directory                       : .
-File Size                       : 1904 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1859 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -467,13 +467,13 @@ Megapixels                      : 31.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 9d9duorkm3l71.png
 Directory                       : .
-File Size                       : 1349 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1317 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -498,13 +498,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : 9py055cffwk71.png
 Directory                       : .
-File Size                       : 1649 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:52+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1611 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -517,383 +517,6 @@ Compression                     : Deflate/Inflate
 Filter                          : Adaptive
 Interlace                       : Noninterlaced
 SRGB Rendering                  : Perceptual
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="a3beskyzmbr81.jpeg"><img alt="a3beskyzmbr81.jpeg" src="a3beskyzmbr81.jpeg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : a3beskyzmbr81.jpeg
-Directory                       : .
-File Size                       : 161 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="balloon.jpg"><img alt="balloon.jpg" src="balloon.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : balloon.jpg
-Directory                       : .
-File Size                       : 1660 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : None
-X Resolution                    : 1
-Y Resolution                    : 1
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="bbajwew11ge81.png"><img alt="bbajwew11ge81.png" src="bbajwew11ge81.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : bbajwew11ge81.png
-Directory                       : .
-File Size                       : 13 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 3840
-Image Height                    : 2160
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
-<a href="bmucoxvlewk71.png"><img alt="bmucoxvlewk71.png" src="bmucoxvlewk71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : bmucoxvlewk71.png
-Directory                       : .
-File Size                       : 1431 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-SRGB Rendering                  : Perceptual
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="dypuzktoewk71.png"><img alt="dypuzktoewk71.png" src="dypuzktoewk71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : dypuzktoewk71.png
-Directory                       : .
-File Size                       : 1221 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-SRGB Rendering                  : Perceptual
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="e55nh915ewk71.png"><img alt="e55nh915ewk71.png" src="e55nh915ewk71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : e55nh915ewk71.png
-Directory                       : .
-File Size                       : 1486 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-SRGB Rendering                  : Perceptual
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="fkaz52mvm3l71.png"><img alt="fkaz52mvm3l71.png" src="fkaz52mvm3l71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : fkaz52mvm3l71.png
-Directory                       : .
-File Size                       : 1127 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="fog-forest.png"><img alt="fog-forest.png" src="fog-forest.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : fog-forest.png
-Directory                       : .
-File Size                       : 868 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : Palette
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Palette                         : (Binary data 768 bytes, use -b option to extract)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="gpbgayv1gch81.jpg"><img alt="gpbgayv1gch81.jpg" src="gpbgayv1gch81.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : gpbgayv1gch81.jpg
-Directory                       : .
-File Size                       : 80 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : WEBP
-File Type Extension             : webp
-MIME Type                       : image/webp
-VP8 Version                     : 0 (bicubic reconstruction, normal loop)
-Image Width                     : 1920
-Horizontal Scale                : 0
-Image Height                    : 1080
-Vertical Scale                  : 0
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="hxqkrrgfm3l71.png"><img alt="hxqkrrgfm3l71.png" src="hxqkrrgfm3l71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : hxqkrrgfm3l71.png
-Directory                       : .
-File Size                       : 1188 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:53+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="ianlqrnwrij71.png"><img alt="ianlqrnwrij71.png" src="ianlqrnwrij71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : ianlqrnwrij71.png
-Directory                       : .
-File Size                       : 1236 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="iculr8pxn3l71.png"><img alt="iculr8pxn3l71.png" src="iculr8pxn3l71.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : iculr8pxn3l71.png
-Directory                       : .
-File Size                       : 1798 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
 Image Size                      : 1920x1080
 Megapixels                      : 2.1
 ```
@@ -907,13 +530,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : IMG_20221019_063833_394.jpg
 Directory                       : .
-File Size                       : 849 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 829 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -956,6 +579,383 @@ Megapixels                      : 8.3
 
 </details>
 
+<a href="a3beskyzmbr81.jpeg"><img alt="a3beskyzmbr81.jpeg" src="a3beskyzmbr81.jpeg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : a3beskyzmbr81.jpeg
+Directory                       : .
+File Size                       : 157 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="balloon.jpg"><img alt="balloon.jpg" src="balloon.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : balloon.jpg
+Directory                       : .
+File Size                       : 1621 KiB
+File Modification Date/Time     : 2023:05:11 14:52:36+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:36+00:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="bbajwew11ge81.png"><img alt="bbajwew11ge81.png" src="bbajwew11ge81.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : bbajwew11ge81.png
+Directory                       : .
+File Size                       : 12 MiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:36+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 3840
+Image Height                    : 2160
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
+```
+
+</details>
+
+<a href="bmucoxvlewk71.png"><img alt="bmucoxvlewk71.png" src="bmucoxvlewk71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : bmucoxvlewk71.png
+Directory                       : .
+File Size                       : 1397 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="dypuzktoewk71.png"><img alt="dypuzktoewk71.png" src="dypuzktoewk71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : dypuzktoewk71.png
+Directory                       : .
+File Size                       : 1193 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="e55nh915ewk71.png"><img alt="e55nh915ewk71.png" src="e55nh915ewk71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : e55nh915ewk71.png
+Directory                       : .
+File Size                       : 1452 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="fkaz52mvm3l71.png"><img alt="fkaz52mvm3l71.png" src="fkaz52mvm3l71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : fkaz52mvm3l71.png
+Directory                       : .
+File Size                       : 1101 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="fog-forest.png"><img alt="fog-forest.png" src="fog-forest.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : fog-forest.png
+Directory                       : .
+File Size                       : 848 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : Palette
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Palette                         : (Binary data 768 bytes, use -b option to extract)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="gpbgayv1gch81.jpg"><img alt="gpbgayv1gch81.jpg" src="gpbgayv1gch81.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : gpbgayv1gch81.jpg
+Directory                       : .
+File Size                       : 78 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : WEBP
+File Type Extension             : webp
+MIME Type                       : image/webp
+VP8 Version                     : 0 (bicubic reconstruction, normal loop)
+Image Width                     : 1920
+Horizontal Scale                : 0
+Image Height                    : 1080
+Vertical Scale                  : 0
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="hxqkrrgfm3l71.png"><img alt="hxqkrrgfm3l71.png" src="hxqkrrgfm3l71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : hxqkrrgfm3l71.png
+Directory                       : .
+File Size                       : 1160 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="ianlqrnwrij71.png"><img alt="ianlqrnwrij71.png" src="ianlqrnwrij71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : ianlqrnwrij71.png
+Directory                       : .
+File Size                       : 1207 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="iculr8pxn3l71.png"><img alt="iculr8pxn3l71.png" src="iculr8pxn3l71.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : iculr8pxn3l71.png
+Directory                       : .
+File Size                       : 1756 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
 <a href="jrvrsi5r38aa1.webp"><img alt="jrvrsi5r38aa1.webp" src="jrvrsi5r38aa1.webp"></a>
 
 <details>
@@ -963,13 +963,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : jrvrsi5r38aa1.webp
 Directory                       : .
-File Size                       : 1003 kB
-File Modification Date/Time     : 2023:01:12 14:38:42+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 980 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -992,13 +992,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : kuk9yf2on3l71.png
 Directory                       : .
-File Size                       : 2.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1992 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1023,13 +1023,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ll5spy1k38aa1.webp
 Directory                       : .
-File Size                       : 989 kB
-File Modification Date/Time     : 2023:01:12 14:39:09+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 965 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1052,13 +1052,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : mu4jlqq2fwk71.png
 Directory                       : .
-File Size                       : 1742 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1701 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1084,13 +1084,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : okk56hffewk71.png
 Directory                       : .
-File Size                       : 1379 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1346 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1116,13 +1116,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : qc6n30f7fwk71.png
 Directory                       : .
-File Size                       : 1836 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1793 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1148,13 +1148,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : qhlwynvsuak71.jpg
 Directory                       : .
-File Size                       : 130 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:54+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 127 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1221,13 +1221,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : qwxz3ieun3l71.png
 Directory                       : .
-File Size                       : 1085 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1060 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1252,13 +1252,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : r5ay5mpm38aa1.webp
 Directory                       : .
-File Size                       : 997 kB
-File Modification Date/Time     : 2023:01:12 14:38:27+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 974 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1281,13 +1281,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : rpkljnon38aa1.webp
 Directory                       : .
-File Size                       : 998 kB
-File Modification Date/Time     : 2023:01:12 14:38:30+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 974 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1310,13 +1310,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : s61f586j38aa1.webp
 Directory                       : .
-File Size                       : 958 kB
-File Modification Date/Time     : 2023:01:12 14:39:00+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 935 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1339,13 +1339,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sailing-calm-2560×1440.jpg
 Directory                       : .
-File Size                       : 96 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 94 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1373,13 +1373,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : starwars-new.png
 Directory                       : .
-File Size                       : 2.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.6 MiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1432,13 +1432,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : sunset-in-the-mountains-illustration_3840x2160_xtrafondos.png
 Directory                       : .
-File Size                       : 7.8 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:55+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 7.5 MiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1463,13 +1463,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : t5v1ltio38aa1.webp
 Directory                       : .
-File Size                       : 1023 kB
-File Modification Date/Time     : 2023:01:12 14:38:34+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 999 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1492,13 +1492,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tm49eqmqewk71.png
 Directory                       : .
-File Size                       : 823 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 804 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1524,13 +1524,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : unl50frfn8e81.png
 Directory                       : .
-File Size                       : 13 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 12 MiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1555,13 +1555,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : vm5sfidsewk71.png
 Directory                       : .
-File Size                       : 1245 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1216 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1587,13 +1587,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : vouvrx5p38aa1.webp
 Directory                       : .
-File Size                       : 938 kB
-File Modification Date/Time     : 2023:01:12 14:38:38+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 916 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1616,13 +1616,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-m96qky_1920x1080.png
 Directory                       : .
-File Size                       : 2.7 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.5 MiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1647,13 +1647,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wp_lawnmower.png
 Directory                       : .
-File Size                       : 549 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 536 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1683,13 +1683,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : x0zoaiwl38aa1.webp
 Directory                       : .
-File Size                       : 849 kB
-File Modification Date/Time     : 2023:01:12 14:38:23+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 829 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1712,13 +1712,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : x249vynj38aa1.webp
 Directory                       : .
-File Size                       : 1082 kB
-File Modification Date/Time     : 2023:01:12 14:39:06+05:30
-File Access Date/Time           : 2023:04:13 23:47:56+05:30
-File Inode Change Date/Time     : 2023:01:12 17:23:19+05:30
+File Size                       : 1056 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -1741,13 +1741,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : yang-shuo-uYHYGgvkz_Y-unsplash.jpg
 Directory                       : .
-File Size                       : 1396 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:47:57+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 1363 KiB
+File Modification Date/Time     : 2023:05:11 14:52:37+00:00
+File Access Date/Time           : 2023:05:11 14:52:37+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:37+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

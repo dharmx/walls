@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : clay-banks-0hG9jeO74-w-unsplash.jpg
 Directory                       : .
-File Size                       : 1177 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:17+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1149 KiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -67,13 +67,13 @@ Megapixels                      : 11.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : dark-wall-empty-room-with-plants-floor-3d-rendering.jpg
 Directory                       : .
-File Size                       : 4.0 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 3.8 MiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -116,13 +116,13 @@ Megapixels                      : 10.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg
 Directory                       : .
-File Size                       : 2.6 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 2.5 MiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -165,13 +165,13 @@ Megapixels                      : 16.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering.jpg
 Directory                       : .
-File Size                       : 9.6 MB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:18+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 9.2 MiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -336,7 +336,7 @@ Perspective Aspect              : 0
 Perspective Horizontal          : 0
 Perspective Rotate              : 0.0
 Perspective Scale               : 100
-Perspective Upright             : Off
+Perspective Upright             : 0
 Perspective Vertical            : 0
 Perspective X                   : 0.00
 Perspective Y                   : 0.00

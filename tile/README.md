@@ -1,5 +1,36 @@
 # TILE
 
+<a href="EWd8bh8U0AEoDya.png"><img alt="EWd8bh8U0AEoDya.png" src="EWd8bh8U0AEoDya.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : EWd8bh8U0AEoDya.png
+Directory                       : .
+File Size                       : 317 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 519
+Image Height                    : 545
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 519x545
+Megapixels                      : 0.283
+```
+
+</details>
+
 <a href="cHgvsvo - Imgur.png"><img alt="cHgvsvo - Imgur.png" src="cHgvsvo - Imgur.png"></a>
 
 <details>
@@ -7,13 +38,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : cHgvsvo - Imgur.png
 Directory                       : .
-File Size                       : 5.2 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 5.0 MiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -44,13 +75,13 @@ Megapixels                      : 10.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : dot1.png
 Directory                       : .
-File Size                       : 2.0 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:24+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2000 bytes
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -80,13 +111,13 @@ Megapixels                      : 0.040
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ep_naturalblack.webp
 Directory                       : .
-File Size                       : 184 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 180 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -99,37 +130,6 @@ Megapixels                      : 0.160
 
 </details>
 
-<a href="EWd8bh8U0AEoDya.png"><img alt="EWd8bh8U0AEoDya.png" src="EWd8bh8U0AEoDya.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : EWd8bh8U0AEoDya.png
-Directory                       : .
-File Size                       : 325 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 519
-Image Height                    : 545
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 519x545
-Megapixels                      : 0.283
-```
-
-</details>
-
 <a href="floppy-disk-minimalist-bn.jpg"><img alt="floppy-disk-minimalist-bn.jpg" src="floppy-disk-minimalist-bn.jpg"></a>
 
 <details>
@@ -137,13 +137,13 @@ Megapixels                      : 0.283
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : floppy-disk-minimalist-bn.jpg
 Directory                       : .
-File Size                       : 665 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 649 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -200,7 +200,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -225,13 +225,13 @@ Megapixels                      : 5.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : gruv-material-texture.png
 Directory                       : .
-File Size                       : 427 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 417 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -256,13 +256,13 @@ Megapixels                      : 0.457
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : gruv-moving-texture.png
 Directory                       : .
-File Size                       : 423 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 413 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -287,13 +287,13 @@ Megapixels                      : 0.457
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : hlwmlighttile2.png
 Directory                       : .
 File Size                       : 1661 bytes
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -319,13 +319,13 @@ Megapixels                      : 0.004
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : hlwmtile2.png
 Directory                       : .
 File Size                       : 1684 bytes
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -351,13 +351,13 @@ Megapixels                      : 0.004
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : leaves.webp
 Directory                       : .
-File Size                       : 8.9 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 8.7 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -377,13 +377,13 @@ Megapixels                      : 0.160
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : memphis-mini-dark.webp
 Directory                       : .
-File Size                       : 8.6 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 8.4 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : WEBP
 File Type Extension             : webp
@@ -403,13 +403,13 @@ Megapixels                      : 0.160
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : particles.png
 Directory                       : .
-File Size                       : 204 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 199 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -438,13 +438,13 @@ Megapixels                      : 1.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : smoli3.png
 Directory                       : .
-File Size                       : 5.7 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:25+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 5.6 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -497,7 +497,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -537,13 +537,13 @@ Thumbnail Image                 : (Binary data 2662 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : stardust.png
 Directory                       : .
-File Size                       : 9.1 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 8.9 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -569,13 +569,13 @@ Megapixels                      : 0.637
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : tile-colorful-80.png
 Directory                       : .
-File Size                       : 8.5 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 8.3 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -628,7 +628,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -668,13 +668,13 @@ Thumbnail Image                 : (Binary data 3539 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : topo-mono.png
 Directory                       : .
-File Size                       : 451 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 440 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -703,13 +703,13 @@ Megapixels                      : 1.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : triangle.png
 Directory                       : .
-File Size                       : 138 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 135 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -738,13 +738,13 @@ Megapixels                      : 1.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : unknown1.png
 Directory                       : .
-File Size                       : 2.4 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.4 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -770,13 +770,13 @@ Megapixels                      : 0.026
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : void-tile.png
 Directory                       : .
-File Size                       : 8.2 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 8.0 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -829,7 +829,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -862,6 +862,72 @@ Thumbnail Image                 : (Binary data 3282 bytes, use -b option to extr
 
 </details>
 
+<a href="wall.png"><img alt="wall.png" src="wall.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.40
+File Name                       : wall.png
+Directory                       : .
+File Size                       : 48 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 300
+Image Height                    : 534
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : icc
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:22 14:33:40
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : sRGB built-in
+Profile Copyright               : No copyright, use freely
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71391
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown (0)
+Chromaticity Channel 1          : 0.64 0.33
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.14999 0.06
+Pixels Per Unit X               : 2834
+Pixels Per Unit Y               : 2834
+Pixel Units                     : meters
+Image Size                      : 300x534
+Megapixels                      : 0.160
+```
+
+</details>
+
 <a href="wallhaven-oxlld9.png"><img alt="wallhaven-oxlld9.png" src="wallhaven-oxlld9.png"></a>
 
 <details>
@@ -869,13 +935,13 @@ Thumbnail Image                 : (Binary data 3282 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-oxlld9.png
 Directory                       : .
-File Size                       : 429 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 419 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -927,7 +993,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -975,13 +1041,13 @@ Thumbnail Image                 : (Binary data 20051 bytes, use -b option to ext
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallpaper pattern tile ghost pattern tile background cartoongraveyard.jpg
 Directory                       : .
-File Size                       : 108 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 106 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1009,6 +1075,7 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS4
 Photoshop Quality               : 8
 Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
 Exif Byte Order                 : Big-endian (Motorola, MM)
 Orientation                     : Horizontal (normal)
 Resolution Unit                 : inches
@@ -1088,72 +1155,6 @@ Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
 Image Size                      : 500x349
 Megapixels                      : 0.174
 Thumbnail Image                 : (Binary data 9363 bytes, use -b option to extract)
-```
-
-</details>
-
-<a href="wall.png"><img alt="wall.png" src="wall.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : wall.png
-Directory                       : .
-File Size                       : 49 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:26+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 300
-Image Height                    : 534
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : icc
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:01:22 14:33:40
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : sRGB built-in
-Profile Copyright               : No copyright, use freely
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71391
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.14999 0.06
-Pixels Per Unit X               : 2834
-Pixels Per Unit Y               : 2834
-Pixel Units                     : meters
-Image Size                      : 300x534
-Megapixels                      : 0.160
 ```
 
 </details>

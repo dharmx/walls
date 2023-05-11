@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : ocean_front_2.png
 Directory                       : .
-File Size                       : 1327 kB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:47:29+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 1295 KiB
+File Modification Date/Time     : 2023:05:11 14:52:35+00:00
+File Access Date/Time           : 2023:05:11 14:52:35+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:35+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -38,13 +38,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : rock_2.png
 Directory                       : .
-File Size                       : 1062 kB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:47:30+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 1037 KiB
+File Modification Date/Time     : 2023:05:11 14:52:35+00:00
+File Access Date/Time           : 2023:05:11 14:52:35+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:35+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -69,13 +69,13 @@ Megapixels                      : 2.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : rocky_beach_2.png
 Directory                       : .
-File Size                       : 8.7 MB
-File Modification Date/Time     : 2023:04:12 00:33:13+05:30
-File Access Date/Time           : 2023:04:13 23:47:30+05:30
-File Inode Change Date/Time     : 2023:04:12 00:33:13+05:30
+File Size                       : 8.3 MiB
+File Modification Date/Time     : 2023:05:11 14:52:35+00:00
+File Access Date/Time           : 2023:05:11 14:52:35+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:35+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

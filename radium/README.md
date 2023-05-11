@@ -1,36 +1,5 @@
 # RADIUM
 
-<a href="maki.png"><img alt="maki.png" src="maki.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : maki.png
-Directory                       : .
-File Size                       : 151 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 3840
-Image Height                    : 2160
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 3840x2160
-Megapixels                      : 8.3
-```
-
-</details>
-
 <a href="OD_house_night_sat.jpg"><img alt="OD_house_night_sat.jpg" src="OD_house_night_sat.jpg"></a>
 
 <details>
@@ -38,13 +7,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : OD_house_night_sat.jpg
 Directory                       : .
-File Size                       : 2.3 MB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 2.2 MiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -109,7 +78,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -128,38 +97,53 @@ Thumbnail Image                 : (Binary data 8464 bytes, use -b option to extr
 
 </details>
 
-<a href="output-1659944018.png"><img alt="output-1659944018.png" src="output-1659944018.png"></a>
+<a href="brain.png"><img alt="brain.png" src="brain.png"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1659944018.png
+ExifTool Version Number         : 12.40
+File Name                       : brain.png
 Directory                       : .
-File Size                       : 284 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:19+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 56 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
 MIME Type                       : image/png
-Image Width                     : 2481
-Image Height                    : 1396
+Image Width                     : 4330
+Image Height                    : 2436
 Bit Depth                       : 8
 Color Type                      : RGB
 Compression                     : Deflate/Inflate
 Filter                          : Adaptive
 Interlace                       : Noninterlaced
+Exif Byte Order                 : Little-endian (Intel, II)
+Bits Per Sample                 : 8 8 8
+Orientation                     : Horizontal (normal)
+X Resolution                    : 118.1098901
+Y Resolution                    : 118.1098901
+Resolution Unit                 : cm
+Software                        : GIMP 2.10.34
+Color Space                     : sRGB
+Exif Image Width                : 4330
+Exif Image Height               : 2436
+Subfile Type                    : Reduced-resolution image
+Photometric Interpretation      : YCbCr
+Samples Per Pixel               : 3
+Thumbnail Offset                : 352
+Thumbnail Length                : 1511
 Profile Name                    : ICC Profile
 Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
+Profile Version                 : 4.4.0
 Profile Class                   : Display Device Profile
 Color Space Data                : RGB
 Profile Connection Space        : XYZ
-Profile Date Time               : 2022:08:07 15:41:58
+Profile Date Time               : 2023:04:30 21:04:16
 Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
@@ -181,102 +165,67 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
 Device Mfg Desc                 : GIMP
 Device Model Desc               : sRGB
-Exif Byte Order                 : Little-endian (Intel, II)
-Orientation                     : Horizontal (normal)
-X Resolution                    : 72
-Y Resolution                    : 72
-Resolution Unit                 : inches
-Software                        : GIMP 2.10.32
-Modify Date                     : 2022:08:07 21:12:40
-Color Space                     : sRGB
-Subfile Type                    : Reduced-resolution image
-Bits Per Sample                 : 8 8 8
-Photometric Interpretation      : YCbCr
-Samples Per Pixel               : 3
-Thumbnail Offset                : 286
-Thumbnail Length                : 3408
-Image Size                      : 2481x1396
-Megapixels                      : 3.5
-Thumbnail Image                 : (Binary data 3408 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 4.4.0-Exiv2
+Document ID                     : gimp:docid:gimp:0d4713fb-2f0c-4ba2-a7a8-60b27bf220e1
+Instance ID                     : xmp.iid:326455ba-7eb8-4050-abc6-6d2a12007c32
+Original Document ID            : xmp.did:3c4e2644-a84b-4c13-9553-de0b79fd07fe
+Format                          : image/png
+Api                             : 2.0
+Platform                        : Linux
+Time Stamp                      : 1682888670189179
+Version                         : 2.10.34
+Creator Tool                    : GIMP 2.10
+Metadata Date                   : 2023:05:01T02:34:29+05:30
+History Action                  : saved, saved
+History Changed                 : /, /
+History Instance ID             : xmp.iid:6043afac-4e60-4855-ae1a-12bad82c5eb8, xmp.iid:2d74c233-6238-4abd-8239-151072523da5
+History Software Agent          : Gimp 2.10 (Linux), Gimp 2.10 (Linux)
+History When                    : 2023:05:01 02:34:01+05:30, 2023:05:01 02:34:30+05:30
+Background Color                : 255 255 255
+Pixels Per Unit X               : 11811
+Pixels Per Unit Y               : 11811
+Pixel Units                     : meters
+Modify Date                     : 2023:04:30 21:04:29
+Image Size                      : 4330x2436
+Megapixels                      : 10.5
+Thumbnail Image                 : (Binary data 1511 bytes, use -b option to extract)
 ```
 
 </details>
 
-<a href="output-1659944023.png"><img alt="output-1659944023.png" src="output-1659944023.png"></a>
+<a href="maki.png"><img alt="maki.png" src="maki.png"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1659944023.png
+ExifTool Version Number         : 12.40
+File Name                       : maki.png
 Directory                       : .
-File Size                       : 343 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 148 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
 MIME Type                       : image/png
-Image Width                     : 3876
-Image Height                    : 2180
+Image Width                     : 3840
+Image Height                    : 2160
 Bit Depth                       : 8
-Color Type                      : RGB
+Color Type                      : RGB with Alpha
 Compression                     : Deflate/Inflate
 Filter                          : Adaptive
 Interlace                       : Noninterlaced
-Profile Name                    : ICC Profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:07:13 14:45:11
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Exif Byte Order                 : Little-endian (Intel, II)
-Subfile Type                    : Reduced-resolution image
-Bits Per Sample                 : 8 8 8
-Photometric Interpretation      : YCbCr
-Samples Per Pixel               : 3
-Thumbnail Offset                : 134
-Thumbnail Length                : 3604
-Image Size                      : 3876x2180
-Megapixels                      : 8.4
-Thumbnail Image                 : (Binary data 3604 bytes, use -b option to extract)
+Image Size                      : 3840x2160
+Megapixels                      : 8.3
 ```
 
 </details>
@@ -288,13 +237,13 @@ Thumbnail Image                 : (Binary data 3604 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : output-1659944035.png
 Directory                       : .
-File Size                       : 972 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 949 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -347,7 +296,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -388,13 +337,13 @@ Thumbnail Image                 : (Binary data 4012 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : output-1659958136.png
 Directory                       : .
-File Size                       : 289 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 282 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -420,13 +369,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : output-1659958155.png
 Directory                       : .
-File Size                       : 175 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 171 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -470,86 +419,6 @@ Megapixels                      : 8.3
 
 </details>
 
-<a href="output-1659958166.png"><img alt="output-1659958166.png" src="output-1659958166.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1659958166.png
-Directory                       : .
-File Size                       : 474 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 5472
-Image Height                    : 3078
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC Profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2022:02:02 07:39:33
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Exif Byte Order                 : Little-endian (Intel, II)
-Orientation                     : Horizontal (normal)
-X Resolution                    : 72
-Y Resolution                    : 72
-Resolution Unit                 : inches
-Software                        : GIMP 2.10.30
-Modify Date                     : 2022:02:02 13:15:09
-Color Space                     : sRGB
-Subfile Type                    : Reduced-resolution image
-Bits Per Sample                 : 8 8 8
-Photometric Interpretation      : YCbCr
-Samples Per Pixel               : 3
-Thumbnail Offset                : 286
-Thumbnail Length                : 2944
-Image Size                      : 5472x3078
-Megapixels                      : 16.8
-Thumbnail Image                 : (Binary data 2944 bytes, use -b option to extract)
-```
-
-</details>
-
 <a href="output-1659958593.png"><img alt="output-1659958593.png" src="output-1659958593.png"></a>
 
 <details>
@@ -557,13 +426,13 @@ Thumbnail Image                 : (Binary data 2944 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : output-1659958593.png
 Directory                       : .
-File Size                       : 235 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 229 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -582,102 +451,6 @@ Megapixels                      : 8.3
 
 </details>
 
-<a href="output-1671342628.png"><img alt="output-1671342628.png" src="output-1671342628.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1671342628.png
-Directory                       : .
-File Size                       : 901 bytes
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 160
-Image Height                    : 160
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 160x160
-Megapixels                      : 0.026
-```
-
-</details>
-
-<a href="output-1671342884.png"><img alt="output-1671342884.png" src="output-1671342884.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1671342884.png
-Directory                       : .
-File Size                       : 1424 bytes
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 160
-Image Height                    : 160
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC Profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2021:11:16 11:14:27
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Image Size                      : 160x160
-Megapixels                      : 0.026
-```
-
-</details>
-
 <a href="output-1671905268.png"><img alt="output-1671905268.png" src="output-1671905268.png"></a>
 
 <details>
@@ -685,13 +458,13 @@ Megapixels                      : 0.026
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : output-1671905268.png
 Directory                       : .
-File Size                       : 482 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:20+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 470 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -731,7 +504,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -743,128 +516,6 @@ Megapixels                      : 8.3
 
 </details>
 
-<a href="output-1671905959.png"><img alt="output-1671905959.png" src="output-1671905959.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1671905959.png
-Directory                       : .
-File Size                       : 54 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 4330
-Image Height                    : 2436
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC Profile
-Profile CMM Type                : Apple Computer Inc.
-Profile Version                 : 4.0.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2017:07:07 13:22:32
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Apple Computer Inc.
-Profile ID                      : ca1a9582257f104d389913d5d1ea1582
-Profile Description             : Display P3
-Profile Copyright               : Copyright Apple Inc., 2017
-Media White Point               : 0.95045 1 1.08905
-Red Matrix Column               : 0.51512 0.2412 -0.00105
-Green Matrix Column             : 0.29198 0.69225 0.04189
-Blue Matrix Column              : 0.1571 0.06657 0.78407
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Exif Image Width                : 4330
-Exif Image Height               : 2436
-Image Size                      : 4330x2436
-Megapixels                      : 10.5
-```
-
-</details>
-
-<a href="output-1671906013.png"><img alt="output-1671906013.png" src="output-1671906013.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.54
-File Name                       : output-1671906013.png
-Directory                       : .
-File Size                       : 54 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 4330
-Image Height                    : 2436
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC Profile
-Profile CMM Type                : Apple Computer Inc.
-Profile Version                 : 4.0.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2017:07:07 13:22:32
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Apple Computer Inc.
-Profile ID                      : ca1a9582257f104d389913d5d1ea1582
-Profile Description             : Display P3
-Profile Copyright               : Copyright Apple Inc., 2017
-Media White Point               : 0.95045 1 1.08905
-Red Matrix Column               : 0.51512 0.2412 -0.00105
-Green Matrix Column             : 0.29198 0.69225 0.04189
-Blue Matrix Column              : 0.1571 0.06657 0.78407
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Exif Image Width                : 4330
-Exif Image Height               : 2436
-Image Size                      : 4330x2436
-Megapixels                      : 10.5
-```
-
-</details>
-
 <a href="pacman.png"><img alt="pacman.png" src="pacman.png"></a>
 
 <details>
@@ -872,13 +523,13 @@ Megapixels                      : 10.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : pacman.png
 Directory                       : .
-File Size                       : 69 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 67 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -931,7 +582,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -972,13 +623,13 @@ Thumbnail Image                 : (Binary data 1987 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : radium.jpg
 Directory                       : .
-File Size                       : 167 kB
-File Modification Date/Time     : 2023:01:12 17:21:56+05:30
-File Access Date/Time           : 2023:04:13 23:49:21+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Size                       : 163 KiB
+File Modification Date/Time     : 2023:05:11 14:52:44+00:00
+File Access Date/Time           : 2023:05:11 14:52:44+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:44+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1040,7 +691,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown
+Chromaticity Colorant           : Unknown (0)
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06

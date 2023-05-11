@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-g8x697.jpg
 Directory                       : .
-File Size                       : 1481 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 1446 KiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -112,13 +112,13 @@ Megapixels                      : 36.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.54
+ExifTool Version Number         : 12.40
 File Name                       : wallhaven-z8pdqo.jpg
 Directory                       : .
-File Size                       : 223 kB
-File Modification Date/Time     : 2023:01:12 17:21:52+05:30
-File Access Date/Time           : 2023:04:13 23:48:14+05:30
-File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Size                       : 218 KiB
+File Modification Date/Time     : 2023:05:11 14:52:39+00:00
+File Access Date/Time           : 2023:05:11 14:52:39+00:00
+File Inode Change Date/Time     : 2023:05:11 14:52:39+00:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
