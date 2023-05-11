@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1588340899608.jpg
 Directory                       : .
-File Size                       : 305 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 312 kB
+File Modification Date/Time     : 2023:03:03 11:51:03+05:30
+File Access Date/Time           : 2023:04:13 23:49:15+05:30
+File Inode Change Date/Time     : 2023:03:04 15:09:07+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -38,13 +38,13 @@ Megapixels                      : 3.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1638357070130996132.jpg
 Directory                       : .
-File Size                       : 2.6 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:15+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -69,13 +69,13 @@ Megapixels                      : 3.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 4RFJhJW.png
 Directory                       : .
-File Size                       : 865 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 886 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:15+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -108,13 +108,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : AsvWLtE.jpeg
 Directory                       : .
-File Size                       : 4.6 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 4.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:16+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -177,13 +177,13 @@ Megapixels                      : 13.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : grand_tour_main_arch.jpg
 Directory                       : .
-File Size                       : 325 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 333 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:16+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -209,13 +209,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : hypnosis-sascha-schneider.png
 Directory                       : .
-File Size                       : 4.0 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 4.1 MB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:16+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -240,13 +240,13 @@ Megapixels                      : 3.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : there__s_a_monster_over_the_bed_by_babycdefg.jpg
 Directory                       : .
-File Size                       : 177 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 181 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -274,13 +274,13 @@ Megapixels                      : 2.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : trooper_still_life_oliver_wetter.jpg
 Directory                       : .
-File Size                       : 4.0 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 4.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -305,13 +305,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : watery.jpg
 Directory                       : .
-File Size                       : 4.8 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 5.0 MB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

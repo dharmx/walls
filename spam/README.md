@@ -1,106 +1,5 @@
 # SPAM
 
-<a href="Dark red Japan.png"><img alt="Dark red Japan.png" src="Dark red Japan.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : Dark red Japan.png
-Directory                       : .
-File Size                       : 7.5 MiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 5120
-Image Height                    : 2880
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-SRGB Rendering                  : Relative Colorimetric
-Pixels Per Unit X               : 2835
-Pixels Per Unit Y               : 2835
-Pixel Units                     : meters
-Image Size                      : 5120x2880
-Megapixels                      : 14.7
-```
-
-</details>
-
-<a href="Gruvy Japan.png"><img alt="Gruvy Japan.png" src="Gruvy Japan.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : Gruvy Japan.png
-Directory                       : .
-File Size                       : 10 MiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 5120
-Image Height                    : 2880
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Profile Name                    : ICC profile
-Profile CMM Type                : Little CMS
-Profile Version                 : 4.3.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2020:08:31 08:51:25
-Profile File Signature          : acsp
-Primary Platform                : Microsoft Corporation
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : GIMP built-in sRGB
-Profile Copyright               : Public Domain
-Media White Point               : 0.9642 1 0.82491
-Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
-Red Matrix Column               : 0.43604 0.22249 0.01392
-Blue Matrix Column              : 0.14305 0.06061 0.71393
-Green Matrix Column             : 0.38512 0.7169 0.09706
-Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
-Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
-Chromaticity Channel 1          : 0.64 0.33002
-Chromaticity Channel 2          : 0.3 0.60001
-Chromaticity Channel 3          : 0.15001 0.06
-Device Mfg Desc                 : GIMP
-Device Model Desc               : sRGB
-Background Color                : 255 255 255
-Image Size                      : 5120x2880
-Megapixels                      : 14.7
-```
-
-</details>
-
 <a href="car.png"><img alt="car.png" src="car.png"></a>
 
 <details>
@@ -108,13 +7,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : car.png
 Directory                       : .
-File Size                       : 1081 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 1107 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:23+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -154,7 +53,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -173,13 +72,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : city-scape.png
 Directory                       : .
-File Size                       : 378 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 387 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:23+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -232,7 +131,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -272,13 +171,13 @@ Thumbnail Image                 : (Binary data 6234 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : conv-PixelSundown.png
 Directory                       : .
-File Size                       : 46 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 47 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:23+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -296,6 +195,41 @@ Megapixels                      : 8.3
 
 </details>
 
+<a href="Dark red Japan.png"><img alt="Dark red Japan.png" src="Dark red Japan.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : Dark red Japan.png
+Directory                       : .
+File Size                       : 7.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:23+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 5120
+Image Height                    : 2880
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Relative Colorimetric
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+Image Size                      : 5120x2880
+Megapixels                      : 14.7
+```
+
+</details>
+
 <a href="destiny.png"><img alt="destiny.png" src="destiny.png"></a>
 
 <details>
@@ -303,13 +237,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : destiny.png
 Directory                       : .
-File Size                       : 223 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 229 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:23+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -362,7 +296,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -395,6 +329,72 @@ Thumbnail Image                 : (Binary data 2240 bytes, use -b option to extr
 
 </details>
 
+<a href="Gruvy Japan.png"><img alt="Gruvy Japan.png" src="Gruvy Japan.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : Gruvy Japan.png
+Directory                       : .
+File Size                       : 11 MB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:24+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 5120
+Image Height                    : 2880
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC profile
+Profile CMM Type                : Little CMS
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2020:08:31 08:51:25
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : GIMP built-in sRGB
+Profile Copyright               : Public Domain
+Media White Point               : 0.9642 1 0.82491
+Chromatic Adaptation            : 1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168
+Red Matrix Column               : 0.43604 0.22249 0.01392
+Blue Matrix Column              : 0.14305 0.06061 0.71393
+Green Matrix Column             : 0.38512 0.7169 0.09706
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Chromaticity Channels           : 3
+Chromaticity Colorant           : Unknown
+Chromaticity Channel 1          : 0.64 0.33002
+Chromaticity Channel 2          : 0.3 0.60001
+Chromaticity Channel 3          : 0.15001 0.06
+Device Mfg Desc                 : GIMP
+Device Model Desc               : sRGB
+Background Color                : 255 255 255
+Image Size                      : 5120x2880
+Megapixels                      : 14.7
+```
+
+</details>
+
 <a href="ibm.jpg"><img alt="ibm.jpg" src="ibm.jpg"></a>
 
 <details>
@@ -402,13 +402,13 @@ Thumbnail Image                 : (Binary data 2240 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : ibm.jpg
 Directory                       : .
-File Size                       : 67 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 69 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:24+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -467,7 +467,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -499,13 +499,13 @@ Date/Time Original              : 2021:12:13 18:45:15-18:45
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : output-1659943991.png
 Directory                       : .
-File Size                       : 873 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 894 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:24+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -545,7 +545,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -564,13 +564,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : street.png
 Directory                       : .
-File Size                       : 372 KiB
-File Modification Date/Time     : 2023:04:27 08:49:53+00:00
-File Access Date/Time           : 2023:04:27 08:49:53+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:53+00:00
+File Size                       : 381 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:24+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -623,7 +623,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06

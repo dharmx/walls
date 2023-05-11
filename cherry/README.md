@@ -1,5 +1,131 @@
 # CHERRY
 
+<a href="cherry-blossom-white.jpg"><img alt="cherry-blossom-white.jpg" src="cherry-blossom-white.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : cherry-blossom-white.jpg
+Directory                       : .
+File Size                       : 227 kB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 2560
+Image Height                    : 1440
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 2560x1440
+Megapixels                      : 3.7
+```
+
+</details>
+
+<a href="cherry-blue.jpg"><img alt="cherry-blue.jpg" src="cherry-blue.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : cherry-blue.jpg
+Directory                       : .
+File Size                       : 408 kB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Comment                         : GoodFon.ru
+Image Width                     : 1920
+Image Height                    : 1200
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1920x1200
+Megapixels                      : 2.3
+```
+
+</details>
+
+<a href="japanese-sakura-painting.jpg"><img alt="japanese-sakura-painting.jpg" src="japanese-sakura-painting.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : japanese-sakura-painting.jpg
+Directory                       : .
+File Size                       : 454 kB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Comment                         : CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 90.
+Image Width                     : 1920
+Image Height                    : 1200
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1920x1200
+Megapixels                      : 2.3
+```
+
+</details>
+
+<a href="japanese-sakura-painting-night.png"><img alt="japanese-sakura-painting-night.png" src="japanese-sakura-painting-night.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : japanese-sakura-painting-night.png
+Directory                       : .
+File Size                       : 3.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
 <a href="Light-Floral-01.png"><img alt="Light-Floral-01.png" src="Light-Floral-01.png"></a>
 
 <details>
@@ -7,13 +133,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : Light-Floral-01.png
 Directory                       : .
-File Size                       : 2.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -66,7 +192,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -99,132 +225,6 @@ Thumbnail Image                 : (Binary data 8250 bytes, use -b option to extr
 
 </details>
 
-<a href="cherry-blossom-white.jpg"><img alt="cherry-blossom-white.jpg" src="cherry-blossom-white.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : cherry-blossom-white.jpg
-Directory                       : .
-File Size                       : 222 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Image Width                     : 2560
-Image Height                    : 1440
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 2560x1440
-Megapixels                      : 3.7
-```
-
-</details>
-
-<a href="cherry-blue.jpg"><img alt="cherry-blue.jpg" src="cherry-blue.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : cherry-blue.jpg
-Directory                       : .
-File Size                       : 398 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Comment                         : GoodFon.ru
-Image Width                     : 1920
-Image Height                    : 1200
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 1920x1200
-Megapixels                      : 2.3
-```
-
-</details>
-
-<a href="japanese-sakura-painting-night.png"><img alt="japanese-sakura-painting-night.png" src="japanese-sakura-painting-night.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : japanese-sakura-painting-night.png
-Directory                       : .
-File Size                       : 3.6 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="japanese-sakura-painting.jpg"><img alt="japanese-sakura-painting.jpg" src="japanese-sakura-painting.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : japanese-sakura-painting.jpg
-Directory                       : .
-File Size                       : 443 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-Exif Byte Order                 : Big-endian (Motorola, MM)
-Comment                         : CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 90.
-Image Width                     : 1920
-Image Height                    : 1200
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 1920x1200
-Megapixels                      : 2.3
-```
-
-</details>
-
 <a href="nikhil-kumar-JdPHvI7VF0o-unsplash.jpg"><img alt="nikhil-kumar-JdPHvI7VF0o-unsplash.jpg" src="nikhil-kumar-JdPHvI7VF0o-unsplash.jpg"></a>
 
 <details>
@@ -232,13 +232,13 @@ Megapixels                      : 2.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : nikhil-kumar-JdPHvI7VF0o-unsplash.jpg
 Directory                       : .
-File Size                       : 954 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 977 kB
+File Modification Date/Time     : 2023:01:12 17:21:50+05:30
+File Access Date/Time           : 2023:04:13 23:47:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:50+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

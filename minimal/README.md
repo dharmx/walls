@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 3naa2boj9rd81.png
 Directory                       : .
-File Size                       : 412 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 422 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:29+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -53,7 +53,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -72,13 +72,13 @@ Megapixels                      : 5.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 4559c80c510a189e49aee248ad58e5fb.jpg
 Directory                       : .
-File Size                       : 77 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 79 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:29+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -106,13 +106,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 8337e8bf18303f6aa4c348261322d07e.jpg
 Directory                       : .
-File Size                       : 91 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 94 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:29+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -133,37 +133,6 @@ Megapixels                      : 2.1
 
 </details>
 
-<a href="Lovelace-hearts.png"><img alt="Lovelace-hearts.png" src="Lovelace-hearts.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : Lovelace-hearts.png
-Directory                       : .
-File Size                       : 4.8 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 942
-Image Height                    : 583
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 942x583
-Megapixels                      : 0.549
-```
-
-</details>
-
 <a href="borealis.jpg"><img alt="borealis.jpg" src="borealis.jpg"></a>
 
 <details>
@@ -171,13 +140,13 @@ Megapixels                      : 0.549
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : borealis.jpg
 Directory                       : .
-File Size                       : 1978 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 2.0 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -202,13 +171,13 @@ Megapixels                      : 2.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : c7a6962492cddeb0929b0ec282cd04a2.jpg
 Directory                       : .
-File Size                       : 90 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 92 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -236,13 +205,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : cy4p34m246161.jpg
 Directory                       : .
-File Size                       : 508 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 520 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -296,13 +265,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : e8gcq9yrn2u71.jpg
 Directory                       : .
-File Size                       : 12 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 12 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -409,13 +378,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : en3g3wwmnwi41.png
 Directory                       : .
-File Size                       : 78 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 80 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -440,13 +409,13 @@ Megapixels                      : 5.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : exodus_v01_5120x2880.png
 Directory                       : .
-File Size                       : 9.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 9.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -486,7 +455,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -506,13 +475,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : exodus_v02_5120x2880.png
 Directory                       : .
-File Size                       : 8.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 8.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -552,7 +521,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -572,13 +541,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : exodus_v03_5120x2880.png
 Directory                       : .
-File Size                       : 8.8 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 9.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:30+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -618,7 +587,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -638,13 +607,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : exodus_v04_5120x2880.png
 Directory                       : .
-File Size                       : 8.5 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 8.9 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -684,7 +653,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -704,13 +673,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : gruvbox_night.png
 Directory                       : .
-File Size                       : 15 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 16 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -764,7 +733,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -814,13 +783,13 @@ Date/Time Original              : 2020:11:01 21:15:21-21:15
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : itdo8g9346161.jpg
 Directory                       : .
-File Size                       : 670 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 687 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -867,6 +836,37 @@ Megapixels                      : 8.3
 
 </details>
 
+<a href="Lovelace-hearts.png"><img alt="Lovelace-hearts.png" src="Lovelace-hearts.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : Lovelace-hearts.png
+Directory                       : .
+File Size                       : 4.9 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 942
+Image Height                    : 583
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 942x583
+Megapixels                      : 0.549
+```
+
+</details>
+
 <a href="minimal-12.jpg"><img alt="minimal-12.jpg" src="minimal-12.jpg"></a>
 
 <details>
@@ -874,13 +874,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-12.jpg
 Directory                       : .
-File Size                       : 731 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 748 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -908,13 +908,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-13.jpg
 Directory                       : .
-File Size                       : 1873 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 1918 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -950,7 +950,6 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS6
 Photoshop Quality               : 12
 Photoshop Format                : Standard
-Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
 Creator Tool                    : Adobe Photoshop CS6 (Windows)
 Create Date                     : 2014:05:11 16:37:49-04:00
@@ -1033,13 +1032,13 @@ Thumbnail Image                 : (Binary data 2189 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-15.png
 Directory                       : .
-File Size                       : 1460 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 1495 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:31+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1079,7 +1078,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1103,13 +1102,13 @@ Megapixels                      : 3.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-16.jpg
 Directory                       : .
-File Size                       : 118 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 121 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1137,13 +1136,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-21.jpg
 Directory                       : .
-File Size                       : 157 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 160 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1182,7 +1181,6 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS6
 Photoshop Quality               : 12
 Photoshop Format                : Standard
-Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
 Creator Tool                    : Adobe Photoshop CS6 (Windows)
 Create Date                     : 2017:09:27 18:28:08+07:00
@@ -1226,13 +1224,13 @@ Thumbnail Image                 : (Binary data 1309 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-27.png
 Directory                       : .
-File Size                       : 352 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 361 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1272,7 +1270,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1296,13 +1294,13 @@ Megapixels                      : 9.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : minimal-6.jpg
 Directory                       : .
-File Size                       : 79 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 81 kB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1330,13 +1328,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : random_thoughts_wallpaper_green_5120x2880.png
 Directory                       : .
-File Size                       : 2.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1398,13 +1396,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : random_thoughts_wallpaper_orange_5120x2880.png
 Directory                       : .
-File Size                       : 2.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:52+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:52+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1466,13 +1464,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : random_thoughts_wallpaper_orange_green_5120x2880.png
 Directory                       : .
-File Size                       : 2.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1534,13 +1532,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sipnpt3446161.jpg
 Directory                       : .
-File Size                       : 774 KiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 792 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1594,13 +1592,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_dark_v01.png
 Directory                       : .
-File Size                       : 12 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:32+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1640,7 +1638,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1660,13 +1658,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_dark_v02.png
 Directory                       : .
-File Size                       : 12 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:33+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1706,7 +1704,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1726,13 +1724,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_dark_v03.png
 Directory                       : .
-File Size                       : 13 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:33+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1772,7 +1770,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1792,13 +1790,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_dark_v04.png
 Directory                       : .
-File Size                       : 13 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:33+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1838,7 +1836,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1858,13 +1856,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v01.png
 Directory                       : .
-File Size                       : 13 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:33+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1904,7 +1902,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1924,13 +1922,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v02.png
 Directory                       : .
-File Size                       : 13 MiB
-File Modification Date/Time     : 2023:04:27 08:49:48+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:48+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:34+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -1970,7 +1968,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -1990,13 +1988,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v03.png
 Directory                       : .
-File Size                       : 13 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:48+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 14 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:34+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2036,7 +2034,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2056,13 +2054,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v04.png
 Directory                       : .
-File Size                       : 12 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 13 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:34+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2102,7 +2100,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2122,13 +2120,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v05.png
 Directory                       : .
-File Size                       : 5.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 5.5 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:34+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2168,7 +2166,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2188,13 +2186,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sleepy_mountains_light_v06.png
 Directory                       : .
-File Size                       : 11 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 11 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:34+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2234,7 +2232,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2254,13 +2252,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : space.jpg
 Directory                       : .
-File Size                       : 203 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 207 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2288,13 +2286,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : summer_bliss_v01_5120x2880.png
 Directory                       : .
-File Size                       : 3.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 3.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2334,7 +2332,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2354,13 +2352,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : summer_bliss_v02_5120x2880.png
 Directory                       : .
-File Size                       : 1840 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1884 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2400,7 +2398,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2420,13 +2418,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : summer_bliss_v03_5120x2880.png
 Directory                       : .
-File Size                       : 2.9 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 3.1 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2466,7 +2464,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2486,13 +2484,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : summer_bliss_v04_5120x2880.png
 Directory                       : .
-File Size                       : 2.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 2.5 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2532,7 +2530,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.14999 0.06
@@ -2552,13 +2550,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : swimming_pool_hiroshi_nagai.jpg
 Directory                       : .
-File Size                       : 192 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 197 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2586,13 +2584,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : tom-morel-ktVazL5c7FM-unsplash.jpg
 Directory                       : .
-File Size                       : 619 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 634 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2646,13 +2644,13 @@ Megapixels                      : 15.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : wallhaven-nz3e1y.png
 Directory                       : .
-File Size                       : 412 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 422 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2677,13 +2675,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : wallpaper.png
 Directory                       : .
-File Size                       : 32 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 33 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:35+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -2712,13 +2710,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : yhaucvz246161.jpg
 Directory                       : .
-File Size                       : 733 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 751 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:36+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

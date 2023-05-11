@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 62f5ff164846d.jpg
 Directory                       : .
-File Size                       : 399 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 408 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:18+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -46,13 +46,13 @@ Megapixels                      : 14.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : buildings.png
 Directory                       : .
-File Size                       : 1484 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 1520 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:18+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -105,7 +105,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -144,13 +144,13 @@ Thumbnail Image                 : (Binary data 7389 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : inzo.jpg
 Directory                       : .
-File Size                       : 567 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 581 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -178,13 +178,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : low-poly-fantasy-village.png
 Directory                       : .
-File Size                       : 5.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 5.6 MB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -210,13 +210,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : pokemon-center.png
 Directory                       : .
-File Size                       : 483 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 494 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -242,13 +242,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : pokemon-pixel-4k.png
 Directory                       : .
-File Size                       : 482 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 494 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -274,13 +274,13 @@ Megapixels                      : 8.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : poly-comets.png
 Directory                       : .
-File Size                       : 128 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 131 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -305,13 +305,13 @@ Megapixels                      : 9.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : retro-pc.png
 Directory                       : .
-File Size                       : 6.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 6.4 MB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:19+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1647816897752.jpg
 Directory                       : .
-File Size                       : 306 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 314 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -38,13 +38,13 @@ Megapixels                      : 2.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1647871996116.jpg
 Directory                       : .
-File Size                       : 298 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 305 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -69,13 +69,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1647935972998.png
 Directory                       : .
-File Size                       : 770 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 788 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -104,13 +104,13 @@ Megapixels                      : 1.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 1648005473077.jpg
 Directory                       : .
-File Size                       : 871 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 892 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg

@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 5.jpg
 Directory                       : .
-File Size                       : 510 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 522 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -67,13 +67,13 @@ Megapixels                      : 2.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : archlabs.jpg
 Directory                       : .
-File Size                       : 605 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 619 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -133,66 +133,6 @@ Megapixels                      : 5.4
 
 </details>
 
-<a href="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg"><img alt="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg" src="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg
-Directory                       : .
-File Size                       : 2.6 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : inches
-X Resolution                    : 72
-Y Resolution                    : 72
-Profile CMM Type                : Little CMS
-Profile Version                 : 2.1.0
-Profile Class                   : Display Device Profile
-Color Space Data                : RGB
-Profile Connection Space        : XYZ
-Profile Date Time               : 2012:01:25 03:41:57
-Profile File Signature          : acsp
-Primary Platform                : Apple Computer Inc.
-CMM Flags                       : Not Embedded, Independent
-Device Manufacturer             : 
-Device Model                    : 
-Device Attributes               : Reflective, Glossy, Positive, Color
-Rendering Intent                : Perceptual
-Connection Space Illuminant     : 0.9642 1 0.82491
-Profile Creator                 : Little CMS
-Profile ID                      : 0
-Profile Description             : c2
-Profile Copyright               : IX
-Media White Point               : 0.9642 1 0.82491
-Media Black Point               : 0.01205 0.0125 0.01031
-Red Matrix Column               : 0.43607 0.22249 0.01392
-Green Matrix Column             : 0.38515 0.71687 0.09708
-Blue Matrix Column              : 0.14307 0.06061 0.7141
-Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
-Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
-Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
-Image Width                     : 5845
-Image Height                    : 3897
-Encoding Process                : Progressive DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
-Image Size                      : 5845x3897
-Megapixels                      : 22.8
-```
-
-</details>
-
 <a href="ashwini-chaudhary-monty-dAvJGJ54g5s-unsplash.jpg"><img alt="ashwini-chaudhary-monty-dAvJGJ54g5s-unsplash.jpg" src="ashwini-chaudhary-monty-dAvJGJ54g5s-unsplash.jpg"></a>
 
 <details>
@@ -200,13 +140,13 @@ Megapixels                      : 22.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : ashwini-chaudhary-monty-dAvJGJ54g5s-unsplash.jpg
 Directory                       : .
-File Size                       : 1745 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1787 kB
+File Modification Date/Time     : 2023:03:03 14:59:46+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:03:04 15:07:49+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -253,6 +193,66 @@ Megapixels                      : 18.0
 
 </details>
 
+<a href="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg"><img alt="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg" src="ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : ashwini-chaudhary-monty-RyxqtBCH7NU-unsplash.jpg
+Directory                       : .
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2023:03:03 14:59:41+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:03:04 15:07:49+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : IX
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 5845
+Image Height                    : 3897
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 5845x3897
+Megapixels                      : 22.8
+```
+
+</details>
+
 <a href="atanas-tsvetkov-9UZAgReiE0Y-unsplash.jpg"><img alt="atanas-tsvetkov-9UZAgReiE0Y-unsplash.jpg" src="atanas-tsvetkov-9UZAgReiE0Y-unsplash.jpg"></a>
 
 <details>
@@ -260,13 +260,13 @@ Megapixels                      : 18.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : atanas-tsvetkov-9UZAgReiE0Y-unsplash.jpg
 Directory                       : .
-File Size                       : 3.0 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 3.1 MB
+File Modification Date/Time     : 2023:03:03 15:05:59+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:03:04 15:08:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -320,13 +320,13 @@ Megapixels                      : 12.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : beach.jpg
 Directory                       : .
-File Size                       : 282 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 289 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -351,13 +351,13 @@ Megapixels                      : 2.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : black_mountain_ivana_cajina.jpg
 Directory                       : .
-File Size                       : 933 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 955 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -411,13 +411,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : bluemtn_01_d.jpg
 Directory                       : .
-File Size                       : 5.9 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 6.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -456,7 +456,6 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CC 2017
 Photoshop Quality               : 12
 Photoshop Format                : Standard
-Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01
 Creator Tool                    : Adobe Photoshop CC 2017 (Windows)
 Create Date                     : 2016:06:07 19:55:06-07:00
@@ -540,13 +539,13 @@ Thumbnail Image                 : (Binary data 1564 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : cameron-foth-xU5Sr5Vs6ak-unsplash.jpg
 Directory                       : .
-File Size                       : 4.9 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 5.2 MB
+File Modification Date/Time     : 2023:03:03 15:02:00+05:30
+File Access Date/Time           : 2023:04:13 23:48:42+05:30
+File Inode Change Date/Time     : 2023:03:04 15:07:49+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -600,13 +599,13 @@ Megapixels                      : 45.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : canazei_granite_ridges.jpg
 Directory                       : .
-File Size                       : 5.0 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 5.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -637,13 +636,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : catalin-sandru-Amn5SmeO-uA-unsplash.jpg
 Directory                       : .
-File Size                       : 1328 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1360 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -697,13 +696,13 @@ Megapixels                      : 24.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : clay-banks-u27Rrbs9Dwc-unsplash.jpg
 Directory                       : .
-File Size                       : 438 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 449 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -757,13 +756,13 @@ Megapixels                      : 6.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : cloudy.jpg
 Directory                       : .
-File Size                       : 1597 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1635 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -793,13 +792,13 @@ Megapixels                      : 19.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : everforest_mountain_range.jpeg
 Directory                       : .
-File Size                       : 81 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 83 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -825,13 +824,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : extra-10.png
 Directory                       : .
-File Size                       : 1086 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1112 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:43+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rwxr-xr-x
 File Type                       : PNG
 File Type Extension             : png
@@ -867,13 +866,13 @@ Megapixels                      : 2.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : extra-11.jpg
 Directory                       : .
-File Size                       : 786 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 805 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -909,7 +908,6 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS6
 Photoshop Quality               : 12
 Photoshop Format                : Standard
-Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
 Creator Tool                    : Adobe Photoshop CS6 (Windows)
 Create Date                     : 2014:10:25 18:44:43+08:00
@@ -988,13 +986,13 @@ Thumbnail Image                 : (Binary data 2576 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : extra-12.jpg
 Directory                       : .
-File Size                       : 630 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 645 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rwxr-xr-x
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1030,7 +1028,6 @@ Writer Name                     : Adobe Photoshop
 Reader Name                     : Adobe Photoshop CS6
 Photoshop Quality               : 12
 Photoshop Format                : Standard
-Progressive Scans               : 3 Scans
 XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
 Creator Tool                    : Adobe Photoshop CS6 (Windows)
 Create Date                     : 2014:09:20 14:23:48+08:00
@@ -1110,13 +1107,13 @@ Thumbnail Image                 : (Binary data 1796 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : glacier_kilimanjaro_hu_chen.jpg
 Directory                       : .
-File Size                       : 1540 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1577 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1170,13 +1167,13 @@ Megapixels                      : 24.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : half_dome_yosemite_national_park_elle_zhu.jpg
 Directory                       : .
-File Size                       : 4.7 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 4.9 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1230,13 +1227,13 @@ Megapixels                      : 19.5
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : jessi-pena-bXD1LRIDKYQ-unsplash.jpg
 Directory                       : .
-File Size                       : 2.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1290,13 +1287,13 @@ Megapixels                      : 11.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : kal-visuals-a-G0Ma--qbc-unsplash.jpg
 Directory                       : .
-File Size                       : 350 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 359 kB
+File Modification Date/Time     : 2023:01:12 17:21:53+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:53+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1350,13 +1347,13 @@ Megapixels                      : 3.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : karsten-wurth-aZgDHvn6fK8-unsplash.jpg
 Directory                       : .
-File Size                       : 2.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1410,13 +1407,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : karsten-wurth-b_8eErngWm4-unsplash.jpg
 Directory                       : .
-File Size                       : 2.5 MiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 2.6 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1470,13 +1467,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : kevin-wolf-BJyjgEdNTPs-unsplash.jpg
 Directory                       : .
-File Size                       : 976 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 1000 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1530,13 +1527,13 @@ Megapixels                      : 12.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : khusna-faiq-XcK3gINysWk-unsplash.jpg
 Directory                       : .
-File Size                       : 712 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 729 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1583,6 +1580,76 @@ Megapixels                      : 9.0
 
 </details>
 
+<a href="mountain.jpg"><img alt="mountain.jpg" src="mountain.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : mountain.jpg
+Directory                       : .
+File Size                       : 9.1 MB
+File Modification Date/Time     : 2023:03:08 15:48:30+05:30
+File Access Date/Time           : 2023:04:13 23:48:44+05:30
+File Inode Change Date/Time     : 2023:03:08 21:37:34+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 6000
+Image Height                    : 4000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 6000x4000
+Megapixels                      : 24.0
+```
+
+</details>
+
+<a href="mountains.png"><img alt="mountains.png" src="mountains.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : mountains.png
+Directory                       : .
+File Size                       : 1587 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 1920
+Image Height                    : 1080
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+SRGB Rendering                  : Perceptual
+Gamma                           : 2.2
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
 <a href="mount_cook_canterbury_jordan_mcgee.jpg"><img alt="mount_cook_canterbury_jordan_mcgee.jpg" src="mount_cook_canterbury_jordan_mcgee.jpg"></a>
 
 <details>
@@ -1590,13 +1657,13 @@ Megapixels                      : 9.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : mount_cook_canterbury_jordan_mcgee.jpg
 Directory                       : .
-File Size                       : 700 KiB
-File Modification Date/Time     : 2023:04:27 08:49:49+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:49+00:00
+File Size                       : 716 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1650,13 +1717,13 @@ Megapixels                      : 30.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : mount_cook_canterbury_kuno_schweizer.jpg
 Directory                       : .
-File Size                       : 2.3 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:49+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 2.4 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1703,42 +1770,6 @@ Megapixels                      : 13.3
 
 </details>
 
-<a href="mountains.png"><img alt="mountains.png" src="mountains.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : mountains.png
-Directory                       : .
-File Size                       : 1550 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 1920
-Image Height                    : 1080
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Pixels Per Unit X               : 2835
-Pixels Per Unit Y               : 2835
-Pixel Units                     : meters
-SRGB Rendering                  : Perceptual
-Gamma                           : 2.2
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
 <a href="mtn.jpg"><img alt="mtn.jpg" src="mtn.jpg"></a>
 
 <details>
@@ -1746,13 +1777,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : mtn.jpg
 Directory                       : .
-File Size                       : 1910 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1956 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1795,7 +1826,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -1821,13 +1852,13 @@ Thumbnail Image                 : (Binary data 2877 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : naveen-prajapat-eQu4HfK53lk-unsplash.jpg
 Directory                       : .
-File Size                       : 1191 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1219 kB
+File Modification Date/Time     : 2023:03:11 21:48:08+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:03:11 21:58:46+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1881,13 +1912,13 @@ Megapixels                      : 24.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : nicolas-j-leclercq-FyOvf63ZRpk-unsplash.jpg
 Directory                       : .
-File Size                       : 3.5 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 3.7 MB
+File Modification Date/Time     : 2023:03:11 21:51:41+05:30
+File Access Date/Time           : 2023:04:13 23:48:45+05:30
+File Inode Change Date/Time     : 2023:03:11 21:58:46+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -1941,13 +1972,13 @@ Megapixels                      : 20.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : poon_hill_histan_mandali.jpg
 Directory                       : .
-File Size                       : 1399 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1433 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2001,13 +2032,13 @@ Megapixels                      : 16.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : rocky.jpg
 Directory                       : .
-File Size                       : 1457 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1491 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2040,7 +2071,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -2065,13 +2096,13 @@ Megapixels                      : 9.0
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : samuel-jeronimo-uSPTBL4WAsk-unsplash.jpg
 Directory                       : .
-File Size                       : 3.9 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 4.1 MB
+File Modification Date/Time     : 2023:03:03 15:01:10+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:03:04 15:08:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2125,13 +2156,13 @@ Megapixels                      : 45.4
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sascha-bosshard-n8WT_zhU6cg-unsplash.jpg
 Directory                       : .
-File Size                       : 760 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 778 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2185,13 +2216,13 @@ Megapixels                      : 15.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : snow_covered_mountains_grigone_asoggetti.jpg
 Directory                       : .
-File Size                       : 5.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 5.6 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2245,13 +2276,13 @@ Megapixels                      : 24.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : strudelkopf_toblach_suditrol_daniel_sessler.jpg
 Directory                       : .
-File Size                       : 4.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 4.6 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2305,13 +2336,13 @@ Megapixels                      : 42.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : sunset_yosemite_valley_oleg_chursin.jpg
 Directory                       : .
-File Size                       : 4.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 4.6 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2365,13 +2396,13 @@ Megapixels                      : 24.2
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : the_serenity_interior_township_sd_dave_hoefler.jpg
 Directory                       : .
-File Size                       : 5.3 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 5.5 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:46+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2425,13 +2456,13 @@ Megapixels                      : 29.9
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : tree_in_water_anaka_otago_ken_cheung.jpg
 Directory                       : .
-File Size                       : 972 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 996 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2478,20 +2509,20 @@ Megapixels                      : 17.5
 
 </details>
 
-<a href="undefined - Imgur(1).jpg"><img alt="undefined - Imgur(1).jpg" src="undefined - Imgur(1).jpg"></a>
+<a href="undefined - Imgur(10).jpg"><img alt="undefined - Imgur(10).jpg" src="undefined - Imgur(10).jpg"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
-File Name                       : undefined - Imgur(1).jpg
+ExifTool Version Number         : 12.54
+File Name                       : undefined - Imgur(10).jpg
 Directory                       : .
-File Size                       : 2.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1503 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2508,20 +2539,20 @@ Megapixels                      : 3.7
 
 </details>
 
-<a href="undefined - Imgur(10).jpg"><img alt="undefined - Imgur(10).jpg" src="undefined - Imgur(10).jpg"></a>
+<a href="undefined - Imgur(1).jpg"><img alt="undefined - Imgur(1).jpg" src="undefined - Imgur(1).jpg"></a>
 
 <details>
 
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
-File Name                       : undefined - Imgur(10).jpg
+ExifTool Version Number         : 12.54
+File Name                       : undefined - Imgur(1).jpg
 Directory                       : .
-File Size                       : 1468 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2545,13 +2576,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : undefined - Imgur(5).jpg
 Directory                       : .
-File Size                       : 2.7 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 2.8 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2614,13 +2645,13 @@ Megapixels                      : 22.3
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : wallhaven-o3qol5.jpg
 Directory                       : .
-File Size                       : 3.5 MiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 3.7 MB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2727,13 +2758,13 @@ Thumbnail Image                 : (Binary data 2926 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : xgf538n2ch791.png
 Directory                       : .
-File Size                       : 1363 KiB
-File Modification Date/Time     : 2023:04:27 08:49:50+00:00
-File Access Date/Time           : 2023:04:27 08:49:50+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:50+00:00
+File Size                       : 1396 kB
+File Modification Date/Time     : 2023:01:12 17:21:54+05:30
+File Access Date/Time           : 2023:04:13 23:48:47+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:54+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

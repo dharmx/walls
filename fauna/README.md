@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 103 - qlVeiGJ.png
 Directory                       : .
-File Size                       : 2.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:58+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -38,13 +38,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 104 - gAC61L6.png
 Directory                       : .
-File Size                       : 3.3 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 3.5 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:58+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -69,13 +69,13 @@ Megapixels                      : 2.6
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 112 - Fs9VKVt.png
 Directory                       : .
-File Size                       : 674 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 691 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:58+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -100,13 +100,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 114 - hJNe17i.png
 Directory                       : .
-File Size                       : 2.4 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.5 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:58+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -131,13 +131,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 118 - vleWbqJ.png
 Directory                       : .
-File Size                       : 1871 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1916 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -162,13 +162,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 119 - TRYgosT.png
 Directory                       : .
-File Size                       : 1327 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1358 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -193,13 +193,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 148 - yG5NYrU.png
 Directory                       : .
-File Size                       : 5.0 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 5.2 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -224,13 +224,13 @@ Megapixels                      : 16.8
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 41 - WuLF3HC.png
 Directory                       : .
-File Size                       : 1989 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.0 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -255,13 +255,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 43 - q8NnaGn.png
 Directory                       : .
-File Size                       : 1835 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1879 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -286,13 +286,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 44 - sgNnIlC.png
 Directory                       : .
-File Size                       : 1506 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1542 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -317,13 +317,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 45 - h5oqryH.png
 Directory                       : .
-File Size                       : 2.1 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -348,13 +348,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 48 - AZ1gcib.png
 Directory                       : .
-File Size                       : 1607 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1646 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -379,13 +379,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 68 - sL8nGrX.png
 Directory                       : .
-File Size                       : 2.6 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.7 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:47:59+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -410,13 +410,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 82 - XH3CALU.png
 Directory                       : .
-File Size                       : 1687 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 1728 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:48:00+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -441,13 +441,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 83 - 5LwU1CQ.png
 Directory                       : .
-File Size                       : 2.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 2.3 MB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:48:00+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -472,13 +472,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 93 - OhH5pDB.png
 Directory                       : .
-File Size                       : 414 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 424 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:48:00+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -503,13 +503,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 94 - eT7KxIE.png
 Directory                       : .
-File Size                       : 389 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 398 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:48:00+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -534,13 +534,13 @@ Megapixels                      : 3.7
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 95 - rg7fJWE.png
 Directory                       : .
-File Size                       : 419 KiB
-File Modification Date/Time     : 2023:04:27 08:49:45+00:00
-File Access Date/Time           : 2023:04:27 08:49:45+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:45+00:00
+File Size                       : 429 kB
+File Modification Date/Time     : 2023:01:12 17:21:51+05:30
+File Access Date/Time           : 2023:04:13 23:48:00+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:51+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png

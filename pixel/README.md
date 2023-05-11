@@ -7,13 +7,13 @@
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 0a8c58987544b37b17002c1c6b9b21ea.jpg
 Directory                       : .
-File Size                       : 259 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 265 kB
+File Modification Date/Time     : 2023:01:12 17:21:55+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:55+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -41,13 +41,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 142 - zbB9GDT-yelow.jpg
 Directory                       : .
-File Size                       : 869 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 890 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -90,7 +90,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -116,13 +116,13 @@ Thumbnail Image                 : (Binary data 3920 bytes, use -b option to extr
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : 6b8af5b0d3190ba5816bef3051d1bb91.jpg
 Directory                       : .
-File Size                       : 442 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 453 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -143,6 +143,71 @@ Megapixels                      : 2.1
 
 </details>
 
+<a href="a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f.jpg" src="a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : a00cdcb59e25e8c96ca947c919a1e13f.jpg
+Directory                       : .
+File Size                       : 81 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:17+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : cm
+X Resolution                    : 28
+Y Resolution                    : 28
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+```
+
+</details>
+
+<a href="gruvbox_image4.png"><img alt="gruvbox_image4.png" src="gruvbox_image4.png"></a>
+
+<details>
+
+<summary>EXIFTOOL OUTPUT</summary>
+
+```text
+ExifTool Version Number         : 12.54
+File Name                       : gruvbox_image4.png
+Directory                       : .
+File Size                       : 113 kB
+File Modification Date/Time     : 2023:01:12 17:21:56+05:30
+File Access Date/Time           : 2023:04:13 23:49:18+05:30
+File Inode Change Date/Time     : 2023:01:12 17:21:56+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 2400
+Image Height                    : 1350
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Image Size                      : 2400x1350
+Megapixels                      : 3.2
+```
+
+</details>
+
 <a href="PixelartCity.png"><img alt="PixelartCity.png" src="PixelartCity.png"></a>
 
 <details>
@@ -150,13 +215,13 @@ Megapixels                      : 2.1
 <summary>EXIFTOOL OUTPUT</summary>
 
 ```text
-ExifTool Version Number         : 12.40
+ExifTool Version Number         : 12.54
 File Name                       : PixelartCity.png
 Directory                       : .
-File Size                       : 4.2 MiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
+File Size                       : 4.4 MB
+File Modification Date/Time     : 2023:03:17 21:00:01+05:30
+File Access Date/Time           : 2023:04:13 23:49:18+05:30
+File Inode Change Date/Time     : 2023:03:17 21:00:01+05:30
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -208,7 +273,7 @@ Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extrac
 Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
 Chromaticity Channels           : 3
-Chromaticity Colorant           : Unknown (0)
+Chromaticity Colorant           : Unknown
 Chromaticity Channel 1          : 0.64 0.33002
 Chromaticity Channel 2          : 0.3 0.60001
 Chromaticity Channel 3          : 0.15001 0.06
@@ -254,71 +319,6 @@ Exif Byte Order                 : Big-endian (Motorola, MM)
 Image Size                      : 5760x2880
 Megapixels                      : 16.6
 Thumbnail Image                 : (Binary data 5811 bytes, use -b option to extract)
-```
-
-</details>
-
-<a href="a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f.jpg" src="a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : a00cdcb59e25e8c96ca947c919a1e13f.jpg
-Directory                       : .
-File Size                       : 79 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
-File Permissions                : -rw-r--r--
-File Type                       : JPEG
-File Type Extension             : jpg
-MIME Type                       : image/jpeg
-JFIF Version                    : 1.01
-Resolution Unit                 : cm
-X Resolution                    : 28
-Y Resolution                    : 28
-Image Width                     : 1920
-Image Height                    : 1080
-Encoding Process                : Baseline DCT, Huffman coding
-Bits Per Sample                 : 8
-Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
-Image Size                      : 1920x1080
-Megapixels                      : 2.1
-```
-
-</details>
-
-<a href="gruvbox_image4.png"><img alt="gruvbox_image4.png" src="gruvbox_image4.png"></a>
-
-<details>
-
-<summary>EXIFTOOL OUTPUT</summary>
-
-```text
-ExifTool Version Number         : 12.40
-File Name                       : gruvbox_image4.png
-Directory                       : .
-File Size                       : 110 KiB
-File Modification Date/Time     : 2023:04:27 08:49:52+00:00
-File Access Date/Time           : 2023:04:27 08:49:52+00:00
-File Inode Change Date/Time     : 2023:04:27 08:49:52+00:00
-File Permissions                : -rw-r--r--
-File Type                       : PNG
-File Type Extension             : png
-MIME Type                       : image/png
-Image Width                     : 2400
-Image Height                    : 1350
-Bit Depth                       : 8
-Color Type                      : RGB with Alpha
-Compression                     : Deflate/Inflate
-Filter                          : Adaptive
-Interlace                       : Noninterlaced
-Image Size                      : 2400x1350
-Megapixels                      : 3.2
 ```
 
 </details>
