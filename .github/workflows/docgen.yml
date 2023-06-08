@@ -20,13 +20,12 @@ jobs:
         run: sudo apt-get update && sudo apt-get install libimage-exiftool-perl
       - name: Build
         run: |
-          ./.github/generate_readme.sh
+          ./.github/docgen.py
       - name: Commit
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           COMMIT_MSG: |
-            [readme] generated readmes
-            skip-checks: true
+            [README] Generated readmes.
         run: |
           git config user.email "actions@github"
           git config user.name "Github Actions"
