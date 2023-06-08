@@ -14,10 +14,10 @@ def get_config(config_path: Path = Path("./.github/config.ini")) -> dict[str, st
     return dict(parser.defaults())
 
 
-def categorical_wallpapers(repo: Path = Path(".")) -> dict[Path, list[Path]]:
+def categorical_wallpapers(repo: Path = Path(".")) -> dict[str, list[Path]]:
     return {
         # exclude categorical README.md
-        repo / category: [repo / category / picture for picture in listdir(repo / category) if picture != "README.md"]
+        str(repo / category): [Path(picture) for picture in listdir(repo / category) if picture != "README.md"]
         # exclude hidden directories and README.md
         for category in listdir(repo)
         if not category.startswith(".") and not isfile(repo / category)
@@ -32,8 +32,8 @@ def get_templates(repo: Path = Path(".")) -> dict[str, str]:
 
 
 def generate_shuffled(
-    categories: dict[Path, list[Path]] = categorical_wallpapers(), config: dict[str, str] = get_config()
-) -> dict[Path, list[Path]]:
+    categories: dict[str, list[Path]] = categorical_wallpapers(), config: dict[str, str] = get_config()
+) -> dict[str, list[Path]]:
     return {category: choices(pictures, k=int(config["choose"])) for category, pictures in categories.items()}
 
 
@@ -50,10 +50,10 @@ def prime_templates(
     }
 
 
-def transform_shuffled(shuffled_paths: list[Path]) -> dict[str, str]:
+def transform_shuffled(category: str, shuffled_paths: list[Path]) -> dict[str, str]:
     results = {}
     for index in range(len(shuffled_paths)):
-        results[f"shuffled_{index}"] = str(shuffled_paths[index])
+        results[f"shuffled_{index}"] = str(f"../{category}" / shuffled_paths[index])
         results[f"shuffled_{index}_stem"] = shuffled_paths[index].stem
     return results
 
@@ -62,8 +62,8 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
     shuffled = generate_shuffled()
     results = []
     for category, pictures in shuffled.items():
-        merged = {"category": category.name}
-        merged = merged | config | transform_shuffled(pictures)
+        merged = {"category": category}
+        merged = merged | config | transform_shuffled(category, pictures)
         results.append(string.format(**merged))
     return ("\n" * int(config["spacing"])).join(results)
 
@@ -71,9 +71,8 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
 def handle_category(_, string: str, variables: dict[str, str]) -> dict[str, str]:
     results = {}
     for category, pictures in categorical_wallpapers().items():
-        readme = category / "README.md"
-        readme = str(readme)
-        results[readme] = f"# {category.name}\n\n"
+        readme = f"{category}/README.md"
+        results[readme] = f"# {category}\n\n"
         for picture in pictures:
             merged = variables | {"filepath": str(picture), "filename": picture.stem}
             results[readme] += string.format(**merged) + "\n"
