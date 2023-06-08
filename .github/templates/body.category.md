@@ -6,4 +6,4 @@
 
 <a href="{shuffled_2}"><img alt="{shuffled_2_stem}" src="{shuffled_2}"></a><br/><br/>
 
-[Browse]({category}/README.md)
+[Browse](../{category}/README.md)
