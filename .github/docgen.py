@@ -5,7 +5,7 @@ from json import dumps
 from os import listdir
 from os.path import isfile
 from pathlib import Path
-from random import choices
+from random import shuffle
 from typing import Callable
 
 
@@ -15,13 +15,14 @@ def get_config(config_path: Path = Path("./.github/config.ini")) -> dict[str, st
     return dict(parser.defaults())
 
 
-def categorical_wallpapers() -> dict[str, list[Path]]:
+def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path]]:
+    exclude = exclude.split(":") if type(exclude) is str else exclude
     return {
         # exclude categorical README.md
         str(category): [Path(picture) for picture in listdir(category) if picture != "README.md"]
         # exclude hidden directories and README.md
         for category in listdir(".")
-        if not category.startswith(".") and not isfile(category)
+        if not category.startswith(".") and not isfile(category) and category not in exclude
     }
 
 
@@ -31,9 +32,14 @@ def get_templates() -> dict[str, str]:
 
 def generate_shuffled(
     config: dict[str, str],
-    categories: dict[str, list[Path]] = categorical_wallpapers()
+    categories: dict[str, list[Path]],
 ) -> dict[str, list[Path]]:
-    return {category: choices(pictures, k=int(config["choose"])) for category, pictures in categories.items()}
+    results = {}
+    choose = int(config["choose"])
+    for category, pictures in categories.items():
+        shuffle(pictures)
+        results[category] = pictures[:choose]
+    return results
 
 
 def prime_templates(
@@ -47,23 +53,21 @@ def prime_templates(
     }
 
 
-def transform_shuffled(category: str, shuffled_paths: list[Path]) -> dict[str, str]:
-    results = {}
-    for index in range(len(shuffled_paths)):
-        results[f"shuffled_{index}"] = str(f"../{category}" / shuffled_paths[index])
-        results[f"shuffled_{index}_stem"] = shuffled_paths[index].stem
-    return results
-
-
 # Handlers {{{
 def handle_body(_, string: str, config: dict[str, str]) -> str:
-    shuffled = generate_shuffled(config)
+    shuffled = generate_shuffled(config, categorical_wallpapers(config["exclude"]))
     results = []
+    spacing = "\n" * int(config["spacing"])
     for category, pictures in shuffled.items():
-        merged = {"category": category}
-        merged = merged | config | transform_shuffled(category, pictures)
-        results.append(string.format(**merged))
-    return ("\n" * int(config["spacing"])).join(results)
+        merged = {"category": category} | config
+        results.append(f"## {category}{spacing}")
+        for picture in pictures:
+            merged["random"] = str(picture)
+            merged["random_stem"] = picture.stem
+            results.append(string.format(**merged))
+        if config["browse"].casefold() == "True".casefold():
+            results.append(f"[Browse](../{category}/README.md){spacing}")
+    return spacing.join(results)
 
 
 def handle_category(_, string: str, config: dict[str, str]) -> dict[str, str]:
@@ -76,8 +80,6 @@ def handle_category(_, string: str, config: dict[str, str]) -> dict[str, str]:
             merged = config | {"filepath": str(picture), "filename": picture.stem}
             results[readme] = f"{results[readme]}{string.format(**merged)}{spacing}"
     return results
-
-
 # }}}
 
 
