@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from configparser import ConfigParser
+from json import dumps
 from os import listdir
 from os.path import isfile
 from pathlib import Path
@@ -14,38 +15,34 @@ def get_config(config_path: Path = Path("./.github/config.ini")) -> dict[str, st
     return dict(parser.defaults())
 
 
-def categorical_wallpapers(repo: Path = Path(".")) -> dict[str, list[Path]]:
+def categorical_wallpapers() -> dict[str, list[Path]]:
     return {
         # exclude categorical README.md
-        str(repo / category): [Path(picture) for picture in listdir(repo / category) if picture != "README.md"]
+        str(category): [Path(picture) for picture in listdir(category) if picture != "README.md"]
         # exclude hidden directories and README.md
-        for category in listdir(repo)
-        if not category.startswith(".") and not isfile(repo / category)
+        for category in listdir(".")
+        if not category.startswith(".") and not isfile(category)
     }
 
 
-def get_templates(repo: Path = Path(".")) -> dict[str, str]:
-    return {
-        template: Path(repo / ".github" / "templates" / template).read_text()
-        for template in listdir(repo / ".github" / "templates")
-    }
+def get_templates() -> dict[str, str]:
+    return {template: Path(f".github/templates/{template}").read_text() for template in listdir(".github/templates")}
 
 
 def generate_shuffled(
-    categories: dict[str, list[Path]] = categorical_wallpapers(), config: dict[str, str] = get_config()
+    config: dict[str, str],
+    categories: dict[str, list[Path]] = categorical_wallpapers()
 ) -> dict[str, list[Path]]:
     return {category: choices(pictures, k=int(config["choose"])) for category, pictures in categories.items()}
 
 
 def prime_templates(
+    config: dict[str, str],
     handlers: dict[str, Callable],
     templates: dict[str, str] = get_templates(),
-    config: dict[str, str] = get_config(),
 ):
     return {
-        template: handlers[template](template, string, config)
-        if template in handlers
-        else string.format(**config)
+        template: handlers[template](template, string, config) if template in handlers else string.format(**config)
         for template, string in templates.items()
     }
 
@@ -58,8 +55,9 @@ def transform_shuffled(category: str, shuffled_paths: list[Path]) -> dict[str, s
     return results
 
 
+# Handlers {{{
 def handle_body(_, string: str, config: dict[str, str]) -> str:
-    shuffled = generate_shuffled()
+    shuffled = generate_shuffled(config)
     results = []
     for category, pictures in shuffled.items():
         merged = {"category": category}
@@ -68,27 +66,31 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
     return ("\n" * int(config["spacing"])).join(results)
 
 
-def handle_category(_, string: str, variables: dict[str, str]) -> dict[str, str]:
+def handle_category(_, string: str, config: dict[str, str]) -> dict[str, str]:
     results = {}
+    spacing = "\n" * int(config["spacing"])
     for category, pictures in categorical_wallpapers().items():
         readme = f"{category}/README.md"
         results[readme] = f"# {category}\n\n"
         for picture in pictures:
-            merged = variables | {"filepath": str(picture), "filename": picture.stem}
-            results[readme] += string.format(**merged) + "\n"
+            merged = config | {"filepath": str(picture), "filename": picture.stem}
+            results[readme] = f"{results[readme]}{string.format(**merged)}{spacing}"
     return results
 
 
-if __name__ == "__main__":
-    primed = prime_templates({"body.category.md": handle_body, "category.md": handle_category})
-    Path(".github/README.md").write_text("\n".join([
-        # custom priority
-        primed["heading.md"],
-        primed["body.heading.md"],
-        primed["body.category.md"],
-        primed["sources.md"],
-        primed["conclusion.md"],
-    ]))
+# }}}
 
-    for category, readme_string in primed["category.md"].items():
-        Path(category).write_text(readme_string)
+
+if __name__ == "__main__":
+    CONFIG = get_config()
+    primed = prime_templates(CONFIG, {"body.category.md": handle_body, "category.md": handle_category})
+    full_templates = ["heading", "body.heading", "body.category", "sources", "conclusion"] # ordered
+    full_templates = [primed[f"{item}.md"] for item in full_templates]
+    partial_template = primed["category.md"]
+
+    if CONFIG["dry"].casefold() == "True".casefold():
+        print(dumps({"full": full_templates, "partial": partial_template})) # use this with jq/fq
+    else:
+        Path(".github/README.md").write_text(("\n" * int(CONFIG["spacing"])).join(full_templates))
+        for category, readme in partial_template.items():
+            Path(category).write_text(readme)
