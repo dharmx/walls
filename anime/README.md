@@ -298,6 +298,8 @@
 
 <a href="56 - Ru2l92Z.jpg"><img alt="56 - Ru2l92Z" src="56 - Ru2l92Z.jpg"></a>
 
+<a href="502021-computer-serial.jpg"><img alt="502021-computer-serial" src="502021-computer-serial.jpg"></a>
+
 <a href="42 - U6mRv0G.jpg"><img alt="42 - U6mRv0G" src="42 - U6mRv0G.jpg"></a>
 
 <a href="d4i8ZZN.jpeg"><img alt="d4i8ZZN" src="d4i8ZZN.jpeg"></a>
@@ -361,6 +363,8 @@
 <a href="0qwm7q2as41a1.jpg"><img alt="0qwm7q2as41a1" src="0qwm7q2as41a1.jpg"></a>
 
 <a href="11 - hM2j0Vz.jpg"><img alt="11 - hM2j0Vz" src="11 - hM2j0Vz.jpg"></a>
+
+<a href="IMG_20230423_114422_0057.jpg"><img alt="IMG_20230423_114422_0057" src="IMG_20230423_114422_0057.jpg"></a>
 
 <a href="1610799184462.jpg"><img alt="1610799184462" src="1610799184462.jpg"></a>
 
@@ -463,6 +467,8 @@
 <a href="VP16whD.jpeg"><img alt="VP16whD" src="VP16whD.jpeg"></a>
 
 <a href="32 - rS9lewf.jpg"><img alt="32 - rS9lewf" src="32 - rS9lewf.jpg"></a>
+
+<a href="wallhaven-85rw5o_1920x1080.png"><img alt="wallhaven-85rw5o_1920x1080" src="wallhaven-85rw5o_1920x1080.png"></a>
 
 <a href="25 - PszodRq.png"><img alt="25 - PszodRq" src="25 - PszodRq.png"></a>
 
@@ -569,6 +575,8 @@
 <a href="31 - CjTmQ8s.jpg"><img alt="31 - CjTmQ8s" src="31 - CjTmQ8s.jpg"></a>
 
 <a href="8 - 0LIrqOi.jpg"><img alt="8 - 0LIrqOi" src="8 - 0LIrqOi.jpg"></a>
+
+<a href="New_Project.png_"><img alt="New_Project" src="New_Project.png_"></a>
 
 <a href="36 - oKsUZuc.jpg"><img alt="36 - oKsUZuc" src="36 - oKsUZuc.jpg"></a>
 
@@ -687,6 +695,4 @@
 <a href="26d1a040f9d5d484d21e2277c97a1330.jpg"><img alt="26d1a040f9d5d484d21e2277c97a1330" src="26d1a040f9d5d484d21e2277c97a1330.jpg"></a>
 
 <a href="76 - 5SP338w - Evangelion - Gaghiel.jpg"><img alt="76 - 5SP338w - Evangelion - Gaghiel" src="76 - 5SP338w - Evangelion - Gaghiel.jpg"></a>
-
-<a href="https://github.com/Alucard2169/walls/blob/main/anime/wallhaven-85rw5o_1920x1080.png"><img alt="girl in disaster" src="https://github.com/Alucard2169/walls/blob/main/anime/wallhaven-85rw5o_1920x1080.png"></a>
 

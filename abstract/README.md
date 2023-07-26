@@ -16,6 +16,8 @@
 
 <a href="wallhaven-o33x55.png"><img alt="wallhaven-o33x55" src="wallhaven-o33x55.png"></a>
 
+<a href="arabia-gruv.png"><img alt="arabia-gruv" src="arabia-gruv.png"></a>
+
 <a href="1637643605103.jpg"><img alt="1637643605103" src="1637643605103.jpg"></a>
 
 <a href="wallhaven-95y961.png"><img alt="wallhaven-95y961" src="wallhaven-95y961.png"></a>
@@ -77,6 +79,8 @@
 <a href="wallhaven-wqqerq.png"><img alt="wallhaven-wqqerq" src="wallhaven-wqqerq.png"></a>
 
 <a href="wallhaven-j89okp.png"><img alt="wallhaven-j89okp" src="wallhaven-j89okp.png"></a>
+
+<a href="teal-liquid.jpg"><img alt="teal-liquid" src="teal-liquid.jpg"></a>
 
 <a href="wallhaven-lqmg7q.jpg"><img alt="wallhaven-lqmg7q" src="wallhaven-lqmg7q.jpg"></a>
 

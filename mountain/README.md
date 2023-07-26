@@ -80,6 +80,8 @@
 
 <a href="kal-visuals-a-G0Ma--qbc-unsplash.jpg"><img alt="kal-visuals-a-G0Ma--qbc-unsplash" src="kal-visuals-a-G0Ma--qbc-unsplash.jpg"></a>
 
+<a href="pawan-thapa-5teEzy9k1Ls-unsplash.jpg"><img alt="pawan-thapa-5teEzy9k1Ls-unsplash" src="pawan-thapa-5teEzy9k1Ls-unsplash.jpg"></a>
+
 <a href="xgf538n2ch791.png"><img alt="xgf538n2ch791" src="xgf538n2ch791.png"></a>
 
 <a href="black_mountain_ivana_cajina.jpg"><img alt="black_mountain_ivana_cajina" src="black_mountain_ivana_cajina.jpg"></a>

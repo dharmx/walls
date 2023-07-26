@@ -2,7 +2,11 @@
 
 <a href="w13kar04t3681.jpg"><img alt="w13kar04t3681" src="w13kar04t3681.jpg"></a>
 
+<a href="Untitled.png"><img alt="Untitled" src="Untitled.png"></a>
+
 <a href="typewriter_armin_djuhic.jpg"><img alt="typewriter_armin_djuhic" src="typewriter_armin_djuhic.jpg"></a>
+
+<a href="wallhaven-k7zpd1.png"><img alt="wallhaven-k7zpd1" src="wallhaven-k7zpd1.png"></a>
 
 <a href="od_6.jpg"><img alt="od_6" src="od_6.jpg"></a>
 
@@ -11,6 +15,8 @@
 <a href="od_3.jpg"><img alt="od_3" src="od_3.jpg"></a>
 
 <a href="od_5.jpg"><img alt="od_5" src="od_5.jpg"></a>
+
+<a href="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16.png"><img alt="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16" src="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16.png"></a>
 
 <a href="od_4.jpg"><img alt="od_4" src="od_4.jpg"></a>
 
