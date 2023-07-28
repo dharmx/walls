@@ -1,3 +1,3 @@
 ## Showcase
 
-Categorized wallpaper showcase. Three pictures per category.
+Categorized wallpaper showcase. two pictures per category.
