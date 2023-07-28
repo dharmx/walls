@@ -42,6 +42,8 @@
 
 <a href="sleepy_mountains_light_v04.png"><img alt="sleepy_mountains_light_v04" src="sleepy_mountains_light_v04.png"></a>
 
+<a href="borealis.png"><img alt="borealis" src="borealis.png"></a>
+
 <a href="exodus_v01_5120x2880.png"><img alt="exodus_v01_5120x2880" src="exodus_v01_5120x2880.png"></a>
 
 <a href="minimal-21.jpg"><img alt="minimal-21" src="minimal-21.jpg"></a>
@@ -67,8 +69,6 @@
 <a href="wallpaper.png"><img alt="wallpaper" src="wallpaper.png"></a>
 
 <a href="itdo8g9346161.jpg"><img alt="itdo8g9346161" src="itdo8g9346161.jpg"></a>
-
-<a href="borealis.jpg"><img alt="borealis" src="borealis.jpg"></a>
 
 <a href="yhaucvz246161.jpg"><img alt="yhaucvz246161" src="yhaucvz246161.jpg"></a>
 
