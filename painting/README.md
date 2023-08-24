@@ -1,5 +1,7 @@
 # painting
 
+<a href="paint.jpg"><img alt="paint" src="paint.jpg"></a>
+
 <a href="4RFJhJW.png"><img alt="4RFJhJW" src="4RFJhJW.png"></a>
 
 <a href="grand_tour_main_arch.jpg"><img alt="grand_tour_main_arch" src="grand_tour_main_arch.jpg"></a>
