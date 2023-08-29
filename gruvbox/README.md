@@ -6,8 +6,6 @@
 
 <a href="od_6.jpg"><img alt="od_6" src="od_6.jpg"></a>
 
-<a href="igw-hills.png"><img alt="igw-hills" src="igw-hills.png"></a>
-
 <a href="od_5.jpg"><img alt="od_5" src="od_5.jpg"></a>
 
 <a href="cody-gallo-yRQ-7fCJgWI-unsplash.jpg"><img alt="cody-gallo-yRQ-7fCJgWI-unsplash" src="cody-gallo-yRQ-7fCJgWI-unsplash.jpg"></a>
@@ -24,15 +22,23 @@
 
 <a href="w13kar04t3681.jpg"><img alt="w13kar04t3681" src="w13kar04t3681.jpg"></a>
 
+<a href="cat-coffee.png"><img alt="cat-coffee" src="cat-coffee.png"></a>
+
 <a href="typewriter_armin_djuhic.jpg"><img alt="typewriter_armin_djuhic" src="typewriter_armin_djuhic.jpg"></a>
 
 <a href="gruvbox_wasteland.png"><img alt="gruvbox_wasteland" src="gruvbox_wasteland.png"></a>
+
+<a href="staircase.jpg"><img alt="staircase" src="staircase.jpg"></a>
+
+<a href="chinese-hills.jpg"><img alt="chinese-hills" src="chinese-hills.jpg"></a>
 
 <a href="Untitled.png"><img alt="Untitled" src="Untitled.png"></a>
 
 <a href="cliffside.png"><img alt="cliffside" src="cliffside.png"></a>
 
 <a href="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16.png"><img alt="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16" src="Untitled_gruvbox-light-soft_hald16_GaussianRBF_lum2_shape96_near16.png"></a>
+
+<a href="berries.jpg"><img alt="berries" src="berries.jpg"></a>
 
 <a href="27r8pdbrev0a1.png"><img alt="27r8pdbrev0a1" src="27r8pdbrev0a1.png"></a>
 

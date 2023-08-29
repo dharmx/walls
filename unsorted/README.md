@@ -96,8 +96,6 @@
 
 <a href="alex-padurariu-k0SwnevO_wk-unsplash.jpg"><img alt="alex-padurariu-k0SwnevO_wk-unsplash" src="alex-padurariu-k0SwnevO_wk-unsplash.jpg"></a>
 
-<a href="2d1hxqb95g481.png"><img alt="2d1hxqb95g481" src="2d1hxqb95g481.png"></a>
-
 <a href="calvin.jpg"><img alt="calvin" src="calvin.jpg"></a>
 
 <a href="140 - K9Z0tmJ.jpg"><img alt="140 - K9Z0tmJ" src="140 - K9Z0tmJ.jpg"></a>
