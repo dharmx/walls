@@ -10,49 +10,49 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## animated
 
-<a href="../animated/totoro-starry-night-sky-moewalls-com.mp4"><img alt="totoro-starry-night-sky-moewalls-com" src="../animated/totoro-starry-night-sky-moewalls-com.mp4"></a><br/><br/>
+<a href="../animated/totoro-in-the-rain-moewalls-com.mp4"><img alt="totoro-in-the-rain-moewalls-com" src="../animated/totoro-in-the-rain-moewalls-com.mp4"></a><br/><br/>
 
-<a href="../animated/zero-two-bouncing-moewalls-com.mp4"><img alt="zero-two-bouncing-moewalls-com" src="../animated/zero-two-bouncing-moewalls-com.mp4"></a><br/><br/>
+<a href="../animated/qo1zd98o0ghb1.mp4"><img alt="qo1zd98o0ghb1" src="../animated/qo1zd98o0ghb1.mp4"></a><br/><br/>
 
 [Browse](../animated/README.md)
 
 ## chillop
 
-<a href="../chillop/steve-harvey-U4wcrDteZ2Y-unsplash.png"><img alt="steve-harvey-U4wcrDteZ2Y-unsplash" src="../chillop/steve-harvey-U4wcrDteZ2Y-unsplash.png"></a><br/><br/>
+<a href="../chillop/wallhaven-3zp6o9.jpg"><img alt="wallhaven-3zp6o9" src="../chillop/wallhaven-3zp6o9.jpg"></a><br/><br/>
 
-<a href="../chillop/k0yuesbe76p81.jpg"><img alt="k0yuesbe76p81" src="../chillop/k0yuesbe76p81.jpg"></a><br/><br/>
+<a href="../chillop/b910o5hgqe791.webp"><img alt="b910o5hgqe791" src="../chillop/b910o5hgqe791.webp"></a><br/><br/>
 
 [Browse](../chillop/README.md)
 
 ## cherry
 
-<a href="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"><img alt="meric-dagli-7NBO76G5JsE-unsplash" src="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"></a><br/><br/>
+<a href="../cherry/cherry-blossom-white.jpg"><img alt="cherry-blossom-white" src="../cherry/cherry-blossom-white.jpg"></a><br/><br/>
 
-<a href="../cherry/Light-Floral-01.png"><img alt="Light-Floral-01" src="../cherry/Light-Floral-01.png"></a><br/><br/>
+<a href="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"><img alt="meric-dagli-7NBO76G5JsE-unsplash" src="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"></a><br/><br/>
 
 [Browse](../cherry/README.md)
 
 ## mountain
 
-<a href="../mountain/poon_hill_histan_mandali.jpg"><img alt="poon_hill_histan_mandali" src="../mountain/poon_hill_histan_mandali.jpg"></a><br/><br/>
+<a href="../mountain/naveen-prajapat-eQu4HfK53lk-unsplash.jpg"><img alt="naveen-prajapat-eQu4HfK53lk-unsplash" src="../mountain/naveen-prajapat-eQu4HfK53lk-unsplash.jpg"></a><br/><br/>
 
-<a href="../mountain/extra-12.jpg"><img alt="extra-12" src="../mountain/extra-12.jpg"></a><br/><br/>
+<a href="../mountain/clay-banks-u27Rrbs9Dwc-unsplash.jpg"><img alt="clay-banks-u27Rrbs9Dwc-unsplash" src="../mountain/clay-banks-u27Rrbs9Dwc-unsplash.jpg"></a><br/><br/>
 
 [Browse](../mountain/README.md)
 
 ## spam
 
-<a href="../spam/Dark red Japan.png"><img alt="Dark red Japan" src="../spam/Dark red Japan.png"></a><br/><br/>
+<a href="../spam/destiny.png"><img alt="destiny" src="../spam/destiny.png"></a><br/><br/>
 
-<a href="../spam/car.png"><img alt="car" src="../spam/car.png"></a><br/><br/>
+<a href="../spam/city-scape.png"><img alt="city-scape" src="../spam/city-scape.png"></a><br/><br/>
 
 [Browse](../spam/README.md)
 
 ## cold
 
-<a href="../cold/undefined - Imgur.jpg"><img alt="undefined - Imgur" src="../cold/undefined - Imgur.jpg"></a><br/><br/>
+<a href="../cold/kym-mackinnon-KrrVNx8R640-unsplash.jpg"><img alt="kym-mackinnon-KrrVNx8R640-unsplash" src="../cold/kym-mackinnon-KrrVNx8R640-unsplash.jpg"></a><br/><br/>
 
-<a href="../cold/w5fohvw1xv191.jpg"><img alt="w5fohvw1xv191" src="../cold/w5fohvw1xv191.jpg"></a><br/><br/>
+<a href="../cold/basil-lade-tDwc_wK57Pk-unsplash.jpg"><img alt="basil-lade-tDwc_wK57Pk-unsplash" src="../cold/basil-lade-tDwc_wK57Pk-unsplash.jpg"></a><br/><br/>
 
 [Browse](../cold/README.md)
 
@@ -66,33 +66,33 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## centered
 
-<a href="../centered/Diseno_sin_titulo2.png"><img alt="Diseno_sin_titulo2" src="../centered/Diseno_sin_titulo2.png"></a><br/><br/>
+<a href="../centered/index.png"><img alt="index" src="../centered/index.png"></a><br/><br/>
 
-<a href="../centered/e2346ad7dab59fd328950429abde3bb5.jpg"><img alt="e2346ad7dab59fd328950429abde3bb5" src="../centered/e2346ad7dab59fd328950429abde3bb5.jpg"></a><br/><br/>
+<a href="../centered/98 - BU5WdYL.jpg"><img alt="98 - BU5WdYL" src="../centered/98 - BU5WdYL.jpg"></a><br/><br/>
 
 [Browse](../centered/README.md)
 
 ## flowers
 
-<a href="../flowers/annie-spratt-KQ6sO8m1ZDE-unsplash.jpg"><img alt="annie-spratt-KQ6sO8m1ZDE-unsplash" src="../flowers/annie-spratt-KQ6sO8m1ZDE-unsplash.jpg"></a><br/><br/>
+<a href="../flowers/camille-orgel-LFUENr5bh1A-unsplash.jpg"><img alt="camille-orgel-LFUENr5bh1A-unsplash" src="../flowers/camille-orgel-LFUENr5bh1A-unsplash.jpg"></a><br/><br/>
 
-<a href="../flowers/anna-kovalova-OEyw-6ZDR-U-unsplash.jpg"><img alt="anna-kovalova-OEyw-6ZDR-U-unsplash" src="../flowers/anna-kovalova-OEyw-6ZDR-U-unsplash.jpg"></a><br/><br/>
+<a href="../flowers/kien-do-uUVkzxDR1D0-unsplash.jpg"><img alt="kien-do-uUVkzxDR1D0-unsplash" src="../flowers/kien-do-uUVkzxDR1D0-unsplash.jpg"></a><br/><br/>
 
 [Browse](../flowers/README.md)
 
 ## minimal
 
-<a href="../minimal/summer_bliss_v01_5120x2880.png"><img alt="summer_bliss_v01_5120x2880" src="../minimal/summer_bliss_v01_5120x2880.png"></a><br/><br/>
+<a href="../minimal/en3g3wwmnwi41.png"><img alt="en3g3wwmnwi41" src="../minimal/en3g3wwmnwi41.png"></a><br/><br/>
 
-<a href="../minimal/sleepy_mountains_light_v01.png"><img alt="sleepy_mountains_light_v01" src="../minimal/sleepy_mountains_light_v01.png"></a><br/><br/>
+<a href="../minimal/8337e8bf18303f6aa4c348261322d07e.jpg"><img alt="8337e8bf18303f6aa4c348261322d07e" src="../minimal/8337e8bf18303f6aa4c348261322d07e.jpg"></a><br/><br/>
 
 [Browse](../minimal/README.md)
 
 ## solarized
 
-<a href="../solarized/solarized-planet.jpg"><img alt="solarized-planet" src="../solarized/solarized-planet.jpg"></a><br/><br/>
+<a href="../solarized/mm7prhmrq3681.jpg"><img alt="mm7prhmrq3681" src="../solarized/mm7prhmrq3681.jpg"></a><br/><br/>
 
-<a href="../solarized/lli0c12vlvd91.png"><img alt="lli0c12vlvd91" src="../solarized/lli0c12vlvd91.png"></a><br/><br/>
+<a href="../solarized/knights-of-sidonia.png"><img alt="knights-of-sidonia" src="../solarized/knights-of-sidonia.png"></a><br/><br/>
 
 [Browse](../solarized/README.md)
 
@@ -100,53 +100,53 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../logo/7MYT0Mo.png"><img alt="7MYT0Mo" src="../logo/7MYT0Mo.png"></a><br/><br/>
 
-<a href="../logo/out.png"><img alt="out" src="../logo/out.png"></a><br/><br/>
+<a href="../logo/wallhaven-p8117p.png"><img alt="wallhaven-p8117p" src="../logo/wallhaven-p8117p.png"></a><br/><br/>
 
 [Browse](../logo/README.md)
 
 ## m-26.jp
 
-<a href="../m-26.jp/12.jpg"><img alt="12" src="../m-26.jp/12.jpg"></a><br/><br/>
+<a href="../m-26.jp/10.jpg"><img alt="10" src="../m-26.jp/10.jpg"></a><br/><br/>
 
-<a href="../m-26.jp/23.jpg"><img alt="23" src="../m-26.jp/23.jpg"></a><br/><br/>
+<a href="../m-26.jp/04.jpg"><img alt="04" src="../m-26.jp/04.jpg"></a><br/><br/>
 
 [Browse](../m-26.jp/README.md)
 
 ## fauna
 
-<a href="../fauna/68 - sL8nGrX.png"><img alt="68 - sL8nGrX" src="../fauna/68 - sL8nGrX.png"></a><br/><br/>
+<a href="../fauna/95 - rg7fJWE.png"><img alt="95 - rg7fJWE" src="../fauna/95 - rg7fJWE.png"></a><br/><br/>
 
-<a href="../fauna/103 - qlVeiGJ.png"><img alt="103 - qlVeiGJ" src="../fauna/103 - qlVeiGJ.png"></a><br/><br/>
+<a href="../fauna/118 - vleWbqJ.png"><img alt="118 - vleWbqJ" src="../fauna/118 - vleWbqJ.png"></a><br/><br/>
 
 [Browse](../fauna/README.md)
 
 ## halloween
 
-<a href="../halloween/scott-webb-sEX6PAx4lGs-unsplash.jpg"><img alt="scott-webb-sEX6PAx4lGs-unsplash" src="../halloween/scott-webb-sEX6PAx4lGs-unsplash.jpg"></a><br/><br/>
-
 <a href="../halloween/freestocks-y_dCjaRWthY-unsplash.jpg"><img alt="freestocks-y_dCjaRWthY-unsplash" src="../halloween/freestocks-y_dCjaRWthY-unsplash.jpg"></a><br/><br/>
+
+<a href="../halloween/scott-webb-sEX6PAx4lGs-unsplash.jpg"><img alt="scott-webb-sEX6PAx4lGs-unsplash" src="../halloween/scott-webb-sEX6PAx4lGs-unsplash.jpg"></a><br/><br/>
 
 [Browse](../halloween/README.md)
 
 ## lightbulb
 
-<a href="../lightbulb/evenezer-marak--i66lJiejN4-unsplash.jpg"><img alt="evenezer-marak--i66lJiejN4-unsplash" src="../lightbulb/evenezer-marak--i66lJiejN4-unsplash.jpg"></a><br/><br/>
+<a href="../lightbulb/colby-sandells-DffzgXyE4cY-unsplash.jpg"><img alt="colby-sandells-DffzgXyE4cY-unsplash" src="../lightbulb/colby-sandells-DffzgXyE4cY-unsplash.jpg"></a><br/><br/>
 
-<a href="../lightbulb/guillaume-bourdages-U2KhQpnPukk-unsplash.jpg"><img alt="guillaume-bourdages-U2KhQpnPukk-unsplash" src="../lightbulb/guillaume-bourdages-U2KhQpnPukk-unsplash.jpg"></a><br/><br/>
+<a href="../lightbulb/james-jadotte-o0UJBuZTKD8-unsplash.jpg"><img alt="james-jadotte-o0UJBuZTKD8-unsplash" src="../lightbulb/james-jadotte-o0UJBuZTKD8-unsplash.jpg"></a><br/><br/>
 
 [Browse](../lightbulb/README.md)
 
 ## outrun
 
-<a href="../outrun/neon.png"><img alt="neon" src="../outrun/neon.png"></a><br/><br/>
+<a href="../outrun/r.jpg"><img alt="r" src="../outrun/r.jpg"></a><br/><br/>
 
-<a href="../outrun/outrun-skyscape.png"><img alt="outrun-skyscape" src="../outrun/outrun-skyscape.png"></a><br/><br/>
+<a href="../outrun/od_wallhaven-j5lk95.jpg"><img alt="od_wallhaven-j5lk95" src="../outrun/od_wallhaven-j5lk95.jpg"></a><br/><br/>
 
 [Browse](../outrun/README.md)
 
 ## girl
 
-<a href="../girl/14 - Z8QoXnk.jpg"><img alt="14 - Z8QoXnk" src="../girl/14 - Z8QoXnk.jpg"></a><br/><br/>
+<a href="../girl/10 - TLUo2mE.jpg"><img alt="10 - TLUo2mE" src="../girl/10 - TLUo2mE.jpg"></a><br/><br/>
 
 <a href="../girl/16 - t3ZUVKh.jpg"><img alt="16 - t3ZUVKh" src="../girl/16 - t3ZUVKh.jpg"></a><br/><br/>
 
@@ -154,17 +154,17 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## monochrome
 
-<a href="../monochrome/1684816030898805.jpg"><img alt="1684816030898805" src="../monochrome/1684816030898805.jpg"></a><br/><br/>
+<a href="../monochrome/time_passing_denis_lomme.jpg"><img alt="time_passing_denis_lomme" src="../monochrome/time_passing_denis_lomme.jpg"></a><br/><br/>
 
-<a href="../monochrome/h9xl47mbld851.png"><img alt="h9xl47mbld851" src="../monochrome/h9xl47mbld851.png"></a><br/><br/>
+<a href="../monochrome/tauben.jpg"><img alt="tauben" src="../monochrome/tauben.jpg"></a><br/><br/>
 
 [Browse](../monochrome/README.md)
 
 ## aerial
 
-<a href="../aerial/michael-benz-IgWNxx7paz4-unsplash.jpg"><img alt="michael-benz-IgWNxx7paz4-unsplash" src="../aerial/michael-benz-IgWNxx7paz4-unsplash.jpg"></a><br/><br/>
+<a href="../aerial/wallhaven-d5me1j.jpg"><img alt="wallhaven-d5me1j" src="../aerial/wallhaven-d5me1j.jpg"></a><br/><br/>
 
-<a href="../aerial/aerial_trees_armin_djuhic.jpg"><img alt="aerial_trees_armin_djuhic" src="../aerial/aerial_trees_armin_djuhic.jpg"></a><br/><br/>
+<a href="../aerial/out2.png"><img alt="out2" src="../aerial/out2.png"></a><br/><br/>
 
 [Browse](../aerial/README.md)
 
@@ -176,23 +176,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## weirdcore
 
-<a href="../weirdcore/1687154664825712.png"><img alt="1687154664825712" src="../weirdcore/1687154664825712.png"></a><br/><br/>
-
 <a href="../weirdcore/1687154052430471.png"><img alt="1687154052430471" src="../weirdcore/1687154052430471.png"></a><br/><br/>
+
+<a href="../weirdcore/1687154664825712.png"><img alt="1687154664825712" src="../weirdcore/1687154664825712.png"></a><br/><br/>
 
 [Browse](../weirdcore/README.md)
 
 ## anime
 
-<a href="../anime/EU6BSxYUMAE8pDb.png"><img alt="EU6BSxYUMAE8pDb" src="../anime/EU6BSxYUMAE8pDb.png"></a><br/><br/>
+<a href="../anime/es_night.png"><img alt="es_night" src="../anime/es_night.png"></a><br/><br/>
 
-<a href="../anime/inspect.png"><img alt="inspect" src="../anime/inspect.png"></a><br/><br/>
+<a href="../anime/12 - KmFVtFp.png"><img alt="12 - KmFVtFp" src="../anime/12 - KmFVtFp.png"></a><br/><br/>
 
 [Browse](../anime/README.md)
 
 ## apeiros
 
-<a href="../apeiros/abandoned_buildings_1.png"><img alt="abandoned_buildings_1" src="../apeiros/abandoned_buildings_1.png"></a><br/><br/>
+<a href="../apeiros/fog_forest_2.png"><img alt="fog_forest_2" src="../apeiros/fog_forest_2.png"></a><br/><br/>
 
 <a href="../apeiros/skyscraper_1.png"><img alt="skyscraper_1" src="../apeiros/skyscraper_1.png"></a><br/><br/>
 
@@ -200,15 +200,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## unsorted
 
-<a href="../unsorted/daria-kraplak-d34DtRp1bqo-unsplash.jpg"><img alt="daria-kraplak-d34DtRp1bqo-unsplash" src="../unsorted/daria-kraplak-d34DtRp1bqo-unsplash.jpg"></a><br/><br/>
+<a href="../unsorted/169.png"><img alt="169" src="../unsorted/169.png"></a><br/><br/>
 
-<a href="../unsorted/67 - C7OTJXo.jpg"><img alt="67 - C7OTJXo" src="../unsorted/67 - C7OTJXo.jpg"></a><br/><br/>
+<a href="../unsorted/mathias-reding-GyCJrZ4Gp4k-unsplash.jpg"><img alt="mathias-reding-GyCJrZ4Gp4k-unsplash" src="../unsorted/mathias-reding-GyCJrZ4Gp4k-unsplash.jpg"></a><br/><br/>
 
 [Browse](../unsorted/README.md)
 
 ## paper
 
-<a href="../paper/1647871996116.jpg"><img alt="1647871996116" src="../paper/1647871996116.jpg"></a><br/><br/>
+<a href="../paper/1647935972998.png"><img alt="1647935972998" src="../paper/1647935972998.png"></a><br/><br/>
 
 <a href="../paper/1648005473077.jpg"><img alt="1648005473077" src="../paper/1648005473077.jpg"></a><br/><br/>
 
@@ -216,41 +216,41 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## nature
 
-<a href="../nature/forest-valley-mountains.png"><img alt="forest-valley-mountains" src="../nature/forest-valley-mountains.png"></a><br/><br/>
+<a href="../nature/erwan-hesry-SeT4jO19Y6E-unsplash.jpg"><img alt="erwan-hesry-SeT4jO19Y6E-unsplash" src="../nature/erwan-hesry-SeT4jO19Y6E-unsplash.jpg"></a><br/><br/>
 
-<a href="../nature/forrest-cavale-qfmd9bu7IgA-unsplash.jpg"><img alt="forrest-cavale-qfmd9bu7IgA-unsplash" src="../nature/forrest-cavale-qfmd9bu7IgA-unsplash.jpg"></a><br/><br/>
+<a href="../nature/download.png"><img alt="download" src="../nature/download.png"></a><br/><br/>
 
 [Browse](../nature/README.md)
 
 ## digital
 
-<a href="../digital/wp_lawnmower.png"><img alt="wp_lawnmower" src="../digital/wp_lawnmower.png"></a><br/><br/>
+<a href="../digital/bbajwew11ge81.png"><img alt="bbajwew11ge81" src="../digital/bbajwew11ge81.png"></a><br/><br/>
 
-<a href="../digital/4lge2mhk38aa1.webp"><img alt="4lge2mhk38aa1" src="../digital/4lge2mhk38aa1.webp"></a><br/><br/>
+<a href="../digital/rpkljnon38aa1.webp"><img alt="rpkljnon38aa1" src="../digital/rpkljnon38aa1.webp"></a><br/><br/>
 
 [Browse](../digital/README.md)
 
 ## poly
 
-<a href="../poly/retro-pc.png"><img alt="retro-pc" src="../poly/retro-pc.png"></a><br/><br/>
+<a href="../poly/low-poly-fantasy-village.png"><img alt="low-poly-fantasy-village" src="../poly/low-poly-fantasy-village.png"></a><br/><br/>
 
-<a href="../poly/poly-comets.png"><img alt="poly-comets" src="../poly/poly-comets.png"></a><br/><br/>
+<a href="../poly/buildings.png"><img alt="buildings" src="../poly/buildings.png"></a><br/><br/>
 
 [Browse](../poly/README.md)
 
 ## calm
 
-<a href="../calm/6 - Y7rYZHm.jpg"><img alt="6 - Y7rYZHm" src="../calm/6 - Y7rYZHm.jpg"></a><br/><br/>
+<a href="../calm/3 - DhGgOp7.jpg"><img alt="3 - DhGgOp7" src="../calm/3 - DhGgOp7.jpg"></a><br/><br/>
 
-<a href="../calm/1 - X6h0EuY.jpg"><img alt="1 - X6h0EuY" src="../calm/1 - X6h0EuY.jpg"></a><br/><br/>
+<a href="../calm/7 - uieCiSk.jpg"><img alt="7 - uieCiSk" src="../calm/7 - uieCiSk.jpg"></a><br/><br/>
 
 [Browse](../calm/README.md)
 
 ## interior
 
-<a href="../interior/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering.jpg"><img alt="mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering" src="../interior/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering.jpg"></a><br/><br/>
-
 <a href="../interior/wallhaven-zmqwjv.jpg"><img alt="wallhaven-zmqwjv" src="../interior/wallhaven-zmqwjv.jpg"></a><br/><br/>
+
+<a href="../interior/wallhaven-ym873k.jpg"><img alt="wallhaven-ym873k" src="../interior/wallhaven-ym873k.jpg"></a><br/><br/>
 
 [Browse](../interior/README.md)
 
@@ -258,53 +258,53 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../manga/uwp3056638.jpeg"><img alt="uwp3056638" src="../manga/uwp3056638.jpeg"></a><br/><br/>
 
-<a href="../manga/1920x1080-1.jpg"><img alt="1920x1080-1" src="../manga/1920x1080-1.jpg"></a><br/><br/>
+<a href="../manga/guts2.png"><img alt="guts2" src="../manga/guts2.png"></a><br/><br/>
 
 [Browse](../manga/README.md)
 
 ## abstract
 
-<a href="../abstract/wallhaven-ox7qxp.jpg"><img alt="wallhaven-ox7qxp" src="../abstract/wallhaven-ox7qxp.jpg"></a><br/><br/>
+<a href="../abstract/teal-liquid.jpg"><img alt="teal-liquid" src="../abstract/teal-liquid.jpg"></a><br/><br/>
 
-<a href="../abstract/1637849501425.jpg"><img alt="1637849501425" src="../abstract/1637849501425.jpg"></a><br/><br/>
+<a href="../abstract/1632112923543.jpg"><img alt="1632112923543" src="../abstract/1632112923543.jpg"></a><br/><br/>
 
 [Browse](../abstract/README.md)
 
 ## gruvbox
 
-<a href="../gruvbox/27r8pdbrev0a1.png"><img alt="27r8pdbrev0a1" src="../gruvbox/27r8pdbrev0a1.png"></a><br/><br/>
+<a href="../gruvbox/nathan-dumlao-tA90pRfL2gM-unsplash.jpg"><img alt="nathan-dumlao-tA90pRfL2gM-unsplash" src="../gruvbox/nathan-dumlao-tA90pRfL2gM-unsplash.jpg"></a><br/><br/>
 
-<a href="../gruvbox/Untitled.png"><img alt="Untitled" src="../gruvbox/Untitled.png"></a><br/><br/>
+<a href="../gruvbox/od_unknown_31.png"><img alt="od_unknown_31" src="../gruvbox/od_unknown_31.png"></a><br/><br/>
 
 [Browse](../gruvbox/README.md)
 
 ## retro
 
-<a href="../retro/nasa.png"><img alt="nasa" src="../retro/nasa.png"></a><br/><br/>
+<a href="../retro/japan2.png"><img alt="japan2" src="../retro/japan2.png"></a><br/><br/>
 
-<a href="../retro/atari2.png"><img alt="atari2" src="../retro/atari2.png"></a><br/><br/>
+<a href="../retro/wallpaperflare.com_wallpaper(6).jpg"><img alt="wallpaperflare.com_wallpaper(6)" src="../retro/wallpaperflare.com_wallpaper(6).jpg"></a><br/><br/>
 
 [Browse](../retro/README.md)
 
 ## nord
 
-<a href="../nord/ign-xuan-nguyen-unsplash.png"><img alt="ign-xuan-nguyen-unsplash" src="../nord/ign-xuan-nguyen-unsplash.png"></a><br/><br/>
+<a href="../nord/nord-windmill.png"><img alt="nord-windmill" src="../nord/nord-windmill.png"></a><br/><br/>
 
-<a href="../nord/27e32145ee049e48edc60979404dcd8f.jpg"><img alt="27e32145ee049e48edc60979404dcd8f" src="../nord/27e32145ee049e48edc60979404dcd8f.jpg"></a><br/><br/>
+<a href="../nord/weirdearth.png"><img alt="weirdearth" src="../nord/weirdearth.png"></a><br/><br/>
 
 [Browse](../nord/README.md)
 
 ## pixel
 
-<a href="../pixel/PixelartCity.png"><img alt="PixelartCity" src="../pixel/PixelartCity.png"></a><br/><br/>
+<a href="../pixel/6b8af5b0d3190ba5816bef3051d1bb91.jpg"><img alt="6b8af5b0d3190ba5816bef3051d1bb91" src="../pixel/6b8af5b0d3190ba5816bef3051d1bb91.jpg"></a><br/><br/>
 
-<a href="../pixel/142 - zbB9GDT-yelow.jpg"><img alt="142 - zbB9GDT-yelow" src="../pixel/142 - zbB9GDT-yelow.jpg"></a><br/><br/>
+<a href="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f" src="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a><br/><br/>
 
 [Browse](../pixel/README.md)
 
 ## painting
 
-<a href="../painting/trooper_still_life_oliver_wetter.png"><img alt="trooper_still_life_oliver_wetter" src="../painting/trooper_still_life_oliver_wetter.png"></a><br/><br/>
+<a href="../painting/watery.jpg"><img alt="watery" src="../painting/watery.jpg"></a><br/><br/>
 
 <a href="../painting/AsvWLtE.jpeg"><img alt="AsvWLtE" src="../painting/AsvWLtE.jpeg"></a><br/><br/>
 
@@ -312,17 +312,17 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## jackb
 
-<a href="../jackb/wallhaven-287xgm.jpg"><img alt="wallhaven-287xgm" src="../jackb/wallhaven-287xgm.jpg"></a><br/><br/>
+<a href="../jackb/wallhaven-o3omd5.jpg"><img alt="wallhaven-o3omd5" src="../jackb/wallhaven-o3omd5.jpg"></a><br/><br/>
 
-<a href="../jackb/wallhaven-3zm8od.jpg"><img alt="wallhaven-3zm8od" src="../jackb/wallhaven-3zm8od.jpg"></a><br/><br/>
+<a href="../jackb/wallhaven-287xgm.jpg"><img alt="wallhaven-287xgm" src="../jackb/wallhaven-287xgm.jpg"></a><br/><br/>
 
 [Browse](../jackb/README.md)
 
 ## architecture
 
-<a href="../architecture/Cityscape.jpg"><img alt="Cityscape" src="../architecture/Cityscape.jpg"></a><br/><br/>
+<a href="../architecture/undefined - Imgur(2).jpg"><img alt="undefined - Imgur(2)" src="../architecture/undefined - Imgur(2).jpg"></a><br/><br/>
 
-<a href="../architecture/pierre-chatel-innocenti-mjA3bXy3T_k-unsplash.jpg"><img alt="pierre-chatel-innocenti-mjA3bXy3T_k-unsplash" src="../architecture/pierre-chatel-innocenti-mjA3bXy3T_k-unsplash.jpg"></a><br/><br/>
+<a href="../architecture/pierre-chatel-innocenti-wBDXDoqMSy0-unsplash.jpg"><img alt="pierre-chatel-innocenti-wBDXDoqMSy0-unsplash" src="../architecture/pierre-chatel-innocenti-wBDXDoqMSy0-unsplash.jpg"></a><br/><br/>
 
 [Browse](../architecture/README.md)
 
@@ -330,47 +330,47 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../evangelion/evangelion-ramiel-night.jpg"><img alt="evangelion-ramiel-night" src="../evangelion/evangelion-ramiel-night.jpg"></a><br/><br/>
 
-<a href="../evangelion/evangelion-shinji-unit-001-light.png"><img alt="evangelion-shinji-unit-001-light" src="../evangelion/evangelion-shinji-unit-001-light.png"></a><br/><br/>
+<a href="../evangelion/502021-computer-serial.jpg"><img alt="502021-computer-serial" src="../evangelion/502021-computer-serial.jpg"></a><br/><br/>
 
 [Browse](../evangelion/README.md)
 
 ## fogsmoke
 
-<a href="../fogsmoke/foggy-forest-01-everforest.jpg"><img alt="foggy-forest-01-everforest" src="../fogsmoke/foggy-forest-01-everforest.jpg"></a><br/><br/>
+<a href="../fogsmoke/4.jpg"><img alt="4" src="../fogsmoke/4.jpg"></a><br/><br/>
 
-<a href="../fogsmoke/fog_yosemite_valley_john_towner.jpg"><img alt="fog_yosemite_valley_john_towner" src="../fogsmoke/fog_yosemite_valley_john_towner.jpg"></a><br/><br/>
+<a href="../fogsmoke/carmine-de-fazio-3ytjETpQMNY-unsplash.jpg"><img alt="carmine-de-fazio-3ytjETpQMNY-unsplash" src="../fogsmoke/carmine-de-fazio-3ytjETpQMNY-unsplash.jpg"></a><br/><br/>
 
 [Browse](../fogsmoke/README.md)
 
 ## apocalypse
 
-<a href="../apocalypse/kanistra-studio-23-notarius.jpg"><img alt="kanistra-studio-23-notarius" src="../apocalypse/kanistra-studio-23-notarius.jpg"></a><br/><br/>
+<a href="../apocalypse/kanistra-studio-1-lasunrise.jpg"><img alt="kanistra-studio-1-lasunrise" src="../apocalypse/kanistra-studio-1-lasunrise.jpg"></a><br/><br/>
 
-<a href="../apocalypse/kanistra-studio-19-pawnshop.jpg"><img alt="kanistra-studio-19-pawnshop" src="../apocalypse/kanistra-studio-19-pawnshop.jpg"></a><br/><br/>
+<a href="../apocalypse/kanistra-studio-3-pickup.jpg"><img alt="kanistra-studio-3-pickup" src="../apocalypse/kanistra-studio-3-pickup.jpg"></a><br/><br/>
 
 [Browse](../apocalypse/README.md)
 
 ## basalt
 
-<a href="../basalt/sarah-thorenz-eeh_ardhh0k-unsplash.jpg"><img alt="sarah-thorenz-eeh_ardhh0k-unsplash" src="../basalt/sarah-thorenz-eeh_ardhh0k-unsplash.jpg"></a><br/><br/>
-
 <a href="../basalt/basalt_formations_reynisfjara_basalt_ik_jonathan_larson.jpg"><img alt="basalt_formations_reynisfjara_basalt_ik_jonathan_larson" src="../basalt/basalt_formations_reynisfjara_basalt_ik_jonathan_larson.jpg"></a><br/><br/>
+
+<a href="../basalt/bridge_pjoavegur_michelle_spollen.jpg"><img alt="bridge_pjoavegur_michelle_spollen" src="../basalt/bridge_pjoavegur_michelle_spollen.jpg"></a><br/><br/>
 
 [Browse](../basalt/README.md)
 
 ## dreamcore
 
-<a href="../dreamcore/alex-bierwagen-Uuz7yti7SQA-unsplash.jpg"><img alt="alex-bierwagen-Uuz7yti7SQA-unsplash" src="../dreamcore/alex-bierwagen-Uuz7yti7SQA-unsplash.jpg"></a><br/><br/>
+<a href="../dreamcore/yves-moret-beRoJB9vZkE-unsplash.jpg"><img alt="yves-moret-beRoJB9vZkE-unsplash" src="../dreamcore/yves-moret-beRoJB9vZkE-unsplash.jpg"></a><br/><br/>
 
-<a href="../dreamcore/muhammed-kara-WpqorW46X_8-unsplash.jpg"><img alt="muhammed-kara-WpqorW46X_8-unsplash" src="../dreamcore/muhammed-kara-WpqorW46X_8-unsplash.jpg"></a><br/><br/>
+<a href="../dreamcore/semen-manushko--nz4Voclb_k-unsplash.jpg"><img alt="semen-manushko--nz4Voclb_k-unsplash" src="../dreamcore/semen-manushko--nz4Voclb_k-unsplash.jpg"></a><br/><br/>
 
 [Browse](../dreamcore/README.md)
 
 ## radium
 
-<a href="../radium/OD_house_night_sat.jpg"><img alt="OD_house_night_sat" src="../radium/OD_house_night_sat.jpg"></a><br/><br/>
+<a href="../radium/output-1659958155.png"><img alt="output-1659958155" src="../radium/output-1659958155.png"></a><br/><br/>
 
-<a href="../radium/output-1659944035.png"><img alt="output-1659944035" src="../radium/output-1659944035.png"></a><br/><br/>
+<a href="../radium/pacman.png"><img alt="pacman" src="../radium/pacman.png"></a><br/><br/>
 
 [Browse](../radium/README.md)
 
