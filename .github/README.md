@@ -10,129 +10,11 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## cold
 
-<a href="../cold/overlook_1920x1080.png"><img alt="overlook_1920x1080" src="../cold/overlook_1920x1080.png"></a><br/><br/>
+<a href="../cold/andrey-konstantinov-drir5tDCWF4-unsplash.jpg"><img alt="andrey-konstantinov-drir5tDCWF4-unsplash" src="../cold/andrey-konstantinov-drir5tDCWF4-unsplash.jpg"></a><br/><br/>
 
-<a href="../cold/basil-lade-tDwc_wK57Pk-unsplash.jpg"><img alt="basil-lade-tDwc_wK57Pk-unsplash" src="../cold/basil-lade-tDwc_wK57Pk-unsplash.jpg"></a><br/><br/>
+<a href="../cold/vo9lyx14s41a1.webp"><img alt="vo9lyx14s41a1" src="../cold/vo9lyx14s41a1.webp"></a><br/><br/>
 
 [Browse](../cold/README.md)
-
-## painting
-
-<a href="../painting/dreamoftheredchamber.jpg"><img alt="dreamoftheredchamber" src="../painting/dreamoftheredchamber.jpg"></a><br/><br/>
-
-<a href="../painting/grand_tour_main_arch.jpg"><img alt="grand_tour_main_arch" src="../painting/grand_tour_main_arch.jpg"></a><br/><br/>
-
-[Browse](../painting/README.md)
-
-## fogsmoke
-
-<a href="../fogsmoke/7.jpg"><img alt="7" src="../fogsmoke/7.jpg"></a><br/><br/>
-
-<a href="../fogsmoke/alexei-scutari-bRWukOnZmc8-unsplash.jpg"><img alt="alexei-scutari-bRWukOnZmc8-unsplash" src="../fogsmoke/alexei-scutari-bRWukOnZmc8-unsplash.jpg"></a><br/><br/>
-
-[Browse](../fogsmoke/README.md)
-
-## nord
-
-<a href="../nord/92556d59d65309ca35bc3e977296cdd7.jpg"><img alt="92556d59d65309ca35bc3e977296cdd7" src="../nord/92556d59d65309ca35bc3e977296cdd7.jpg"></a><br/><br/>
-
-<a href="../nord/earth-in-space.png"><img alt="earth-in-space" src="../nord/earth-in-space.png"></a><br/><br/>
-
-[Browse](../nord/README.md)
-
-## calm
-
-<a href="../calm/5 - uCrGTLP.jpg"><img alt="5 - uCrGTLP" src="../calm/5 - uCrGTLP.jpg"></a><br/><br/>
-
-<a href="../calm/khara-woods-boPLZDkcqhU-unsplash.jpg"><img alt="khara-woods-boPLZDkcqhU-unsplash" src="../calm/khara-woods-boPLZDkcqhU-unsplash.jpg"></a><br/><br/>
-
-[Browse](../calm/README.md)
-
-## interior
-
-<a href="../interior/wallhaven-ym873k.jpg"><img alt="wallhaven-ym873k" src="../interior/wallhaven-ym873k.jpg"></a><br/><br/>
-
-<a href="../interior/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg"><img alt="empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering" src="../interior/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg"></a><br/><br/>
-
-[Browse](../interior/README.md)
-
-## solarized
-
-<a href="../solarized/fre-sonneveld-K8iHtzoIKQ4-unsplash.jpg"><img alt="fre-sonneveld-K8iHtzoIKQ4-unsplash" src="../solarized/fre-sonneveld-K8iHtzoIKQ4-unsplash.jpg"></a><br/><br/>
-
-<a href="../solarized/solarized-dark-sudo-linux-logo-7b9qvch5c8csms2r.jpg"><img alt="solarized-dark-sudo-linux-logo-7b9qvch5c8csms2r" src="../solarized/solarized-dark-sudo-linux-logo-7b9qvch5c8csms2r.jpg"></a><br/><br/>
-
-[Browse](../solarized/README.md)
-
-## decay
-
-<a href="../decay/ben-karpinski-DCWMiWdBijg-unsplash.jpg"><img alt="ben-karpinski-DCWMiWdBijg-unsplash" src="../decay/ben-karpinski-DCWMiWdBijg-unsplash.jpg"></a><br/><br/>
-
-<a href="../decay/simon-humler-hqxyJWbW48U-unsplash.jpg"><img alt="simon-humler-hqxyJWbW48U-unsplash" src="../decay/simon-humler-hqxyJWbW48U-unsplash.jpg"></a><br/><br/>
-
-[Browse](../decay/README.md)
-
-## lightbulb
-
-<a href="../lightbulb/ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg"><img alt="ehud-neuhaus-m04m3xDE1Ho-unsplash" src="../lightbulb/ehud-neuhaus-m04m3xDE1Ho-unsplash.jpg"></a><br/><br/>
-
-<a href="../lightbulb/let-s-go-together-AULwJzIhDRQ-unsplash.jpg"><img alt="let-s-go-together-AULwJzIhDRQ-unsplash" src="../lightbulb/let-s-go-together-AULwJzIhDRQ-unsplash.jpg"></a><br/><br/>
-
-[Browse](../lightbulb/README.md)
-
-## mountain
-
-<a href="../mountain/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"><img alt="cameron-foth-xU5Sr5Vs6ak-unsplash" src="../mountain/cameron-foth-xU5Sr5Vs6ak-unsplash.jpg"></a><br/><br/>
-
-<a href="../mountain/extra-12.jpg"><img alt="extra-12" src="../mountain/extra-12.jpg"></a><br/><br/>
-
-[Browse](../mountain/README.md)
-
-## industrial
-
-<a href="../industrial/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"><img alt="leo-fosdal-TgWWeaTAXCM-unsplash" src="../industrial/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"></a><br/><br/>
-
-[Browse](../industrial/README.md)
-
-## logo
-
-<a href="../logo/wallhaven-72v65o.png"><img alt="wallhaven-72v65o" src="../logo/wallhaven-72v65o.png"></a><br/><br/>
-
-<a href="../logo/onnanoko2.png"><img alt="onnanoko2" src="../logo/onnanoko2.png"></a><br/><br/>
-
-[Browse](../logo/README.md)
-
-## spam
-
-<a href="../spam/city-scape.png"><img alt="city-scape" src="../spam/city-scape.png"></a><br/><br/>
-
-<a href="../spam/output-1659943991.png"><img alt="output-1659943991" src="../spam/output-1659943991.png"></a><br/><br/>
-
-[Browse](../spam/README.md)
-
-## basalt
-
-<a href="../basalt/basalt.jpg"><img alt="basalt" src="../basalt/basalt.jpg"></a><br/><br/>
-
-<a href="../basalt/federico-di-dio-photography-EiFLZuM2Quw-unsplash.jpg"><img alt="federico-di-dio-photography-EiFLZuM2Quw-unsplash" src="../basalt/federico-di-dio-photography-EiFLZuM2Quw-unsplash.jpg"></a><br/><br/>
-
-[Browse](../basalt/README.md)
-
-## animated
-
-<a href="../animated/moon.gif"><img alt="moon" src="../animated/moon.gif"></a><br/><br/>
-
-<a href="../animated/yor-forger-bloody-needles-spy-x-family-moewalls-com.mp4"><img alt="yor-forger-bloody-needles-spy-x-family-moewalls-com" src="../animated/yor-forger-bloody-needles-spy-x-family-moewalls-com.mp4"></a><br/><br/>
-
-[Browse](../animated/README.md)
-
-## evangelion
-
-<a href="../evangelion/79 - P9IzNUz - Evangelion - Leliel.jpg"><img alt="79 - P9IzNUz - Evangelion - Leliel" src="../evangelion/79 - P9IzNUz - Evangelion - Leliel.jpg"></a><br/><br/>
-
-<a href="../evangelion/502021-computer-serial.jpg"><img alt="502021-computer-serial" src="../evangelion/502021-computer-serial.jpg"></a><br/><br/>
-
-[Browse](../evangelion/README.md)
 
 ## boccha
 
@@ -140,83 +22,233 @@ Categorized wallpaper showcase. two pictures per category.
 
 [Browse](../boccha/README.md)
 
-## dreamcore
-
-<a href="../dreamcore/0e3625e5d5bde6b6121d4fde3965296f.jpg"><img alt="0e3625e5d5bde6b6121d4fde3965296f" src="../dreamcore/0e3625e5d5bde6b6121d4fde3965296f.jpg"></a><br/><br/>
-
-<a href="../dreamcore/emma-steinhobel-uYyK5wQwvS8-unsplash.jpg"><img alt="emma-steinhobel-uYyK5wQwvS8-unsplash" src="../dreamcore/emma-steinhobel-uYyK5wQwvS8-unsplash.jpg"></a><br/><br/>
-
-[Browse](../dreamcore/README.md)
-
 ## chillop
 
-<a href="../chillop/bg.png"><img alt="bg" src="../chillop/bg.png"></a><br/><br/>
+<a href="../chillop/unknown1.png"><img alt="unknown1" src="../chillop/unknown1.png"></a><br/><br/>
 
-<a href="../chillop/wp6100708-kawaii-aesthetic-pc-wallpapers.jpg"><img alt="wp6100708-kawaii-aesthetic-pc-wallpapers" src="../chillop/wp6100708-kawaii-aesthetic-pc-wallpapers.jpg"></a><br/><br/>
+<a href="../chillop/4.png"><img alt="4" src="../chillop/4.png"></a><br/><br/>
 
 [Browse](../chillop/README.md)
 
-## unsorted
+## dreamcore
 
-<a href="../unsorted/DPHraLF1-wallha.com.jpg"><img alt="DPHraLF1-wallha.com" src="../unsorted/DPHraLF1-wallha.com.jpg"></a><br/><br/>
+<a href="../dreamcore/yves-moret-beRoJB9vZkE-unsplash.jpg"><img alt="yves-moret-beRoJB9vZkE-unsplash" src="../dreamcore/yves-moret-beRoJB9vZkE-unsplash.jpg"></a><br/><br/>
 
-<a href="../unsorted/140 - K9Z0tmJ.jpg"><img alt="140 - K9Z0tmJ" src="../unsorted/140 - K9Z0tmJ.jpg"></a><br/><br/>
+<a href="../dreamcore/pavor-4HUpIPpglYc-unsplash.jpg"><img alt="pavor-4HUpIPpglYc-unsplash" src="../dreamcore/pavor-4HUpIPpglYc-unsplash.jpg"></a><br/><br/>
 
-[Browse](../unsorted/README.md)
+[Browse](../dreamcore/README.md)
 
-## architecture
+## industrial
 
-<a href="../architecture/cesira-alvarado-SsgCQtKs8lY-unsplash.jpg"><img alt="cesira-alvarado-SsgCQtKs8lY-unsplash" src="../architecture/cesira-alvarado-SsgCQtKs8lY-unsplash.jpg"></a><br/><br/>
+<a href="../industrial/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"><img alt="leo-fosdal-TgWWeaTAXCM-unsplash" src="../industrial/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"></a><br/><br/>
 
-<a href="../architecture/erwan-hesry-1bnBaJ3iBTg-unsplash.jpg"><img alt="erwan-hesry-1bnBaJ3iBTg-unsplash" src="../architecture/erwan-hesry-1bnBaJ3iBTg-unsplash.jpg"></a><br/><br/>
+[Browse](../industrial/README.md)
 
-[Browse](../architecture/README.md)
+## mountain
 
-## m-26.jp
+<a href="../mountain/undefined - Imgur(5).jpg"><img alt="undefined - Imgur(5)" src="../mountain/undefined - Imgur(5).jpg"></a><br/><br/>
 
-<a href="../m-26.jp/04.jpg"><img alt="04" src="../m-26.jp/04.jpg"></a><br/><br/>
+<a href="../mountain/khusna-faiq-XcK3gINysWk-unsplash.jpg"><img alt="khusna-faiq-XcK3gINysWk-unsplash" src="../mountain/khusna-faiq-XcK3gINysWk-unsplash.jpg"></a><br/><br/>
 
-<a href="../m-26.jp/10.jpg"><img alt="10" src="../m-26.jp/10.jpg"></a><br/><br/>
+[Browse](../mountain/README.md)
 
-[Browse](../m-26.jp/README.md)
+## nord
 
-## minimal
+<a href="../nord/ubuntu-frost.png"><img alt="ubuntu-frost" src="../nord/ubuntu-frost.png"></a><br/><br/>
 
-<a href="../minimal/c7a6962492cddeb0929b0ec282cd04a2.jpg"><img alt="c7a6962492cddeb0929b0ec282cd04a2" src="../minimal/c7a6962492cddeb0929b0ec282cd04a2.jpg"></a><br/><br/>
+<a href="../nord/333.png"><img alt="333" src="../nord/333.png"></a><br/><br/>
 
-<a href="../minimal/3naa2boj9rd81.png"><img alt="3naa2boj9rd81" src="../minimal/3naa2boj9rd81.png"></a><br/><br/>
+[Browse](../nord/README.md)
 
-[Browse](../minimal/README.md)
+## apocalypse
+
+<a href="../apocalypse/kanistra-studio-11-bridge.jpg"><img alt="kanistra-studio-11-bridge" src="../apocalypse/kanistra-studio-11-bridge.jpg"></a><br/><br/>
+
+<a href="../apocalypse/kanistra-studio-10-la2019.jpg"><img alt="kanistra-studio-10-la2019" src="../apocalypse/kanistra-studio-10-la2019.jpg"></a><br/><br/>
+
+[Browse](../apocalypse/README.md)
+
+## gruvbox
+
+<a href="../gruvbox/od_2.jpg"><img alt="od_2" src="../gruvbox/od_2.jpg"></a><br/><br/>
+
+<a href="../gruvbox/Midmorning Stadium.jpg"><img alt="Midmorning Stadium" src="../gruvbox/Midmorning Stadium.jpg"></a><br/><br/>
+
+[Browse](../gruvbox/README.md)
+
+## calm
+
+<a href="../calm/3 - DhGgOp7.jpg"><img alt="3 - DhGgOp7" src="../calm/3 - DhGgOp7.jpg"></a><br/><br/>
+
+<a href="../calm/7 - uieCiSk.jpg"><img alt="7 - uieCiSk" src="../calm/7 - uieCiSk.jpg"></a><br/><br/>
+
+[Browse](../calm/README.md)
+
+## logo
+
+<a href="../logo/wallhaven-72v65o.png"><img alt="wallhaven-72v65o" src="../logo/wallhaven-72v65o.png"></a><br/><br/>
+
+<a href="../logo/undefined - Imgur(6).png"><img alt="undefined - Imgur(6)" src="../logo/undefined - Imgur(6).png"></a><br/><br/>
+
+[Browse](../logo/README.md)
 
 ## manga
 
-<a href="../manga/uwp3056654.jpeg"><img alt="uwp3056654" src="../manga/uwp3056654.jpeg"></a><br/><br/>
+<a href="../manga/582.png"><img alt="582" src="../manga/582.png"></a><br/><br/>
 
-<a href="../manga/out.png"><img alt="out" src="../manga/out.png"></a><br/><br/>
+<a href="../manga/rGT0dFr.jpeg"><img alt="rGT0dFr" src="../manga/rGT0dFr.jpeg"></a><br/><br/>
 
 [Browse](../manga/README.md)
 
-## paper
+## digital
 
-<a href="../paper/1647935972998.png"><img alt="1647935972998" src="../paper/1647935972998.png"></a><br/><br/>
+<a href="../digital/s61f586j38aa1.webp"><img alt="s61f586j38aa1" src="../digital/s61f586j38aa1.webp"></a><br/><br/>
 
-<a href="../paper/1647871996116.jpg"><img alt="1647871996116" src="../paper/1647871996116.jpg"></a><br/><br/>
+<a href="../digital/ianlqrnwrij71.png"><img alt="ianlqrnwrij71" src="../digital/ianlqrnwrij71.png"></a><br/><br/>
 
-[Browse](../paper/README.md)
+[Browse](../digital/README.md)
+
+## abstract
+
+<a href="../abstract/wallpaper.jpg"><img alt="wallpaper" src="../abstract/wallpaper.jpg"></a><br/><br/>
+
+<a href="../abstract/gentoo.png"><img alt="gentoo" src="../abstract/gentoo.png"></a><br/><br/>
+
+[Browse](../abstract/README.md)
+
+## lightbulb
+
+<a href="../lightbulb/guillaume-bourdages-U2KhQpnPukk-unsplash.jpg"><img alt="guillaume-bourdages-U2KhQpnPukk-unsplash" src="../lightbulb/guillaume-bourdages-U2KhQpnPukk-unsplash.jpg"></a><br/><br/>
+
+<a href="../lightbulb/evenezer-marak--i66lJiejN4-unsplash.jpg"><img alt="evenezer-marak--i66lJiejN4-unsplash" src="../lightbulb/evenezer-marak--i66lJiejN4-unsplash.jpg"></a><br/><br/>
+
+[Browse](../lightbulb/README.md)
+
+## decay
+
+<a href="../decay/christoffer-engstrom-SIczJ91He3c-unsplash.jpg"><img alt="christoffer-engstrom-SIczJ91He3c-unsplash" src="../decay/christoffer-engstrom-SIczJ91He3c-unsplash.jpg"></a><br/><br/>
+
+<a href="../decay/ben-karpinski-DCWMiWdBijg-unsplash.jpg"><img alt="ben-karpinski-DCWMiWdBijg-unsplash" src="../decay/ben-karpinski-DCWMiWdBijg-unsplash.jpg"></a><br/><br/>
+
+[Browse](../decay/README.md)
+
+## animated
+
+<a href="../animated/city.gif"><img alt="city" src="../animated/city.gif"></a><br/><br/>
+
+<a href="../animated/fireplace.gif"><img alt="fireplace" src="../animated/fireplace.gif"></a><br/><br/>
+
+[Browse](../animated/README.md)
+
+## retro
+
+<a href="../retro/wallpaperflare.com_wallpaper(6).jpg"><img alt="wallpaperflare.com_wallpaper(6)" src="../retro/wallpaperflare.com_wallpaper(6).jpg"></a><br/><br/>
+
+<a href="../retro/atari2.png"><img alt="atari2" src="../retro/atari2.png"></a><br/><br/>
+
+[Browse](../retro/README.md)
+
+## interior
+
+<a href="../interior/masha-rostovskaya-fCW4E22uIxI-unsplash.jpg"><img alt="masha-rostovskaya-fCW4E22uIxI-unsplash" src="../interior/masha-rostovskaya-fCW4E22uIxI-unsplash.jpg"></a><br/><br/>
+
+<a href="../interior/clay-banks-0hG9jeO74-w-unsplash.jpg"><img alt="clay-banks-0hG9jeO74-w-unsplash" src="../interior/clay-banks-0hG9jeO74-w-unsplash.jpg"></a><br/><br/>
+
+[Browse](../interior/README.md)
+
+## poly
+
+<a href="../poly/buildings.png"><img alt="buildings" src="../poly/buildings.png"></a><br/><br/>
+
+<a href="../poly/low-poly-fantasy-village.png"><img alt="low-poly-fantasy-village" src="../poly/low-poly-fantasy-village.png"></a><br/><br/>
+
+[Browse](../poly/README.md)
+
+## weirdcore
+
+<a href="../weirdcore/1687154052430471.png"><img alt="1687154052430471" src="../weirdcore/1687154052430471.png"></a><br/><br/>
+
+<a href="../weirdcore/1687155287949789.png"><img alt="1687155287949789" src="../weirdcore/1687155287949789.png"></a><br/><br/>
+
+[Browse](../weirdcore/README.md)
+
+## pixel
+
+<a href="../pixel/6b8af5b0d3190ba5816bef3051d1bb91.jpg"><img alt="6b8af5b0d3190ba5816bef3051d1bb91" src="../pixel/6b8af5b0d3190ba5816bef3051d1bb91.jpg"></a><br/><br/>
+
+<a href="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f" src="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a><br/><br/>
+
+[Browse](../pixel/README.md)
+
+## outrun
+
+<a href="../outrun/car.png"><img alt="car" src="../outrun/car.png"></a><br/><br/>
+
+<a href="../outrun/neon.png"><img alt="neon" src="../outrun/neon.png"></a><br/><br/>
+
+[Browse](../outrun/README.md)
+
+## flowers
+
+<a href="../flowers/joey-huang-VzIKITZA-N0-unsplash.jpg"><img alt="joey-huang-VzIKITZA-N0-unsplash" src="../flowers/joey-huang-VzIKITZA-N0-unsplash.jpg"></a><br/><br/>
+
+<a href="../flowers/pinkish.jpeg"><img alt="pinkish" src="../flowers/pinkish.jpeg"></a><br/><br/>
+
+[Browse](../flowers/README.md)
+
+## radium
+
+<a href="../radium/output-1659958593.png"><img alt="output-1659958593" src="../radium/output-1659958593.png"></a><br/><br/>
+
+<a href="../radium/output-1671905268.png"><img alt="output-1671905268" src="../radium/output-1671905268.png"></a><br/><br/>
+
+[Browse](../radium/README.md)
+
+## unsorted
+
+<a href="../unsorted/21 - Llt67Kn.jpg"><img alt="21 - Llt67Kn" src="../unsorted/21 - Llt67Kn.jpg"></a><br/><br/>
+
+<a href="../unsorted/7VAxEewF-wallha.com.jpg"><img alt="7VAxEewF-wallha.com" src="../unsorted/7VAxEewF-wallha.com.jpg"></a><br/><br/>
+
+[Browse](../unsorted/README.md)
+
+## geometry
+
+<a href="../geometry/wallhaven-z8pdqo.jpg"><img alt="wallhaven-z8pdqo" src="../geometry/wallhaven-z8pdqo.jpg"></a><br/><br/>
+
+<a href="../geometry/wallhaven-g8x697.jpg"><img alt="wallhaven-g8x697" src="../geometry/wallhaven-g8x697.jpg"></a><br/><br/>
+
+[Browse](../geometry/README.md)
+
+## aerial
+
+<a href="../aerial/0003adef2077d0934e691e48482106df.jpg"><img alt="0003adef2077d0934e691e48482106df" src="../aerial/0003adef2077d0934e691e48482106df.jpg"></a><br/><br/>
+
+<a href="../aerial/wallhaven-6q69oq.jpg"><img alt="wallhaven-6q69oq" src="../aerial/wallhaven-6q69oq.jpg"></a><br/><br/>
+
+[Browse](../aerial/README.md)
+
+## nature
+
+<a href="../nature/joshua_tree_california_alex_kramar.jpg"><img alt="joshua_tree_california_alex_kramar" src="../nature/joshua_tree_california_alex_kramar.jpg"></a><br/><br/>
+
+<a href="../nature/sasha-matic-TEpJdLB8j8U-unsplash.jpg"><img alt="sasha-matic-TEpJdLB8j8U-unsplash" src="../nature/sasha-matic-TEpJdLB8j8U-unsplash.jpg"></a><br/><br/>
+
+[Browse](../nature/README.md)
 
 ## wave
 
-<a href="../wave/landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d.png"><img alt="landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d" src="../wave/landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d.png"></a><br/><br/>
-
 <a href="../wave/aesthetic-vaporwave-wallpaper-69a038bdd13a2d9ba6b7083fb0c1b64d.png"><img alt="aesthetic-vaporwave-wallpaper-69a038bdd13a2d9ba6b7083fb0c1b64d" src="../wave/aesthetic-vaporwave-wallpaper-69a038bdd13a2d9ba6b7083fb0c1b64d.png"></a><br/><br/>
+
+<a href="../wave/landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d.png"><img alt="landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d" src="../wave/landscape-digital-vaporwave-wallpaper-a96028dd71ca1d6b56b7c8cf9041c69d.png"></a><br/><br/>
 
 [Browse](../wave/README.md)
 
 ## apeiros
 
-<a href="../apeiros/megacity_2.png"><img alt="megacity_2" src="../apeiros/megacity_2.png"></a><br/><br/>
+<a href="../apeiros/fog_forest_2.png"><img alt="fog_forest_2" src="../apeiros/fog_forest_2.png"></a><br/><br/>
 
-<a href="../apeiros/fog_forest_alt_2.png"><img alt="fog_forest_alt_2" src="../apeiros/fog_forest_alt_2.png"></a><br/><br/>
+<a href="../apeiros/ocean_front_1.png"><img alt="ocean_front_1" src="../apeiros/ocean_front_1.png"></a><br/><br/>
 
 [Browse](../apeiros/README.md)
 
@@ -228,173 +260,149 @@ Categorized wallpaper showcase. two pictures per category.
 
 [Browse](../halloween/README.md)
 
-## cherry
-
-<a href="../cherry/japanese-sakura-painting.jpg"><img alt="japanese-sakura-painting" src="../cherry/japanese-sakura-painting.jpg"></a><br/><br/>
-
-<a href="../cherry/Light-Floral-01.png"><img alt="Light-Floral-01" src="../cherry/Light-Floral-01.png"></a><br/><br/>
-
-[Browse](../cherry/README.md)
-
-## anime
-
-<a href="../anime/76 - e4r5bQR.jpg"><img alt="76 - e4r5bQR" src="../anime/76 - e4r5bQR.jpg"></a><br/><br/>
-
-<a href="../anime/girl.png"><img alt="girl" src="../anime/girl.png"></a><br/><br/>
-
-[Browse](../anime/README.md)
-
-## weirdcore
-
-<a href="../weirdcore/1687155287949789.png"><img alt="1687155287949789" src="../weirdcore/1687155287949789.png"></a><br/><br/>
-
-<a href="../weirdcore/1687154052430471.png"><img alt="1687154052430471" src="../weirdcore/1687154052430471.png"></a><br/><br/>
-
-[Browse](../weirdcore/README.md)
-
-## girl
-
-<a href="../girl/14 - Z8QoXnk.jpg"><img alt="14 - Z8QoXnk" src="../girl/14 - Z8QoXnk.jpg"></a><br/><br/>
-
-<a href="../girl/10 - TLUo2mE.jpg"><img alt="10 - TLUo2mE" src="../girl/10 - TLUo2mE.jpg"></a><br/><br/>
-
-[Browse](../girl/README.md)
-
-## gruvbox
-
-<a href="../gruvbox/od_unknown_31.png"><img alt="od_unknown_31" src="../gruvbox/od_unknown_31.png"></a><br/><br/>
-
-<a href="../gruvbox/od_6.jpg"><img alt="od_6" src="../gruvbox/od_6.jpg"></a><br/><br/>
-
-[Browse](../gruvbox/README.md)
-
-## abstract
-
-<a href="../abstract/wallpaper.jpg"><img alt="wallpaper" src="../abstract/wallpaper.jpg"></a><br/><br/>
-
-<a href="../abstract/1637824731328.png"><img alt="1637824731328" src="../abstract/1637824731328.png"></a><br/><br/>
-
-[Browse](../abstract/README.md)
-
-## flowers
-
-<a href="../flowers/FnJ5j1YaYAEZKC7.jpg"><img alt="FnJ5j1YaYAEZKC7" src="../flowers/FnJ5j1YaYAEZKC7.jpg"></a><br/><br/>
-
-<a href="../flowers/annie-spratt-V5bwp9IJrCI-unsplash.jpg"><img alt="annie-spratt-V5bwp9IJrCI-unsplash" src="../flowers/annie-spratt-V5bwp9IJrCI-unsplash.jpg"></a><br/><br/>
-
-[Browse](../flowers/README.md)
-
-## aerial
-
-<a href="../aerial/city.jpg"><img alt="city" src="../aerial/city.jpg"></a><br/><br/>
-
-<a href="../aerial/michael-benz-IgWNxx7paz4-unsplash.jpg"><img alt="michael-benz-IgWNxx7paz4-unsplash" src="../aerial/michael-benz-IgWNxx7paz4-unsplash.jpg"></a><br/><br/>
-
-[Browse](../aerial/README.md)
-
-## geometry
-
-<a href="../geometry/wallhaven-g8x697.jpg"><img alt="wallhaven-g8x697" src="../geometry/wallhaven-g8x697.jpg"></a><br/><br/>
-
-<a href="../geometry/wallhaven-z8pdqo.jpg"><img alt="wallhaven-z8pdqo" src="../geometry/wallhaven-z8pdqo.jpg"></a><br/><br/>
-
-[Browse](../geometry/README.md)
-
-## retro
-
-<a href="../retro/mario.png"><img alt="mario" src="../retro/mario.png"></a><br/><br/>
-
-<a href="../retro/microsoft.png"><img alt="microsoft" src="../retro/microsoft.png"></a><br/><br/>
-
-[Browse](../retro/README.md)
-
-## digital
-
-<a href="../digital/9d9duorkm3l71.png"><img alt="9d9duorkm3l71" src="../digital/9d9duorkm3l71.png"></a><br/><br/>
-
-<a href="../digital/tm49eqmqewk71.png"><img alt="tm49eqmqewk71" src="../digital/tm49eqmqewk71.png"></a><br/><br/>
-
-[Browse](../digital/README.md)
-
-## monochrome
-
-<a href="../monochrome/2911555.png"><img alt="2911555" src="../monochrome/2911555.png"></a><br/><br/>
-
-<a href="../monochrome/1684816030898805.jpg"><img alt="1684816030898805" src="../monochrome/1684816030898805.jpg"></a><br/><br/>
-
-[Browse](../monochrome/README.md)
-
-## centered
-
-<a href="../centered/wallhaven-76qxz3.jpg"><img alt="wallhaven-76qxz3" src="../centered/wallhaven-76qxz3.jpg"></a><br/><br/>
-
-<a href="../centered/wallhaven-dg7ejj.png"><img alt="wallhaven-dg7ejj" src="../centered/wallhaven-dg7ejj.png"></a><br/><br/>
-
-[Browse](../centered/README.md)
-
-## poly
-
-<a href="../poly/pokemon-pixel-4k.png"><img alt="pokemon-pixel-4k" src="../poly/pokemon-pixel-4k.png"></a><br/><br/>
-
-<a href="../poly/poly-comets.png"><img alt="poly-comets" src="../poly/poly-comets.png"></a><br/><br/>
-
-[Browse](../poly/README.md)
-
-## apocalypse
-
-<a href="../apocalypse/kanistra-studio-19-pawnshop.jpg"><img alt="kanistra-studio-19-pawnshop" src="../apocalypse/kanistra-studio-19-pawnshop.jpg"></a><br/><br/>
-
-<a href="../apocalypse/kanistra-studio-13-crossing.jpg"><img alt="kanistra-studio-13-crossing" src="../apocalypse/kanistra-studio-13-crossing.jpg"></a><br/><br/>
-
-[Browse](../apocalypse/README.md)
-
 ## fauna
 
-<a href="../fauna/41 - WuLF3HC.png"><img alt="41 - WuLF3HC" src="../fauna/41 - WuLF3HC.png"></a><br/><br/>
+<a href="../fauna/43 - q8NnaGn.png"><img alt="43 - q8NnaGn" src="../fauna/43 - q8NnaGn.png"></a><br/><br/>
 
-<a href="../fauna/68 - sL8nGrX.png"><img alt="68 - sL8nGrX" src="../fauna/68 - sL8nGrX.png"></a><br/><br/>
+<a href="../fauna/48 - AZ1gcib.png"><img alt="48 - AZ1gcib" src="../fauna/48 - AZ1gcib.png"></a><br/><br/>
 
 [Browse](../fauna/README.md)
 
-## radium
+## cherry
 
-<a href="../radium/output-1671905268.png"><img alt="output-1671905268" src="../radium/output-1671905268.png"></a><br/><br/>
+<a href="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"><img alt="meric-dagli-7NBO76G5JsE-unsplash" src="../cherry/meric-dagli-7NBO76G5JsE-unsplash.jpg"></a><br/><br/>
 
-<a href="../radium/output-1659944035.png"><img alt="output-1659944035" src="../radium/output-1659944035.png"></a><br/><br/>
+<a href="../cherry/ryoji-iwata-jxn929uiwYs-unsplash.jpg"><img alt="ryoji-iwata-jxn929uiwYs-unsplash" src="../cherry/ryoji-iwata-jxn929uiwYs-unsplash.jpg"></a><br/><br/>
 
-[Browse](../radium/README.md)
+[Browse](../cherry/README.md)
 
-## nature
+## monochrome
 
-<a href="../nature/trees.png"><img alt="trees" src="../nature/trees.png"></a><br/><br/>
+<a href="../monochrome/1jznxzg7jaw81.jpg"><img alt="1jznxzg7jaw81" src="../monochrome/1jznxzg7jaw81.jpg"></a><br/><br/>
 
-<a href="../nature/ruslan-valeev-9PoJW0LsJuQ-unsplash.jpg"><img alt="ruslan-valeev-9PoJW0LsJuQ-unsplash" src="../nature/ruslan-valeev-9PoJW0LsJuQ-unsplash.jpg"></a><br/><br/>
+<a href="../monochrome/frances-gunn-8BmNurlVR6M-unsplash.jpg"><img alt="frances-gunn-8BmNurlVR6M-unsplash" src="../monochrome/frances-gunn-8BmNurlVR6M-unsplash.jpg"></a><br/><br/>
 
-[Browse](../nature/README.md)
+[Browse](../monochrome/README.md)
 
-## outrun
+## evangelion
 
-<a href="../outrun/outrun-skyscape.png"><img alt="outrun-skyscape" src="../outrun/outrun-skyscape.png"></a><br/><br/>
+<a href="../evangelion/78 - WC9Jas3 - Evangelion - Israfel.jpg"><img alt="78 - WC9Jas3 - Evangelion - Israfel" src="../evangelion/78 - WC9Jas3 - Evangelion - Israfel.jpg"></a><br/><br/>
 
-<a href="../outrun/iolcyn09ont81.jpg"><img alt="iolcyn09ont81" src="../outrun/iolcyn09ont81.jpg"></a><br/><br/>
+<a href="../evangelion/evangelion-ramiel-night.jpg"><img alt="evangelion-ramiel-night" src="../evangelion/evangelion-ramiel-night.jpg"></a><br/><br/>
 
-[Browse](../outrun/README.md)
+[Browse](../evangelion/README.md)
+
+## girl
+
+<a href="../girl/15 - S7UyYDp.jpg"><img alt="15 - S7UyYDp" src="../girl/15 - S7UyYDp.jpg"></a><br/><br/>
+
+<a href="../girl/14 - Z8QoXnk.jpg"><img alt="14 - Z8QoXnk" src="../girl/14 - Z8QoXnk.jpg"></a><br/><br/>
+
+[Browse](../girl/README.md)
+
+## spam
+
+<a href="../spam/output-1659943991.png"><img alt="output-1659943991" src="../spam/output-1659943991.png"></a><br/><br/>
+
+<a href="../spam/Dark red Japan.png"><img alt="Dark red Japan" src="../spam/Dark red Japan.png"></a><br/><br/>
+
+[Browse](../spam/README.md)
+
+## basalt
+
+<a href="../basalt/sarah-thorenz-eeh_ardhh0k-unsplash.jpg"><img alt="sarah-thorenz-eeh_ardhh0k-unsplash" src="../basalt/sarah-thorenz-eeh_ardhh0k-unsplash.jpg"></a><br/><br/>
+
+<a href="../basalt/basalt_formations_reynisfjara_basalt_ik_jonathan_larson.jpg"><img alt="basalt_formations_reynisfjara_basalt_ik_jonathan_larson" src="../basalt/basalt_formations_reynisfjara_basalt_ik_jonathan_larson.jpg"></a><br/><br/>
+
+[Browse](../basalt/README.md)
+
+## painting
+
+<a href="../painting/trooper_still_life_oliver_wetter.png"><img alt="trooper_still_life_oliver_wetter" src="../painting/trooper_still_life_oliver_wetter.png"></a><br/><br/>
+
+<a href="../painting/dreamoftheredchamber.jpg"><img alt="dreamoftheredchamber" src="../painting/dreamoftheredchamber.jpg"></a><br/><br/>
+
+[Browse](../painting/README.md)
+
+## anime
+
+<a href="../anime/77.png"><img alt="77" src="../anime/77.png"></a><br/><br/>
+
+<a href="../anime/62 - CFn9TEx.jpg"><img alt="62 - CFn9TEx" src="../anime/62 - CFn9TEx.jpg"></a><br/><br/>
+
+[Browse](../anime/README.md)
+
+## fogsmoke
+
+<a href="../fogsmoke/kal-visuals-bzfxu1sIlPc-unsplash.jpg"><img alt="kal-visuals-bzfxu1sIlPc-unsplash" src="../fogsmoke/kal-visuals-bzfxu1sIlPc-unsplash.jpg"></a><br/><br/>
+
+<a href="../fogsmoke/wallpaper.png"><img alt="wallpaper" src="../fogsmoke/wallpaper.png"></a><br/><br/>
+
+[Browse](../fogsmoke/README.md)
 
 ## jackb
 
-<a href="../jackb/wallhaven-287xgm.jpg"><img alt="wallhaven-287xgm" src="../jackb/wallhaven-287xgm.jpg"></a><br/><br/>
+<a href="../jackb/wallhaven-g7rkj7.jpg"><img alt="wallhaven-g7rkj7" src="../jackb/wallhaven-g7rkj7.jpg"></a><br/><br/>
 
-<a href="../jackb/wallhaven-j32j85.jpg"><img alt="wallhaven-j32j85" src="../jackb/wallhaven-j32j85.jpg"></a><br/><br/>
+<a href="../jackb/wallhaven-y81lj7.jpg"><img alt="wallhaven-y81lj7" src="../jackb/wallhaven-y81lj7.jpg"></a><br/><br/>
 
 [Browse](../jackb/README.md)
 
-## pixel
+## stalenhag
 
-<a href="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f" src="../pixel/a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a><br/><br/>
+<a href="../stalenhag/980248.jpg"><img alt="980248" src="../stalenhag/980248.jpg"></a><br/><br/>
 
-<a href="../pixel/0a8c58987544b37b17002c1c6b9b21ea.jpg"><img alt="0a8c58987544b37b17002c1c6b9b21ea" src="../pixel/0a8c58987544b37b17002c1c6b9b21ea.jpg"></a><br/><br/>
+<a href="../stalenhag/609847.jpg"><img alt="609847" src="../stalenhag/609847.jpg"></a><br/><br/>
 
-[Browse](../pixel/README.md)
+[Browse](../stalenhag/README.md)
+
+## m-26.jp
+
+<a href="../m-26.jp/34.jpg"><img alt="34" src="../m-26.jp/34.jpg"></a><br/><br/>
+
+<a href="../m-26.jp/25.jpg"><img alt="25" src="../m-26.jp/25.jpg"></a><br/><br/>
+
+[Browse](../m-26.jp/README.md)
+
+## architecture
+
+<a href="../architecture/erwan-hesry-g7xx-luCBdA-unsplash.jpg"><img alt="erwan-hesry-g7xx-luCBdA-unsplash" src="../architecture/erwan-hesry-g7xx-luCBdA-unsplash.jpg"></a><br/><br/>
+
+<a href="../architecture/george-dagerotip-uAbzbIphr4s-unsplash.jpg"><img alt="george-dagerotip-uAbzbIphr4s-unsplash" src="../architecture/george-dagerotip-uAbzbIphr4s-unsplash.jpg"></a><br/><br/>
+
+[Browse](../architecture/README.md)
+
+## minimal
+
+<a href="../minimal/c7a6962492cddeb0929b0ec282cd04a2.jpg"><img alt="c7a6962492cddeb0929b0ec282cd04a2" src="../minimal/c7a6962492cddeb0929b0ec282cd04a2.jpg"></a><br/><br/>
+
+<a href="../minimal/minimal-6.jpg"><img alt="minimal-6" src="../minimal/minimal-6.jpg"></a><br/><br/>
+
+[Browse](../minimal/README.md)
+
+## solarized
+
+<a href="../solarized/mm7prhmrq3681.jpg"><img alt="mm7prhmrq3681" src="../solarized/mm7prhmrq3681.jpg"></a><br/><br/>
+
+<a href="../solarized/ketqb6blpnt81.jpg"><img alt="ketqb6blpnt81" src="../solarized/ketqb6blpnt81.jpg"></a><br/><br/>
+
+[Browse](../solarized/README.md)
+
+## paper
+
+<a href="../paper/1647935972998.png"><img alt="1647935972998" src="../paper/1647935972998.png"></a><br/><br/>
+
+<a href="../paper/1647816897752.jpg"><img alt="1647816897752" src="../paper/1647816897752.jpg"></a><br/><br/>
+
+[Browse](../paper/README.md)
+
+## centered
+
+<a href="../centered/7880029d5069f2b7299187ffbb1dc7fb.jpg"><img alt="7880029d5069f2b7299187ffbb1dc7fb" src="../centered/7880029d5069f2b7299187ffbb1dc7fb.jpg"></a><br/><br/>
+
+<a href="../centered/unknown1.png"><img alt="unknown1" src="../centered/unknown1.png"></a><br/><br/>
+
+[Browse](../centered/README.md)
 
 ## Sources
 
