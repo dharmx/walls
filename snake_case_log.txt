@@ -1,0 +1,1611 @@
+renamed:    abstract/a black and white drawing of a person with a blindfold.png -> abstract/a_black_and_white_drawing_of_a_person_with_a_blindfold.png
+renamed:    abstract/a black and white drawing of a woman in a black and white dress.jpg -> abstract/a_black_and_white_drawing_of_a_woman_in_a_black_and_white_dress.jpg
+renamed:    abstract/a black and white image of a group of people.png -> abstract/a_black_and_white_image_of_a_group_of_people.png
+renamed:    abstract/a black and white logo.png -> abstract/a_black_and_white_logo.png
+renamed:    abstract/a black and white maze.png -> abstract/a_black_and_white_maze.png
+renamed:    abstract/a black and white picture of mountains and trees.png -> abstract/a_black_and_white_picture_of_mountains_and_trees.png
+renamed:    abstract/a black liquid floating in the air.jpg -> abstract/a_black_liquid_floating_in_the_air.jpg
+renamed:    abstract/a blue and orange background.jpg -> abstract/a_blue_and_orange_background.jpg
+renamed:    abstract/a chair on a platform with a halo above it.jpg -> abstract/a_chair_on_a_platform_with_a_halo_above_it.jpg
+renamed:    abstract/a close up of a person with wings.jpg -> abstract/a_close_up_of_a_person_with_wings.jpg
+renamed:    abstract/a colorful background with different shapes and patterns.png -> abstract/a_colorful_background_with_different_shapes_and_patterns.png
+renamed:    abstract/a colorful swirls of paint.jpg -> abstract/a_colorful_swirls_of_paint.jpg
+renamed:    abstract/a drawing of a sun and a ball.png -> abstract/a_drawing_of_a_sun_and_a_ball.png
+renamed:    abstract/a drawing of an astronaut holding a rocket.jpg -> abstract/a_drawing_of_an_astronaut_holding_a_rocket.jpg
+renamed:    abstract/a face in a blue light.jpeg -> abstract/a_face_in_a_blue_light.jpeg
+renamed:    abstract/a group of bubbles on a white background.jpg -> abstract/a_group_of_bubbles_on_a_white_background.jpg
+renamed:    abstract/a group of buildings with blue awnings.png -> abstract/a_group_of_buildings_with_blue_awnings.png
+renamed:    abstract/a group of potted plants.jpg -> abstract/a_group_of_potted_plants.jpg
+renamed:    abstract/a group of white lines on a black background.jpeg -> abstract/a_group_of_white_lines_on_a_black_background.jpeg
+renamed:    abstract/a man and woman eating food.jpg -> abstract/a_man_and_woman_eating_food.jpg
+renamed:    abstract/a man sitting in a chair.png -> abstract/a_man_sitting_in_a_chair.png
+renamed:    abstract/a map of a city.jpg -> abstract/a_map_of_a_city.jpg
+renamed:    abstract/a mountain with a lake in the background.jpg -> abstract/a_mountain_with_a_lake_in_the_background.jpg
+renamed:    abstract/a painting of a building in a dark landscape.png -> abstract/a_painting_of_a_building_in_a_dark_landscape.png
+renamed:    abstract/a painting of a building in the desert.png -> abstract/a_painting_of_a_building_in_the_desert.png
+renamed:    abstract/a painting of a man with a dripping face.jpg -> abstract/a_painting_of_a_man_with_a_dripping_face.jpg
+renamed:    abstract/a painting of a man with a face on his head.png -> abstract/a_painting_of_a_man_with_a_face_on_his_head.png
+renamed:    abstract/a painting of a mountain.png -> abstract/a_painting_of_a_mountain.png
+renamed:    abstract/a pink and green object with circles and dots.png -> abstract/a_pink_and_green_object_with_circles_and_dots.png
+renamed:    abstract/a pyramids with palm trees.png -> abstract/a_pyramids_with_palm_trees.png
+renamed:    abstract/a screenshot of a computer.jpg -> abstract/a_screenshot_of_a_computer.jpg
+renamed:    abstract/a skeleton standing on a pile of skulls.png -> abstract/a_skeleton_standing_on_a_pile_of_skulls.png
+renamed:    abstract/a statue of a woman with wings and a plant.png -> abstract/a_statue_of_a_woman_with_wings_and_a_plant.png
+renamed:    abstract/a statue of a woman with wings and wings.png -> abstract/a_statue_of_a_woman_with_wings_and_wings.png
+renamed:    abstract/a tree and a rock.png -> abstract/a_tree_and_a_rock.png
+renamed:    abstract/a tree in the snow.jpg -> abstract/a_tree_in_the_snow.jpg
+renamed:    abstract/a white building with balconies.jpg -> abstract/a_white_building_with_balconies.jpg
+renamed:    abstract/a white drawing of a person with a mask on his head.png -> abstract/a_white_drawing_of_a_person_with_a_mask_on_his_head.png
+renamed:    abstract/a white line drawing of a group of trees.jpg -> abstract/a_white_line_drawing_of_a_group_of_trees.jpg
+renamed:    abstract/a white lines on a black background.jpeg -> abstract/a_white_lines_on_a_black_background.jpeg
+renamed:    abstract/a white swirly circle on a black background.png -> abstract/a_white_swirly_circle_on_a_black_background.png
+renamed:    abstract/a woman with long hair wearing sunglasses.png -> abstract/a_woman_with_long_hair_wearing_sunglasses.png
+renamed:    abstract/two black and white images of mountains.jpg -> abstract/two_black_and_white_images_of_mountains.jpg
+renamed:    aerial/a aerial view of a mountain.jpg -> aerial/a_aerial_view_of_a_mountain.jpg
+renamed:    aerial/a aerial view of a snowy mountain range.jpg -> aerial/a_aerial_view_of_a_snowy_mountain_range.jpg
+renamed:    aerial/a aerial view of a snowy mountain range_01.jpg -> aerial/a_aerial_view_of_a_snowy_mountain_range_01.jpg
+renamed:    aerial/a beach with waves crashing on the shore.jpg -> aerial/a_beach_with_waves_crashing_on_the_shore.jpg
+renamed:    aerial/a blue and white water.jpg -> aerial/a_blue_and_white_water.jpg
+renamed:    aerial/a city with lights in the distance.jpg -> aerial/a_city_with_lights_in_the_distance.jpg
+renamed:    aerial/a close up of a rock.jpg -> aerial/a_close_up_of_a_rock.jpg
+renamed:    aerial/a close up of water.jpg -> aerial/a_close_up_of_water.jpg
+renamed:    aerial/a close up of water_01.jpg -> aerial/a_close_up_of_water_01.jpg
+renamed:    aerial/a cup of coffee with foam.jpg -> aerial/a_cup_of_coffee_with_foam.jpg
+renamed:    aerial/a pile of cut logs.jpg -> aerial/a_pile_of_cut_logs.jpg
+renamed:    aerial/a road surrounded by trees.jpg -> aerial/a_road_surrounded_by_trees.jpg
+renamed:    aerial/a rocky beach with trees and water.jpg -> aerial/a_rocky_beach_with_trees_and_water.jpg
+renamed:    aerial/a rocky shore with waves crashing.jpg -> aerial/a_rocky_shore_with_waves_crashing.jpg
+renamed:    aerial/a rocky shore with waves crashing on it.jpg -> aerial/a_rocky_shore_with_waves_crashing_on_it.jpg
+renamed:    aerial/a snowy forest with trees.jpg -> aerial/a_snowy_forest_with_trees.jpg
+renamed:    aerial/a swimming pool on a rocky island.jpg -> aerial/a_swimming_pool_on_a_rocky_island.jpg
+renamed:    aerial/aerial view of a city at night.jpg -> aerial/aerial_view_of_a_city_at_night.jpg
+renamed:    aerial/aerial view of a city at night_01.jpg -> aerial/aerial_view_of_a_city_at_night_01.jpg
+renamed:    aerial/satellite dishes on a building.jpg -> aerial/satellite_dishes_on_a_building.jpg
+renamed:    aerial/waves crashing on rocks.jpg -> aerial/waves_crashing_on_rocks.jpg
+renamed:    aerial/waves crashing on rocks.png -> aerial/waves_crashing_on_rocks.png
+renamed:    aerial/waves crashing waves on rocks.jpg -> aerial/waves_crashing_waves_on_rocks.jpg
+renamed:    aerial/waves crashing waves on the ocean.jpg -> aerial/waves_crashing_waves_on_the_ocean.jpg
+renamed:    anime/a beach with a bridge and trees.jpg -> anime/a_beach_with_a_bridge_and_trees.jpg
+renamed:    anime/a beach with a bridge and trees_01.jpg -> anime/a_beach_with_a_bridge_and_trees_01.jpg
+renamed:    anime/a beach with palm trees and a moon.png -> anime/a_beach_with_palm_trees_and_a_moon.png
+renamed:    anime/a bench in a bamboo forest.png -> anime/a_bench_in_a_bamboo_forest.png
+renamed:    anime/a bench next to a river.jpg -> anime/a_bench_next_to_a_river.jpg
+renamed:    anime/a bird flying in the sky.png -> anime/a_bird_flying_in_the_sky.png
+renamed:    anime/a bird flying over a building.jpeg -> anime/a_bird_flying_over_a_building.jpeg
+renamed:    anime/a bird flying with a red cape and a man flying.png -> anime/a_bird_flying_with_a_red_cape_and_a_man_flying.png
+renamed:    anime/a bird on a branch.jpg -> anime/a_bird_on_a_branch.jpg
+renamed:    anime/a bird on a branch.png -> anime/a_bird_on_a_branch.png
+renamed:    anime/a bird sitting on a railing next to a satellite dish.jpg -> anime/a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg
+renamed:    anime/a black and white diagram of a tree of life.jpg -> anime/a_black_and_white_diagram_of_a_tree_of_life.jpg
+renamed:    anime/a blue tiger with black lines and white teeth.jpg -> anime/a_blue_tiger_with_black_lines_and_white_teeth.jpg
+renamed:    anime/a body of water with a bridge and trees.jpg -> anime/a_body_of_water_with_a_bridge_and_trees.jpg
+renamed:    anime/a bug with a green light on the wall.png -> anime/a_bug_with_a_green_light_on_the_wall.png
+renamed:    anime/a building with a clock tower and lights on it.png -> anime/a_building_with_a_clock_tower_and_lights_on_it.png
+renamed:    anime/a building with a flag on the roof.jpg -> anime/a_building_with_a_flag_on_the_roof.jpg
+renamed:    anime/a building with a light on the side.jpg -> anime/a_building_with_a_light_on_the_side.jpg
+renamed:    anime/a building with boats in the water.jpg -> anime/a_building_with_boats_in_the_water.jpg
+renamed:    anime/a building with boats on the water.jpg -> anime/a_building_with_boats_on_the_water.jpg
+renamed:    anime/a building with boats on the water_01.jpg -> anime/a_building_with_boats_on_the_water_01.jpg
+renamed:    anime/a building with trees in the background.jpg -> anime/a_building_with_trees_in_the_background.jpg
+renamed:    anime/a building with trees in the background_01.jpg -> anime/a_building_with_trees_in_the_background_01.jpg
+renamed:    anime/a building with trees in the background_02.jpg -> anime/a_building_with_trees_in_the_background_02.jpg
+renamed:    anime/a building with trees in the background_03.jpg -> anime/a_building_with_trees_in_the_background_03.jpg
+renamed:    anime/a cartoon character in a pond surrounded by leaves.png -> anime/a_cartoon_character_in_a_pond_surrounded_by_leaves.png
+renamed:    anime/a cartoon house on a floating platform.jpg -> anime/a_cartoon_house_on_a_floating_platform.jpg
+renamed:    anime/a cartoon of a airship flying over a mountain.png -> anime/a_cartoon_of_a_airship_flying_over_a_mountain.png
+renamed:    anime/a cartoon of a boat in the water.png -> anime/a_cartoon_of_a_boat_in_the_water.png
+renamed:    anime/a cartoon of a boat in water.png -> anime/a_cartoon_of_a_boat_in_water.png
+renamed:    anime/a cartoon of a boy and a group of children.png -> anime/a_cartoon_of_a_boy_and_a_group_of_children.png
+renamed:    anime/a cartoon of a castle.png -> anime/a_cartoon_of_a_castle.png
+renamed:    anime/a cartoon of a castle_01.png -> anime/a_cartoon_of_a_castle_01.png
+renamed:    anime/a cartoon of a cat on a balcony.jpeg -> anime/a_cartoon_of_a_cat_on_a_balcony.jpeg
+renamed:    anime/a cartoon of a cat playing with a ball.png -> anime/a_cartoon_of_a_cat_playing_with_a_ball.png
+renamed:    anime/a cartoon of a city.jpg -> anime/a_cartoon_of_a_city.jpg
+renamed:    anime/a cartoon of a city.png -> anime/a_cartoon_of_a_city.png
+renamed:    anime/a cartoon of a city with a clock tower.jpeg -> anime/a_cartoon_of_a_city_with_a_clock_tower.jpeg
+renamed:    anime/a cartoon of a creature.jpg -> anime/a_cartoon_of_a_creature.jpg
+renamed:    anime/a cartoon of a doll house.jpeg -> anime/a_cartoon_of_a_doll_house.jpeg
+renamed:    anime/a cartoon of a flying ship with buildings and a person walking.jpg -> anime/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg
+renamed:    anime/a cartoon of a forest with mushrooms.png -> anime/a_cartoon_of_a_forest_with_mushrooms.png
+renamed:    anime/a cartoon of a girl and a dog.png -> anime/a_cartoon_of_a_girl_and_a_dog.png
+renamed:    anime/a cartoon of a girl holding a book.jpg -> anime/a_cartoon_of_a_girl_holding_a_book.jpg
+renamed:    anime/a cartoon of a girl holding a bouquet of flowers.png -> anime/a_cartoon_of_a_girl_holding_a_bouquet_of_flowers.png
+renamed:    anime/a cartoon of a girl holding a drink.png -> anime/a_cartoon_of_a_girl_holding_a_drink.png
+renamed:    anime/a cartoon of a girl holding a scythe.jpeg -> anime/a_cartoon_of_a_girl_holding_a_scythe.jpeg
+renamed:    anime/a cartoon of a girl holding an umbrella.png -> anime/a_cartoon_of_a_girl_holding_an_umbrella.png
+renamed:    anime/a cartoon of a girl in a dress.png -> anime/a_cartoon_of_a_girl_in_a_dress.png
+renamed:    anime/a cartoon of a girl in a uniform.png -> anime/a_cartoon_of_a_girl_in_a_uniform.png
+renamed:    anime/a cartoon of a girl in front of a computer.jpg -> anime/a_cartoon_of_a_girl_in_front_of_a_computer.jpg
+renamed:    anime/a cartoon of a girl looking at clouds.jpg -> anime/a_cartoon_of_a_girl_looking_at_clouds.jpg
+renamed:    anime/a cartoon of a girl playing a guitar.jpg -> anime/a_cartoon_of_a_girl_playing_a_guitar.jpg
+renamed:    anime/a cartoon of a girl playing a guitar in a room with many objects.png -> anime/a_cartoon_of_a_girl_playing_a_guitar_in_a_room_with_many_objects.png
+renamed:    anime/a cartoon of a girl puppet.jpg -> anime/a_cartoon_of_a_girl_puppet.jpg
+renamed:    anime/a cartoon of a girl sitting on a city.jpg -> anime/a_cartoon_of_a_girl_sitting_on_a_city.jpg
+renamed:    anime/a cartoon of a girl sitting on a pink chair with a teddy bear.png -> anime/a_cartoon_of_a_girl_sitting_on_a_pink_chair_with_a_teddy_bear.png
+renamed:    anime/a cartoon of a girl sitting on a porch in the rain.png -> anime/a_cartoon_of_a_girl_sitting_on_a_porch_in_the_rain.png
+renamed:    anime/a cartoon of a girl sitting on a stack of boxes.jpg -> anime/a_cartoon_of_a_girl_sitting_on_a_stack_of_boxes.jpg
+renamed:    anime/a cartoon of a girl standing in a doorway.jpg -> anime/a_cartoon_of_a_girl_standing_in_a_doorway.jpg
+renamed:    anime/a cartoon of a girl standing next to a car.jpg -> anime/a_cartoon_of_a_girl_standing_next_to_a_car.jpg
+renamed:    anime/a cartoon of a girl standing on a balcony with red balloons.jpeg -> anime/a_cartoon_of_a_girl_standing_on_a_balcony_with_red_balloons.jpeg
+renamed:    anime/a cartoon of a girl standing under a tree with purple flowers.png -> anime/a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png
+renamed:    anime/a cartoon of a girl wearing a helmet.png -> anime/a_cartoon_of_a_girl_wearing_a_helmet.png
+renamed:    anime/a cartoon of a girl with a cat on her head.jpg -> anime/a_cartoon_of_a_girl_with_a_cat_on_her_head.jpg
+renamed:    anime/a cartoon of a girl with a pillow.png -> anime/a_cartoon_of_a_girl_with_a_pillow.png
+renamed:    anime/a cartoon of a girl with blue hair and a skull.jpg -> anime/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg
+renamed:    anime/a cartoon of a girl with long hair holding a sword.jpg -> anime/a_cartoon_of_a_girl_with_long_hair_holding_a_sword.jpg
+renamed:    anime/a cartoon of a girl with long hair wearing a black hat and jacket.png -> anime/a_cartoon_of_a_girl_with_long_hair_wearing_a_black_hat_and_jacket.png
+renamed:    anime/a cartoon of a girl with long pink hair sitting on a balcony.png -> anime/a_cartoon_of_a_girl_with_long_pink_hair_sitting_on_a_balcony.png
+renamed:    anime/a cartoon of a girl with pigtails.png -> anime/a_cartoon_of_a_girl_with_pigtails.png
+renamed:    anime/a cartoon of a girl with white hair and black eyes.png -> anime/a_cartoon_of_a_girl_with_white_hair_and_black_eyes.png
+renamed:    anime/a cartoon of a girl with yellow hair and pink dress.jpg -> anime/a_cartoon_of_a_girl_with_yellow_hair_and_pink_dress.jpg
+renamed:    anime/a cartoon of a group of children.jpg -> anime/a_cartoon_of_a_group_of_children.jpg
+renamed:    anime/a cartoon of a group of people playing music.jpg -> anime/a_cartoon_of_a_group_of_people_playing_music.jpg
+renamed:    anime/a cartoon of a man and a woman in a room with chairs and a table.jpeg -> anime/a_cartoon_of_a_man_and_a_woman_in_a_room_with_chairs_and_a_table.jpeg
+renamed:    anime/a cartoon of a man and woman holding umbrellas in the rain.jpeg -> anime/a_cartoon_of_a_man_and_woman_holding_umbrellas_in_the_rain.jpeg
+renamed:    anime/a cartoon of a man and woman holding umbrellas in the rain_01.jpeg -> anime/a_cartoon_of_a_man_and_woman_holding_umbrellas_in_the_rain_01.jpeg
+renamed:    anime/a cartoon of a man holding a camera.jpg -> anime/a_cartoon_of_a_man_holding_a_camera.jpg
+renamed:    anime/a cartoon of a man playing guitar and playing music.jpg -> anime/a_cartoon_of_a_man_playing_guitar_and_playing_music.jpg
+renamed:    anime/a cartoon of a man riding a horse in a forest.jpg -> anime/a_cartoon_of_a_man_riding_a_horse_in_a_forest.jpg
+renamed:    anime/a cartoon of a man standing in a desert.jpg -> anime/a_cartoon_of_a_man_standing_in_a_desert.jpg
+renamed:    anime/a cartoon of a man with a hat.jpg -> anime/a_cartoon_of_a_man_with_a_hat.jpg
+renamed:    anime/a cartoon of a man with a mask.jpg -> anime/a_cartoon_of_a_man_with_a_mask.jpg
+renamed:    anime/a cartoon of a monster.jpeg -> anime/a_cartoon_of_a_monster.jpeg
+renamed:    anime/a cartoon of a person holding a globe.jpg -> anime/a_cartoon_of_a_person_holding_a_globe.jpg
+renamed:    anime/a cartoon of a person with their hands on their face.png -> anime/a_cartoon_of_a_person_with_their_hands_on_their_face.png
+renamed:    anime/a cartoon of a road with plants and power lines.jpg -> anime/a_cartoon_of_a_road_with_plants_and_power_lines.jpg
+renamed:    anime/a cartoon of a robot.jpg -> anime/a_cartoon_of_a_robot.jpg
+renamed:    anime/a cartoon of a robot with a red background.jpg -> anime/a_cartoon_of_a_robot_with_a_red_background.jpg
+renamed:    anime/a cartoon of a scary face with a ghost in the woods.png -> anime/a_cartoon_of_a_scary_face_with_a_ghost_in_the_woods.png
+renamed:    anime/a cartoon of a ship and a boat in the water.jpg -> anime/a_cartoon_of_a_ship_and_a_boat_in_the_water.jpg
+renamed:    anime/a cartoon of a street with buildings.jpeg -> anime/a_cartoon_of_a_street_with_buildings.jpeg
+renamed:    anime/a cartoon of a woman.jpg -> anime/a_cartoon_of_a_woman.jpg
+renamed:    anime/a cartoon of a woman.png -> anime/a_cartoon_of_a_woman.png
+renamed:    anime/a cartoon of a woman holding a cup.jpg -> anime/a_cartoon_of_a_woman_holding_a_cup.jpg
+renamed:    anime/a cartoon of a woman holding a fish.png -> anime/a_cartoon_of_a_woman_holding_a_fish.png
+renamed:    anime/a cartoon of a woman holding a gun.jpg -> anime/a_cartoon_of_a_woman_holding_a_gun.jpg
+renamed:    anime/a cartoon of a woman holding a hose with a hose in front of a swimming pool.jpg -> anime/a_cartoon_of_a_woman_holding_a_hose_with_a_hose_in_front_of_a_swimming_pool.jpg
+renamed:    anime/a cartoon of a woman holding a piece of food.png -> anime/a_cartoon_of_a_woman_holding_a_piece_of_food.png
+renamed:    anime/a cartoon of a woman holding a red ball.jpg -> anime/a_cartoon_of_a_woman_holding_a_red_ball.jpg
+renamed:    anime/a cartoon of a woman holding a sword.jpg -> anime/a_cartoon_of_a_woman_holding_a_sword.jpg
+renamed:    anime/a cartoon of a woman holding a sword_01.jpg -> anime/a_cartoon_of_a_woman_holding_a_sword_01.jpg
+renamed:    anime/a cartoon of a woman holding a sword_02.jpg -> anime/a_cartoon_of_a_woman_holding_a_sword_02.jpg
+renamed:    anime/a cartoon of a woman in a dress.jpg -> anime/a_cartoon_of_a_woman_in_a_dress.jpg
+renamed:    anime/a cartoon of a woman in a pool.jpg -> anime/a_cartoon_of_a_woman_in_a_pool.jpg
+renamed:    anime/a cartoon of a woman in a red dress with a large weapon.jpg -> anime/a_cartoon_of_a_woman_in_a_red_dress_with_a_large_weapon.jpg
+renamed:    anime/a cartoon of a woman in a short skirt and glasses.jpg -> anime/a_cartoon_of_a_woman_in_a_short_skirt_and_glasses.jpg
+renamed:    anime/a cartoon of a woman in a store.jpg -> anime/a_cartoon_of_a_woman_in_a_store.jpg
+renamed:    anime/a cartoon of a woman lying on a bed.jpg -> anime/a_cartoon_of_a_woman_lying_on_a_bed.jpg
+renamed:    anime/a cartoon of a woman lying on a pile of books.png -> anime/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png
+renamed:    anime/a cartoon of a woman lying on a snake.jpg -> anime/a_cartoon_of_a_woman_lying_on_a_snake.jpg
+renamed:    anime/a cartoon of a woman lying on her back.jpg -> anime/a_cartoon_of_a_woman_lying_on_her_back.jpg
+renamed:    anime/a cartoon of a woman on a beach.jpg -> anime/a_cartoon_of_a_woman_on_a_beach.jpg
+renamed:    anime/a cartoon of a woman on a yellow scooter.jpg -> anime/a_cartoon_of_a_woman_on_a_yellow_scooter.jpg
+renamed:    anime/a cartoon of a woman sitting at a table on a deck.jpg -> anime/a_cartoon_of_a_woman_sitting_at_a_table_on_a_deck.jpg
+renamed:    anime/a cartoon of a woman sitting in a chair with a paddle.jpg -> anime/a_cartoon_of_a_woman_sitting_in_a_chair_with_a_paddle.jpg
+renamed:    anime/a cartoon of a woman sitting on a building with a cat on a leash.jpg -> anime/a_cartoon_of_a_woman_sitting_on_a_building_with_a_cat_on_a_leash.jpg
+renamed:    anime/a cartoon of a woman sitting on a chair.png -> anime/a_cartoon_of_a_woman_sitting_on_a_chair.png
+renamed:    anime/a cartoon of a woman sitting on a red background.jpg -> anime/a_cartoon_of_a_woman_sitting_on_a_red_background.jpg
+renamed:    anime/a cartoon of a woman sitting on a table with an umbrella.jpg -> anime/a_cartoon_of_a_woman_sitting_on_a_table_with_an_umbrella.jpg
+renamed:    anime/a cartoon of a woman standing in front of a building.jpg -> anime/a_cartoon_of_a_woman_standing_in_front_of_a_building.jpg
+renamed:    anime/a cartoon of a woman standing next to a car.jpg -> anime/a_cartoon_of_a_woman_standing_next_to_a_car.jpg
+renamed:    anime/a cartoon of a woman standing on a railing overlooking a body of water.jpg -> anime/a_cartoon_of_a_woman_standing_on_a_railing_overlooking_a_body_of_water.jpg
+renamed:    anime/a cartoon of a woman walking in a city.jpg -> anime/a_cartoon_of_a_woman_walking_in_a_city.jpg
+renamed:    anime/a cartoon of a woman walking up stairs.jpg -> anime/a_cartoon_of_a_woman_walking_up_stairs.jpg
+renamed:    anime/a cartoon of a woman with birds in the air.png -> anime/a_cartoon_of_a_woman_with_birds_in_the_air.png
+renamed:    anime/a cartoon of a woman with butterflies.png -> anime/a_cartoon_of_a_woman_with_butterflies.png
+renamed:    anime/a cartoon of a woman with flowers in her hair.jpg -> anime/a_cartoon_of_a_woman_with_flowers_in_her_hair.jpg
+renamed:    anime/a cartoon of a woman with glasses.png -> anime/a_cartoon_of_a_woman_with_glasses.png
+renamed:    anime/a cartoon of a woman with her hands on her face.jpg -> anime/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg
+renamed:    anime/a cartoon of a woman with long brown hair.jpg -> anime/a_cartoon_of_a_woman_with_long_brown_hair.jpg
+renamed:    anime/a cartoon of a woman with long hair.jpg -> anime/a_cartoon_of_a_woman_with_long_hair.jpg
+renamed:    anime/a cartoon of a woman with long hair.png -> anime/a_cartoon_of_a_woman_with_long_hair.png
+renamed:    anime/a cartoon of a woman with long hair_01.png -> anime/a_cartoon_of_a_woman_with_long_hair_01.png
+renamed:    anime/a cartoon of a woman with long hair and flowers.jpg -> anime/a_cartoon_of_a_woman_with_long_hair_and_flowers.jpg
+renamed:    anime/a cartoon of a woman with long white hair.jpg -> anime/a_cartoon_of_a_woman_with_long_white_hair.jpg
+renamed:    anime/a cartoon of a woman with pink hair.jpg -> anime/a_cartoon_of_a_woman_with_pink_hair.jpg
+renamed:    anime/a cartoon of a woman with pink hair and many cameras.jpg -> anime/a_cartoon_of_a_woman_with_pink_hair_and_many_cameras.jpg
+renamed:    anime/a cartoon of girls playing instruments on a street.jpeg -> anime/a_cartoon_of_girls_playing_instruments_on_a_street.jpeg
+renamed:    anime/a cartoon of people around a table with food and drinks.jpg -> anime/a_cartoon_of_people_around_a_table_with_food_and_drinks.jpg
+renamed:    anime/a cartoon of two girls sitting on a chair.png -> anime/a_cartoon_of_two_girls_sitting_on_a_chair.png
+renamed:    anime/a cat lying on a piano.jpg -> anime/a_cat_lying_on_a_piano.jpg
+renamed:    anime/a cat standing in front of a building.jpg -> anime/a_cat_standing_in_front_of_a_building.jpg
+renamed:    anime/a city landscape with trees and buildings.jpeg -> anime/a_city_landscape_with_trees_and_buildings.jpeg
+renamed:    anime/a city skyline with a tall tower lit up at night.jpeg -> anime/a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg
+renamed:    anime/a city skyline with trees and clouds.jpg -> anime/a_city_skyline_with_trees_and_clouds.jpg
+renamed:    anime/a city with buildings and lights.jpg -> anime/a_city_with_buildings_and_lights.jpg
+renamed:    anime/a city with towers and towers.jpg -> anime/a_city_with_towers_and_towers.jpg
+renamed:    anime/a clock and vase with flowers on a table.png -> anime/a_clock_and_vase_with_flowers_on_a_table.png
+renamed:    anime/a close up of a drawing.jpg -> anime/a_close_up_of_a_drawing.jpg
+renamed:    anime/a colorful buildings with power lines.jpg -> anime/a_colorful_buildings_with_power_lines.jpg
+renamed:    anime/a computer generated image of a machine.png -> anime/a_computer_generated_image_of_a_machine.png
+renamed:    anime/a couple of people walking on a road with power lines and telephone poles.jpg -> anime/a_couple_of_people_walking_on_a_road_with_power_lines_and_telephone_poles.jpg
+renamed:    anime/a deck overlooking the water.jpg -> anime/a_deck_overlooking_the_water.jpg
+renamed:    anime/a dirt road with trees and power lines.png -> anime/a_dirt_road_with_trees_and_power_lines.png
+renamed:    anime/a door with a doorway and shoes on the ground.jpg -> anime/a_door_with_a_doorway_and_shoes_on_the_ground.jpg
+renamed:    anime/a drawing of a building.jpg -> anime/a_drawing_of_a_building.jpg
+renamed:    anime/a drawing of a horse carriage on a bridge.png -> anime/a_drawing_of_a_horse_carriage_on_a_bridge.png
+renamed:    anime/a drawing on a spiral bound notebook.jpg -> anime/a_drawing_on_a_spiral_bound_notebook.jpg
+renamed:    anime/a forest with tall trees and grass.jpeg -> anime/a_forest_with_tall_trees_and_grass.jpeg
+renamed:    anime/a garden with stairs and flowers.jpg -> anime/a_garden_with_stairs_and_flowers.jpg
+renamed:    anime/a girl holding a hammer to a man's head.png -> anime/a_girl_holding_a_hammer_to_a_man's_head.png
+renamed:    anime/a girl sitting at desks in a classroom with flowers flying out of her head.jpg -> anime/a_girl_sitting_at_desks_in_a_classroom_with_flowers_flying_out_of_her_head.jpg
+renamed:    anime/a girl standing in front of a guitar case.jpg -> anime/a_girl_standing_in_front_of_a_guitar_case.jpg
+renamed:    anime/a girl standing on a broken metal pole.jpg -> anime/a_girl_standing_on_a_broken_metal_pole.jpg
+renamed:    anime/a girl standing on a railroad crossing.png -> anime/a_girl_standing_on_a_railroad_crossing.png
+renamed:    anime/a girl standing on a road with trees and mountains in the background.jpg -> anime/a_girl_standing_on_a_road_with_trees_and_mountains_in_the_background.jpg
+renamed:    anime/a girl with short brown hair and white shirt.jpg -> anime/a_girl_with_short_brown_hair_and_white_shirt.jpg
+renamed:    anime/a green cave with trees and plants.png -> anime/a_green_cave_with_trees_and_plants.png
+renamed:    anime/a group of airplanes in the sky.png -> anime/a_group_of_airplanes_in_the_sky.png
+renamed:    anime/a group of black cartoon characters.png -> anime/a_group_of_black_cartoon_characters.png
+renamed:    anime/a group of black wolves with red eyes.jpg -> anime/a_group_of_black_wolves_with_red_eyes.jpg
+renamed:    anime/a group of cartoon characters.jpg -> anime/a_group_of_cartoon_characters.jpg
+renamed:    anime/a group of cartoon characters_01.jpg -> anime/a_group_of_cartoon_characters_01.jpg
+renamed:    anime/a group of cartoon characters_02.jpg -> anime/a_group_of_cartoon_characters_02.jpg
+renamed:    anime/a group of cartoon characters_03.jpg -> anime/a_group_of_cartoon_characters_03.jpg
+renamed:    anime/a group of cartoon women.jpg -> anime/a_group_of_cartoon_women.jpg
+renamed:    anime/a group of flowers in a field.jpg -> anime/a_group_of_flowers_in_a_field.jpg
+renamed:    anime/a group of flowers in a field_01.jpg -> anime/a_group_of_flowers_in_a_field_01.jpg
+renamed:    anime/a group of girls lying down.jpg -> anime/a_group_of_girls_lying_down.jpg
+renamed:    anime/a group of lights on poles.jpg -> anime/a_group_of_lights_on_poles.jpg
+renamed:    anime/a group of men posing for a picture.png -> anime/a_group_of_men_posing_for_a_picture.png
+renamed:    anime/a group of men standing on a beach.jpg -> anime/a_group_of_men_standing_on_a_beach.jpg
+renamed:    anime/a group of people in a room.jpg -> anime/a_group_of_people_in_a_room.jpg
+renamed:    anime/a group of people jumping in the air.jpg -> anime/a_group_of_people_jumping_in_the_air.jpg
+renamed:    anime/a group of people sitting on a rock by a body of water.jpg -> anime/a_group_of_people_sitting_on_a_rock_by_a_body_of_water.jpg
+renamed:    anime/a group of people standing in a room with a large globe.jpg -> anime/a_group_of_people_standing_in_a_room_with_a_large_globe.jpg
+renamed:    anime/a group of people with black face masks.jpg -> anime/a_group_of_people_with_black_face_masks.jpg
+renamed:    anime/a group of people with umbrellas walking in the rain.png -> anime/a_group_of_people_with_umbrellas_walking_in_the_rain.png
+renamed:    anime/a group of pink flowers.png -> anime/a_group_of_pink_flowers.png
+renamed:    anime/a group of pink flowers_01.png -> anime/a_group_of_pink_flowers_01.png
+renamed:    anime/a group of rooftops with a cross on top.png -> anime/a_group_of_rooftops_with_a_cross_on_top.png
+renamed:    anime/a group of tall trees in a desert.png -> anime/a_group_of_tall_trees_in_a_desert.png
+renamed:    anime/a group of women in garments.png -> anime/a_group_of_women_in_garments.png
+renamed:    anime/a group of women with swords.jpg -> anime/a_group_of_women_with_swords.jpg
+renamed:    anime/a hand on a piano.png -> anime/a_hand_on_a_piano.png
+renamed:    anime/a house in the woods.png -> anime/a_house_in_the_woods.png
+renamed:    anime/a house on an island by water.jpg -> anime/a_house_on_an_island_by_water.jpg
+renamed:    anime/a house on an island in the water.png -> anime/a_house_on_an_island_in_the_water.png
+renamed:    anime/a house with a bike and a chair.jpg -> anime/a_house_with_a_bike_and_a_chair.jpg
+renamed:    anime/a house with a chair and a bicycle.jpg -> anime/a_house_with_a_chair_and_a_bicycle.jpg
+renamed:    anime/a house with a lawn chair and a bicycle.jpg -> anime/a_house_with_a_lawn_chair_and_a_bicycle.jpg
+renamed:    anime/a house with ivy on the front.jpg -> anime/a_house_with_ivy_on_the_front.jpg
+renamed:    anime/a house with plants and flowers.jpeg -> anime/a_house_with_plants_and_flowers.jpeg
+renamed:    anime/a house with stairs leading to the front.png -> anime/a_house_with_stairs_leading_to_the_front.png
+renamed:    anime/a landscape of a farm with trees and a blue sky.png -> anime/a_landscape_of_a_farm_with_trees_and_a_blue_sky.png
+renamed:    anime/a landscape with a road and trees.png -> anime/a_landscape_with_a_road_and_trees.png
+renamed:    anime/a landscape with a tall tower and trees.jpg -> anime/a_landscape_with_a_tall_tower_and_trees.jpg
+renamed:    anime/a landscape with buildings and clouds.jpg -> anime/a_landscape_with_buildings_and_clouds.jpg
+renamed:    anime/a light from the ceiling.png -> anime/a_light_from_the_ceiling.png
+renamed:    anime/a log cabin in the woods.png -> anime/a_log_cabin_in_the_woods.png
+renamed:    anime/a machine with a box of brain inside.png -> anime/a_machine_with_a_box_of_brain_inside.png
+renamed:    anime/a man and dog riding bikes in a field with a house in the background.jpg -> anime/a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg
+renamed:    anime/a man and woman posing for a picture.jpg -> anime/a_man_and_woman_posing_for_a_picture.jpg
+renamed:    anime/a man riding a horse.jpg -> anime/a_man_riding_a_horse.jpg
+renamed:    anime/a man sitting on a couch.jpg -> anime/a_man_sitting_on_a_couch.jpg
+renamed:    anime/a moon and clouds at night.jpg -> anime/a_moon_and_clouds_at_night.jpg
+renamed:    anime/a moon and clouds at night_01.jpg -> anime/a_moon_and_clouds_at_night_01.jpg
+renamed:    anime/a painting of a clock with a paper and scissors from it.png -> anime/a_painting_of_a_clock_with_a_paper_and_scissors_from_it.png
+renamed:    anime/a painting of a forest with trees and a path.jpg -> anime/a_painting_of_a_forest_with_trees_and_a_path.jpg
+renamed:    anime/a painting of a forest with trees and fog.jpg -> anime/a_painting_of_a_forest_with_trees_and_fog.jpg
+renamed:    anime/a painting of a forest with trees and sun rays.jpg -> anime/a_painting_of_a_forest_with_trees_and_sun_rays.jpg
+renamed:    anime/a painting of a forest with trees and sun rays_01.jpg -> anime/a_painting_of_a_forest_with_trees_and_sun_rays_01.jpg
+renamed:    anime/a painting of a horse drawn carriage.png -> anime/a_painting_of_a_horse_drawn_carriage.png
+renamed:    anime/a park with a playground and trees.jpg -> anime/a_park_with_a_playground_and_trees.jpg
+renamed:    anime/a park with a playground and trees_01.jpg -> anime/a_park_with_a_playground_and_trees_01.jpg
+renamed:    anime/a park with a playground and trees_02.jpg -> anime/a_park_with_a_playground_and_trees_02.jpg
+renamed:    anime/a park with benches and trees at night.jpg -> anime/a_park_with_benches_and_trees_at_night.jpg
+renamed:    anime/a path leading to a lake.jpg -> anime/a_path_leading_to_a_lake.jpg
+renamed:    anime/a person in the air above a city.png -> anime/a_person_in_the_air_above_a_city.png
+renamed:    anime/a person on a bicycle on a railing with a city in the background.png -> anime/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png
+renamed:    anime/a person on a boat in a pond with lily pads.png -> anime/a_person_on_a_boat_in_a_pond_with_lily_pads.png
+renamed:    anime/a person riding a bicycle on a hill with sunflowers.jpeg -> anime/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg
+renamed:    anime/a person standing on a broken object in a field with a large white moon.png -> anime/a_person_standing_on_a_broken_object_in_a_field_with_a_large_white_moon.png
+renamed:    anime/a plane in the sky.jpg -> anime/a_plane_in_the_sky.jpg
+renamed:    anime/a planter in a courtyard.jpg -> anime/a_planter_in_a_courtyard.jpg
+renamed:    anime/a pond with a bench and flowers.jpg -> anime/a_pond_with_a_bench_and_flowers.jpg
+renamed:    anime/a pond with flowers and a bench in the middle.jpg -> anime/a_pond_with_flowers_and_a_bench_in_the_middle.jpg
+renamed:    anime/a red and white paint.jpg -> anime/a_red_and_white_paint.jpg
+renamed:    anime/a road leading to a body of water.png -> anime/a_road_leading_to_a_body_of_water.png
+renamed:    anime/a road leading to a city.jpg -> anime/a_road_leading_to_a_city.jpg
+renamed:    anime/a road with a body of water and mountains in the background.jpg -> anime/a_road_with_a_body_of_water_and_mountains_in_the_background.jpg
+renamed:    anime/a road with power lines and grass fields.jpg -> anime/a_road_with_power_lines_and_grass_fields.jpg
+renamed:    anime/a road with power lines and power lines.jpg -> anime/a_road_with_power_lines_and_power_lines.jpg
+renamed:    anime/a road with power lines and power lines.png -> anime/a_road_with_power_lines_and_power_lines.png
+renamed:    anime/a road with power lines and power lines_01.jpg -> anime/a_road_with_power_lines_and_power_lines_01.jpg
+renamed:    anime/a road with power lines and power lines_02.jpg -> anime/a_road_with_power_lines_and_power_lines_02.jpg
+renamed:    anime/a rock and grass in a dark room.png -> anime/a_rock_and_grass_in_a_dark_room.png
+renamed:    anime/a rock cliff with trees on top.png -> anime/a_rock_cliff_with_trees_on_top.png
+renamed:    anime/a rocket in the sky.png -> anime/a_rocket_in_the_sky.png
+renamed:    anime/a room with shelves and shelves and a light.jpg -> anime/a_room_with_shelves_and_shelves_and_a_light.jpg
+renamed:    anime/a scooter parked on a street.jpg -> anime/a_scooter_parked_on_a_street.jpg
+renamed:    anime/a ship in the ocean.jpeg -> anime/a_ship_in_the_ocean.jpeg
+renamed:    anime/a ship in the ocean.png -> anime/a_ship_in_the_ocean.png
+renamed:    anime/a silhouette of a castle with a sunset behind it.png -> anime/a_silhouette_of_a_castle_with_a_sunset_behind_it.png
+renamed:    anime/a skeleton in the sky.png -> anime/a_skeleton_in_the_sky.png
+renamed:    anime/a statue of a man in a park at night.jpg -> anime/a_statue_of_a_man_in_a_park_at_night.jpg
+renamed:    anime/a statue of a man in a park with flags.jpg -> anime/a_statue_of_a_man_in_a_park_with_flags.jpg
+renamed:    anime/a statue of a man in a park with flags_01.jpg -> anime/a_statue_of_a_man_in_a_park_with_flags_01.jpg
+renamed:    anime/a statue of a man standing on a pedestal in front of a row of flags.jpg -> anime/a_statue_of_a_man_standing_on_a_pedestal_in_front_of_a_row_of_flags.jpg
+renamed:    anime/a stone tower with windows.png -> anime/a_stone_tower_with_windows.png
+renamed:    anime/a street with buildings and pink trees.png -> anime/a_street_with_buildings_and_pink_trees.png
+renamed:    anime/a sunset over a beach.jpg -> anime/a_sunset_over_a_beach.jpg
+renamed:    anime/a table with papers and a pen on it.jpeg -> anime/a_table_with_papers_and_a_pen_on_it.jpeg
+renamed:    anime/a tower with a building and trees.jpg -> anime/a_tower_with_a_building_and_trees.jpg
+renamed:    anime/a train at a train station.jpg -> anime/a_train_at_a_train_station.jpg
+renamed:    anime/a train crossing with a train track and a body of water.png -> anime/a_train_crossing_with_a_train_track_and_a_body_of_water.png
+renamed:    anime/a train going through a lake.jpg -> anime/a_train_going_through_a_lake.jpg
+renamed:    anime/a train going through a lake_01.jpg -> anime/a_train_going_through_a_lake_01.jpg
+renamed:    anime/a train on tracks in a snowy city.jpg -> anime/a_train_on_tracks_in_a_snowy_city.jpg
+renamed:    anime/a tree branch with snow on it.jpg -> anime/a_tree_branch_with_snow_on_it.jpg
+renamed:    anime/a tree in a forest.png -> anime/a_tree_in_a_forest.png
+renamed:    anime/a tree in the forest.png -> anime/a_tree_in_the_forest.png
+renamed:    anime/a tree trunk with a branch.png -> anime/a_tree_trunk_with_a_branch.png
+renamed:    anime/a view of a city from a balcony.jpeg -> anime/a_view_of_a_city_from_a_balcony.jpeg
+renamed:    anime/a view of the ocean from a balcony.jpeg -> anime/a_view_of_the_ocean_from_a_balcony.jpeg
+renamed:    anime/a waterfall in the rain.jpg -> anime/a_waterfall_in_the_rain.jpg
+renamed:    anime/a white picket fence with flowers and a bridge over water.jpg -> anime/a_white_picket_fence_with_flowers_and_a_bridge_over_water.jpg
+renamed:    anime/a woman holding a sword.jpg -> anime/a_woman_holding_a_sword.jpg
+renamed:    anime/a woman holding an umbrella and standing on a sidewalk.png -> anime/a_woman_holding_an_umbrella_and_standing_on_a_sidewalk.png
+renamed:    anime/a woman in a red dress sitting in front of a gas station.jpg -> anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg
+renamed:    anime/a woman sitting in a chair under a tent.png -> anime/a_woman_sitting_in_a_chair_under_a_tent.png
+renamed:    anime/a woman standing on a bridge over a bridge with windmills in the background.png -> anime/a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background.png
+renamed:    anime/a woman standing on a road with sunflowers.png -> anime/a_woman_standing_on_a_road_with_sunflowers.png
+renamed:    anime/a woman wearing a helmet.jpg -> anime/a_woman_wearing_a_helmet.jpg
+renamed:    anime/a yellow and green background with many small white objects.png -> anime/a_yellow_and_green_background_with_many_small_white_objects.png
+renamed:    anime/cartoon a cartoon of a woman flying in the sky.png -> anime/cartoon_a_cartoon_of_a_woman_flying_in_the_sky.png
+renamed:    anime/cartoon characters in a blue background.png -> anime/cartoon_characters_in_a_blue_background.png
+renamed:    anime/cartoon of a girl in a bus.jpg -> anime/cartoon_of_a_girl_in_a_bus.jpg
+renamed:    anime/cartoon of people sitting at tables in a room with plants.png -> anime/cartoon_of_people_sitting_at_tables_in_a_room_with_plants.png
+renamed:    anime/power lines and trees at sunset.jpg -> anime/power_lines_and_trees_at_sunset.jpg
+renamed:    anime/rain drops of water on a tile surface.jpg -> anime/rain_drops_of_water_on_a_tile_surface.jpg
+renamed:    anime/stars in the sky at night.png -> anime/stars_in_the_sky_at_night.png
+renamed:    anime/water droplets on a puddle.png -> anime/water_droplets_on_a_puddle.png
+renamed:    anime/water drops on a window.jpg -> anime/water_drops_on_a_window.jpg
+renamed:    apeiros/a city with tall buildings in the fog.png -> apeiros/a_city_with_tall_buildings_in_the_fog.png
+renamed:    apeiros/a city with tall buildings in the fog_01.png -> apeiros/a_city_with_tall_buildings_in_the_fog_01.png
+renamed:    apeiros/a foggy forest with trees.png -> apeiros/a_foggy_forest_with_trees.png
+renamed:    apeiros/a foggy forest with trees_01.png -> apeiros/a_foggy_forest_with_trees_01.png
+renamed:    apeiros/a foggy mountain with trees.png -> apeiros/a_foggy_mountain_with_trees.png
+renamed:    apeiros/a foggy mountain with trees_01.png -> apeiros/a_foggy_mountain_with_trees_01.png
+renamed:    apeiros/a group of tall buildings with clouds in the sky.png -> apeiros/a_group_of_tall_buildings_with_clouds_in_the_sky.png
+renamed:    apeiros/a group of tall buildings with fog.png -> apeiros/a_group_of_tall_buildings_with_fog.png
+renamed:    apeiros/a large rock in the middle of a body of water.png -> apeiros/a_large_rock_in_the_middle_of_a_body_of_water.png
+renamed:    apeiros/a person standing on a rocky cliff by the ocean.png -> apeiros/a_person_standing_on_a_rocky_cliff_by_the_ocean.png
+renamed:    apeiros/a person standing on a rocky cliff edge.png -> apeiros/a_person_standing_on_a_rocky_cliff_edge.png
+renamed:    apeiros/looking up at a building.png -> apeiros/looking_up_at_a_building.png
+renamed:    apeiros/waves crashing waves on rocks.png -> apeiros/waves_crashing_waves_on_rocks.png
+renamed:    apocalypse/a building with traffic cones and cars in the rain.jpg -> apocalypse/a_building_with_traffic_cones_and_cars_in_the_rain.jpg
+renamed:    apocalypse/a car parked in a dark alley.jpg -> apocalypse/a_car_parked_in_a_dark_alley.jpg
+renamed:    apocalypse/a car parked in a street.jpg -> apocalypse/a_car_parked_in_a_street.jpg
+renamed:    apocalypse/a car parked outside a motel.jpg -> apocalypse/a_car_parked_outside_a_motel.jpg
+renamed:    apocalypse/a car with a can and a can in the desert.jpg -> apocalypse/a_car_with_a_can_and_a_can_in_the_desert.jpg
+renamed:    apocalypse/a car with luggage on top of it.jpg -> apocalypse/a_car_with_luggage_on_top_of_it.jpg
+renamed:    apocalypse/a cartoon of a vehicle with a monster on it.jpg -> apocalypse/a_cartoon_of_a_vehicle_with_a_monster_on_it.jpg
+renamed:    apocalypse/a group of televisions and tvs in front of a store.jpg -> apocalypse/a_group_of_televisions_and_tvs_in_front_of_a_store.jpg
+renamed:    apocalypse/a motorcycle parked outside a restaurant.jpg -> apocalypse/a_motorcycle_parked_outside_a_restaurant.jpg
+renamed:    apocalypse/a room with a desk and a chair and a skull on the wall.jpg -> apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.jpg
+renamed:    apocalypse/a street with a bridge and people sitting on it.jpg -> apocalypse/a_street_with_a_bridge_and_people_sitting_on_it.jpg
+renamed:    apocalypse/a video game of a vehicle.jpg -> apocalypse/a_video_game_of_a_vehicle.jpg
+renamed:    apocalypse/a woman standing in front of a window.jpg -> apocalypse/a_woman_standing_in_front_of_a_window.jpg
+renamed:    apocalypse/cars on a train track.jpg -> apocalypse/cars_on_a_train_track.jpg
+renamed:    architecture/Osaka Castle with a green roof.png -> architecture/Osaka_Castle_with_a_green_roof.png
+renamed:    architecture/a bridge with lights on it.jpg -> architecture/a_bridge_with_lights_on_it.jpg
+renamed:    architecture/a building with a balcony.jpeg -> architecture/a_building_with_a_balcony.jpeg
+renamed:    architecture/a building with a drone on top.jpg -> architecture/a_building_with_a_drone_on_top.jpg
+renamed:    architecture/a building with a sign on it.jpg -> architecture/a_building_with_a_sign_on_it.jpg
+renamed:    architecture/a building with a walkway and trees.jpg -> architecture/a_building_with_a_walkway_and_trees.jpg
+renamed:    architecture/a building with a window.jpg -> architecture/a_building_with_a_window.jpg
+renamed:    architecture/a building with balconies.jpg -> architecture/a_building_with_balconies.jpg
+renamed:    architecture/a building with balconies and windows.jpg -> architecture/a_building_with_balconies_and_windows.jpg
+renamed:    architecture/a building with flowers on the balcony.png -> architecture/a_building_with_flowers_on_the_balcony.png
+renamed:    architecture/a building with many balconies.jpg -> architecture/a_building_with_many_balconies.jpg
+renamed:    architecture/a building with many windows.jpg -> architecture/a_building_with_many_windows.jpg
+renamed:    architecture/a building with many windows_01.jpg -> architecture/a_building_with_many_windows_01.jpg
+renamed:    architecture/a building with many windows_02.jpg -> architecture/a_building_with_many_windows_02.jpg
+renamed:    architecture/a building with many windows_03.jpg -> architecture/a_building_with_many_windows_03.jpg
+renamed:    architecture/a building with shutters on windows.jpg -> architecture/a_building_with_shutters_on_windows.jpg
+renamed:    architecture/a city alley with buildings and power lines.jpg -> architecture/a_city_alley_with_buildings_and_power_lines.jpg
+renamed:    architecture/a city at night with lights.jpg -> architecture/a_city_at_night_with_lights.jpg
+renamed:    architecture/a city at night with many tall buildings.jpg -> architecture/a_city_at_night_with_many_tall_buildings.jpg
+renamed:    architecture/a city by the water.jpg -> architecture/a_city_by_the_water.jpg
+renamed:    architecture/a city in the snow.jpg -> architecture/a_city_in_the_snow.jpg
+renamed:    architecture/a city skyline at night.jpg -> architecture/a_city_skyline_at_night.jpg
+renamed:    architecture/a city skyline at night_01.jpg -> architecture/a_city_skyline_at_night_01.jpg
+renamed:    architecture/a city skyline with a sunset behind it.png -> architecture/a_city_skyline_with_a_sunset_behind_it.png
+renamed:    architecture/a city skyline with a tall building.jpg -> architecture/a_city_skyline_with_a_tall_building.jpg
+renamed:    architecture/a city skyline with mountains in the background.png -> architecture/a_city_skyline_with_mountains_in_the_background.png
+renamed:    architecture/a city with many tall buildings.jpg -> architecture/a_city_with_many_tall_buildings.jpg
+renamed:    architecture/a city with tall buildings.jpg -> architecture/a_city_with_tall_buildings.jpg
+renamed:    architecture/a city with tall buildings and water in the background.jpg -> architecture/a_city_with_tall_buildings_and_water_in_the_background.jpg
+renamed:    architecture/a city with trees and water.jpg -> architecture/a_city_with_trees_and_water.jpg
+renamed:    architecture/a close up of a bridge.jpg -> architecture/a_close_up_of_a_bridge.jpg
+renamed:    architecture/a close up of a plane.jpg -> architecture/a_close_up_of_a_plane.jpg
+renamed:    architecture/a colorful buildings on a cliff by the water.jpg -> architecture/a_colorful_buildings_on_a_cliff_by_the_water.jpg
+renamed:    architecture/a factory with smoke coming out of the chimney.jpg -> architecture/a_factory_with_smoke_coming_out_of_the_chimney.jpg
+renamed:    architecture/a group of birds flying in the sky over a city.jpg -> architecture/a_group_of_birds_flying_in_the_sky_over_a_city.jpg
+renamed:    architecture/a group of buildings in the fog.jpg -> architecture/a_group_of_buildings_in_the_fog.jpg
+renamed:    architecture/a group of tall buildings in a city.jpg -> architecture/a_group_of_tall_buildings_in_a_city.jpg
+renamed:    architecture/a group of windmills in a field.jpg -> architecture/a_group_of_windmills_in_a_field.jpg
+renamed:    architecture/a landscape of trees with yellow leaves.jpg -> architecture/a_landscape_of_trees_with_yellow_leaves.jpg
+renamed:    architecture/a landscape with trees and buildings in the distance.jpg -> architecture/a_landscape_with_trees_and_buildings_in_the_distance.jpg
+renamed:    architecture/a large building with many windows.jpg -> architecture/a_large_building_with_many_windows.jpg
+renamed:    architecture/a lighthouse in front of a building.jpg -> architecture/a_lighthouse_in_front_of_a_building.jpg
+renamed:    architecture/a moon in the sky.jpg -> architecture/a_moon_in_the_sky.jpg
+renamed:    architecture/a multi-colored building with many windows.jpg -> architecture/a_multi-colored_building_with_many_windows.jpg
+renamed:    architecture/a narrow street with shops and signs.png -> architecture/a_narrow_street_with_shops_and_signs.png
+renamed:    architecture/a person walking on a street between two tall buildings.jpg -> architecture/a_person_walking_on_a_street_between_two_tall_buildings.jpg
+renamed:    architecture/a pillar with a stone pillar and a blue sky.jpg -> architecture/a_pillar_with_a_stone_pillar_and_a_blue_sky.jpg
+renamed:    architecture/a red sign on a building.jpg -> architecture/a_red_sign_on_a_building.jpg
+renamed:    architecture/a road with traffic barriers on the side of the road.jpg -> architecture/a_road_with_traffic_barriers_on_the_side_of_the_road.jpg
+renamed:    architecture/a room with a table and graffiti on the wall.jpg -> architecture/a_room_with_a_table_and_graffiti_on_the_wall.jpg
+renamed:    architecture/a statue of a man in a fountain.jpg -> architecture/a_statue_of_a_man_in_a_fountain.jpg
+renamed:    architecture/a stone path leading to a building.jpg -> architecture/a_stone_path_leading_to_a_building.jpg
+renamed:    architecture/a street with buildings and a railing.jpg -> architecture/a_street_with_buildings_and_a_railing.jpg
+renamed:    architecture/a street with buildings in the background.png -> architecture/a_street_with_buildings_in_the_background.png
+renamed:    architecture/a street with houses and trees.jpg -> architecture/a_street_with_houses_and_trees.jpg
+renamed:    architecture/a tall building with balconies.jpg -> architecture/a_tall_building_with_balconies.jpg
+renamed:    architecture/a tall building with many windows.jpg -> architecture/a_tall_building_with_many_windows.jpg
+renamed:    architecture/a tall building with many windows with Flatiron Building in the background.jpg -> architecture/a_tall_building_with_many_windows_with_Flatiron_Building_in_the_background.jpg
+renamed:    architecture/a tall buildings with power lines in the sky.jpg -> architecture/a_tall_buildings_with_power_lines_in_the_sky.jpg
+renamed:    architecture/a train on a track.jpg -> architecture/a_train_on_a_track.jpg
+renamed:    architecture/a train on the tracks.jpg -> architecture/a_train_on_the_tracks.jpg
+renamed:    architecture/a train tracks in a tunnel.jpg -> architecture/a_train_tracks_in_a_tunnel.jpg
+renamed:    architecture/a tree next to a house.jpg -> architecture/a_tree_next_to_a_house.jpg
+renamed:    architecture/a triangular building with a blue sky.jpg -> architecture/a_triangular_building_with_a_blue_sky.jpg
+renamed:    architecture/a white tower with a blue sky.jpg -> architecture/a_white_tower_with_a_blue_sky.jpg
+renamed:    architecture/boats in a harbor with buildings in the background.jpg -> architecture/boats_in_a_harbor_with_buildings_in_the_background.jpg
+renamed:    architecture/people walking on a platform.jpg -> architecture/people_walking_on_a_platform.jpg
+renamed:    basalt/a cave in a rocky area.jpg -> basalt/a_cave_in_a_rocky_area.jpg
+renamed:    basalt/a close-up of a rocky area.jpg -> basalt/a_close-up_of_a_rocky_area.jpg
+renamed:    basalt/a close up of a rock formation.jpg -> basalt/a_close_up_of_a_rock_formation.jpg
+renamed:    basalt/a road with a road in the middle of a river.jpg -> basalt/a_road_with_a_road_in_the_middle_of_a_river.jpg
+renamed:    basalt/a rock arch over water.jpg -> basalt/a_rock_arch_over_water.jpg
+renamed:    basalt/a waterfall in the snow.jpg -> basalt/a_waterfall_in_the_snow.jpg
+renamed:    boccha/cartoon of girls and cats.jpg -> boccha/cartoon_of_girls_and_cats.jpg
+renamed:    calm/a beach with trees on the side.jpg -> calm/a_beach_with_trees_on_the_side.jpg
+renamed:    calm/a bed with a view of trees outside.jpg -> calm/a_bed_with_a_view_of_trees_outside.jpg
+renamed:    calm/a blue wall with a balcony and a door.jpg -> calm/a_blue_wall_with_a_balcony_and_a_door.jpg
+renamed:    calm/a boat on the water.jpg -> calm/a_boat_on_the_water.jpg
+renamed:    calm/a group of wooden posts in water.jpg -> calm/a_group_of_wooden_posts_in_water.jpg
+renamed:    calm/a house on stilts on a lake.jpg -> calm/a_house_on_stilts_on_a_lake.jpg
+renamed:    calm/a large waterfall with fog and trees.jpg -> calm/a_large_waterfall_with_fog_and_trees.jpg
+renamed:    calm/a metal staircase with a railing.jpg -> calm/a_metal_staircase_with_a_railing.jpg
+renamed:    calm/a person sitting on a beach.jpg -> calm/a_person_sitting_on_a_beach.jpg
+renamed:    calm/a road leading to mountains.jpg -> calm/a_road_leading_to_mountains.jpg
+renamed:    calm/a rock formation with a hole in the middle.jpg -> calm/a_rock_formation_with_a_hole_in_the_middle.jpg
+renamed:    calm/a rocky landscape with trees and water in the background.jpg -> calm/a_rocky_landscape_with_trees_and_water_in_the_background.jpg
+renamed:    calm/a street with buildings and power lines.jpg -> calm/a_street_with_buildings_and_power_lines.jpg
+renamed:    calm/a wooden bridge with railings and a person walking on it.jpg -> calm/a_wooden_bridge_with_railings_and_a_person_walking_on_it.jpg
+renamed:    centered/a black and white compass.jpg -> centered/a_black_and_white_compass.jpg
+renamed:    centered/a black and white drawing of a demon hugging a woman.jpg -> centered/a_black_and_white_drawing_of_a_demon_hugging_a_woman.jpg
+renamed:    centered/a black and white drawing of a door.jpg -> centered/a_black_and_white_drawing_of_a_door.jpg
+renamed:    centered/a black and white drawing of a robot with a halo.png -> centered/a_black_and_white_drawing_of_a_robot_with_a_halo.png
+renamed:    centered/a black and white image of a hand.jpg -> centered/a_black_and_white_image_of_a_hand.jpg
+renamed:    centered/a black and white image of a line of astronaut's.jpg -> centered/a_black_and_white_image_of_a_line_of_astronaut's.jpg
+renamed:    centered/a black and white image of a man.png -> centered/a_black_and_white_image_of_a_man.png
+renamed:    centered/a black and white image of a person falling down.jpg -> centered/a_black_and_white_image_of_a_person_falling_down.jpg
+renamed:    centered/a black and white picture of a man holding a devil.jpg -> centered/a_black_and_white_picture_of_a_man_holding_a_devil.jpg
+renamed:    centered/a black background with white text.jpg -> centered/a_black_background_with_white_text.jpg
+renamed:    centered/a black bird with a sword.jpg -> centered/a_black_bird_with_a_sword.jpg
+renamed:    centered/a blue and pink gradient with white squares.png -> centered/a_blue_and_pink_gradient_with_white_squares.png
+renamed:    centered/a blue and white diamond shaped mountain.jpg -> centered/a_blue_and_white_diamond_shaped_mountain.jpg
+renamed:    centered/a blue and white drawing of a gramophone.png -> centered/a_blue_and_white_drawing_of_a_gramophone.png
+renamed:    centered/a blue background with white text.jpg -> centered/a_blue_background_with_white_text.jpg
+renamed:    centered/a blue sky with clouds.png -> centered/a_blue_sky_with_clouds.png
+renamed:    centered/a bottle with a branch on it.png -> centered/a_bottle_with_a_branch_on_it.png
+renamed:    centered/a cartoon of a man drinking from a gas station.jpg -> centered/a_cartoon_of_a_man_drinking_from_a_gas_station.jpg
+renamed:    centered/a cat sitting next to a computer.jpg -> centered/a_cat_sitting_next_to_a_computer.jpg
+renamed:    centered/a cat with eyes wide open.jpg -> centered/a_cat_with_eyes_wide_open.jpg
+renamed:    centered/a circular design with birds in it.png -> centered/a_circular_design_with_birds_in_it.png
+renamed:    centered/a close-up of a rocket.png -> centered/a_close-up_of_a_rocket.png
+renamed:    centered/a close up of a hand.jpg -> centered/a_close_up_of_a_hand.jpg
+renamed:    centered/a close up of leaves.png -> centered/a_close_up_of_leaves.png
+renamed:    centered/a collage of images of a person riding a horse.jpg -> centered/a_collage_of_images_of_a_person_riding_a_horse.jpg
+renamed:    centered/a colorful pyramid with text.jpg -> centered/a_colorful_pyramid_with_text.jpg
+renamed:    centered/a cup with a straw.png -> centered/a_cup_with_a_straw.png
+renamed:    centered/a drawing of a bird in a circle.png -> centered/a_drawing_of_a_bird_in_a_circle.png
+renamed:    centered/a drawing of a flower in a forest.png -> centered/a_drawing_of_a_flower_in_a_forest.png
+renamed:    centered/a drawing of a hand.jpg -> centered/a_drawing_of_a_hand.jpg
+renamed:    centered/a drawing of a man with wings and a circular pattern.jpg -> centered/a_drawing_of_a_man_with_wings_and_a_circular_pattern.jpg
+renamed:    centered/a drawing of a person with wings.jpg -> centered/a_drawing_of_a_person_with_wings.jpg
+renamed:    centered/a graphic of a monster.jpg -> centered/a_graphic_of_a_monster.jpg
+renamed:    centered/a group of cassette tapes.jpg -> centered/a_group_of_cassette_tapes.jpg
+renamed:    centered/a group of colorful squares.jpg -> centered/a_group_of_colorful_squares.jpg
+renamed:    centered/a group of egyptian gods.jpg -> centered/a_group_of_egyptian_gods.jpg
+renamed:    centered/a group of hands reaching for a gun.jpg -> centered/a_group_of_hands_reaching_for_a_gun.jpg
+renamed:    centered/a group of potted plants.jpg -> centered/a_group_of_potted_plants.jpg
+renamed:    centered/a hand holding a cable.jpg -> centered/a_hand_holding_a_cable.jpg
+renamed:    centered/a large stone statues in water.png -> centered/a_large_stone_statues_in_water.png
+renamed:    centered/a logo with eyes and arrow.jpg -> centered/a_logo_with_eyes_and_arrow.jpg
+renamed:    centered/a man holding a devil.jpg -> centered/a_man_holding_a_devil.jpg
+renamed:    centered/a man standing on a car.png -> centered/a_man_standing_on_a_car.png
+renamed:    centered/a map of the world.png -> centered/a_map_of_the_world.png
+renamed:    centered/a painting of a city.png -> centered/a_painting_of_a_city.png
+renamed:    centered/a painting of a man with a skull on his head.jpg -> centered/a_painting_of_a_man_with_a_skull_on_his_head.jpg
+renamed:    centered/a painting of a person walking in a hallway.jpg -> centered/a_painting_of_a_person_walking_in_a_hallway.jpg
+renamed:    centered/a painting of a skull and hands.jpg -> centered/a_painting_of_a_skull_and_hands.jpg
+renamed:    centered/a palm tree and cactus on a pink background.png -> centered/a_palm_tree_and_cactus_on_a_pink_background.png
+renamed:    centered/a pink circle with different shapes.jpg -> centered/a_pink_circle_with_different_shapes.jpg
+renamed:    centered/a plant with white flowers and a tape.png -> centered/a_plant_with_white_flowers_and_a_tape.png
+renamed:    centered/a red and black round object with a black background.jpg -> centered/a_red_and_black_round_object_with_a_black_background.jpg
+renamed:    centered/a red object in the sky.jpg -> centered/a_red_object_in_the_sky.jpg
+renamed:    centered/a rocket launching in the sky.png -> centered/a_rocket_launching_in_the_sky.png
+renamed:    centered/a satellite in space with a black text.jpg -> centered/a_satellite_in_space_with_a_black_text.jpg
+renamed:    centered/a screenshot of a computer screen.png -> centered/a_screenshot_of_a_computer_screen.png
+renamed:    centered/a sign on a blue background.jpg -> centered/a_sign_on_a_blue_background.jpg
+renamed:    centered/a skull with a cross and candles.jpg -> centered/a_skull_with_a_cross_and_candles.jpg
+renamed:    centered/a street at night with buildings in the background.jpg -> centered/a_street_at_night_with_buildings_in_the_background.jpg
+renamed:    centered/a sword with flowers on it.jpg -> centered/a_sword_with_flowers_on_it.jpg
+renamed:    centered/a trash can on the sidewalk.jpg -> centered/a_trash_can_on_the_sidewalk.jpg
+renamed:    centered/a video game of a video camera.jpg -> centered/a_video_game_of_a_video_camera.jpg
+renamed:    centered/a white background with black text.jpg -> centered/a_white_background_with_black_text.jpg
+renamed:    centered/a white circle with black text.jpg -> centered/a_white_circle_with_black_text.jpg
+renamed:    centered/a window in a room.jpg -> centered/a_window_in_a_room.jpg
+renamed:    centered/a window with trees in the background.jpg -> centered/a_window_with_trees_in_the_background.jpg
+renamed:    centered/a woman with dark hair.jpg -> centered/a_woman_with_dark_hair.jpg
+renamed:    centered/a woman with long hair and a nose ring.jpg -> centered/a_woman_with_long_hair_and_a_nose_ring.jpg
+renamed:    centered/a yellow and blue sphere.png -> centered/a_yellow_and_blue_sphere.png
+renamed:    centered/an airplane wing seen through a window.jpg -> centered/an_airplane_wing_seen_through_a_window.jpg
+renamed:    centered/an astronaut standing on a rock.png -> centered/an_astronaut_standing_on_a_rock.png
+renamed:    centered/the earth in space.jpeg -> centered/the_earth_in_space.jpeg
+renamed:    cherry/a branch with pink flowers.jpg -> cherry/a_branch_with_pink_flowers.jpg
+renamed:    cherry/a branch with pink flowers_01.jpg -> cherry/a_branch_with_pink_flowers_01.jpg
+renamed:    cherry/a branch with pink flowers_02.jpg -> cherry/a_branch_with_pink_flowers_02.jpg
+renamed:    cherry/a branch with white flowers.png -> cherry/a_branch_with_white_flowers.png
+renamed:    cherry/a close up of a branch with pink flowers.jpg -> cherry/a_close_up_of_a_branch_with_pink_flowers.jpg
+renamed:    cherry/a close up of a tree branch with pink flowers.jpg -> cherry/a_close_up_of_a_tree_branch_with_pink_flowers.jpg
+renamed:    cherry/a painting of a tree branch with pink flowers.png -> cherry/a_painting_of_a_tree_branch_with_pink_flowers.png
+renamed:    cherry/a tree with pink flowers.jpg -> cherry/a_tree_with_pink_flowers.jpg
+renamed:    cherry/a tree with white flowers.jpg -> cherry/a_tree_with_white_flowers.jpg
+renamed:    cherry/a white flower on a tree branch.jpg -> cherry/a_white_flower_on_a_tree_branch.jpg
+renamed:    chillop/a black cup with liquid in it.png -> chillop/a_black_cup_with_liquid_in_it.png
+renamed:    chillop/a blue background with cartoon characters.jpg -> chillop/a_blue_background_with_cartoon_characters.jpg
+renamed:    chillop/a cartoon of a car.jpg -> chillop/a_cartoon_of_a_car.jpg
+renamed:    chillop/a cartoon of a cat.png -> chillop/a_cartoon_of_a_cat.png
+renamed:    chillop/a cartoon of a cat_01.png -> chillop/a_cartoon_of_a_cat_01.png
+renamed:    chillop/a cartoon of a cat_02.png -> chillop/a_cartoon_of_a_cat_02.png
+renamed:    chillop/a cartoon of a cat in a glass.png -> chillop/a_cartoon_of_a_cat_in_a_glass.png
+renamed:    chillop/a cartoon of a girl holding a glass in a kitchen.png -> chillop/a_cartoon_of_a_girl_holding_a_glass_in_a_kitchen.png
+renamed:    chillop/a cartoon of a girl sitting on a bed with a guitar.png -> chillop/a_cartoon_of_a_girl_sitting_on_a_bed_with_a_guitar.png
+renamed:    chillop/a cartoon of a lake with rocks and flags.jpg -> chillop/a_cartoon_of_a_lake_with_rocks_and_flags.jpg
+renamed:    chillop/a cartoon of a person with headphones.png -> chillop/a_cartoon_of_a_person_with_headphones.png
+renamed:    chillop/a cartoon of a rabbit and a baby rabbit.png -> chillop/a_cartoon_of_a_rabbit_and_a_baby_rabbit.png
+renamed:    chillop/a cartoon of a space ship and a man standing on a rocky surface.jpg -> chillop/a_cartoon_of_a_space_ship_and_a_man_standing_on_a_rocky_surface.jpg
+renamed:    chillop/a hand holding a cassette tape.jpg -> chillop/a_hand_holding_a_cassette_tape.jpg
+renamed:    chillop/a person standing on a street at night.png -> chillop/a_person_standing_on_a_street_at_night.png
+renamed:    chillop/a room with a large window and plants.jpg -> chillop/a_room_with_a_large_window_and_plants.jpg
+renamed:    cold/a black sand beach with waves and clouds above.jpg -> cold/a_black_sand_beach_with_waves_and_clouds_above.jpg
+renamed:    cold/a mountain with clouds in the sky.jpg -> cold/a_mountain_with_clouds_in_the_sky.jpg
+renamed:    cold/a mountain with snow and clouds.jpg -> cold/a_mountain_with_snow_and_clouds.jpg
+renamed:    cold/a mountain with snow and trees.jpg -> cold/a_mountain_with_snow_and_trees.jpg
+renamed:    cold/a mountain with snow on it.jpg -> cold/a_mountain_with_snow_on_it.jpg
+renamed:    cold/a music stand with a book on it.jpg -> cold/a_music_stand_with_a_book_on_it.jpg
+renamed:    cold/a person standing on a rocky cliff.png -> cold/a_person_standing_on_a_rocky_cliff.png
+renamed:    cold/a river running through a valley.png -> cold/a_river_running_through_a_valley.png
+renamed:    cold/a snow covered houses and a street light.png -> cold/a_snow_covered_houses_and_a_street_light.png
+renamed:    cold/a snow covered mountain top.jpg -> cold/a_snow_covered_mountain_top.jpg
+renamed:    cold/a snowy landscape with trees and a light on it.jpg -> cold/a_snowy_landscape_with_trees_and_a_light_on_it.jpg
+renamed:    cold/a snowy mountain with clouds above.jpg -> cold/a_snowy_mountain_with_clouds_above.jpg
+renamed:    cold/a snowy mountain with dark clouds.jpg -> cold/a_snowy_mountain_with_dark_clouds.jpg
+renamed:    cold/a train tracks in a foggy day.jpg -> cold/a_train_tracks_in_a_foggy_day.jpg
+renamed:    cold/clouds above a mountain.png -> cold/clouds_above_a_mountain.png
+renamed:    decay/a boat on the shore.jpg -> decay/a_boat_on_the_shore.jpg
+renamed:    decay/a car on fire at night.jpg -> decay/a_car_on_fire_at_night.jpg
+renamed:    decay/a grass growing out of a wood box.jpg -> decay/a_grass_growing_out_of_a_wood_box.jpg
+renamed:    decay/a pile of old playing cards.jpg -> decay/a_pile_of_old_playing_cards.jpg
+renamed:    decay/a plane on the ground.jpg -> decay/a_plane_on_the_ground.jpg
+renamed:    decay/a plane on the ground_01.jpg -> decay/a_plane_on_the_ground_01.jpg
+renamed:    decay/a plane wreck in a desert.jpg -> decay/a_plane_wreck_in_a_desert.jpg
+renamed:    decay/a rusty van parked on the side of a road.jpg -> decay/a_rusty_van_parked_on_the_side_of_a_road.jpg
+renamed:    decay/a van in a field with a bicycle and a mountain in the background.jpg -> decay/a_van_in_a_field_with_a_bicycle_and_a_mountain_in_the_background.jpg
+renamed:    decay/an airplane that has been crashed on a black sand beach.jpg -> decay/an_airplane_that_has_been_crashed_on_a_black_sand_beach.jpg
+renamed:    decay/an old truck in the desert.jpg -> decay/an_old_truck_in_the_desert.jpg
+renamed:    devicons/a blue box with a green tie and a green circle with a plus.png -> devicons/a_blue_box_with_a_green_tie_and_a_green_circle_with_a_plus.png
+renamed:    devicons/a cartoon of a telescope.png -> devicons/a_cartoon_of_a_telescope.png
+renamed:    devicons/a computer screen shot of a file.png -> devicons/a_computer_screen_shot_of_a_file.png
+renamed:    devicons/a logo of a company.png -> devicons/a_logo_of_a_company.png
+renamed:    devicons/a logo of a poop.png -> devicons/a_logo_of_a_poop.png
+renamed:    devicons/a yellow and green trees.png -> devicons/a_yellow_and_green_trees.png
+renamed:    digital/a car driving on a road at night.png -> digital/a_car_driving_on_a_road_at_night.png
+renamed:    digital/a car in a field with trees and a fire.png -> digital/a_car_in_a_field_with_trees_and_a_fire.png
+renamed:    digital/a car on a road with orange clouds in the sky.jpg -> digital/a_car_on_a_road_with_orange_clouds_in_the_sky.jpg
+renamed:    digital/a car on a road with purple clouds in the sky.png -> digital/a_car_on_a_road_with_purple_clouds_in_the_sky.png
+renamed:    digital/a car on the road.png -> digital/a_car_on_the_road.png
+renamed:    digital/a car parked in a field with trees and a crescent moon in the sky.png -> digital/a_car_parked_in_a_field_with_trees_and_a_crescent_moon_in_the_sky.png
+renamed:    digital/a car with trees on it.png -> digital/a_car_with_trees_on_it.png
+renamed:    digital/a cartoon of a house on a cliff.png -> digital/a_cartoon_of_a_house_on_a_cliff.png
+renamed:    digital/a cartoon of a woman sitting on a plane.png -> digital/a_cartoon_of_a_woman_sitting_on_a_plane.png
+renamed:    digital/a city in the rain.jpeg -> digital/a_city_in_the_rain.jpeg
+renamed:    digital/a city skyline with a plane in the sky.png -> digital/a_city_skyline_with_a_plane_in_the_sky.png
+renamed:    digital/a colorful sky with clouds.png -> digital/a_colorful_sky_with_clouds.png
+renamed:    digital/a couple of people standing on a mountain.png -> digital/a_couple_of_people_standing_on_a_mountain.png
+renamed:    digital/a drawing of a spider on a white surface.png -> digital/a_drawing_of_a_spider_on_a_white_surface.png
+renamed:    digital/a foggy forest with trees and bushes.png -> digital/a_foggy_forest_with_trees_and_bushes.png
+renamed:    digital/a foggy mountain with trees.jpg -> digital/a_foggy_mountain_with_trees.jpg
+renamed:    digital/a green bridge in the middle of a forest.jpg -> digital/a_green_bridge_in_the_middle_of_a_forest.jpg
+renamed:    digital/a group of birds flying in the sky.jpg -> digital/a_group_of_birds_flying_in_the_sky.jpg
+renamed:    digital/a group of people standing on a mountain.png -> digital/a_group_of_people_standing_on_a_mountain.png
+renamed:    digital/a group of people walking on a snowy road with a dog.jpg -> digital/a_group_of_people_walking_on_a_snowy_road_with_a_dog.jpg
+renamed:    digital/a group of trees in a snowy field.jpg -> digital/a_group_of_trees_in_a_snowy_field.jpg
+renamed:    digital/a group of trees on a small island in front of a colorful sky.png -> digital/a_group_of_trees_on_a_small_island_in_front_of_a_colorful_sky.png
+renamed:    digital/a house in the snow.png -> digital/a_house_in_the_snow.png
+renamed:    digital/a man standing in a dark place with a large circle of light.jpg -> digital/a_man_standing_in_a_dark_place_with_a_large_circle_of_light.jpg
+renamed:    digital/a moon over a mountain.png -> digital/a_moon_over_a_mountain.png
+renamed:    digital/a night sky with clouds and a street light.png -> digital/a_night_sky_with_clouds_and_a_street_light.png
+renamed:    digital/a person sitting on a horse next to a lamp post.png -> digital/a_person_sitting_on_a_horse_next_to_a_lamp_post.png
+renamed:    digital/a person walking on a road with power lines and wires.png -> digital/a_person_walking_on_a_road_with_power_lines_and_wires.png
+renamed:    digital/a red and orange sky with clouds.png -> digital/a_red_and_orange_sky_with_clouds.png
+renamed:    digital/a road with a car in the middle of the road.png -> digital/a_road_with_a_car_in_the_middle_of_the_road.png
+renamed:    digital/a road with lightning bolts in the sky.png -> digital/a_road_with_lightning_bolts_in_the_sky.png
+renamed:    digital/a road with trees and a mountain in the background.png -> digital/a_road_with_trees_and_a_mountain_in_the_background.png
+renamed:    digital/a street with a building and a moon in the sky.png -> digital/a_street_with_a_building_and_a_moon_in_the_sky.png
+renamed:    digital/a sunset over a lake.png -> digital/a_sunset_over_a_lake.png
+renamed:    digital/a sunset with clouds and trees.png -> digital/a_sunset_with_clouds_and_trees.png
+renamed:    digital/a tower in a forest.png -> digital/a_tower_in_a_forest.png
+renamed:    digital/a town with snow covered roofs and lights.png -> digital/a_town_with_snow_covered_roofs_and_lights.png
+renamed:    digital/a truck in the sunset.png -> digital/a_truck_in_the_sunset.png
+renamed:    digital/a yellow moon in the sky.png -> digital/a_yellow_moon_in_the_sky.png
+renamed:    digital/hot air balloons in the sky.jpg -> digital/hot_air_balloons_in_the_sky.jpg
+renamed:    dreamcore/a body of water with rain falling on it.jpg -> dreamcore/a_body_of_water_with_rain_falling_on_it.jpg
+renamed:    dreamcore/a building next to a river.jpg -> dreamcore/a_building_next_to_a_river.jpg
+renamed:    dreamcore/a building on a foggy day.jpg -> dreamcore/a_building_on_a_foggy_day.jpg
+renamed:    dreamcore/a bus on a foggy day.jpg -> dreamcore/a_bus_on_a_foggy_day.jpg
+renamed:    dreamcore/a chairlifts on a mountain.jpg -> dreamcore/a_chairlifts_on_a_mountain.jpg
+renamed:    dreamcore/a dark room with a large window.jpg -> dreamcore/a_dark_room_with_a_large_window.jpg
+renamed:    dreamcore/a gas station at night.jpg -> dreamcore/a_gas_station_at_night.jpg
+renamed:    dreamcore/a gas station with lights on the front and a car parked in the front.jpg -> dreamcore/a_gas_station_with_lights_on_the_front_and_a_car_parked_in_the_front.jpg
+renamed:    dreamcore/a green room with pipes.jpg -> dreamcore/a_green_room_with_pipes.jpg
+renamed:    dreamcore/a house in a field with trees.jpg -> dreamcore/a_house_in_a_field_with_trees.jpg
+renamed:    dreamcore/a motel sign with a snowy mountain in the background.jpg -> dreamcore/a_motel_sign_with_a_snowy_mountain_in_the_background.jpg
+renamed:    dreamcore/a path in a forest.jpg -> dreamcore/a_path_in_a_forest.jpg
+renamed:    dreamcore/a path through a forest.jpg -> dreamcore/a_path_through_a_forest.jpg
+renamed:    dreamcore/a river running through a small town.jpg -> dreamcore/a_river_running_through_a_small_town.jpg
+renamed:    dreamcore/a road with trees on either side of it.jpg -> dreamcore/a_road_with_trees_on_either_side_of_it.jpg
+renamed:    dreamcore/a ski lift with a chair in the air.jpg -> dreamcore/a_ski_lift_with_a_chair_in_the_air.jpg
+renamed:    dreamcore/a window with a foggy view.jpg -> dreamcore/a_window_with_a_foggy_view.jpg
+renamed:    dreamcore/a wooden building on a hill with trees in the background.jpg -> dreamcore/a_wooden_building_on_a_hill_with_trees_in_the_background.jpg
+renamed:    evangelion/a black and white cartoon of a robot.jpg -> evangelion/a_black_and_white_cartoon_of_a_robot.jpg
+renamed:    evangelion/a black and white drawing of a robot with a halo.png -> evangelion/a_black_and_white_drawing_of_a_robot_with_a_halo.png
+renamed:    evangelion/a black and white poster with a person on a black mask.jpg -> evangelion/a_black_and_white_poster_with_a_person_on_a_black_mask.jpg
+renamed:    evangelion/a blue diamond shaped object with a red string.jpg -> evangelion/a_blue_diamond_shaped_object_with_a_red_string.jpg
+renamed:    evangelion/a blue yin yang symbol.jpg -> evangelion/a_blue_yin_yang_symbol.jpg
+renamed:    evangelion/a cartoon of a broken eyeball.jpg -> evangelion/a_cartoon_of_a_broken_eyeball.jpg
+renamed:    evangelion/a cartoon of a man flying through the air.jpg -> evangelion/a_cartoon_of_a_man_flying_through_the_air.jpg
+renamed:    evangelion/a cartoon of a monster.png -> evangelion/a_cartoon_of_a_monster.png
+renamed:    evangelion/a cartoon of a mouth.jpg -> evangelion/a_cartoon_of_a_mouth.jpg
+renamed:    evangelion/a cartoon of a purple animal.jpg -> evangelion/a_cartoon_of_a_purple_animal.jpg
+renamed:    evangelion/a cartoon of a robot and a girl looking at a pink background.png -> evangelion/a_cartoon_of_a_robot_and_a_girl_looking_at_a_pink_background.png
+renamed:    evangelion/a city with a pyramid over it.jpg -> evangelion/a_city_with_a_pyramid_over_it.jpg
+renamed:    evangelion/a drawing of a machine.jpg -> evangelion/a_drawing_of_a_machine.jpg
+renamed:    evangelion/a green background with a hole in the middle.jpg -> evangelion/a_green_background_with_a_hole_in_the_middle.jpg
+renamed:    evangelion/a logo of a ball.jpg -> evangelion/a_logo_of_a_ball.jpg
+renamed:    evangelion/a plant with flowers on it.png -> evangelion/a_plant_with_flowers_on_it.png
+renamed:    evangelion/a white skull with black eyes.jpg -> evangelion/a_white_skull_with_black_eyes.jpg
+renamed:    evangelion/a white triangle with sharp spikes on a black background.jpg -> evangelion/a_white_triangle_with_sharp_spikes_on_a_black_background.jpg
+renamed:    evangelion/a yellow and black logo.png -> evangelion/a_yellow_and_black_logo.png
+renamed:    fauna/a black and green creature with yellow and green objects.png -> fauna/a_black_and_green_creature_with_yellow_and_green_objects.png
+renamed:    fauna/a black and orange creature.png -> fauna/a_black_and_orange_creature.png
+renamed:    fauna/a black and orange drawing of a bug.png -> fauna/a_black_and_orange_drawing_of_a_bug.png
+renamed:    fauna/a black and white drawing of a horse.png -> fauna/a_black_and_white_drawing_of_a_horse.png
+renamed:    fauna/a black animal with white stripes and green plants.png -> fauna/a_black_animal_with_white_stripes_and_green_plants.png
+renamed:    fauna/a black creature with white eyes and black branches.png -> fauna/a_black_creature_with_white_eyes_and_black_branches.png
+renamed:    fauna/a blue lizard and a trilobite.png -> fauna/a_blue_lizard_and_a_trilobite.png
+renamed:    fauna/a cartoon of a bug.png -> fauna/a_cartoon_of_a_bug.png
+renamed:    fauna/a cartoon of a deer with a bunch of worms.png -> fauna/a_cartoon_of_a_deer_with_a_bunch_of_worms.png
+renamed:    fauna/a cartoon of a deer with coral branches.png -> fauna/a_cartoon_of_a_deer_with_coral_branches.png
+renamed:    fauna/a cartoon of a red alien with black eyes and long legs.png -> fauna/a_cartoon_of_a_red_alien_with_black_eyes_and_long_legs.png
+renamed:    fauna/a cartoon of a sea creature.png -> fauna/a_cartoon_of_a_sea_creature.png
+renamed:    fauna/a cartoon of a snail with cats on it.png -> fauna/a_cartoon_of_a_snail_with_cats_on_it.png
+renamed:    fauna/a cartoon of an animal with shells.png -> fauna/a_cartoon_of_an_animal_with_shells.png
+renamed:    fauna/a drawing of snakes on a blue background.png -> fauna/a_drawing_of_snakes_on_a_blue_background.png
+renamed:    fauna/a group of cartoon animals with green tentacles.png -> fauna/a_group_of_cartoon_animals_with_green_tentacles.png
+renamed:    fauna/a group of deer with antlers and rocks.png -> fauna/a_group_of_deer_with_antlers_and_rocks.png
+renamed:    fauna/a white dog with fruits on it.png -> fauna/a_white_dog_with_fruits_on_it.png
+renamed:    flowers/a basket of flowers.jpg -> flowers/a_basket_of_flowers.jpg
+renamed:    flowers/a blue flower with green leaves.jpg -> flowers/a_blue_flower_with_green_leaves.jpg
+renamed:    flowers/a blue sky with white clouds and small white flowers.jpg -> flowers/a_blue_sky_with_white_clouds_and_small_white_flowers.jpg
+renamed:    flowers/a bouquet of flowers.jpg -> flowers/a_bouquet_of_flowers.jpg
+renamed:    flowers/a bouquet of flowers and leaves.jpg -> flowers/a_bouquet_of_flowers_and_leaves.jpg
+renamed:    flowers/a bouquet of flowers in a dark room.jpg -> flowers/a_bouquet_of_flowers_in_a_dark_room.jpg
+renamed:    flowers/a bouquet of flowers in a vase.jpg -> flowers/a_bouquet_of_flowers_in_a_vase.jpg
+renamed:    flowers/a bouquet of flowers on a black background.jpg -> flowers/a_bouquet_of_flowers_on_a_black_background.jpg
+renamed:    flowers/a bouquet of flowers on a cloth.jpg -> flowers/a_bouquet_of_flowers_on_a_cloth.jpg
+renamed:    flowers/a bouquet of flowers with green leaves.jpg -> flowers/a_bouquet_of_flowers_with_green_leaves.jpg
+renamed:    flowers/a close up of a bush with pink flowers.jpg -> flowers/a_close_up_of_a_bush_with_pink_flowers.jpg
+renamed:    flowers/a close up of a dandelion.jpg -> flowers/a_close_up_of_a_dandelion.jpg
+renamed:    flowers/a close up of a flower.jpg -> flowers/a_close_up_of_a_flower.jpg
+renamed:    flowers/a close up of a flower.png -> flowers/a_close_up_of_a_flower.png
+renamed:    flowers/a close up of a flower_01.jpg -> flowers/a_close_up_of_a_flower_01.jpg
+renamed:    flowers/a close up of a flower_01.png -> flowers/a_close_up_of_a_flower_01.png
+renamed:    flowers/a close up of a flower_02.jpg -> flowers/a_close_up_of_a_flower_02.jpg
+renamed:    flowers/a close up of a flower_03.jpg -> flowers/a_close_up_of_a_flower_03.jpg
+renamed:    flowers/a close up of a flower_04.jpg -> flowers/a_close_up_of_a_flower_04.jpg
+renamed:    flowers/a close up of a flower_05.jpg -> flowers/a_close_up_of_a_flower_05.jpg
+renamed:    flowers/a close up of a flower_06.jpg -> flowers/a_close_up_of_a_flower_06.jpg
+renamed:    flowers/a close up of a flower_07.jpg -> flowers/a_close_up_of_a_flower_07.jpg
+renamed:    flowers/a close up of a flower_08.jpg -> flowers/a_close_up_of_a_flower_08.jpg
+renamed:    flowers/a close up of a flower_09.jpg -> flowers/a_close_up_of_a_flower_09.jpg
+renamed:    flowers/a close up of a flower_10.jpg -> flowers/a_close_up_of_a_flower_10.jpg
+renamed:    flowers/a close up of a flower_11.jpg -> flowers/a_close_up_of_a_flower_11.jpg
+renamed:    flowers/a close up of a flower_12.jpg -> flowers/a_close_up_of_a_flower_12.jpg
+renamed:    flowers/a close up of a flower_13.jpg -> flowers/a_close_up_of_a_flower_13.jpg
+renamed:    flowers/a close up of a flower_14.jpg -> flowers/a_close_up_of_a_flower_14.jpg
+renamed:    flowers/a close up of a plant.jpg -> flowers/a_close_up_of_a_plant.jpg
+renamed:    flowers/a close up of a plant.png -> flowers/a_close_up_of_a_plant.png
+renamed:    flowers/a close up of a plant_01.jpg -> flowers/a_close_up_of_a_plant_01.jpg
+renamed:    flowers/a close up of a plant_02.jpg -> flowers/a_close_up_of_a_plant_02.jpg
+renamed:    flowers/a close up of a plant_03.jpg -> flowers/a_close_up_of_a_plant_03.jpg
+renamed:    flowers/a close up of a plant_04.jpg -> flowers/a_close_up_of_a_plant_04.jpg
+renamed:    flowers/a close up of a plant_05.jpg -> flowers/a_close_up_of_a_plant_05.jpg
+renamed:    flowers/a close up of a tree.jpg -> flowers/a_close_up_of_a_tree.jpg
+renamed:    flowers/a close up of a tree branch with white flowers.jpg -> flowers/a_close_up_of_a_tree_branch_with_white_flowers.jpg
+renamed:    flowers/a close up of a tree with pink flowers.jpg -> flowers/a_close_up_of_a_tree_with_pink_flowers.jpg
+renamed:    flowers/a close up of a tree with pink flowers_01.jpg -> flowers/a_close_up_of_a_tree_with_pink_flowers_01.jpg
+renamed:    flowers/a close up of a white ball of flowers.jpg -> flowers/a_close_up_of_a_white_ball_of_flowers.jpg
+renamed:    flowers/a close up of a white flower.jpg -> flowers/a_close_up_of_a_white_flower.jpg
+renamed:    flowers/a close up of flowers.jpg -> flowers/a_close_up_of_flowers.jpg
+renamed:    flowers/a close up of flowers_01.jpg -> flowers/a_close_up_of_flowers_01.jpg
+renamed:    flowers/a close up of flowers_02.jpg -> flowers/a_close_up_of_flowers_02.jpg
+renamed:    flowers/a close up of flowers_03.jpg -> flowers/a_close_up_of_flowers_03.jpg
+renamed:    flowers/a close up of flowers_04.jpg -> flowers/a_close_up_of_flowers_04.jpg
+renamed:    flowers/a close up of pink flowers.jpg -> flowers/a_close_up_of_pink_flowers.jpg
+renamed:    flowers/a close up of purple flowers.jpg -> flowers/a_close_up_of_purple_flowers.jpg
+renamed:    flowers/a close up of purple flowers.png -> flowers/a_close_up_of_purple_flowers.png
+renamed:    flowers/a close up of purple flowers_01.jpg -> flowers/a_close_up_of_purple_flowers_01.jpg
+renamed:    flowers/a close up of white flowers.jpg -> flowers/a_close_up_of_white_flowers.jpg
+renamed:    flowers/a close up of white flowers_01.jpg -> flowers/a_close_up_of_white_flowers_01.jpg
+renamed:    flowers/a close up of yellow flowers.jpg -> flowers/a_close_up_of_yellow_flowers.jpg
+renamed:    flowers/a field of white and yellow flowers.jpg -> flowers/a_field_of_white_and_yellow_flowers.jpg
+renamed:    flowers/a flower bed with yellow flowers.jpg -> flowers/a_flower_bed_with_yellow_flowers.jpg
+renamed:    flowers/a group of blue flowers.jpg -> flowers/a_group_of_blue_flowers.jpg
+renamed:    flowers/a group of flowers growing out of a rocky area.jpg -> flowers/a_group_of_flowers_growing_out_of_a_rocky_area.jpg
+renamed:    flowers/a group of flowers in a vase.jpg -> flowers/a_group_of_flowers_in_a_vase.jpg
+renamed:    flowers/a group of flowers on a black background.jpg -> flowers/a_group_of_flowers_on_a_black_background.jpg
+renamed:    flowers/a group of flowers on a black background.png -> flowers/a_group_of_flowers_on_a_black_background.png
+renamed:    flowers/a group of flowers on a plant.jpg -> flowers/a_group_of_flowers_on_a_plant.jpg
+renamed:    flowers/a group of pink flowers.jpeg -> flowers/a_group_of_pink_flowers.jpeg
+renamed:    flowers/a group of pink flowers on a bush.jpg -> flowers/a_group_of_pink_flowers_on_a_bush.jpg
+renamed:    flowers/a group of pink flowers on a tree.jpg -> flowers/a_group_of_pink_flowers_on_a_tree.jpg
+renamed:    flowers/a group of purple flowers.jpg -> flowers/a_group_of_purple_flowers.jpg
+renamed:    flowers/a group of red flowers.jpg -> flowers/a_group_of_red_flowers.jpg
+renamed:    flowers/a group of red flowers_01.jpg -> flowers/a_group_of_red_flowers_01.jpg
+renamed:    flowers/a group of roses on a dark background.png -> flowers/a_group_of_roses_on_a_dark_background.png
+renamed:    flowers/a group of white and yellow flowers.jpg -> flowers/a_group_of_white_and_yellow_flowers.jpg
+renamed:    flowers/a group of white and yellow flowers.png -> flowers/a_group_of_white_and_yellow_flowers.png
+renamed:    flowers/a group of white flowers.jpg -> flowers/a_group_of_white_flowers.jpg
+renamed:    flowers/a group of white flowers_01.jpg -> flowers/a_group_of_white_flowers_01.jpg
+renamed:    flowers/a group of white flowers_02.jpg -> flowers/a_group_of_white_flowers_02.jpg
+renamed:    flowers/a group of white flowers on a bush.jpg -> flowers/a_group_of_white_flowers_on_a_bush.jpg
+renamed:    flowers/a group of white flowers with yellow centers.jpg -> flowers/a_group_of_white_flowers_with_yellow_centers.jpg
+renamed:    flowers/a group of yellow flowers.jpg -> flowers/a_group_of_yellow_flowers.jpg
+renamed:    flowers/a painting of flowers and leaves.jpeg -> flowers/a_painting_of_flowers_and_leaves.jpeg
+renamed:    flowers/a painting of flowers in a vase.jpeg -> flowers/a_painting_of_flowers_in_a_vase.jpeg
+renamed:    flowers/a pink flower on a plant.jpg -> flowers/a_pink_flower_on_a_plant.jpg
+renamed:    flowers/a pink flower on a pond.jpg -> flowers/a_pink_flower_on_a_pond.jpg
+renamed:    flowers/a pink flower with green leaves.jpg -> flowers/a_pink_flower_with_green_leaves.jpg
+renamed:    flowers/a plant growing in the dirt.jpg -> flowers/a_plant_growing_in_the_dirt.jpg
+renamed:    flowers/a purple flower on a plant.jpg -> flowers/a_purple_flower_on_a_plant.jpg
+renamed:    flowers/a purple flowers growing out of lily pads in a pond.jpg -> flowers/a_purple_flowers_growing_out_of_lily_pads_in_a_pond.jpg
+renamed:    flowers/a small glass vase with a plant in it.jpg -> flowers/a_small_glass_vase_with_a_plant_in_it.jpg
+renamed:    flowers/a tree branches against a pink sky.jpg -> flowers/a_tree_branches_against_a_pink_sky.jpg
+renamed:    flowers/a tree with white flowers.jpg -> flowers/a_tree_with_white_flowers.jpg
+renamed:    flowers/a tree with white flowers_01.jpg -> flowers/a_tree_with_white_flowers_01.jpg
+renamed:    flowers/a white and yellow flowers in a glass vase.jpg -> flowers/a_white_and_yellow_flowers_in_a_glass_vase.jpg
+renamed:    flowers/a white flower on a plant.jpg -> flowers/a_white_flower_on_a_plant.jpg
+renamed:    flowers/a white flower on a plant_01.jpg -> flowers/a_white_flower_on_a_plant_01.jpg
+renamed:    flowers/a white flower with green center.jpg -> flowers/a_white_flower_with_green_center.jpg
+renamed:    flowers/a white flower with water drops on it.jpg -> flowers/a_white_flower_with_water_drops_on_it.jpg
+renamed:    flowers/a white flowers on a branch.jpg -> flowers/a_white_flowers_on_a_branch.jpg
+renamed:    flowers/a white flowers on a tree branch.jpg -> flowers/a_white_flowers_on_a_tree_branch.jpg
+renamed:    flowers/a white rose with a black background.png -> flowers/a_white_rose_with_a_black_background.png
+renamed:    flowers/a yellow rose on a bush.png -> flowers/a_yellow_rose_on_a_bush.png
+renamed:    flowers/purple flowers on a black background.png -> flowers/purple_flowers_on_a_black_background.png
+renamed:    fogsmoke/Bixby Creek Bridge over a cliff.jpg -> fogsmoke/Bixby_Creek_Bridge_over_a_cliff.jpg
+renamed:    fogsmoke/a bridge with clouds in the sky.jpg -> fogsmoke/a_bridge_with_clouds_in_the_sky.jpg
+renamed:    fogsmoke/a building with trees in the background.jpg -> fogsmoke/a_building_with_trees_in_the_background.jpg
+renamed:    fogsmoke/a car on a road with fog.jpg -> fogsmoke/a_car_on_a_road_with_fog.jpg
+renamed:    fogsmoke/a foggy forest with trees.jpg -> fogsmoke/a_foggy_forest_with_trees.jpg
+renamed:    fogsmoke/a foggy forest with trees_01.jpg -> fogsmoke/a_foggy_forest_with_trees_01.jpg
+renamed:    fogsmoke/a foggy forest with trees_02.jpg -> fogsmoke/a_foggy_forest_with_trees_02.jpg
+renamed:    fogsmoke/a foggy forest with trees_03.jpg -> fogsmoke/a_foggy_forest_with_trees_03.jpg
+renamed:    fogsmoke/a foggy forest with trees_04.jpg -> fogsmoke/a_foggy_forest_with_trees_04.jpg
+renamed:    fogsmoke/a foggy forest with trees_05.jpg -> fogsmoke/a_foggy_forest_with_trees_05.jpg
+renamed:    fogsmoke/a foggy mountain with trees.jpg -> fogsmoke/a_foggy_mountain_with_trees.jpg
+renamed:    fogsmoke/a foggy mountain with trees.png -> fogsmoke/a_foggy_mountain_with_trees.png
+renamed:    fogsmoke/a foggy mountain with trees_01.jpg -> fogsmoke/a_foggy_mountain_with_trees_01.jpg
+renamed:    fogsmoke/a foggy mountain with trees_02.jpg -> fogsmoke/a_foggy_mountain_with_trees_02.jpg
+renamed:    fogsmoke/a forest of trees with fog.jpg -> fogsmoke/a_forest_of_trees_with_fog.jpg
+renamed:    fogsmoke/a group of trees in the fog.jpg -> fogsmoke/a_group_of_trees_in_the_fog.jpg
+renamed:    fogsmoke/a group of trees in the fog_01.jpg -> fogsmoke/a_group_of_trees_in_the_fog_01.jpg
+renamed:    fogsmoke/a group of trees in the fog_02.jpg -> fogsmoke/a_group_of_trees_in_the_fog_02.jpg
+renamed:    fogsmoke/a mountain with clouds and trees.jpg -> fogsmoke/a_mountain_with_clouds_and_trees.jpg
+renamed:    fogsmoke/a mountain with snow and clouds.jpg -> fogsmoke/a_mountain_with_snow_and_clouds.jpg
+renamed:    fogsmoke/a snowy mountain with clouds in the sky.jpg -> fogsmoke/a_snowy_mountain_with_clouds_in_the_sky.jpg
+renamed:    fogsmoke/a valley with trees and mountains.jpg -> fogsmoke/a_valley_with_trees_and_mountains.jpg
+renamed:    fogsmoke/a waterfall with trees in the background.jpg -> fogsmoke/a_waterfall_with_trees_in_the_background.jpg
+renamed:    fogsmoke/fog in the forest with trees and fog.jpg -> fogsmoke/fog_in_the_forest_with_trees_and_fog.jpg
+renamed:    fogsmoke/foggy forest with clouds in the sky.jpg -> fogsmoke/foggy_forest_with_clouds_in_the_sky.jpg
+renamed:    fogsmoke/smoke coming out of a smoke stack.jpg -> fogsmoke/smoke_coming_out_of_a_smoke_stack.jpg
+renamed:    fogsmoke/smoke stacks of smoke and smoke coming out of a factory.jpg -> fogsmoke/smoke_stacks_of_smoke_and_smoke_coming_out_of_a_factory.jpg
+renamed:    geometry/a black and white logo.jpg -> geometry/a_black_and_white_logo.jpg
+renamed:    geometry/a group of symbols on a black background.jpg -> geometry/a_group_of_symbols_on_a_black_background.jpg
+renamed:    girl/a woman looking at the sky.jpg -> girl/a_woman_looking_at_the_sky.jpg
+renamed:    girl/a woman lying on the floor with her head on a glass of milk.jpg -> girl/a_woman_lying_on_the_floor_with_her_head_on_a_glass_of_milk.jpg
+renamed:    girl/a woman sitting in a bus.jpg -> girl/a_woman_sitting_in_a_bus.jpg
+renamed:    girl/a woman standing in front of a bookshelf.jpg -> girl/a_woman_standing_in_front_of_a_bookshelf.jpg
+renamed:    girl/a woman standing on a beach with her hands up.jpg -> girl/a_woman_standing_on_a_beach_with_her_hands_up.jpg
+renamed:    girl/a woman standing on a mountain.jpg -> girl/a_woman_standing_on_a_mountain.jpg
+renamed:    girl/a woman with her hair blowing in the wind.jpg -> girl/a_woman_with_her_hair_blowing_in_the_wind.jpg
+renamed:    girl/a wooden walkway with benches and a body of water.jpg -> girl/a_wooden_walkway_with_benches_and_a_body_of_water.jpg
+renamed:    gruvbox/a black and red animal head with horns.jpg -> gruvbox/a_black_and_red_animal_head_with_horns.jpg
+renamed:    gruvbox/a body of water with buildings in the background.jpg -> gruvbox/a_body_of_water_with_buildings_in_the_background.jpg
+renamed:    gruvbox/a bookshelf with lights from the ceiling.jpeg -> gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg
+renamed:    gruvbox/a cartoon of a cat drinking from a cup.png -> gruvbox/a_cartoon_of_a_cat_drinking_from_a_cup.png
+renamed:    gruvbox/a cartoon of a character in armor.png -> gruvbox/a_cartoon_of_a_character_in_armor.png
+renamed:    gruvbox/a cartoon of a man standing in space.png -> gruvbox/a_cartoon_of_a_man_standing_in_space.png
+renamed:    gruvbox/a cartoon of a person sitting on a wolf.png -> gruvbox/a_cartoon_of_a_person_sitting_on_a_wolf.png
+renamed:    gruvbox/a cartoon of a wolf and a knight sitting on a dog.png -> gruvbox/a_cartoon_of_a_wolf_and_a_knight_sitting_on_a_dog.png
+renamed:    gruvbox/a cat mask with gold and blue accents.jpg -> gruvbox/a_cat_mask_with_gold_and_blue_accents.jpg
+renamed:    gruvbox/a city skyline at night.jpg -> gruvbox/a_city_skyline_at_night.jpg
+renamed:    gruvbox/a close up of a circuit board.png -> gruvbox/a_close_up_of_a_circuit_board.png
+renamed:    gruvbox/a close up of a plant.jpg -> gruvbox/a_close_up_of_a_plant.jpg
+renamed:    gruvbox/a close up of a typewriter.jpg -> gruvbox/a_close_up_of_a_typewriter.jpg
+renamed:    gruvbox/a close up of rocks under water.jpg -> gruvbox/a_close_up_of_rocks_under_water.jpg
+renamed:    gruvbox/a cup of coffee on a table.jpg -> gruvbox/a_cup_of_coffee_on_a_table.jpg
+renamed:    gruvbox/a dark alleyway with a brick building and a window.jpg -> gruvbox/a_dark_alleyway_with_a_brick_building_and_a_window.jpg
+renamed:    gruvbox/a fish swimming in water.png -> gruvbox/a_fish_swimming_in_water.png
+renamed:    gruvbox/a flower in a window.jpg -> gruvbox/a_flower_in_a_window.jpg
+renamed:    gruvbox/a graphic of a clock with an egyptian symbol.jpg -> gruvbox/a_graphic_of_a_clock_with_an_egyptian_symbol.jpg
+renamed:    gruvbox/a landscape with mountains and trees.jpg -> gruvbox/a_landscape_with_mountains_and_trees.jpg
+renamed:    gruvbox/a logo of mountains and sun.png -> gruvbox/a_logo_of_mountains_and_sun.png
+renamed:    gruvbox/a mountain range with snow.png -> gruvbox/a_mountain_range_with_snow.png
+renamed:    gruvbox/a person in a hat standing in a room with windows.png -> gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png
+renamed:    gruvbox/a person walking in a tunnel.png -> gruvbox/a_person_walking_in_a_tunnel.png
+renamed:    gruvbox/a pile of wood with snow on top.jpg -> gruvbox/a_pile_of_wood_with_snow_on_top.jpg
+renamed:    gruvbox/a record player on a table.jpg -> gruvbox/a_record_player_on_a_table.jpg
+renamed:    gruvbox/a rocky beach with waves crashing on the shore.png -> gruvbox/a_rocky_beach_with_waves_crashing_on_the_shore.png
+renamed:    gruvbox/a skull with spikes on it.jpg -> gruvbox/a_skull_with_spikes_on_it.jpg
+renamed:    gruvbox/a spiral staircase with a black railing.jpg -> gruvbox/a_spiral_staircase_with_a_black_railing.jpg
+renamed:    gruvbox/a street with buildings and a street lamp.png -> gruvbox/a_street_with_buildings_and_a_street_lamp.png
+renamed:    gruvbox/a street with buildings and trees.png -> gruvbox/a_street_with_buildings_and_trees.png
+renamed:    gruvbox/a string of lights with a light bulb.jpg -> gruvbox/a_string_of_lights_with_a_light_bulb.jpg
+renamed:    gruvbox/a view of a city from a window.jpg -> gruvbox/a_view_of_a_city_from_a_window.jpg
+renamed:    gruvbox/an anubis in a circle.jpg -> gruvbox/an_anubis_in_a_circle.jpg
+renamed:    gruvbox/an anubis with a fan.jpg -> gruvbox/an_anubis_with_a_fan.jpg
+renamed:    halloween/a group of pumpkins on a black surface.jpg -> halloween/a_group_of_pumpkins_on_a_black_surface.jpg
+renamed:    halloween/a person holding a skull and pumpkins.jpg -> halloween/a_person_holding_a_skull_and_pumpkins.jpg
+renamed:    industrial/a group of metal objects in a warehouse.jpg -> industrial/a_group_of_metal_objects_in_a_warehouse.jpg
+renamed:    interior/a green plant in a pot.jpg -> interior/a_green_plant_in_a_pot.jpg
+renamed:    interior/a plant in a pot.jpg -> interior/a_plant_in_a_pot.jpg
+renamed:    interior/a potted plant on a blue surface.jpg -> interior/a_potted_plant_on_a_blue_surface.jpg
+renamed:    interior/a room with a wooden cabinet and a picture frame.jpg -> interior/a_room_with_a_wooden_cabinet_and_a_picture_frame.jpg
+renamed:    interior/a small potted plant on a wood surface.jpg -> interior/a_small_potted_plant_on_a_wood_surface.jpg
+renamed:    interior/a table with a vase of fruit and a pitcher of water.jpg -> interior/a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg
+renamed:    interior/a white wall with a blue couch and a lamp.jpg -> interior/a_white_wall_with_a_blue_couch_and_a_lamp.jpg
+renamed:    jackb/a black background with white text.jpg -> jackb/a_black_background_with_white_text.jpg
+renamed:    jackb/a group of white symbols.jpg -> jackb/a_group_of_white_symbols.jpg
+renamed:    jackb/a screen shot of a computer.jpg -> jackb/a_screen_shot_of_a_computer.jpg
+renamed:    jackb/a screen shot of a computer_01.jpg -> jackb/a_screen_shot_of_a_computer_01.jpg
+renamed:    jackb/a screenshot of a computer.jpg -> jackb/a_screenshot_of_a_computer.jpg
+renamed:    jackb/a screenshot of a computer_01.jpg -> jackb/a_screenshot_of_a_computer_01.jpg
+renamed:    jackb/a screenshot of a computer_02.jpg -> jackb/a_screenshot_of_a_computer_02.jpg
+renamed:    jackb/a screenshot of a video game.jpg -> jackb/a_screenshot_of_a_video_game.jpg
+renamed:    jackb/a screenshot of a video game_01.jpg -> jackb/a_screenshot_of_a_video_game_01.jpg
+renamed:    jackb/a white and black rectangle with x marks.jpg -> jackb/a_white_and_black_rectangle_with_x_marks.jpg
+renamed:    lightbulb/a dark room with a table and chairs.jpg -> lightbulb/a_dark_room_with_a_table_and_chairs.jpg
+renamed:    lightbulb/a group of light bulbs.jpg -> lightbulb/a_group_of_light_bulbs.jpg
+renamed:    lightbulb/a group of light bulbs_01.jpg -> lightbulb/a_group_of_light_bulbs_01.jpg
+renamed:    lightbulb/a group of light bulbs from the ceiling.jpg -> lightbulb/a_group_of_light_bulbs_from_the_ceiling.jpg
+renamed:    lightbulb/a group of light bulbs on a blanket.jpg -> lightbulb/a_group_of_light_bulbs_on_a_blanket.jpg
+renamed:    lightbulb/a light bulb from the ceiling.jpg -> lightbulb/a_light_bulb_from_the_ceiling.jpg
+renamed:    lightbulb/a light bulb from the ceiling_01.jpg -> lightbulb/a_light_bulb_from_the_ceiling_01.jpg
+renamed:    lightbulb/a light bulb with a filament.jpg -> lightbulb/a_light_bulb_with_a_filament.jpg
+renamed:    lightbulb/a person holding a jar with lights.jpg -> lightbulb/a_person_holding_a_jar_with_lights.jpg
+renamed:    lightbulb/a row of lights.jpg -> lightbulb/a_row_of_lights.jpg
+renamed:    lightbulb/a string of lights on a building.jpg -> lightbulb/a_string_of_lights_on_a_building.jpg
+renamed:    lightbulb/a tree with lights on it.jpg -> lightbulb/a_tree_with_lights_on_it.jpg
+renamed:    logo/a black and white circular design.png -> logo/a_black_and_white_circular_design.png
+renamed:    logo/a black and white image of a planet with rings.jpg -> logo/a_black_and_white_image_of_a_planet_with_rings.jpg
+renamed:    logo/a black and white photo of a fire extinguisher.jpg -> logo/a_black_and_white_photo_of_a_fire_extinguisher.jpg
+renamed:    logo/a black and white picture of a man in a hat.png -> logo/a_black_and_white_picture_of_a_man_in_a_hat.png
+renamed:    logo/a black background with a white line drawing of a mountain and planets.jpg -> logo/a_black_background_with_a_white_line_drawing_of_a_mountain_and_planets.jpg
+renamed:    logo/a cartoon of a cat under a tree.png -> logo/a_cartoon_of_a_cat_under_a_tree.png
+renamed:    logo/a cartoon of a girl sitting in a rocking chair.png -> logo/a_cartoon_of_a_girl_sitting_in_a_rocking_chair.png
+renamed:    logo/a cartoon of a woman.png -> logo/a_cartoon_of_a_woman.png
+renamed:    logo/a cartoon of a woman_01.png -> logo/a_cartoon_of_a_woman_01.png
+renamed:    logo/a cartoon of a woman in a maid outfit.png -> logo/a_cartoon_of_a_woman_in_a_maid_outfit.png
+renamed:    logo/a cassette tape with a message on it.jpg -> logo/a_cassette_tape_with_a_message_on_it.jpg
+renamed:    logo/a close-up of a flower.jpg -> logo/a_close-up_of_a_flower.jpg
+renamed:    logo/a colorful circle with lines in it.jpg -> logo/a_colorful_circle_with_lines_in_it.jpg
+renamed:    logo/a drawing of a person.png -> logo/a_drawing_of_a_person.png
+renamed:    logo/a green and blue rectangular sign with a drawing of a tree.png -> logo/a_green_and_blue_rectangular_sign_with_a_drawing_of_a_tree.png
+renamed:    logo/a group of circles with different symbols.png -> logo/a_group_of_circles_with_different_symbols.png
+renamed:    logo/a group of white spheres with rings.png -> logo/a_group_of_white_spheres_with_rings.png
+renamed:    logo/a logo with circles and text.png -> logo/a_logo_with_circles_and_text.png
+renamed:    logo/a moon in the sky.png -> logo/a_moon_in_the_sky.png
+renamed:    logo/a screenshot of a video game.png -> logo/a_screenshot_of_a_video_game.png
+renamed:    logo/a silver metal mask with a black background.png -> logo/a_silver_metal_mask_with_a_black_background.png
+renamed:    logo/a snake with flowers and leaves.jpg -> logo/a_snake_with_flowers_and_leaves.jpg
+renamed:    logo/a sword with a black background.jpg -> logo/a_sword_with_a_black_background.jpg
+renamed:    logo/a white line drawing of trees and mountains.jpg -> logo/a_white_line_drawing_of_trees_and_mountains.jpg
+renamed:    logo/a woman in a suit and tie.png -> logo/a_woman_in_a_suit_and_tie.png
+renamed:    logo/diagram of the sun and clouds.jpg -> logo/diagram_of_the_sun_and_clouds.jpg
+renamed:    m-26.jp/a beach with people in water.jpg -> m-26.jp/a_beach_with_people_in_water.jpg
+renamed:    m-26.jp/a beach with trees and flowers.jpg -> m-26.jp/a_beach_with_trees_and_flowers.jpg
+renamed:    m-26.jp/a beach with trees and flowers_01.jpg -> m-26.jp/a_beach_with_trees_and_flowers_01.jpg
+renamed:    m-26.jp/a bird flying over a beach.jpg -> m-26.jp/a_bird_flying_over_a_beach.jpg
+renamed:    m-26.jp/a building and trees at night.jpg -> m-26.jp/a_building_and_trees_at_night.jpg
+renamed:    m-26.jp/a building with a palm tree and a white umbrella.jpg -> m-26.jp/a_building_with_a_palm_tree_and_a_white_umbrella.jpg
+renamed:    m-26.jp/a building with a roof and a body of water.jpg -> m-26.jp/a_building_with_a_roof_and_a_body_of_water.jpg
+renamed:    m-26.jp/a building with people sitting on a bench.jpg -> m-26.jp/a_building_with_people_sitting_on_a_bench.jpg
+renamed:    m-26.jp/a building with trees and stars in the sky.jpg -> m-26.jp/a_building_with_trees_and_stars_in_the_sky.jpg
+renamed:    m-26.jp/a cartoon of a boy carrying a surfboard and a dog.jpg -> m-26.jp/a_cartoon_of_a_boy_carrying_a_surfboard_and_a_dog.jpg
+renamed:    m-26.jp/a cartoon of a woman and a boy sleeping in a car.jpg -> m-26.jp/a_cartoon_of_a_woman_and_a_boy_sleeping_in_a_car.jpg
+renamed:    m-26.jp/a couple of planes flying over a wave.jpg -> m-26.jp/a_couple_of_planes_flying_over_a_wave.jpg
+renamed:    m-26.jp/a deck of a ferry.jpg -> m-26.jp/a_deck_of_a_ferry.jpg
+renamed:    m-26.jp/a deck with trees and a railing.jpg -> m-26.jp/a_deck_with_trees_and_a_railing.jpg
+renamed:    m-26.jp/a dock with trees and a blue railing.jpg -> m-26.jp/a_dock_with_trees_and_a_blue_railing.jpg
+renamed:    m-26.jp/a girl holding a cup and standing on a ledge with a dog.jpg -> m-26.jp/a_girl_holding_a_cup_and_standing_on_a_ledge_with_a_dog.jpg
+renamed:    m-26.jp/a group of people running on a concrete wall next to a lighthouse.jpg -> m-26.jp/a_group_of_people_running_on_a_concrete_wall_next_to_a_lighthouse.jpg
+renamed:    m-26.jp/a lighthouse on a dock in the water.jpg -> m-26.jp/a_lighthouse_on_a_dock_in_the_water.jpg
+renamed:    m-26.jp/a lighthouse with a large cloud of pink clouds.jpg -> m-26.jp/a_lighthouse_with_a_large_cloud_of_pink_clouds.jpg
+renamed:    m-26.jp/a man carrying a surfboard in the snow.jpg -> m-26.jp/a_man_carrying_a_surfboard_in_the_snow.jpg
+renamed:    m-26.jp/a man standing next to a car with a surfboard.jpg -> m-26.jp/a_man_standing_next_to_a_car_with_a_surfboard.jpg
+renamed:    m-26.jp/a patio with plants and a table.jpg -> m-26.jp/a_patio_with_plants_and_a_table.jpg
+renamed:    m-26.jp/a person holding a surfboard on a beach.jpg -> m-26.jp/a_person_holding_a_surfboard_on_a_beach.jpg
+renamed:    m-26.jp/a person on a beach.jpg -> m-26.jp/a_person_on_a_beach.jpg
+renamed:    m-26.jp/a person on a surfboard in the ocean.jpg -> m-26.jp/a_person_on_a_surfboard_in_the_ocean.jpg
+renamed:    m-26.jp/a person on a surfboard in the water with birds flying in the sky.jpg -> m-26.jp/a_person_on_a_surfboard_in_the_water_with_birds_flying_in_the_sky.jpg
+renamed:    m-26.jp/a ship in the water.jpg -> m-26.jp/a_ship_in_the_water.jpg
+renamed:    m-26.jp/a ship on the water.jpg -> m-26.jp/a_ship_on_the_water.jpg
+renamed:    m-26.jp/a tree in a snowy field.jpg -> m-26.jp/a_tree_in_a_snowy_field.jpg
+renamed:    m-26.jp/a van on the road with a rainbow in the background.jpg -> m-26.jp/a_van_on_the_road_with_a_rainbow_in_the_background.jpg
+renamed:    m-26.jp/a whale shark with people on it.jpg -> m-26.jp/a_whale_shark_with_people_on_it.jpg
+renamed:    m-26.jp/a white building with a flag on top and palm trees.jpg -> m-26.jp/a_white_building_with_a_flag_on_top_and_palm_trees.jpg
+renamed:    m-26.jp/a white light pole with a jet trail in the sky.jpg -> m-26.jp/a_white_light_pole_with_a_jet_trail_in_the_sky.jpg
+renamed:    manga/a black and white comic book page of a man's face.jpeg -> manga/a_black_and_white_comic_book_page_of_a_man's_face.jpeg
+renamed:    manga/a black and white drawing of a large metal structure.jpg -> manga/a_black_and_white_drawing_of_a_large_metal_structure.jpg
+renamed:    manga/a black and white drawing of a man holding a sword.jpeg -> manga/a_black_and_white_drawing_of_a_man_holding_a_sword.jpeg
+renamed:    manga/a black and white drawing of a man holding a sword.jpg -> manga/a_black_and_white_drawing_of_a_man_holding_a_sword.jpg
+renamed:    manga/a black and white drawing of a man with his mouth open.jpeg -> manga/a_black_and_white_drawing_of_a_man_with_his_mouth_open.jpeg
+renamed:    manga/a black and white drawing of a person holding a stick.jpg -> manga/a_black_and_white_drawing_of_a_person_holding_a_stick.jpg
+renamed:    manga/a black and white drawing of a person walking in a snowy field.jpg -> manga/a_black_and_white_drawing_of_a_person_walking_in_a_snowy_field.jpg
+renamed:    manga/a black and white drawing of a person with a black mask.jpeg -> manga/a_black_and_white_drawing_of_a_person_with_a_black_mask.jpeg
+renamed:    manga/a black and white drawing of a person with a white face.jpeg -> manga/a_black_and_white_drawing_of_a_person_with_a_white_face.jpeg
+renamed:    manga/a black and white drawing of a person with a white head.jpeg -> manga/a_black_and_white_drawing_of_a_person_with_a_white_head.jpeg
+renamed:    manga/a black and white illustration of a man sitting on a rock.jpg -> manga/a_black_and_white_illustration_of_a_man_sitting_on_a_rock.jpg
+renamed:    manga/a black and white image of a cart with a fireball.jpeg -> manga/a_black_and_white_image_of_a_cart_with_a_fireball.jpeg
+renamed:    manga/a black and white image of a girl.jpeg -> manga/a_black_and_white_image_of_a_girl.jpeg
+renamed:    manga/a black and white image of a man's face.png -> manga/a_black_and_white_image_of_a_man's_face.png
+renamed:    manga/a black and white image of a man lying on a white surface.jpg -> manga/a_black_and_white_image_of_a_man_lying_on_a_white_surface.jpg
+renamed:    manga/a black and white image of a man with arms and arms.jpeg -> manga/a_black_and_white_image_of_a_man_with_arms_and_arms.jpeg
+renamed:    manga/a black and white image of a person in a garment.jpeg -> manga/a_black_and_white_image_of_a_person_in_a_garment.jpeg
+renamed:    manga/a black and white image of a room.jpeg -> manga/a_black_and_white_image_of_a_room.jpeg
+renamed:    manga/a black and white image of a skeleton sitting on a pile of balls.jpeg -> manga/a_black_and_white_image_of_a_skeleton_sitting_on_a_pile_of_balls.jpeg
+renamed:    manga/a black and white image of a woman's eyes.jpeg -> manga/a_black_and_white_image_of_a_woman's_eyes.jpeg
+renamed:    manga/a black and white image of a woman.jpeg -> manga/a_black_and_white_image_of_a_woman.jpeg
+renamed:    manga/a black and white image of a woman_01.jpeg -> manga/a_black_and_white_image_of_a_woman_01.jpeg
+renamed:    manga/a black and white image of a woman with her hand on her face.jpeg -> manga/a_black_and_white_image_of_a_woman_with_her_hand_on_her_face.jpeg
+renamed:    manga/a black and white image of a woman with long hair.jpeg -> manga/a_black_and_white_image_of_a_woman_with_long_hair.jpeg
+renamed:    manga/a black and white image of a woman with long hair_01.jpeg -> manga/a_black_and_white_image_of_a_woman_with_long_hair_01.jpeg
+renamed:    manga/a black and white image of a zombie.jpeg -> manga/a_black_and_white_image_of_a_zombie.jpeg
+renamed:    manga/a black background with a white object on it.png -> manga/a_black_background_with_a_white_object_on_it.png
+renamed:    manga/a cartoon of a girl.jpeg -> manga/a_cartoon_of_a_girl.jpeg
+renamed:    manga/a cartoon of a girl sitting in a room with a group of people.png -> manga/a_cartoon_of_a_girl_sitting_in_a_room_with_a_group_of_people.png
+renamed:    manga/a cartoon of a girl with short hair.png -> manga/a_cartoon_of_a_girl_with_short_hair.png
+renamed:    manga/a cartoon of a man standing next to a broken wall.jpeg -> manga/a_cartoon_of_a_man_standing_next_to_a_broken_wall.jpeg
+renamed:    manga/a cartoon of a man with a guitar.jpeg -> manga/a_cartoon_of_a_man_with_a_guitar.jpeg
+renamed:    manga/a cartoon of a woman.jpg -> manga/a_cartoon_of_a_woman.jpg
+renamed:    manga/a cartoon of a woman_01.jpg -> manga/a_cartoon_of_a_woman_01.jpg
+renamed:    manga/a cartoon of a woman playing a violin.png -> manga/a_cartoon_of_a_woman_playing_a_violin.png
+renamed:    manga/a cartoon of a woman with a mask.jpeg -> manga/a_cartoon_of_a_woman_with_a_mask.jpeg
+renamed:    manga/a cartoon of a woman with a sword.jpeg -> manga/a_cartoon_of_a_woman_with_a_sword.jpeg
+renamed:    manga/a cartoon of a woman with horns on her head.jpg -> manga/a_cartoon_of_a_woman_with_horns_on_her_head.jpg
+renamed:    manga/a cartoon of a woman with long hair.jpg -> manga/a_cartoon_of_a_woman_with_long_hair.jpg
+renamed:    manga/a close up of a bird's back.jpeg -> manga/a_close_up_of_a_bird's_back.jpeg
+renamed:    manga/a couple of women kissing.jpeg -> manga/a_couple_of_women_kissing.jpeg
+renamed:    manga/a drawing of a boy.jpg -> manga/a_drawing_of_a_boy.jpg
+renamed:    manga/a field of grass at night.jpeg -> manga/a_field_of_grass_at_night.jpeg
+renamed:    manga/a group of men with different hair styles.jpeg -> manga/a_group_of_men_with_different_hair_styles.jpeg
+renamed:    manga/a hand holding a face.png -> manga/a_hand_holding_a_face.png
+renamed:    manga/a man in a cape sitting on a boat.jpeg -> manga/a_man_in_a_cape_sitting_on_a_boat.jpeg
+renamed:    manga/a man in a cape with a child in his lap.jpg -> manga/a_man_in_a_cape_with_a_child_in_his_lap.jpg
+renamed:    manga/a man in a robe.jpeg -> manga/a_man_in_a_robe.jpeg
+renamed:    manga/a man reading a book.jpg -> manga/a_man_reading_a_book.jpg
+renamed:    manga/a pile of debris in a city.jpeg -> manga/a_pile_of_debris_in_a_city.jpeg
+renamed:    manga/a screenshot of a cartoon.jpeg -> manga/a_screenshot_of_a_cartoon.jpeg
+renamed:    manga/a screenshot of a video game.jpeg -> manga/a_screenshot_of_a_video_game.jpeg
+renamed:    manga/a staircase going up to a tunnel.jpg -> manga/a_staircase_going_up_to_a_tunnel.jpg
+renamed:    manga/a woman with a box on her head.jpeg -> manga/a_woman_with_a_box_on_her_head.jpeg
+renamed:    minimal/a black sky with white dots.jpg -> minimal/a_black_sky_with_white_dots.jpg
+renamed:    minimal/a blue and pink sky over a mountain range.png -> minimal/a_blue_and_pink_sky_over_a_mountain_range.png
+renamed:    minimal/a blue mountains with a blue sky.jpg -> minimal/a_blue_mountains_with_a_blue_sky.jpg
+renamed:    minimal/a blue pen and a note.jpg -> minimal/a_blue_pen_and_a_note.jpg
+renamed:    minimal/a blue rectangular object with a black background.jpg -> minimal/a_blue_rectangular_object_with_a_black_background.jpg
+renamed:    minimal/a blue sky over a mountain range.png -> minimal/a_blue_sky_over_a_mountain_range.png
+renamed:    minimal/a cartoon of a island with a bridge and trees.jpg -> minimal/a_cartoon_of_a_island_with_a_bridge_and_trees.jpg
+renamed:    minimal/a cartoon of a island with a bridge and trees_01.jpg -> minimal/a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg
+renamed:    minimal/a cartoon of trees and clouds.png -> minimal/a_cartoon_of_trees_and_clouds.png
+renamed:    minimal/a cartoon of trees on a hill.png -> minimal/a_cartoon_of_trees_on_a_hill.png
+renamed:    minimal/a cartoon of trees on a hill_01.png -> minimal/a_cartoon_of_trees_on_a_hill_01.png
+renamed:    minimal/a cartoon of trees on a hill_02.png -> minimal/a_cartoon_of_trees_on_a_hill_02.png
+renamed:    minimal/a cat in a cup.png -> minimal/a_cat_in_a_cup.png
+renamed:    minimal/a city skyline with a pink sky.png -> minimal/a_city_skyline_with_a_pink_sky.png
+renamed:    minimal/a close-up of a door.jpg -> minimal/a_close-up_of_a_door.jpg
+renamed:    minimal/a colorful planets in a circle.jpg -> minimal/a_colorful_planets_in_a_circle.jpg
+renamed:    minimal/a colorful snow covered land.png -> minimal/a_colorful_snow_covered_land.png
+renamed:    minimal/a donut with sprinkles on top.jpg -> minimal/a_donut_with_sprinkles_on_top.jpg
+renamed:    minimal/a drawing of a bear and a campfire.png -> minimal/a_drawing_of_a_bear_and_a_campfire.png
+renamed:    minimal/a flower on a dark background.png -> minimal/a_flower_on_a_dark_background.png
+renamed:    minimal/a group of colorful hearts.png -> minimal/a_group_of_colorful_hearts.png
+renamed:    minimal/a group of planets in different colors.png -> minimal/a_group_of_planets_in_different_colors.png
+renamed:    minimal/a group of white pencils.png -> minimal/a_group_of_white_pencils.png
+renamed:    minimal/a landscape of mountains and a pink sky.png -> minimal/a_landscape_of_mountains_and_a_pink_sky.png
+renamed:    minimal/a landscape of mountains and a sunset.png -> minimal/a_landscape_of_mountains_and_a_sunset.png
+renamed:    minimal/a landscape of mountains and a sunset_01.png -> minimal/a_landscape_of_mountains_and_a_sunset_01.png
+renamed:    minimal/a landscape of mountains and a sunset_02.png -> minimal/a_landscape_of_mountains_and_a_sunset_02.png
+renamed:    minimal/a landscape of mountains and a sunset_03.png -> minimal/a_landscape_of_mountains_and_a_sunset_03.png
+renamed:    minimal/a landscape of mountains and a sunset_04.png -> minimal/a_landscape_of_mountains_and_a_sunset_04.png
+renamed:    minimal/a landscape of mountains and trees.jpg -> minimal/a_landscape_of_mountains_and_trees.jpg
+renamed:    minimal/a landscape of mountains with a pink and blue sky.png -> minimal/a_landscape_of_mountains_with_a_pink_and_blue_sky.png
+renamed:    minimal/a landscape with hills and stars.png -> minimal/a_landscape_with_hills_and_stars.png
+renamed:    minimal/a landscape with mountains and stars.png -> minimal/a_landscape_with_mountains_and_stars.png
+renamed:    minimal/a landscape with mountains and stars_01.png -> minimal/a_landscape_with_mountains_and_stars_01.png
+renamed:    minimal/a man carrying a fence.jpg -> minimal/a_man_carrying_a_fence.jpg
+renamed:    minimal/a moon and clouds in the sky.jpg -> minimal/a_moon_and_clouds_in_the_sky.jpg
+renamed:    minimal/a mountain with trees and moon.jpg -> minimal/a_mountain_with_trees_and_moon.jpg
+renamed:    minimal/a pool and a house.jpg -> minimal/a_pool_and_a_house.jpg
+renamed:    minimal/a purple and orange mountain range.png -> minimal/a_purple_and_orange_mountain_range.png
+renamed:    minimal/a screenshot of a computer generated image of planets.png -> minimal/a_screenshot_of_a_computer_generated_image_of_planets.png
+renamed:    minimal/a snow covered land with orange and white colors.png -> minimal/a_snow_covered_land_with_orange_and_white_colors.png
+renamed:    minimal/a snow covered mountains and sky.png -> minimal/a_snow_covered_mountains_and_sky.png
+renamed:    minimal/a sunset over a mountain range.png -> minimal/a_sunset_over_a_mountain_range.png
+renamed:    minimal/a sunset over a mountain range_01.png -> minimal/a_sunset_over_a_mountain_range_01.png
+renamed:    minimal/a train crossing a bridge over a bridge with mountains in the background.png -> minimal/a_train_crossing_a_bridge_over_a_bridge_with_mountains_in_the_background.png
+renamed:    minimal/a tree with pink leaves.jpg -> minimal/a_tree_with_pink_leaves.jpg
+renamed:    minimal/a video game screen of a video game.jpg -> minimal/a_video_game_screen_of_a_video_game.jpg
+renamed:    minimal/a video game screen of a video game_01.jpg -> minimal/a_video_game_screen_of_a_video_game_01.jpg
+renamed:    minimal/cartoon of a toilet.jpg -> minimal/cartoon_of_a_toilet.jpg
+renamed:    monochrome/a bird flying over a mountain.jpg -> monochrome/a_bird_flying_over_a_mountain.jpg
+renamed:    monochrome/a black and white building with a fire escape.jpg -> monochrome/a_black_and_white_building_with_a_fire_escape.jpg
+renamed:    monochrome/a black and white image of a hill.jpg -> monochrome/a_black_and_white_image_of_a_hill.jpg
+renamed:    monochrome/a black and white photo of clouds.jpg -> monochrome/a_black_and_white_photo_of_clouds.jpg
+renamed:    monochrome/a black computer monitor with a white screen.jpg -> monochrome/a_black_computer_monitor_with_a_white_screen.jpg
+renamed:    monochrome/a black rose with a black background.jpg -> monochrome/a_black_rose_with_a_black_background.jpg
+renamed:    monochrome/a black sand with white foamy waves.png -> monochrome/a_black_sand_with_white_foamy_waves.png
+renamed:    monochrome/a body of water with a white sky.jpg -> monochrome/a_body_of_water_with_a_white_sky.jpg
+renamed:    monochrome/a building with many square windows.jpg -> monochrome/a_building_with_many_square_windows.jpg
+renamed:    monochrome/a camera with a black background.jpg -> monochrome/a_camera_with_a_black_background.jpg
+renamed:    monochrome/a car in a parking garage.jpg -> monochrome/a_car_in_a_parking_garage.jpg
+renamed:    monochrome/a card on a black surface.jpg -> monochrome/a_card_on_a_black_surface.jpg
+renamed:    monochrome/a city skyline seen through a window.jpg -> monochrome/a_city_skyline_seen_through_a_window.jpg
+renamed:    monochrome/a close up of a black surface.jpg -> monochrome/a_close_up_of_a_black_surface.jpg
+renamed:    monochrome/a dirt road with trees in the background.jpg -> monochrome/a_dirt_road_with_trees_in_the_background.jpg
+renamed:    monochrome/a dock on the water.jpeg -> monochrome/a_dock_on_the_water.jpeg
+renamed:    monochrome/a foggy forest with trees.jpg -> monochrome/a_foggy_forest_with_trees.jpg
+renamed:    monochrome/a foggy forest with trees_01.jpg -> monochrome/a_foggy_forest_with_trees_01.jpg
+renamed:    monochrome/a foggy landscape with trees and a road.jpg -> monochrome/a_foggy_landscape_with_trees_and_a_road.jpg
+renamed:    monochrome/a foggy landscape with trees and clouds.jpg -> monochrome/a_foggy_landscape_with_trees_and_clouds.jpg
+renamed:    monochrome/a foggy landscape with trees and hills.jpg -> monochrome/a_foggy_landscape_with_trees_and_hills.jpg
+renamed:    monochrome/a hallway with lights on the ceiling.png -> monochrome/a_hallway_with_lights_on_the_ceiling.png
+renamed:    monochrome/a jet flying in the sky.jpg -> monochrome/a_jet_flying_in_the_sky.jpg
+renamed:    monochrome/a lake surrounded by mountains.jpg -> monochrome/a_lake_surrounded_by_mountains.jpg
+renamed:    monochrome/a large rock in the ocean.jpg -> monochrome/a_large_rock_in_the_ocean.jpg
+renamed:    monochrome/a light bulb in the dark.png -> monochrome/a_light_bulb_in_the_dark.png
+renamed:    monochrome/a light bulb in the dirt.jpg -> monochrome/a_light_bulb_in_the_dirt.jpg
+renamed:    monochrome/a man standing in a corner of a wall.jpg -> monochrome/a_man_standing_in_a_corner_of_a_wall.jpg
+renamed:    monochrome/a microphone on a stand.jpg -> monochrome/a_microphone_on_a_stand.jpg
+renamed:    monochrome/a moon in the sky above mountains.jpg -> monochrome/a_moon_in_the_sky_above_mountains.jpg
+renamed:    monochrome/a mountain range with clouds.jpg -> monochrome/a_mountain_range_with_clouds.jpg
+renamed:    monochrome/a mountain with clouds in the sky.jpg -> monochrome/a_mountain_with_clouds_in_the_sky.jpg
+renamed:    monochrome/a mountain with snow on it.jpeg -> monochrome/a_mountain_with_snow_on_it.jpeg
+renamed:    monochrome/a mountain with snow on it.jpg -> monochrome/a_mountain_with_snow_on_it.jpg
+renamed:    monochrome/a pair of playing cards on a black surface.jpg -> monochrome/a_pair_of_playing_cards_on_a_black_surface.jpg
+renamed:    monochrome/a person playing a guitar.png -> monochrome/a_person_playing_a_guitar.png
+renamed:    monochrome/a person sitting on a wall.png -> monochrome/a_person_sitting_on_a_wall.png
+renamed:    monochrome/a person standing in front of a waterfall.jpg -> monochrome/a_person_standing_in_front_of_a_waterfall.jpg
+renamed:    monochrome/a person standing on a cliff edge.jpg -> monochrome/a_person_standing_on_a_cliff_edge.jpg
+renamed:    monochrome/a pile of black rocks.jpg -> monochrome/a_pile_of_black_rocks.jpg
+renamed:    monochrome/a plant in a pot.jpg -> monochrome/a_plant_in_a_pot.jpg
+renamed:    monochrome/a road going through a desert.jpeg -> monochrome/a_road_going_through_a_desert.jpeg
+renamed:    monochrome/a rocky beach with waves crashing onto rocks.jpg -> monochrome/a_rocky_beach_with_waves_crashing_onto_rocks.jpg
+renamed:    monochrome/a stone walkway leading to a lighthouse.jpg -> monochrome/a_stone_walkway_leading_to_a_lighthouse.jpg
+renamed:    monochrome/a street lights at night.jpg -> monochrome/a_street_lights_at_night.jpg
+renamed:    monochrome/a street lights at night_01.jpg -> monochrome/a_street_lights_at_night_01.jpg
+renamed:    monochrome/a white staircase with a handrail.jpg -> monochrome/a_white_staircase_with_a_handrail.jpg
+renamed:    monochrome/birds on top of a bus.jpg -> monochrome/birds_on_top_of_a_bus.jpg
+renamed:    monochrome/looking up at a building.jpeg -> monochrome/looking_up_at_a_building.jpeg
+renamed:    monochrome/looking up view of tall buildings.jpg -> monochrome/looking_up_view_of_tall_buildings.jpg
+renamed:    monochrome/rocks in the water.jpg -> monochrome/rocks_in_the_water.jpg
+renamed:    mountain/a body of water with rocks and a cliff.jpg -> mountain/a_body_of_water_with_rocks_and_a_cliff.jpg
+renamed:    mountain/a castle on a hill with fog with Eltz Castle in the background.jpg -> mountain/a_castle_on_a_hill_with_fog_with_Eltz_Castle_in_the_background.jpg
+renamed:    mountain/a city in the distance with clouds.jpg -> mountain/a_city_in_the_distance_with_clouds.jpg
+renamed:    mountain/a close up of rocks.jpg -> mountain/a_close_up_of_rocks.jpg
+renamed:    mountain/a iceberg in the water with mountains in the background.jpg -> mountain/a_iceberg_in_the_water_with_mountains_in_the_background.jpg
+renamed:    mountain/a large canyon with a sunset with Badlands National Park in the background.jpg -> mountain/a_large_canyon_with_a_sunset_with_Badlands_National_Park_in_the_background.jpg
+renamed:    mountain/a large rock formation in the mountains.jpg -> mountain/a_large_rock_formation_in_the_mountains.jpg
+renamed:    mountain/a large rock formation on a beach.jpg -> mountain/a_large_rock_formation_on_a_beach.jpg
+renamed:    mountain/a large rock in the middle of a body of water.jpg -> mountain/a_large_rock_in_the_middle_of_a_body_of_water.jpg
+renamed:    mountain/a mountain range with clouds in the background.jpg -> mountain/a_mountain_range_with_clouds_in_the_background.jpg
+renamed:    mountain/a mountain range with dark clouds.jpg -> mountain/a_mountain_range_with_dark_clouds.jpg
+renamed:    mountain/a mountain range with snow on top.jpeg -> mountain/a_mountain_range_with_snow_on_top.jpeg
+renamed:    mountain/a mountain range with snow on top.jpg -> mountain/a_mountain_range_with_snow_on_top.jpg
+renamed:    mountain/a mountain range with snow on top_01.jpg -> mountain/a_mountain_range_with_snow_on_top_01.jpg
+renamed:    mountain/a mountain range with trees and a valley.jpg -> mountain/a_mountain_range_with_trees_and_a_valley.jpg
+renamed:    mountain/a mountain with a road going through it.jpg -> mountain/a_mountain_with_a_road_going_through_it.jpg
+renamed:    mountain/a mountain with clouds above it.png -> mountain/a_mountain_with_clouds_above_it.png
+renamed:    mountain/a mountain with clouds in the sky.jpg -> mountain/a_mountain_with_clouds_in_the_sky.jpg
+renamed:    mountain/a mountain with smoke coming out of it.jpg -> mountain/a_mountain_with_smoke_coming_out_of_it.jpg
+renamed:    mountain/a mountain with snow and clouds.jpg -> mountain/a_mountain_with_snow_and_clouds.jpg
+renamed:    mountain/a mountain with snow and clouds_01.jpg -> mountain/a_mountain_with_snow_and_clouds_01.jpg
+renamed:    mountain/a mountain with snow and trees.jpg -> mountain/a_mountain_with_snow_and_trees.jpg
+renamed:    mountain/a mountain with snow on top.jpg -> mountain/a_mountain_with_snow_on_top.jpg
+renamed:    mountain/a mountain with snow on top_01.jpg -> mountain/a_mountain_with_snow_on_top_01.jpg
+renamed:    mountain/a mountain with snow on top_02.jpg -> mountain/a_mountain_with_snow_on_top_02.jpg
+renamed:    mountain/a mountain with snow on top and a body of water.jpg -> mountain/a_mountain_with_snow_on_top_and_a_body_of_water.jpg
+renamed:    mountain/a mountain with snow on top and a body of water_01.jpg -> mountain/a_mountain_with_snow_on_top_and_a_body_of_water_01.jpg
+renamed:    mountain/a mountain with snow on top and trees in the background.jpg -> mountain/a_mountain_with_snow_on_top_and_trees_in_the_background.jpg
+renamed:    mountain/a person on a cliff.jpg -> mountain/a_person_on_a_cliff.jpg
+renamed:    mountain/a river in a snowy landscape.jpg -> mountain/a_river_in_a_snowy_landscape.jpg
+renamed:    mountain/a road going through a valley.jpg -> mountain/a_road_going_through_a_valley.jpg
+renamed:    mountain/a road with trees and mountains in the background.jpg -> mountain/a_road_with_trees_and_mountains_in_the_background.jpg
+renamed:    mountain/a rocky cliff with trees and fog.jpg -> mountain/a_rocky_cliff_with_trees_and_fog.jpg
+renamed:    mountain/a rocky island with waves crashing on it.jpg -> mountain/a_rocky_island_with_waves_crashing_on_it.jpg
+renamed:    mountain/a rocky island with waves crashing on it.png -> mountain/a_rocky_island_with_waves_crashing_on_it.png
+renamed:    mountain/a silhouette of trees on a hill.jpg -> mountain/a_silhouette_of_trees_on_a_hill.jpg
+renamed:    mountain/a small waterfall in a grassy area.jpg -> mountain/a_small_waterfall_in_a_grassy_area.jpg
+renamed:    mountain/a snowy mountain range with sun shining on it.jpg -> mountain/a_snowy_mountain_range_with_sun_shining_on_it.jpg
+renamed:    mountain/a snowy mountain range with trees.jpg -> mountain/a_snowy_mountain_range_with_trees.jpg
+renamed:    mountain/a snowy mountain top with dark sky.jpg -> mountain/a_snowy_mountain_top_with_dark_sky.jpg
+renamed:    mountain/a snowy mountain tops.jpg -> mountain/a_snowy_mountain_tops.jpg
+renamed:    mountain/a snowy mountain tops with a grey sky.jpg -> mountain/a_snowy_mountain_tops_with_a_grey_sky.jpg
+renamed:    mountain/a snowy mountain tops with blue sky.jpg -> mountain/a_snowy_mountain_tops_with_blue_sky.jpg
+renamed:    mountain/a snowy mountain tops with clouds in the background.png -> mountain/a_snowy_mountain_tops_with_clouds_in_the_background.png
+renamed:    mountain/a snowy mountain with a lake in the middle.jpg -> mountain/a_snowy_mountain_with_a_lake_in_the_middle.jpg
+renamed:    mountain/a tree in a body of water with mountains in the background.jpg -> mountain/a_tree_in_a_body_of_water_with_mountains_in_the_background.jpg
+renamed:    mountain/a waterfall in the snow.jpg -> mountain/a_waterfall_in_the_snow.jpg
+renamed:    nature/a beach with waves and cliffs.jpg -> nature/a_beach_with_waves_and_cliffs.jpg
+renamed:    nature/a beach with waves and rocks.jpg -> nature/a_beach_with_waves_and_rocks.jpg
+renamed:    nature/a body of water with a lit up tower in the middle.png -> nature/a_body_of_water_with_a_lit_up_tower_in_the_middle.png
+renamed:    nature/a building in the woods.jpg -> nature/a_building_in_the_woods.jpg
+renamed:    nature/a close up of a bush.jpg -> nature/a_close_up_of_a_bush.jpg
+renamed:    nature/a close up of a fern.jpg -> nature/a_close_up_of_a_fern.jpg
+renamed:    nature/a close up of a flower.jpg -> nature/a_close_up_of_a_flower.jpg
+renamed:    nature/a close up of a flower_01.jpg -> nature/a_close_up_of_a_flower_01.jpg
+renamed:    nature/a close up of a plant.jpg -> nature/a_close_up_of_a_plant.jpg
+renamed:    nature/a close up of a plant.png -> nature/a_close_up_of_a_plant.png
+renamed:    nature/a close up of leaves.jpg -> nature/a_close_up_of_leaves.jpg
+renamed:    nature/a close up of leaves_01.jpg -> nature/a_close_up_of_leaves_01.jpg
+renamed:    nature/a close up of leaves_02.jpg -> nature/a_close_up_of_leaves_02.jpg
+renamed:    nature/a close up of moss on a branch.jpg -> nature/a_close_up_of_moss_on_a_branch.jpg
+renamed:    nature/a close up of pink flowers.jpg -> nature/a_close_up_of_pink_flowers.jpg
+renamed:    nature/a close up of red leaves.jpg -> nature/a_close_up_of_red_leaves.jpg
+renamed:    nature/a deer with antlers grazing on grass.jpg -> nature/a_deer_with_antlers_grazing_on_grass.jpg
+renamed:    nature/a fog over water with a black background.jpg -> nature/a_fog_over_water_with_a_black_background.jpg
+renamed:    nature/a foggy landscape with trees and grass.jpg -> nature/a_foggy_landscape_with_trees_and_grass.jpg
+renamed:    nature/a forest of trees with fog.jpg -> nature/a_forest_of_trees_with_fog.jpg
+renamed:    nature/a forest with moss and trees.jpg -> nature/a_forest_with_moss_and_trees.jpg
+renamed:    nature/a group of bamboo trees.jpg -> nature/a_group_of_bamboo_trees.jpg
+renamed:    nature/a group of bamboo trees_01.jpg -> nature/a_group_of_bamboo_trees_01.jpg
+renamed:    nature/a group of black leaves.jpg -> nature/a_group_of_black_leaves.jpg
+renamed:    nature/a group of dark leaves.jpg -> nature/a_group_of_dark_leaves.jpg
+renamed:    nature/a group of fish swimming in a pond.jpg -> nature/a_group_of_fish_swimming_in_a_pond.jpg
+renamed:    nature/a group of green leaves.jpg -> nature/a_group_of_green_leaves.jpg
+renamed:    nature/a group of pink tulips.png -> nature/a_group_of_pink_tulips.png
+renamed:    nature/a group of trees with green leaves.jpg -> nature/a_group_of_trees_with_green_leaves.jpg
+renamed:    nature/a group of white flowers.png -> nature/a_group_of_white_flowers.png
+renamed:    nature/a house in the woods.png -> nature/a_house_in_the_woods.png
+renamed:    nature/a lake surrounded by trees.png -> nature/a_lake_surrounded_by_trees.png
+renamed:    nature/a lake with snow covered mountains in the background.jpg -> nature/a_lake_with_snow_covered_mountains_in_the_background.jpg
+renamed:    nature/a lake with trees and clouds.png -> nature/a_lake_with_trees_and_clouds.png
+renamed:    nature/a large rocks in a desert.jpg -> nature/a_large_rocks_in_a_desert.jpg
+renamed:    nature/a log in a body of water surrounded by trees.jpg -> nature/a_log_in_a_body_of_water_surrounded_by_trees.jpg
+renamed:    nature/a mountain range with snow on top.jpg -> nature/a_mountain_range_with_snow_on_top.jpg
+renamed:    nature/a pile of logs in a snowy field.jpg -> nature/a_pile_of_logs_in_a_snowy_field.jpg
+renamed:    nature/a pile of rocks.jpg -> nature/a_pile_of_rocks.jpg
+renamed:    nature/a pond with lily pads and a wooden fence.png -> nature/a_pond_with_lily_pads_and_a_wooden_fence.png
+renamed:    nature/a river between rocks with trees.jpg -> nature/a_river_between_rocks_with_trees.jpg
+renamed:    nature/a river running through a forest.jpg -> nature/a_river_running_through_a_forest.jpg
+renamed:    nature/a river running through a forest_01.jpg -> nature/a_river_running_through_a_forest_01.jpg
+renamed:    nature/a river running through a rocky canyon.jpg -> nature/a_river_running_through_a_rocky_canyon.jpg
+renamed:    nature/a road with lights on the side of a body of water.jpg -> nature/a_road_with_lights_on_the_side_of_a_body_of_water.jpg
+renamed:    nature/a road with trees in the background.jpg -> nature/a_road_with_trees_in_the_background.jpg
+renamed:    nature/a rocky beach with water in the background.jpg -> nature/a_rocky_beach_with_water_in_the_background.jpg
+renamed:    nature/a rocky shore with waves crashing on rocks.jpg -> nature/a_rocky_shore_with_waves_crashing_on_rocks.jpg
+renamed:    nature/a sand dunes in the desert.jpg -> nature/a_sand_dunes_in_the_desert.jpg
+renamed:    nature/a small plant in a pot.jpg -> nature/a_small_plant_in_a_pot.jpg
+renamed:    nature/a snowy mountain with a body of water.jpg -> nature/a_snowy_mountain_with_a_body_of_water.jpg
+renamed:    nature/a stairs leading to a rocky canyon with Flume Gorge in the background.jpg -> nature/a_stairs_leading_to_a_rocky_canyon_with_Flume_Gorge_in_the_background.jpg
+renamed:    nature/a stone stairs in a forest.jpg -> nature/a_stone_stairs_in_a_forest.jpg
+renamed:    nature/a stream in the woods.jpg -> nature/a_stream_in_the_woods.jpg
+renamed:    nature/a tall mountain with clouds.jpg -> nature/a_tall_mountain_with_clouds.jpg
+renamed:    nature/a train tracks in a tunnel.jpg -> nature/a_train_tracks_in_a_tunnel.jpg
+renamed:    nature/a tree with pink flowers.png -> nature/a_tree_with_pink_flowers.png
+renamed:    nature/a waterfall over rocks.jpg -> nature/a_waterfall_over_rocks.jpg
+renamed:    nature/a wooden stairs in a forest.jpg -> nature/a_wooden_stairs_in_a_forest.jpg
+renamed:    nature/plants leaves in the water.jpg -> nature/plants_leaves_in_the_water.jpg
+renamed:    nature/rocks in the water.jpg -> nature/rocks_in_the_water.jpg
+renamed:    nature/train tracks in a forest.jpg -> nature/train_tracks_in_a_forest.jpg
+renamed:    nature/waves crashing waves on rocks.jpg -> nature/waves_crashing_waves_on_rocks.jpg
+renamed:    nature/waves crashing waves on the ocean.jpg -> nature/waves_crashing_waves_on_the_ocean.jpg
+renamed:    nord/a black background with white dots.png -> nord/a_black_background_with_white_dots.png
+renamed:    nord/a blue and grey background.png -> nord/a_blue_and_grey_background.png
+renamed:    nord/a blue and grey logo.png -> nord/a_blue_and_grey_logo.png
+renamed:    nord/a blue and pink swirls on a black background.png -> nord/a_blue_and_pink_swirls_on_a_black_background.png
+renamed:    nord/a blue and white dots.png -> nord/a_blue_and_white_dots.png
+renamed:    nord/a blue and white image of a mountain.png -> nord/a_blue_and_white_image_of_a_mountain.png
+renamed:    nord/a blue and white logo.png -> nord/a_blue_and_white_logo.png
+renamed:    nord/a blue circle with a letter e in it.png -> nord/a_blue_circle_with_a_letter_e_in_it.png
+renamed:    nord/a blue circle with a wave in the middle.png -> nord/a_blue_circle_with_a_wave_in_the_middle.png
+renamed:    nord/a blue circle with circles and dots.png -> nord/a_blue_circle_with_circles_and_dots.png
+renamed:    nord/a blue sky over a mountain range.png -> nord/a_blue_sky_over_a_mountain_range.png
+renamed:    nord/a blue swirly spiral on a dark background.png -> nord/a_blue_swirly_spiral_on_a_dark_background.png
+renamed:    nord/a blueprint of a cassette tape.png -> nord/a_blueprint_of_a_cassette_tape.png
+renamed:    nord/a boat in the water.jpg -> nord/a_boat_in_the_water.jpg
+renamed:    nord/a building with signs and bicycles outside.jpg -> nord/a_building_with_signs_and_bicycles_outside.jpg
+renamed:    nord/a car on a street.png -> nord/a_car_on_a_street.png
+renamed:    nord/a cartoon characters on a food truck.png -> nord/a_cartoon_characters_on_a_food_truck.png
+renamed:    nord/a cartoon of a bowl of ramen with two monsters fighting.png -> nord/a_cartoon_of_a_bowl_of_ramen_with_two_monsters_fighting.png
+renamed:    nord/a cartoon of a couple of tentacles.png -> nord/a_cartoon_of_a_couple_of_tentacles.png
+renamed:    nord/a cartoon of a fire face.png -> nord/a_cartoon_of_a_fire_face.png
+renamed:    nord/a cartoon of a girl holding a cat.jpg -> nord/a_cartoon_of_a_girl_holding_a_cat.jpg
+renamed:    nord/a cartoon of a girl holding a sword.png -> nord/a_cartoon_of_a_girl_holding_a_sword.png
+renamed:    nord/a cartoon of a lamp post.jpg -> nord/a_cartoon_of_a_lamp_post.jpg
+renamed:    nord/a cartoon of a man's face.png -> nord/a_cartoon_of_a_man's_face.png
+renamed:    nord/a cartoon of a man wearing a mask.png -> nord/a_cartoon_of_a_man_wearing_a_mask.png
+renamed:    nord/a cartoon of a spider man.jpg -> nord/a_cartoon_of_a_spider_man.jpg
+renamed:    nord/a cartoon of a woman diving into a large wave.png -> nord/a_cartoon_of_a_woman_diving_into_a_large_wave.png
+renamed:    nord/a cartoon of a woman holding a sword.png -> nord/a_cartoon_of_a_woman_holding_a_sword.png
+renamed:    nord/a cartoon of a woman on a balcony.png -> nord/a_cartoon_of_a_woman_on_a_balcony.png
+renamed:    nord/a cartoon of a woman with her arms out.png -> nord/a_cartoon_of_a_woman_with_her_arms_out.png
+renamed:    nord/a cartoon of jellyfish and coral reef.png -> nord/a_cartoon_of_jellyfish_and_coral_reef.png
+renamed:    nord/a cartoon of mountains and snow.png -> nord/a_cartoon_of_mountains_and_snow.png
+renamed:    nord/a cat looking through a metal helmet.png -> nord/a_cat_looking_through_a_metal_helmet.png
+renamed:    nord/a cat walking on a hill.png -> nord/a_cat_walking_on_a_hill.png
+renamed:    nord/a circle of icons in a circle.png -> nord/a_circle_of_icons_in_a_circle.png
+renamed:    nord/a circular pattern of stained glass with Thanks-Giving Square in the background.jpg -> nord/a_circular_pattern_of_stained_glass_with_Thanks-Giving_Square_in_the_background.jpg
+renamed:    nord/a city skyline with a tall building and a red sky.png -> nord/a_city_skyline_with_a_tall_building_and_a_red_sky.png
+renamed:    nord/a city skyline with a tall tower.jpg -> nord/a_city_skyline_with_a_tall_tower.jpg
+renamed:    nord/a city skyline with many tall buildings.png -> nord/a_city_skyline_with_many_tall_buildings.png
+renamed:    nord/a city skyline with many tall buildings_01.png -> nord/a_city_skyline_with_many_tall_buildings_01.png
+renamed:    nord/a city skyline with water reflection.png -> nord/a_city_skyline_with_water_reflection.png
+renamed:    nord/a city street with buildings and windows.jpg -> nord/a_city_street_with_buildings_and_windows.jpg
+renamed:    nord/a close up of a flower.jpg -> nord/a_close_up_of_a_flower.jpg
+renamed:    nord/a close up of a flower.png -> nord/a_close_up_of_a_flower.png
+renamed:    nord/a close up of a moon.png -> nord/a_close_up_of_a_moon.png
+renamed:    nord/a close up of a plant.png -> nord/a_close_up_of_a_plant.png
+renamed:    nord/a close up of a rose.png -> nord/a_close_up_of_a_rose.png
+renamed:    nord/a close up of a wallpaper.png -> nord/a_close_up_of_a_wallpaper.png
+renamed:    nord/a close up of flowers.png -> nord/a_close_up_of_flowers.png
+renamed:    nord/a close up of leaves.png -> nord/a_close_up_of_leaves.png
+renamed:    nord/a close up of water.png -> nord/a_close_up_of_water.png
+renamed:    nord/a close up of water droplets on a red object.png -> nord/a_close_up_of_water_droplets_on_a_red_object.png
+renamed:    nord/a clouds in the sky.png -> nord/a_clouds_in_the_sky.png
+renamed:    nord/a drawing of a cartoon.jpg -> nord/a_drawing_of_a_cartoon.jpg
+renamed:    nord/a drawing of a castle on a mountain.jpg -> nord/a_drawing_of_a_castle_on_a_mountain.jpg
+renamed:    nord/a drawing of a city.jpg -> nord/a_drawing_of_a_city.jpg
+renamed:    nord/a drawing of a hourglass.png -> nord/a_drawing_of_a_hourglass.png
+renamed:    nord/a drawing of a man wearing a hat.jpg -> nord/a_drawing_of_a_man_wearing_a_hat.jpg
+renamed:    nord/a drawing of a room with many wires.jpg -> nord/a_drawing_of_a_room_with_many_wires.jpg
+renamed:    nord/a drawing of a spiral with a spiral in the middle.jpg -> nord/a_drawing_of_a_spiral_with_a_spiral_in_the_middle.jpg
+renamed:    nord/a drawing of a wolf and a lion.png -> nord/a_drawing_of_a_wolf_and_a_lion.png
+renamed:    nord/a drawing of an astronaut in space suit.jpg -> nord/a_drawing_of_an_astronaut_in_space_suit.jpg
+renamed:    nord/a fish in a circle.png -> nord/a_fish_in_a_circle.png
+renamed:    nord/a fish swimming in water.png -> nord/a_fish_swimming_in_water.png
+renamed:    nord/a fish with long tail.png -> nord/a_fish_with_long_tail.png
+renamed:    nord/a flower next to lily pads.png -> nord/a_flower_next_to_lily_pads.png
+renamed:    nord/a flower on a black background.png -> nord/a_flower_on_a_black_background.png
+renamed:    nord/a graphic design of a bird.png -> nord/a_graphic_design_of_a_bird.png
+renamed:    nord/a graphic design with a bird and a banner.png -> nord/a_graphic_design_with_a_bird_and_a_banner.png
+renamed:    nord/a graphic design with circles and lines.png -> nord/a_graphic_design_with_circles_and_lines.png
+renamed:    nord/a graphic of a staircase.jpg -> nord/a_graphic_of_a_staircase.jpg
+renamed:    nord/a graphic of a wave.png -> nord/a_graphic_of_a_wave.png
+renamed:    nord/a graveyard with a castle and trees.png -> nord/a_graveyard_with_a_castle_and_trees.png
+renamed:    nord/a group of circles with different phases of the moon.png -> nord/a_group_of_circles_with_different_phases_of_the_moon.png
+renamed:    nord/a group of flamingos standing in water.jpg -> nord/a_group_of_flamingos_standing_in_water.jpg
+renamed:    nord/a group of flowers on a black background.png -> nord/a_group_of_flowers_on_a_black_background.png
+renamed:    nord/a group of geometric shapes.png -> nord/a_group_of_geometric_shapes.png
+renamed:    nord/a group of images of rabbits.png -> nord/a_group_of_images_of_rabbits.png
+renamed:    nord/a group of light bulbs.jpg -> nord/a_group_of_light_bulbs.jpg
+renamed:    nord/a group of people on a street.png -> nord/a_group_of_people_on_a_street.png
+renamed:    nord/a group of people standing at a bar.png -> nord/a_group_of_people_standing_at_a_bar.png
+renamed:    nord/a group of people walking on a hill.png -> nord/a_group_of_people_walking_on_a_hill.png
+renamed:    nord/a group of pink flowers.png -> nord/a_group_of_pink_flowers.png
+renamed:    nord/a group of pink flowers_01.png -> nord/a_group_of_pink_flowers_01.png
+renamed:    nord/a group of pink flowers_02.png -> nord/a_group_of_pink_flowers_02.png
+renamed:    nord/a group of small flowers.png -> nord/a_group_of_small_flowers.png
+renamed:    nord/a group of tall pillars in a desert.jpg -> nord/a_group_of_tall_pillars_in_a_desert.jpg
+renamed:    nord/a group of vases with faces and arrows.jpg -> nord/a_group_of_vases_with_faces_and_arrows.jpg
+renamed:    nord/a keyhole shaped like a keyhole with numbers.png -> nord/a_keyhole_shaped_like_a_keyhole_with_numbers.png
+renamed:    nord/a lake with mountains and trees.jpg -> nord/a_lake_with_mountains_and_trees.jpg
+renamed:    nord/a landscape of mountains and blue sky.png -> nord/a_landscape_of_mountains_and_blue_sky.png
+renamed:    nord/a landscape of mountains and snow.png -> nord/a_landscape_of_mountains_and_snow.png
+renamed:    nord/a large mountain with a body of water.jpg -> nord/a_large_mountain_with_a_body_of_water.jpg
+renamed:    nord/a large waterfall with snow and ice.jpg -> nord/a_large_waterfall_with_snow_and_ice.jpg
+renamed:    nord/a lightning in the sky.jpg -> nord/a_lightning_in_the_sky.jpg
+renamed:    nord/a logo of a group of people.png -> nord/a_logo_of_a_group_of_people.png
+renamed:    nord/a logo of a mountain and a house.png -> nord/a_logo_of_a_mountain_and_a_house.png
+renamed:    nord/a logo of a person in a triangle.png -> nord/a_logo_of_a_person_in_a_triangle.png
+renamed:    nord/a logo of a sun.png -> nord/a_logo_of_a_sun.png
+renamed:    nord/a logo of a tent and trees.png -> nord/a_logo_of_a_tent_and_trees.png
+renamed:    nord/a logo with white text.png -> nord/a_logo_with_white_text.png
+renamed:    nord/a logo with white text_01.png -> nord/a_logo_with_white_text_01.png
+renamed:    nord/a man riding a shark.jpg -> nord/a_man_riding_a_shark.jpg
+renamed:    nord/a man standing next to a large object.jpg -> nord/a_man_standing_next_to_a_large_object.jpg
+renamed:    nord/a moon in the sky.png -> nord/a_moon_in_the_sky.png
+renamed:    nord/a moon over mountains and clouds.png -> nord/a_moon_over_mountains_and_clouds.png
+renamed:    nord/a mountain landscape with trees and a building on top.png -> nord/a_mountain_landscape_with_trees_and_a_building_on_top.png
+renamed:    nord/a mountain range with snow on top.jpg -> nord/a_mountain_range_with_snow_on_top.jpg
+renamed:    nord/a mountain with snow on it.jpg -> nord/a_mountain_with_snow_on_it.jpg
+renamed:    nord/a painting of a building with smoke coming out of it.png -> nord/a_painting_of_a_building_with_smoke_coming_out_of_it.png
+renamed:    nord/a pattern of a cross.png -> nord/a_pattern_of_a_cross.png
+renamed:    nord/a pattern of circles and lines.png -> nord/a_pattern_of_circles_and_lines.png
+renamed:    nord/a person in a hat and long black dress.png -> nord/a_person_in_a_hat_and_long_black_dress.png
+renamed:    nord/a person in water with planets in the background.jpg -> nord/a_person_in_water_with_planets_in_the_background.jpg
+renamed:    nord/a person riding a bicycle in the air.png -> nord/a_person_riding_a_bicycle_in_the_air.png
+renamed:    nord/a person standing in front of a building.jpg -> nord/a_person_standing_in_front_of_a_building.jpg
+renamed:    nord/a person with arms raised and a circle of lights.png -> nord/a_person_with_arms_raised_and_a_circle_of_lights.png
+renamed:    nord/a person with curly hair.png -> nord/a_person_with_curly_hair.png
+renamed:    nord/a planet in space with stars.png -> nord/a_planet_in_space_with_stars.png
+renamed:    nord/a planet in the sky.jpg -> nord/a_planet_in_the_sky.jpg
+renamed:    nord/a red sports car parked in a garage.png -> nord/a_red_sports_car_parked_in_a_garage.png
+renamed:    nord/a road going through a valley.jpg -> nord/a_road_going_through_a_valley.jpg
+renamed:    nord/a road with cars and buildings in the background.png -> nord/a_road_with_cars_and_buildings_in_the_background.png
+renamed:    nord/a screen shot of a video game.png -> nord/a_screen_shot_of_a_video_game.png
+renamed:    nord/a screenshot of a computer.png -> nord/a_screenshot_of_a_computer.png
+renamed:    nord/a screenshot of a video game.png -> nord/a_screenshot_of_a_video_game.png
+renamed:    nord/a sign on a concrete staircase.jpg -> nord/a_sign_on_a_concrete_staircase.jpg
+renamed:    nord/a silhouette of a person standing in a room with a window.png -> nord/a_silhouette_of_a_person_standing_in_a_room_with_a_window.png
+renamed:    nord/a smoke coming out of a mountain.jpg -> nord/a_smoke_coming_out_of_a_mountain.jpg
+renamed:    nord/a snowy mountain tops.jpg -> nord/a_snowy_mountain_tops.jpg
+renamed:    nord/a space scene with planets and a rocket.jpg -> nord/a_space_scene_with_planets_and_a_rocket.jpg
+renamed:    nord/a space ship flying in the sky.jpg -> nord/a_space_ship_flying_in_the_sky.jpg
+renamed:    nord/a spiraling number and math symbols.png -> nord/a_spiraling_number_and_math_symbols.png
+renamed:    nord/a stone steps leading up to a forest.jpg -> nord/a_stone_steps_leading_up_to_a_forest.jpg
+renamed:    nord/a street with buildings and signs.png -> nord/a_street_with_buildings_and_signs.png
+renamed:    nord/a street with houses and power lines.png -> nord/a_street_with_houses_and_power_lines.png
+renamed:    nord/a taxi parked outside a restaurant.png -> nord/a_taxi_parked_outside_a_restaurant.png
+renamed:    nord/a tower in the forest.png -> nord/a_tower_in_the_forest.png
+renamed:    nord/a tree and grass with a blue background.png -> nord/a_tree_and_grass_with_a_blue_background.png
+renamed:    nord/a video game character holding a sword.jpg -> nord/a_video_game_character_holding_a_sword.jpg
+renamed:    nord/a video game graphics of a forest and a lake.png -> nord/a_video_game_graphics_of_a_forest_and_a_lake.png
+renamed:    nord/a video game screen capture.jpg -> nord/a_video_game_screen_capture.jpg
+renamed:    nord/a view of a city from a window.jpg -> nord/a_view_of_a_city_from_a_window.jpg
+renamed:    nord/a view of earth from a space station.png -> nord/a_view_of_earth_from_a_space_station.png
+renamed:    nord/a waterfall with trees and leaves.jpg -> nord/a_waterfall_with_trees_and_leaves.jpg
+renamed:    nord/a whale flying in the sky.png -> nord/a_whale_flying_in_the_sky.png
+renamed:    nord/a white drawing of a person with a mask.png -> nord/a_white_drawing_of_a_person_with_a_mask.png
+renamed:    nord/a windmill in the sky.png -> nord/a_windmill_in_the_sky.png
+renamed:    nord/a woman sitting on a couch looking out a window.png -> nord/a_woman_sitting_on_a_couch_looking_out_a_window.png
+renamed:    nord/an astronaut in space with a glowing planet.png -> nord/an_astronaut_in_space_with_a_glowing_planet.png
+renamed:    nord/an astronaut in space with a satellite.png -> nord/an_astronaut_in_space_with_a_satellite.png
+renamed:    nord/an astronaut playing a piano.png -> nord/an_astronaut_playing_a_piano.png
+renamed:    nord/cartoon a cartoon of a diver.png -> nord/cartoon_a_cartoon_of_a_diver.png
+renamed:    nord/cartoon of a lamp post with stars and hats.png -> nord/cartoon_of_a_lamp_post_with_stars_and_hats.png
+renamed:    nord/lily pads in a pond.jpg -> nord/lily_pads_in_a_pond.jpg
+renamed:    outrun/a astronaut walking through a doorway.jpg -> outrun/a_astronaut_walking_through_a_doorway.jpg
+renamed:    outrun/a city at night with a fence and buildings.jpg -> outrun/a_city_at_night_with_a_fence_and_buildings.jpg
+renamed:    outrun/a city skyline with a sunset in the background.png -> outrun/a_city_skyline_with_a_sunset_in_the_background.png
+renamed:    outrun/a gas station with purple lights.jpg -> outrun/a_gas_station_with_purple_lights.jpg
+renamed:    outrun/a group of flowers on a black background.jpg -> outrun/a_group_of_flowers_on_a_black_background.jpg
+renamed:    outrun/a group of palm trees.jpg -> outrun/a_group_of_palm_trees.jpg
+renamed:    outrun/a person's feet in a car.png -> outrun/a_person's_feet_in_a_car.png
+renamed:    outrun/a person wearing headphones.png -> outrun/a_person_wearing_headphones.png
+renamed:    outrun/a skeleton with a skull and arms.jpg -> outrun/a_skeleton_with_a_skull_and_arms.jpg
+renamed:    outrun/a sports car with neon lights.png -> outrun/a_sports_car_with_neon_lights.png
+renamed:    outrun/a street with buildings and signs.png -> outrun/a_street_with_buildings_and_signs.png
+renamed:    painting/a bridge with a view of a city.jpg -> painting/a_bridge_with_a_view_of_a_city.jpg
+renamed:    painting/a drawing of a man and a woman lying on a bed.jpg -> painting/a_drawing_of_a_man_and_a_woman_lying_on_a_bed.jpg
+renamed:    painting/a drawing of a man falling down.jpg -> painting/a_drawing_of_a_man_falling_down.jpg
+renamed:    painting/a man with a head light shining from another man's head.png -> painting/a_man_with_a_head_light_shining_from_another_man's_head.png
+renamed:    painting/a painting of a garden with a house and trees.jpeg -> painting/a_painting_of_a_garden_with_a_house_and_trees.jpeg
+renamed:    painting/a painting of a landscape with trees and houses.jpg -> painting/a_painting_of_a_landscape_with_trees_and_houses.jpg
+renamed:    painting/a painting of a tree and water.jpg -> painting/a_painting_of_a_tree_and_water.jpg
+renamed:    painting/a painting of flowers and a glass of wine.jpg -> painting/a_painting_of_flowers_and_a_glass_of_wine.jpg
+renamed:    painting/a painting of flowers in a vase.jpg -> painting/a_painting_of_flowers_in_a_vase.jpg
+renamed:    painting/a painting of flowers on a surface.jpg -> painting/a_painting_of_flowers_on_a_surface.jpg
+renamed:    painting/a painting of people in traditional clothing.jpg -> painting/a_painting_of_people_in_traditional_clothing.jpg
+renamed:    painting/a pool with chairs and palm trees.jpg -> painting/a_pool_with_chairs_and_palm_trees.jpg
+renamed:    painting/a sculpture of a man with a face on his head.png -> painting/a_sculpture_of_a_man_with_a_face_on_his_head.png
+renamed:    painting/a stone archway with people walking in front of it.jpg -> painting/a_stone_archway_with_people_walking_in_front_of_it.jpg
+renamed:    painting/a white helmet with a gun and fruit on a table.png -> painting/a_white_helmet_with_a_gun_and_fruit_on_a_table.png
+renamed:    paper/a floral pattern of flowers.png -> paper/a_floral_pattern_of_flowers.png
+renamed:    paper/a pattern of flowers and leaves.jpg -> paper/a_pattern_of_flowers_and_leaves.jpg
+renamed:    paper/a pattern of flowers and leaves_01.jpg -> paper/a_pattern_of_flowers_and_leaves_01.jpg
+renamed:    paper/a pattern of leaves and flowers.jpg -> paper/a_pattern_of_leaves_and_flowers.jpg
+renamed:    pixel/a computer room with a desk and a computer monitor.jpg -> pixel/a_computer_room_with_a_desk_and_a_computer_monitor.jpg
+renamed:    pixel/a pixel art of a building.png -> pixel/a_pixel_art_of_a_building.png
+renamed:    pixel/a pixel art of a city street.png -> pixel/a_pixel_art_of_a_city_street.png
+renamed:    pixel/a pixel art of a person walking by a building.jpg -> pixel/a_pixel_art_of_a_person_walking_by_a_building.jpg
+renamed:    pixel/a purple cube with a black circle and buttons.jpg -> pixel/a_purple_cube_with_a_black_circle_and_buttons.jpg
+renamed:    pixel/a video game screen with trees and bushes.jpg -> pixel/a_video_game_screen_with_trees_and_bushes.jpg
+renamed:    poly/a black and white photo of a city.png -> poly/a_black_and_white_photo_of_a_city.png
+renamed:    poly/a cartoon of a room with people and a black background.png -> poly/a_cartoon_of_a_room_with_people_and_a_black_background.png
+renamed:    poly/a green mountains with pink and blue sky.jpg -> poly/a_green_mountains_with_pink_and_blue_sky.jpg
+renamed:    poly/a group of old computer equipment.png -> poly/a_group_of_old_computer_equipment.png
+renamed:    poly/a pixel art of a room with people and a room with a black background.png -> poly/a_pixel_art_of_a_room_with_people_and_a_room_with_a_black_background.png
+renamed:    poly/a purple pyramid in the desert.jpg -> poly/a_purple_pyramid_in_the_desert.jpg
+renamed:    poly/a small town with many houses.png -> poly/a_small_town_with_many_houses.png
+renamed:    poly/a video game screen with a diamond and green lights.png -> poly/a_video_game_screen_with_a_diamond_and_green_lights.png
+renamed:    radium/a black background with green and blue squares.jpg -> radium/a_black_background_with_green_and_blue_squares.jpg
+renamed:    radium/a black background with white dots and circles.png -> radium/a_black_background_with_white_dots_and_circles.png
+renamed:    radium/a city skyline with many buildings.png -> radium/a_city_skyline_with_many_buildings.png
+renamed:    radium/a drawing of an astronaut in space.png -> radium/a_drawing_of_an_astronaut_in_space.png
+renamed:    radium/a drawing of an astronaut in space_01.png -> radium/a_drawing_of_an_astronaut_in_space_01.png
+renamed:    radium/a group of colorful ghosts.png -> radium/a_group_of_colorful_ghosts.png
+renamed:    radium/a group of flowers on a black background.png -> radium/a_group_of_flowers_on_a_black_background.png
+renamed:    radium/a house with a chair and a bicycle.jpg -> radium/a_house_with_a_chair_and_a_bicycle.jpg
+renamed:    radium/a mountain range at night.png -> radium/a_mountain_range_at_night.png
+renamed:    radium/a screenshot of a video game.png -> radium/a_screenshot_of_a_video_game.png
+renamed:    retro/a black and white logo.png -> retro/a_black_and_white_logo.png
+renamed:    retro/a black and white sign with red and black text.png -> retro/a_black_and_white_sign_with_red_and_black_text.png
+renamed:    retro/a black background with white text and red dots.png -> retro/a_black_background_with_white_text_and_red_dots.png
+renamed:    retro/a black sign with red text and blue and yellow squares.png -> retro/a_black_sign_with_red_text_and_blue_and_yellow_squares.png
+renamed:    retro/a blue rectangular sign with white text.png -> retro/a_blue_rectangular_sign_with_white_text.png
+renamed:    retro/a blue square with white lines and stars.png -> retro/a_blue_square_with_white_lines_and_stars.png
+renamed:    retro/a colorful logo with text.png -> retro/a_colorful_logo_with_text.png
+renamed:    retro/a colorful logo with white text.png -> retro/a_colorful_logo_with_white_text.png
+renamed:    retro/a colorful mask on a black background.jpg -> retro/a_colorful_mask_on_a_black_background.jpg
+renamed:    retro/a colorful rectangular sign with white text.png -> retro/a_colorful_rectangular_sign_with_white_text.png
+renamed:    retro/a colorful square with black text.png -> retro/a_colorful_square_with_black_text.png
+renamed:    retro/a colorful square with black text_01.png -> retro/a_colorful_square_with_black_text_01.png
+renamed:    retro/a colorful square with black text_02.png -> retro/a_colorful_square_with_black_text_02.png
+renamed:    retro/a computer screen with a logo.png -> retro/a_computer_screen_with_a_logo.png
+renamed:    retro/a logo of a company.png -> retro/a_logo_of_a_company.png
+renamed:    retro/a logo on a red background.png -> retro/a_logo_on_a_red_background.png
+renamed:    retro/a logo on a red background_01.png -> retro/a_logo_on_a_red_background_01.png
+renamed:    retro/a logo on a red background_02.png -> retro/a_logo_on_a_red_background_02.png
+renamed:    retro/a logo with a circle and text.png -> retro/a_logo_with_a_circle_and_text.png
+renamed:    retro/a logo with a rainbow colored design.png -> retro/a_logo_with_a_rainbow_colored_design.png
+renamed:    retro/a logo with a rainbow colored stripe.png -> retro/a_logo_with_a_rainbow_colored_stripe.png
+renamed:    retro/a logo with a red and blue circle.png -> retro/a_logo_with_a_red_and_blue_circle.png
+renamed:    retro/a logo with black text and orange circles and flowers.png -> retro/a_logo_with_black_text_and_orange_circles_and_flowers.png
+renamed:    retro/a logo with colorful circles.png -> retro/a_logo_with_colorful_circles.png
+renamed:    retro/a rainbow colored logo with an apple.png -> retro/a_rainbow_colored_logo_with_an_apple.png
+renamed:    retro/a red and black logo.png -> retro/a_red_and_black_logo.png
+renamed:    retro/a white pyramids on a black background.jpg -> retro/a_white_pyramids_on_a_black_background.jpg
+renamed:    solarized/a blue and white graphic of a bird.jpg -> solarized/a_blue_and_white_graphic_of_a_bird.jpg
+renamed:    solarized/a blue dragon with a banner.jpg -> solarized/a_blue_dragon_with_a_banner.jpg
+renamed:    solarized/a blue drawing of a heart.jpg -> solarized/a_blue_drawing_of_a_heart.jpg
+renamed:    solarized/a cassette tape with a chain and a chain.png -> solarized/a_cassette_tape_with_a_chain_and_a_chain.png
+renamed:    solarized/a chain from a ceiling.jpg -> solarized/a_chain_from_a_ceiling.jpg
+renamed:    solarized/a crane with a light on top.png -> solarized/a_crane_with_a_light_on_top.png
+renamed:    solarized/a graphic design with a bird and feathers.png -> solarized/a_graphic_design_with_a_bird_and_feathers.png
+renamed:    solarized/a large body of water with clouds in the sky.jpg -> solarized/a_large_body_of_water_with_clouds_in_the_sky.jpg
+renamed:    solarized/a moon over a spaceship.png -> solarized/a_moon_over_a_spaceship.png
+renamed:    solarized/a planet in space with clouds.jpg -> solarized/a_planet_in_space_with_clouds.jpg
+renamed:    solarized/a planet in the sky.jpg -> solarized/a_planet_in_the_sky.jpg
+renamed:    solarized/a red sun over mountains.jpg -> solarized/a_red_sun_over_mountains.jpg
+renamed:    solarized/a screenshot of a video game.png -> solarized/a_screenshot_of_a_video_game.png
+renamed:    spam/a city with neon lights.png -> spam/a_city_with_neon_lights.png
+renamed:    spam/a group of buildings with neon lights.png -> spam/a_group_of_buildings_with_neon_lights.png
+renamed:    spam/a logo with lines and rays.jpg -> spam/a_logo_with_lines_and_rays.jpg
+renamed:    spam/a pixel art of a sword and whale.png -> spam/a_pixel_art_of_a_sword_and_whale.png
+renamed:    spam/a street lights and buildings at night.png -> spam/a_street_lights_and_buildings_at_night.png
+renamed:    spam/a street with buildings and signs.png -> spam/a_street_with_buildings_and_signs.png
+renamed:    spam/a street with signs and lights.png -> spam/a_street_with_signs_and_lights.png
+renamed:    spam/a street with signs and lights_01.png -> spam/a_street_with_signs_and_lights_01.png
+renamed:    spam/a triangle shaped object with a blue and white light.png -> spam/a_triangle_shaped_object_with_a_blue_and_white_light.png
+renamed:    stalenhag/a bird on a statue.jpg -> stalenhag/a_bird_on_a_statue.jpg
+renamed:    stalenhag/a group of people walking in a field with a round object in the foreground.jpg -> stalenhag/a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground.jpg
+renamed:    stalenhag/a group of tall buildings with cartoon characters on them.jpg -> stalenhag/a_group_of_tall_buildings_with_cartoon_characters_on_them.jpg
+renamed:    stalenhag/a man and a robot standing in a parking lot.jpg -> stalenhag/a_man_and_a_robot_standing_in_a_parking_lot.jpg
+renamed:    stalenhag/a snow covered road with two large machines.jpg -> stalenhag/a_snow_covered_road_with_two_large_machines.jpg
+renamed:    tile/a black and white topographic map.png -> tile/a_black_and_white_topographic_map.png
+renamed:    tile/a black background with colorful dots.png -> tile/a_black_background_with_colorful_dots.png
+renamed:    tile/a black background with green circles.png -> tile/a_black_background_with_green_circles.png
+renamed:    tile/a blue and black logo.png -> tile/a_blue_and_black_logo.png
+renamed:    tile/a blue and black pattern.png -> tile/a_blue_and_black_pattern.png
+renamed:    tile/a blue and white polka dot pattern.png -> tile/a_blue_and_white_polka_dot_pattern.png
+renamed:    tile/a cartoon of a girl eating food.png -> tile/a_cartoon_of_a_girl_eating_food.png
+renamed:    tile/a colorful pattern on a surface.png -> tile/a_colorful_pattern_on_a_surface.png
+renamed:    tile/a computer screen shot of a computer disk.jpg -> tile/a_computer_screen_shot_of_a_computer_disk.jpg
+renamed:    tile/a dark grey background with white dots.png -> tile/a_dark_grey_background_with_white_dots.png
+renamed:    tile/a green and brown logo.png -> tile/a_green_and_brown_logo.png
+renamed:    tile/a green and pink tree.png -> tile/a_green_and_pink_tree.png
+renamed:    tile/a group of colorful crosses.png -> tile/a_group_of_colorful_crosses.png
+renamed:    tile/a group of colorful dots.png -> tile/a_group_of_colorful_dots.png
+renamed:    tile/a multicolored speckled surface.png -> tile/a_multicolored_speckled_surface.png
+renamed:    tile/a pattern of black triangles.png -> tile/a_pattern_of_black_triangles.png
+renamed:    tile/a pattern of different shapes.png -> tile/a_pattern_of_different_shapes.png
+renamed:    tile/a pattern of ghosts and eyes.jpg -> tile/a_pattern_of_ghosts_and_eyes.jpg
+renamed:    tile/a pattern of wavy lines.png -> tile/a_pattern_of_wavy_lines.png
+renamed:    unsorted/a bicycle leaning against a wall.jpg -> unsorted/a_bicycle_leaning_against_a_wall.jpg
+renamed:    unsorted/a bicycle leaning against a wall.png -> unsorted/a_bicycle_leaning_against_a_wall.png
+renamed:    unsorted/a bicycle parked on a street.jpg -> unsorted/a_bicycle_parked_on_a_street.jpg
+renamed:    unsorted/a bird flying over a beach.jpg -> unsorted/a_bird_flying_over_a_beach.jpg
+renamed:    unsorted/a black and white image of a monster.png -> unsorted/a_black_and_white_image_of_a_monster.png
+renamed:    unsorted/a black and white swirly pattern.jpg -> unsorted/a_black_and_white_swirly_pattern.jpg
+renamed:    unsorted/a black background with purple and blue spots.png -> unsorted/a_black_background_with_purple_and_blue_spots.png
+renamed:    unsorted/a blue and red taxi on the street.jpg -> unsorted/a_blue_and_red_taxi_on_the_street.jpg
+renamed:    unsorted/a blue and white watercolor.jpg -> unsorted/a_blue_and_white_watercolor.jpg
+renamed:    unsorted/a book and coffee on a table.png -> unsorted/a_book_and_coffee_on_a_table.png
+renamed:    unsorted/a bowl of colorful macaroons.jpg -> unsorted/a_bowl_of_colorful_macaroons.jpg
+renamed:    unsorted/a building with a red and white surface.jpg -> unsorted/a_building_with_a_red_and_white_surface.jpg
+renamed:    unsorted/a canal between buildings with boats.jpg -> unsorted/a_canal_between_buildings_with_boats.jpg
+renamed:    unsorted/a car on a wet road.jpg -> unsorted/a_car_on_a_wet_road.jpg
+renamed:    unsorted/a cartoon of a boy sleeping on a tree branch.jpg -> unsorted/a_cartoon_of_a_boy_sleeping_on_a_tree_branch.jpg
+renamed:    unsorted/a cartoon of a dinosaur swimming in water.jpg -> unsorted/a_cartoon_of_a_dinosaur_swimming_in_water.jpg
+renamed:    unsorted/a cartoon of a machine.jpg -> unsorted/a_cartoon_of_a_machine.jpg
+renamed:    unsorted/a cartoon of a man in a cape standing on a rock with a fire in the background.jpg -> unsorted/a_cartoon_of_a_man_in_a_cape_standing_on_a_rock_with_a_fire_in_the_background.jpg
+renamed:    unsorted/a cartoon of a man sleeping on a road.jpg -> unsorted/a_cartoon_of_a_man_sleeping_on_a_road.jpg
+renamed:    unsorted/a cartoon of a person wearing a gas mask.jpg -> unsorted/a_cartoon_of_a_person_wearing_a_gas_mask.jpg
+renamed:    unsorted/a cartoon of a robot.jpg -> unsorted/a_cartoon_of_a_robot.jpg
+renamed:    unsorted/a cartoon of a whale flying over a road.jpg -> unsorted/a_cartoon_of_a_whale_flying_over_a_road.jpg
+renamed:    unsorted/a cat in a box.jpg -> unsorted/a_cat_in_a_box.jpg
+renamed:    unsorted/a cliff with fog and grass.jpg -> unsorted/a_cliff_with_fog_and_grass.jpg
+renamed:    unsorted/a close up of a bench.jpg -> unsorted/a_close_up_of_a_bench.jpg
+renamed:    unsorted/a close up of a robot.jpg -> unsorted/a_close_up_of_a_robot.jpg
+renamed:    unsorted/a close up of a rock.jpg -> unsorted/a_close_up_of_a_rock.jpg
+renamed:    unsorted/a close up of plants.jpg -> unsorted/a_close_up_of_plants.jpg
+renamed:    unsorted/a close up of water.jpg -> unsorted/a_close_up_of_water.jpg
+renamed:    unsorted/a collage of various signs.jpg -> unsorted/a_collage_of_various_signs.jpg
+renamed:    unsorted/a colorful circle with dots.jpg -> unsorted/a_colorful_circle_with_dots.jpg
+renamed:    unsorted/a comic book page of a man looking at stars.png -> unsorted/a_comic_book_page_of_a_man_looking_at_stars.png
+renamed:    unsorted/a cup of coffee with a heart design on top.jpg -> unsorted/a_cup_of_coffee_with_a_heart_design_on_top.jpg
+renamed:    unsorted/a cup of coffee with a heart shaped foam in it.jpg -> unsorted/a_cup_of_coffee_with_a_heart_shaped_foam_in_it.jpg
+renamed:    unsorted/a drawing of a boy in a hat and a boat in a swamp.jpeg -> unsorted/a_drawing_of_a_boy_in_a_hat_and_a_boat_in_a_swamp.jpeg
+renamed:    unsorted/a drawing of a bug and starfish.jpg -> unsorted/a_drawing_of_a_bug_and_starfish.jpg
+renamed:    unsorted/a drawing of a person wearing a mask and holding a sign.jpg -> unsorted/a_drawing_of_a_person_wearing_a_mask_and_holding_a_sign.jpg
+renamed:    unsorted/a foggy forest in the mountains.jpg -> unsorted/a_foggy_forest_in_the_mountains.jpg
+renamed:    unsorted/a foggy forest with trees.jpg -> unsorted/a_foggy_forest_with_trees.jpg
+renamed:    unsorted/a girl walking on a road in a forest.jpg -> unsorted/a_girl_walking_on_a_road_in_a_forest.jpg
+renamed:    unsorted/a glass with a clock on it.jpg -> unsorted/a_glass_with_a_clock_on_it.jpg
+renamed:    unsorted/a grey building with many small squares.png -> unsorted/a_grey_building_with_many_small_squares.png
+renamed:    unsorted/a group of bamboo poles with leaves on them.jpg -> unsorted/a_group_of_bamboo_poles_with_leaves_on_them.jpg
+renamed:    unsorted/a group of bats flying in the sky.jpg -> unsorted/a_group_of_bats_flying_in_the_sky.jpg
+renamed:    unsorted/a group of buildings with a moon in the sky.png -> unsorted/a_group_of_buildings_with_a_moon_in_the_sky.png
+renamed:    unsorted/a group of jellyfish under water.jpg -> unsorted/a_group_of_jellyfish_under_water.jpg
+renamed:    unsorted/a group of lanterns from a building.jpg -> unsorted/a_group_of_lanterns_from_a_building.jpg
+renamed:    unsorted/a group of mountains with a building in the background.jpg -> unsorted/a_group_of_mountains_with_a_building_in_the_background.jpg
+renamed:    unsorted/a group of people standing on a road with a city in the background.jpg -> unsorted/a_group_of_people_standing_on_a_road_with_a_city_in_the_background.jpg
+renamed:    unsorted/a group of rocks on a beach.jpg -> unsorted/a_group_of_rocks_on_a_beach.jpg
+renamed:    unsorted/a group of sailboats with red and blue writing.jpg -> unsorted/a_group_of_sailboats_with_red_and_blue_writing.jpg
+renamed:    unsorted/a group of space ships in the sky.png -> unsorted/a_group_of_space_ships_in_the_sky.png
+renamed:    unsorted/a group of white lanterns with black writing on them.jpg -> unsorted/a_group_of_white_lanterns_with_black_writing_on_them.jpg
+renamed:    unsorted/a hand reaching out to the sky.jpg -> unsorted/a_hand_reaching_out_to_the_sky.jpg
+renamed:    unsorted/a house in a field with mountains and clouds.jpg -> unsorted/a_house_in_a_field_with_mountains_and_clouds.jpg
+renamed:    unsorted/a house with a porch and a porch.jpg -> unsorted/a_house_with_a_porch_and_a_porch.jpg
+renamed:    unsorted/a house with snow on the roof.jpg -> unsorted/a_house_with_snow_on_the_roof.jpg
+renamed:    unsorted/a kitten sleeping on the ground.jpg -> unsorted/a_kitten_sleeping_on_the_ground.jpg
+renamed:    unsorted/a large red barrels with numbers and pipes.jpg -> unsorted/a_large_red_barrels_with_numbers_and_pipes.jpg
+renamed:    unsorted/a man and woman in a forest.jpg -> unsorted/a_man_and_woman_in_a_forest.jpg
+renamed:    unsorted/a man standing in a room with many machines.jpg -> unsorted/a_man_standing_in_a_room_with_many_machines.jpg
+renamed:    unsorted/a map of a city.png -> unsorted/a_map_of_a_city.png
+renamed:    unsorted/a narrow canal with boats and buildings at night.jpg -> unsorted/a_narrow_canal_with_boats_and_buildings_at_night.jpg
+renamed:    unsorted/a person holding a cup of coffee.jpg -> unsorted/a_person_holding_a_cup_of_coffee.jpg
+renamed:    unsorted/a person standing on a cliff.jpg -> unsorted/a_person_standing_on_a_cliff.jpg
+renamed:    unsorted/a person walking in the snow.jpg -> unsorted/a_person_walking_in_the_snow.jpg
+renamed:    unsorted/a plane in the dark.jpg -> unsorted/a_plane_in_the_dark.jpg
+renamed:    unsorted/a poster with text and diagrams.jpg -> unsorted/a_poster_with_text_and_diagrams.jpg
+renamed:    unsorted/a purple and blue monster with sharp teeth.jpg -> unsorted/a_purple_and_blue_monster_with_sharp_teeth.jpg
+renamed:    unsorted/a red and purple graphic design.png -> unsorted/a_red_and_purple_graphic_design.png
+renamed:    unsorted/a road with cars driving on it.png -> unsorted/a_road_with_cars_driving_on_it.png
+renamed:    unsorted/a road with trees on the side.jpg -> unsorted/a_road_with_trees_on_the_side.jpg
+renamed:    unsorted/a room with a large window and a piano keyboard and a large fire.jpg -> unsorted/a_room_with_a_large_window_and_a_piano_keyboard_and_a_large_fire.jpg
+renamed:    unsorted/a screenshot of a video game.jpg -> unsorted/a_screenshot_of_a_video_game.jpg
+renamed:    unsorted/a skeleton with a scythe.png -> unsorted/a_skeleton_with_a_scythe.png
+renamed:    unsorted/a space shuttle in the sky.jpg -> unsorted/a_space_shuttle_in_the_sky.jpg
+renamed:    unsorted/a spiral staircase with a square hole in the middle.jpg -> unsorted/a_spiral_staircase_with_a_square_hole_in_the_middle.jpg
+renamed:    unsorted/a street corner with a sign and a van on the side.png -> unsorted/a_street_corner_with_a_sign_and_a_van_on_the_side.png
+renamed:    unsorted/a street with buildings and a street light.jpg -> unsorted/a_street_with_buildings_and_a_street_light.jpg
+renamed:    unsorted/a street with buildings and trees.png -> unsorted/a_street_with_buildings_and_trees.png
+renamed:    unsorted/a street with trees and buildings in the background.jpg -> unsorted/a_street_with_trees_and_buildings_in_the_background.jpg
+renamed:    unsorted/a tower on a small island.jpg -> unsorted/a_tower_on_a_small_island.jpg
+renamed:    unsorted/a typewriter on a table.jpg -> unsorted/a_typewriter_on_a_table.jpg
+renamed:    unsorted/a video game controller connected to a cord.jpg -> unsorted/a_video_game_controller_connected_to_a_cord.jpg
+renamed:    unsorted/a video game screen shot.png -> unsorted/a_video_game_screen_shot.png
+renamed:    unsorted/a video game screen shot of a city.png -> unsorted/a_video_game_screen_shot_of_a_city.png
+renamed:    unsorted/a view from the sky of a city.jpg -> unsorted/a_view_from_the_sky_of_a_city.jpg
+renamed:    unsorted/a watercolor of a town.jpg -> unsorted/a_watercolor_of_a_town.jpg
+renamed:    unsorted/a white car parked on a brick road.png -> unsorted/a_white_car_parked_on_a_brick_road.png
+renamed:    unsorted/a window with a sign on it.jpg -> unsorted/a_window_with_a_sign_on_it.jpg
+renamed:    unsorted/a woman in a pink dress with flowers on her head.png -> unsorted/a_woman_in_a_pink_dress_with_flowers_on_her_head.png
+renamed:    unsorted/a woman sitting on a circle.jpg -> unsorted/a_woman_sitting_on_a_circle.jpg
+renamed:    unsorted/a woman standing on a path with glowing lights.png -> unsorted/a_woman_standing_on_a_path_with_glowing_lights.png
+renamed:    unsorted/two animals in the snow.jpg -> unsorted/two_animals_in_the_snow.jpg
+renamed:    wave/a plant in front of a window.png -> wave/a_plant_in_front_of_a_window.png
+renamed:    wave/a sunset over a body of water with Marfa lights in the background.png -> wave/a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background.png
+renamed:    weirdcore/a cat looking at the camera.png -> weirdcore/a_cat_looking_at_the_camera.png
+renamed:    weirdcore/a close up of a monster's face.png -> weirdcore/a_close_up_of_a_monster's_face.png
+renamed:    weirdcore/a red and blue image of a woman's face.png -> weirdcore/a_red_and_blue_image_of_a_woman's_face.png
