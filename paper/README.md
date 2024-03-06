@@ -1,10 +1,10 @@
 # paper
 
-<a href="1648005473077.jpg"><img alt="1648005473077" src="1648005473077.jpg"></a>
+<a href="a_pattern_of_flowers_and_leaves_01.jpg"><img alt="a_pattern_of_flowers_and_leaves_01" src="a_pattern_of_flowers_and_leaves_01.jpg"></a>
 
-<a href="1647816897752.jpg"><img alt="1647816897752" src="1647816897752.jpg"></a>
+<a href="a_pattern_of_leaves_and_flowers.jpg"><img alt="a_pattern_of_leaves_and_flowers" src="a_pattern_of_leaves_and_flowers.jpg"></a>
 
-<a href="1647935972998.png"><img alt="1647935972998" src="1647935972998.png"></a>
+<a href="a_floral_pattern_of_flowers.png"><img alt="a_floral_pattern_of_flowers" src="a_floral_pattern_of_flowers.png"></a>
 
-<a href="1647871996116.jpg"><img alt="1647871996116" src="1647871996116.jpg"></a>
+<a href="a_pattern_of_flowers_and_leaves.jpg"><img alt="a_pattern_of_flowers_and_leaves" src="a_pattern_of_flowers_and_leaves.jpg"></a>
 

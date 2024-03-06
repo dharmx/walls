@@ -1,100 +1,100 @@
 # minimal
 
-<a href="3naa2boj9rd81.png"><img alt="3naa2boj9rd81" src="3naa2boj9rd81.png"></a>
+<a href="a_group_of_colorful_hearts.png"><img alt="a_group_of_colorful_hearts" src="a_group_of_colorful_hearts.png"></a>
 
-<a href="minimal-12.jpg"><img alt="minimal-12" src="minimal-12.jpg"></a>
+<a href="a_mountain_with_trees_and_moon.jpg"><img alt="a_mountain_with_trees_and_moon" src="a_mountain_with_trees_and_moon.jpg"></a>
 
-<a href="sleepy_mountains_dark_v04.png"><img alt="sleepy_mountains_dark_v04" src="sleepy_mountains_dark_v04.png"></a>
+<a href="a_blue_and_pink_sky_over_a_mountain_range.png"><img alt="a_blue_and_pink_sky_over_a_mountain_range" src="a_blue_and_pink_sky_over_a_mountain_range.png"></a>
 
-<a href="exodus_v01_5120x2880.png"><img alt="exodus_v01_5120x2880" src="exodus_v01_5120x2880.png"></a>
+<a href="a_close-up_of_a_door.jpg"><img alt="a_close-up_of_a_door" src="a_close-up_of_a_door.jpg"></a>
 
-<a href="borealis.png"><img alt="borealis" src="borealis.png"></a>
+<a href="a_landscape_with_mountains_and_stars_01.png"><img alt="a_landscape_with_mountains_and_stars_01" src="a_landscape_with_mountains_and_stars_01.png"></a>
 
-<a href="sleepy_mountains_dark_v02.png"><img alt="sleepy_mountains_dark_v02" src="sleepy_mountains_dark_v02.png"></a>
+<a href="a_cartoon_of_a_island_with_a_bridge_and_trees.jpg"><img alt="a_cartoon_of_a_island_with_a_bridge_and_trees" src="a_cartoon_of_a_island_with_a_bridge_and_trees.jpg"></a>
 
-<a href="minimal-6.jpg"><img alt="minimal-6" src="minimal-6.jpg"></a>
+<a href="a_landscape_of_mountains_and_a_sunset.png"><img alt="a_landscape_of_mountains_and_a_sunset" src="a_landscape_of_mountains_and_a_sunset.png"></a>
 
-<a href="minimal-13.jpg"><img alt="minimal-13" src="minimal-13.jpg"></a>
+<a href="a_landscape_of_mountains_and_a_sunset_04.png"><img alt="a_landscape_of_mountains_and_a_sunset_04" src="a_landscape_of_mountains_and_a_sunset_04.png"></a>
 
-<a href="4559c80c510a189e49aee248ad58e5fb.jpg"><img alt="4559c80c510a189e49aee248ad58e5fb" src="4559c80c510a189e49aee248ad58e5fb.jpg"></a>
+<a href="a_landscape_of_mountains_with_a_pink_and_blue_sky.png"><img alt="a_landscape_of_mountains_with_a_pink_and_blue_sky" src="a_landscape_of_mountains_with_a_pink_and_blue_sky.png"></a>
 
-<a href="minimal-15.png"><img alt="minimal-15" src="minimal-15.png"></a>
+<a href="a_snow_covered_mountains_and_sky.png"><img alt="a_snow_covered_mountains_and_sky" src="a_snow_covered_mountains_and_sky.png"></a>
 
-<a href="summer_bliss_v04_5120x2880.png"><img alt="summer_bliss_v04_5120x2880" src="summer_bliss_v04_5120x2880.png"></a>
+<a href="a_landscape_of_mountains_and_trees.jpg"><img alt="a_landscape_of_mountains_and_trees" src="a_landscape_of_mountains_and_trees.jpg"></a>
 
-<a href="minimal-21.jpg"><img alt="minimal-21" src="minimal-21.jpg"></a>
+<a href="a_drawing_of_a_bear_and_a_campfire.png"><img alt="a_drawing_of_a_bear_and_a_campfire" src="a_drawing_of_a_bear_and_a_campfire.png"></a>
 
-<a href="sleepy_mountains_dark_v03.png"><img alt="sleepy_mountains_dark_v03" src="sleepy_mountains_dark_v03.png"></a>
+<a href="a_flower_on_a_dark_background.png"><img alt="a_flower_on_a_dark_background" src="a_flower_on_a_dark_background.png"></a>
 
-<a href="summer_bliss_v01_5120x2880.png"><img alt="summer_bliss_v01_5120x2880" src="summer_bliss_v01_5120x2880.png"></a>
+<a href="a_tree_with_pink_leaves.jpg"><img alt="a_tree_with_pink_leaves" src="a_tree_with_pink_leaves.jpg"></a>
 
-<a href="c7a6962492cddeb0929b0ec282cd04a2.jpg"><img alt="c7a6962492cddeb0929b0ec282cd04a2" src="c7a6962492cddeb0929b0ec282cd04a2.jpg"></a>
+<a href="a_landscape_with_hills_and_stars.png"><img alt="a_landscape_with_hills_and_stars" src="a_landscape_with_hills_and_stars.png"></a>
 
-<a href="minimal-27.png"><img alt="minimal-27" src="minimal-27.png"></a>
+<a href="a_colorful_snow_covered_land.png"><img alt="a_colorful_snow_covered_land" src="a_colorful_snow_covered_land.png"></a>
 
-<a href="2641063.png"><img alt="2641063" src="2641063.png"></a>
+<a href="a_blue_mountains_with_a_blue_sky.jpg"><img alt="a_blue_mountains_with_a_blue_sky" src="a_blue_mountains_with_a_blue_sky.jpg"></a>
 
-<a href="space.jpg"><img alt="space" src="space.jpg"></a>
+<a href="a_cartoon_of_trees_on_a_hill_02.png"><img alt="a_cartoon_of_trees_on_a_hill_02" src="a_cartoon_of_trees_on_a_hill_02.png"></a>
 
-<a href="random_thoughts_wallpaper_orange_5120x2880.png"><img alt="random_thoughts_wallpaper_orange_5120x2880" src="random_thoughts_wallpaper_orange_5120x2880.png"></a>
+<a href="a_screenshot_of_a_computer_generated_image_of_planets.png"><img alt="a_screenshot_of_a_computer_generated_image_of_planets" src="a_screenshot_of_a_computer_generated_image_of_planets.png"></a>
 
-<a href="sleepy_mountains_light_v05.png"><img alt="sleepy_mountains_light_v05" src="sleepy_mountains_light_v05.png"></a>
+<a href="a_moon_and_clouds_in_the_sky.jpg"><img alt="a_moon_and_clouds_in_the_sky" src="a_moon_and_clouds_in_the_sky.jpg"></a>
 
-<a href="summer_bliss_v03_5120x2880.png"><img alt="summer_bliss_v03_5120x2880" src="summer_bliss_v03_5120x2880.png"></a>
+<a href="a_pool_and_a_house.jpg"><img alt="a_pool_and_a_house" src="a_pool_and_a_house.jpg"></a>
 
-<a href="wallhaven-nz3e1y.png"><img alt="wallhaven-nz3e1y" src="wallhaven-nz3e1y.png"></a>
+<a href="a_black_sky_with_white_dots.jpg"><img alt="a_black_sky_with_white_dots" src="a_black_sky_with_white_dots.jpg"></a>
 
-<a href="e8gcq9yrn2u71.jpg"><img alt="e8gcq9yrn2u71" src="e8gcq9yrn2u71.jpg"></a>
+<a href="a_city_skyline_with_a_pink_sky.png"><img alt="a_city_skyline_with_a_pink_sky" src="a_city_skyline_with_a_pink_sky.png"></a>
 
-<a href="Lovelace-hearts.png"><img alt="Lovelace-hearts" src="Lovelace-hearts.png"></a>
+<a href="a_sunset_over_a_mountain_range_01.png"><img alt="a_sunset_over_a_mountain_range_01" src="a_sunset_over_a_mountain_range_01.png"></a>
 
-<a href="summer_bliss_v02_5120x2880.png"><img alt="summer_bliss_v02_5120x2880" src="summer_bliss_v02_5120x2880.png"></a>
+<a href="a_landscape_with_mountains_and_stars.png"><img alt="a_landscape_with_mountains_and_stars" src="a_landscape_with_mountains_and_stars.png"></a>
 
-<a href="sipnpt3446161.jpg"><img alt="sipnpt3446161" src="sipnpt3446161.jpg"></a>
+<a href="a_train_crossing_a_bridge_over_a_bridge_with_mountains_in_the_background.png"><img alt="a_train_crossing_a_bridge_over_a_bridge_with_mountains_in_the_background" src="a_train_crossing_a_bridge_over_a_bridge_with_mountains_in_the_background.png"></a>
 
-<a href="sleepy_mountains_light_v03.png"><img alt="sleepy_mountains_light_v03" src="sleepy_mountains_light_v03.png"></a>
+<a href="a_blue_rectangular_object_with_a_black_background.jpg"><img alt="a_blue_rectangular_object_with_a_black_background" src="a_blue_rectangular_object_with_a_black_background.jpg"></a>
 
-<a href="wallpaper.png"><img alt="wallpaper" src="wallpaper.png"></a>
+<a href="a_landscape_of_mountains_and_a_sunset_01.png"><img alt="a_landscape_of_mountains_and_a_sunset_01" src="a_landscape_of_mountains_and_a_sunset_01.png"></a>
 
-<a href="sleepy_mountains_light_v04.png"><img alt="sleepy_mountains_light_v04" src="sleepy_mountains_light_v04.png"></a>
+<a href="cartoon_of_a_toilet.jpg"><img alt="cartoon_of_a_toilet" src="cartoon_of_a_toilet.jpg"></a>
 
-<a href="swimming_pool_hiroshi_nagai.jpg"><img alt="swimming_pool_hiroshi_nagai" src="swimming_pool_hiroshi_nagai.jpg"></a>
+<a href="a_landscape_of_mountains_and_a_pink_sky.png"><img alt="a_landscape_of_mountains_and_a_pink_sky" src="a_landscape_of_mountains_and_a_pink_sky.png"></a>
 
-<a href="exodus_v03_5120x2880.png"><img alt="exodus_v03_5120x2880" src="exodus_v03_5120x2880.png"></a>
+<a href="a_colorful_planets_in_a_circle.jpg"><img alt="a_colorful_planets_in_a_circle" src="a_colorful_planets_in_a_circle.jpg"></a>
 
-<a href="sleepy_mountains_dark_v01.png"><img alt="sleepy_mountains_dark_v01" src="sleepy_mountains_dark_v01.png"></a>
+<a href="a_video_game_screen_of_a_video_game.jpg"><img alt="a_video_game_screen_of_a_video_game" src="a_video_game_screen_of_a_video_game.jpg"></a>
 
-<a href="random_thoughts_wallpaper_orange_green_5120x2880.png"><img alt="random_thoughts_wallpaper_orange_green_5120x2880" src="random_thoughts_wallpaper_orange_green_5120x2880.png"></a>
+<a href="a_group_of_planets_in_different_colors.png"><img alt="a_group_of_planets_in_different_colors" src="a_group_of_planets_in_different_colors.png"></a>
 
-<a href="en3g3wwmnwi41.png"><img alt="en3g3wwmnwi41" src="en3g3wwmnwi41.png"></a>
+<a href="a_purple_and_orange_mountain_range.png"><img alt="a_purple_and_orange_mountain_range" src="a_purple_and_orange_mountain_range.png"></a>
 
-<a href="exodus_v04_5120x2880.png"><img alt="exodus_v04_5120x2880" src="exodus_v04_5120x2880.png"></a>
+<a href="a_landscape_of_mountains_and_a_sunset_03.png"><img alt="a_landscape_of_mountains_and_a_sunset_03" src="a_landscape_of_mountains_and_a_sunset_03.png"></a>
 
-<a href="2568619.jpg"><img alt="2568619" src="2568619.jpg"></a>
+<a href="a_video_game_screen_of_a_video_game_01.jpg"><img alt="a_video_game_screen_of_a_video_game_01" src="a_video_game_screen_of_a_video_game_01.jpg"></a>
 
-<a href="solardead.jpg"><img alt="solardead" src="solardead.jpg"></a>
+<a href="a_cartoon_of_trees_on_a_hill.png"><img alt="a_cartoon_of_trees_on_a_hill" src="a_cartoon_of_trees_on_a_hill.png"></a>
 
-<a href="sleepy_mountains_light_v06.png"><img alt="sleepy_mountains_light_v06" src="sleepy_mountains_light_v06.png"></a>
+<a href="a_cat_in_a_cup.png"><img alt="a_cat_in_a_cup" src="a_cat_in_a_cup.png"></a>
 
-<a href="random_thoughts_wallpaper_green_5120x2880.png"><img alt="random_thoughts_wallpaper_green_5120x2880" src="random_thoughts_wallpaper_green_5120x2880.png"></a>
+<a href="a_group_of_white_pencils.png"><img alt="a_group_of_white_pencils" src="a_group_of_white_pencils.png"></a>
 
-<a href="Solar.jpg"><img alt="Solar" src="Solar.jpg"></a>
+<a href="a_man_carrying_a_fence.jpg"><img alt="a_man_carrying_a_fence" src="a_man_carrying_a_fence.jpg"></a>
 
-<a href="minimal-16.jpg"><img alt="minimal-16" src="minimal-16.jpg"></a>
+<a href="a_blue_sky_over_a_mountain_range.png"><img alt="a_blue_sky_over_a_mountain_range" src="a_blue_sky_over_a_mountain_range.png"></a>
 
-<a href="8337e8bf18303f6aa4c348261322d07e.jpg"><img alt="8337e8bf18303f6aa4c348261322d07e" src="8337e8bf18303f6aa4c348261322d07e.jpg"></a>
+<a href="a_cartoon_of_trees_on_a_hill_01.png"><img alt="a_cartoon_of_trees_on_a_hill_01" src="a_cartoon_of_trees_on_a_hill_01.png"></a>
 
-<a href="exodus_v02_5120x2880.png"><img alt="exodus_v02_5120x2880" src="exodus_v02_5120x2880.png"></a>
+<a href="a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg"><img alt="a_cartoon_of_a_island_with_a_bridge_and_trees_01" src="a_cartoon_of_a_island_with_a_bridge_and_trees_01.jpg"></a>
 
-<a href="cy4p34m246161.jpg"><img alt="cy4p34m246161" src="cy4p34m246161.jpg"></a>
+<a href="a_blue_pen_and_a_note.jpg"><img alt="a_blue_pen_and_a_note" src="a_blue_pen_and_a_note.jpg"></a>
 
-<a href="sleepy_mountains_light_v01.png"><img alt="sleepy_mountains_light_v01" src="sleepy_mountains_light_v01.png"></a>
+<a href="a_cartoon_of_trees_and_clouds.png"><img alt="a_cartoon_of_trees_and_clouds" src="a_cartoon_of_trees_and_clouds.png"></a>
 
-<a href="sleepy_mountains_light_v02.png"><img alt="sleepy_mountains_light_v02" src="sleepy_mountains_light_v02.png"></a>
+<a href="a_snow_covered_land_with_orange_and_white_colors.png"><img alt="a_snow_covered_land_with_orange_and_white_colors" src="a_snow_covered_land_with_orange_and_white_colors.png"></a>
 
-<a href="itdo8g9346161.jpg"><img alt="itdo8g9346161" src="itdo8g9346161.jpg"></a>
+<a href="a_sunset_over_a_mountain_range.png"><img alt="a_sunset_over_a_mountain_range" src="a_sunset_over_a_mountain_range.png"></a>
 
-<a href="yhaucvz246161.jpg"><img alt="yhaucvz246161" src="yhaucvz246161.jpg"></a>
+<a href="a_landscape_of_mountains_and_a_sunset_02.png"><img alt="a_landscape_of_mountains_and_a_sunset_02" src="a_landscape_of_mountains_and_a_sunset_02.png"></a>
 
-<a href="gruvbox_night.png"><img alt="gruvbox_night" src="gruvbox_night.png"></a>
+<a href="a_donut_with_sprinkles_on_top.jpg"><img alt="a_donut_with_sprinkles_on_top" src="a_donut_with_sprinkles_on_top.jpg"></a>
 

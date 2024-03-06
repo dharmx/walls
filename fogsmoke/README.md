@@ -1,56 +1,56 @@
 # fogsmoke
 
-<a href="GloomyWoods.jpg"><img alt="GloomyWoods" src="GloomyWoods.jpg"></a>
+<a href="a_foggy_mountain_with_trees_02.jpg"><img alt="a_foggy_mountain_with_trees_02" src="a_foggy_mountain_with_trees_02.jpg"></a>
 
-<a href="chmyphotography-qI5XixBb6TU-unsplash.jpg"><img alt="chmyphotography-qI5XixBb6TU-unsplash" src="chmyphotography-qI5XixBb6TU-unsplash.jpg"></a>
+<a href="a_foggy_forest_with_trees.jpg"><img alt="a_foggy_forest_with_trees" src="a_foggy_forest_with_trees.jpg"></a>
 
-<a href="7.jpg"><img alt="7" src="7.jpg"></a>
+<a href="fog_in_the_forest_with_trees_and_fog.jpg"><img alt="fog_in_the_forest_with_trees_and_fog" src="fog_in_the_forest_with_trees_and_fog.jpg"></a>
 
-<a href="GoldenGate.jpg"><img alt="GoldenGate" src="GoldenGate.jpg"></a>
+<a href="Bixby_Creek_Bridge_over_a_cliff.jpg"><img alt="Bixby_Creek_Bridge_over_a_cliff" src="Bixby_Creek_Bridge_over_a_cliff.jpg"></a>
 
-<a href="kal-visuals-bzfxu1sIlPc-unsplash.jpg"><img alt="kal-visuals-bzfxu1sIlPc-unsplash" src="kal-visuals-bzfxu1sIlPc-unsplash.jpg"></a>
+<a href="a_foggy_mountain_with_trees.jpg"><img alt="a_foggy_mountain_with_trees" src="a_foggy_mountain_with_trees.jpg"></a>
 
-<a href="nathan-anderson-_zHYUQmWrzk-unsplash.jpg"><img alt="nathan-anderson-_zHYUQmWrzk-unsplash" src="nathan-anderson-_zHYUQmWrzk-unsplash.jpg"></a>
+<a href="smoke_coming_out_of_a_smoke_stack.jpg"><img alt="smoke_coming_out_of_a_smoke_stack" src="smoke_coming_out_of_a_smoke_stack.jpg"></a>
 
-<a href="6.jpg"><img alt="6" src="6.jpg"></a>
+<a href="a_foggy_forest_with_trees_03.jpg"><img alt="a_foggy_forest_with_trees_03" src="a_foggy_forest_with_trees_03.jpg"></a>
 
-<a href="daniel-kainz-FdkF3FKWeK0-unsplash.jpg"><img alt="daniel-kainz-FdkF3FKWeK0-unsplash" src="daniel-kainz-FdkF3FKWeK0-unsplash.jpg"></a>
+<a href="a_group_of_trees_in_the_fog_02.jpg"><img alt="a_group_of_trees_in_the_fog_02" src="a_group_of_trees_in_the_fog_02.jpg"></a>
 
-<a href="foggy-forest-01-everforest.jpg"><img alt="foggy-forest-01-everforest" src="foggy-forest-01-everforest.jpg"></a>
+<a href="a_forest_of_trees_with_fog.jpg"><img alt="a_forest_of_trees_with_fog" src="a_forest_of_trees_with_fog.jpg"></a>
 
-<a href="alexei-scutari-bRWukOnZmc8-unsplash.jpg"><img alt="alexei-scutari-bRWukOnZmc8-unsplash" src="alexei-scutari-bRWukOnZmc8-unsplash.jpg"></a>
+<a href="a_foggy_forest_with_trees_04.jpg"><img alt="a_foggy_forest_with_trees_04" src="a_foggy_forest_with_trees_04.jpg"></a>
 
-<a href="paul-gilmore-KT3WlrL_bsg-unsplash.jpg"><img alt="paul-gilmore-KT3WlrL_bsg-unsplash" src="paul-gilmore-KT3WlrL_bsg-unsplash.jpg"></a>
+<a href="a_snowy_mountain_with_clouds_in_the_sky.jpg"><img alt="a_snowy_mountain_with_clouds_in_the_sky" src="a_snowy_mountain_with_clouds_in_the_sky.jpg"></a>
 
-<a href="pine.jpg"><img alt="pine" src="pine.jpg"></a>
+<a href="a_group_of_trees_in_the_fog.jpg"><img alt="a_group_of_trees_in_the_fog" src="a_group_of_trees_in_the_fog.jpg"></a>
 
-<a href="fog_yosemite_valley_john_towner.jpg"><img alt="fog_yosemite_valley_john_towner" src="fog_yosemite_valley_john_towner.jpg"></a>
+<a href="a_waterfall_with_trees_in_the_background.jpg"><img alt="a_waterfall_with_trees_in_the_background" src="a_waterfall_with_trees_in_the_background.jpg"></a>
 
-<a href="daniel-plan-Vw6PwmjrtiE-unsplash.jpg"><img alt="daniel-plan-Vw6PwmjrtiE-unsplash" src="daniel-plan-Vw6PwmjrtiE-unsplash.jpg"></a>
+<a href="a_building_with_trees_in_the_background.jpg"><img alt="a_building_with_trees_in_the_background" src="a_building_with_trees_in_the_background.jpg"></a>
 
-<a href="patricia-oChV7SfgH8g-unsplash.jpg"><img alt="patricia-oChV7SfgH8g-unsplash" src="patricia-oChV7SfgH8g-unsplash.jpg"></a>
+<a href="a_group_of_trees_in_the_fog_01.jpg"><img alt="a_group_of_trees_in_the_fog_01" src="a_group_of_trees_in_the_fog_01.jpg"></a>
 
-<a href="wallpaper.png"><img alt="wallpaper" src="wallpaper.png"></a>
+<a href="a_foggy_mountain_with_trees.png"><img alt="a_foggy_mountain_with_trees" src="a_foggy_mountain_with_trees.png"></a>
 
-<a href="janmayen2.jpg"><img alt="janmayen2" src="janmayen2.jpg"></a>
+<a href="a_valley_with_trees_and_mountains.jpg"><img alt="a_valley_with_trees_and_mountains" src="a_valley_with_trees_and_mountains.jpg"></a>
 
-<a href="marek-piwnicki-WiZOyYqzUss-unsplash.jpg"><img alt="marek-piwnicki-WiZOyYqzUss-unsplash" src="marek-piwnicki-WiZOyYqzUss-unsplash.jpg"></a>
+<a href="a_mountain_with_snow_and_clouds.jpg"><img alt="a_mountain_with_snow_and_clouds" src="a_mountain_with_snow_and_clouds.jpg"></a>
 
-<a href="patrick-hendry-37ZuGYD3JOk-unsplash.jpg"><img alt="patrick-hendry-37ZuGYD3JOk-unsplash" src="patrick-hendry-37ZuGYD3JOk-unsplash.jpg"></a>
+<a href="a_bridge_with_clouds_in_the_sky.jpg"><img alt="a_bridge_with_clouds_in_the_sky" src="a_bridge_with_clouds_in_the_sky.jpg"></a>
 
-<a href="29222227855_51f0ee1091_k.jpg"><img alt="29222227855_51f0ee1091_k" src="29222227855_51f0ee1091_k.jpg"></a>
+<a href="a_foggy_forest_with_trees_05.jpg"><img alt="a_foggy_forest_with_trees_05" src="a_foggy_forest_with_trees_05.jpg"></a>
 
-<a href="huskvarna-sweden.jpg"><img alt="huskvarna-sweden" src="huskvarna-sweden.jpg"></a>
+<a href="a_car_on_a_road_with_fog.jpg"><img alt="a_car_on_a_road_with_fog" src="a_car_on_a_road_with_fog.jpg"></a>
 
-<a href="carmine-de-fazio-3ytjETpQMNY-unsplash.jpg"><img alt="carmine-de-fazio-3ytjETpQMNY-unsplash" src="carmine-de-fazio-3ytjETpQMNY-unsplash.jpg"></a>
+<a href="a_foggy_forest_with_trees_01.jpg"><img alt="a_foggy_forest_with_trees_01" src="a_foggy_forest_with_trees_01.jpg"></a>
 
-<a href="mont_des_ranges_saint-colomban-des-villards.jpg"><img alt="mont_des_ranges_saint-colomban-des-villards" src="mont_des_ranges_saint-colomban-des-villards.jpg"></a>
+<a href="smoke_stacks_of_smoke_and_smoke_coming_out_of_a_factory.jpg"><img alt="smoke_stacks_of_smoke_and_smoke_coming_out_of_a_factory" src="smoke_stacks_of_smoke_and_smoke_coming_out_of_a_factory.jpg"></a>
 
-<a href="4.jpg"><img alt="4" src="4.jpg"></a>
+<a href="foggy_forest_with_clouds_in_the_sky.jpg"><img alt="foggy_forest_with_clouds_in_the_sky" src="foggy_forest_with_clouds_in_the_sky.jpg"></a>
 
-<a href="mountain_under_fog_2_decollatura_carmine_de_fazio.jpg"><img alt="mountain_under_fog_2_decollatura_carmine_de_fazio" src="mountain_under_fog_2_decollatura_carmine_de_fazio.jpg"></a>
+<a href="a_mountain_with_clouds_and_trees.jpg"><img alt="a_mountain_with_clouds_and_trees" src="a_mountain_with_clouds_and_trees.jpg"></a>
 
-<a href="fog_on_mountain.jpg"><img alt="fog_on_mountain" src="fog_on_mountain.jpg"></a>
+<a href="a_foggy_forest_with_trees_02.jpg"><img alt="a_foggy_forest_with_trees_02" src="a_foggy_forest_with_trees_02.jpg"></a>
 
-<a href="abdullah-ahmad-_ddRREj9IPg-unsplash.jpg"><img alt="abdullah-ahmad-_ddRREj9IPg-unsplash" src="abdullah-ahmad-_ddRREj9IPg-unsplash.jpg"></a>
+<a href="a_foggy_mountain_with_trees_01.jpg"><img alt="a_foggy_mountain_with_trees_01" src="a_foggy_mountain_with_trees_01.jpg"></a>
 

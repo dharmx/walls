@@ -1,14 +1,14 @@
 # pixel
 
-<a href="6b8af5b0d3190ba5816bef3051d1bb91.jpg"><img alt="6b8af5b0d3190ba5816bef3051d1bb91" src="6b8af5b0d3190ba5816bef3051d1bb91.jpg"></a>
+<a href="a_pixel_art_of_a_person_walking_by_a_building.jpg"><img alt="a_pixel_art_of_a_person_walking_by_a_building" src="a_pixel_art_of_a_person_walking_by_a_building.jpg"></a>
 
-<a href="142 - zbB9GDT-yelow.jpg"><img alt="142 - zbB9GDT-yelow" src="142 - zbB9GDT-yelow.jpg"></a>
+<a href="a_purple_cube_with_a_black_circle_and_buttons.jpg"><img alt="a_purple_cube_with_a_black_circle_and_buttons" src="a_purple_cube_with_a_black_circle_and_buttons.jpg"></a>
 
-<a href="gruvbox_image4.png"><img alt="gruvbox_image4" src="gruvbox_image4.png"></a>
+<a href="a_pixel_art_of_a_city_street.png"><img alt="a_pixel_art_of_a_city_street" src="a_pixel_art_of_a_city_street.png"></a>
 
-<a href="PixelartCity.png"><img alt="PixelartCity" src="PixelartCity.png"></a>
+<a href="a_video_game_screen_with_trees_and_bushes.jpg"><img alt="a_video_game_screen_with_trees_and_bushes" src="a_video_game_screen_with_trees_and_bushes.jpg"></a>
 
-<a href="0a8c58987544b37b17002c1c6b9b21ea.jpg"><img alt="0a8c58987544b37b17002c1c6b9b21ea" src="0a8c58987544b37b17002c1c6b9b21ea.jpg"></a>
+<a href="a_computer_room_with_a_desk_and_a_computer_monitor.jpg"><img alt="a_computer_room_with_a_desk_and_a_computer_monitor" src="a_computer_room_with_a_desk_and_a_computer_monitor.jpg"></a>
 
-<a href="a00cdcb59e25e8c96ca947c919a1e13f.jpg"><img alt="a00cdcb59e25e8c96ca947c919a1e13f" src="a00cdcb59e25e8c96ca947c919a1e13f.jpg"></a>
+<a href="a_pixel_art_of_a_building.png"><img alt="a_pixel_art_of_a_building" src="a_pixel_art_of_a_building.png"></a>
 

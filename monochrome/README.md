@@ -1,104 +1,104 @@
 # monochrome
 
-<a href="tqs1NJm - Imgur.png"><img alt="tqs1NJm - Imgur" src="tqs1NJm - Imgur.png"></a>
+<a href="a_jet_flying_in_the_sky.jpg"><img alt="a_jet_flying_in_the_sky" src="a_jet_flying_in_the_sky.jpg"></a>
 
-<a href="nick-nice-gPm8h3DS1s4-unsplash.jpg"><img alt="nick-nice-gPm8h3DS1s4-unsplash" src="nick-nice-gPm8h3DS1s4-unsplash.jpg"></a>
+<a href="a_foggy_forest_with_trees.jpg"><img alt="a_foggy_forest_with_trees" src="a_foggy_forest_with_trees.jpg"></a>
 
-<a href="black_and_white_hill_julia_craice.jpg"><img alt="black_and_white_hill_julia_craice" src="black_and_white_hill_julia_craice.jpg"></a>
+<a href="rocks_in_the_water.jpg"><img alt="rocks_in_the_water" src="rocks_in_the_water.jpg"></a>
 
-<a href="annie-spratt-x8R2oSWZRSE-unsplash.jpg"><img alt="annie-spratt-x8R2oSWZRSE-unsplash" src="annie-spratt-x8R2oSWZRSE-unsplash.jpg"></a>
+<a href="a_man_standing_in_a_corner_of_a_wall.jpg"><img alt="a_man_standing_in_a_corner_of_a_wall" src="a_man_standing_in_a_corner_of_a_wall.jpg"></a>
 
-<a href="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"><img alt="adrian-regeci-LR5-H-gLAhE-unsplash" src="adrian-regeci-LR5-H-gLAhE-unsplash.jpg"></a>
+<a href="a_foggy_landscape_with_trees_and_a_road.jpg"><img alt="a_foggy_landscape_with_trees_and_a_road" src="a_foggy_landscape_with_trees_and_a_road.jpg"></a>
 
-<a href="olivier-miche-iIg4F2IWbTM-unsplash.jpg"><img alt="olivier-miche-iIg4F2IWbTM-unsplash" src="olivier-miche-iIg4F2IWbTM-unsplash.jpg"></a>
+<a href="a_camera_with_a_black_background.jpg"><img alt="a_camera_with_a_black_background" src="a_camera_with_a_black_background.jpg"></a>
 
-<a href="gyula-zsambok-9R-tgXDRsig-unsplash.jpg"><img alt="gyula-zsambok-9R-tgXDRsig-unsplash" src="gyula-zsambok-9R-tgXDRsig-unsplash.jpg"></a>
+<a href="a_plant_in_a_pot.jpg"><img alt="a_plant_in_a_pot" src="a_plant_in_a_pot.jpg"></a>
 
-<a href="harry-singh-qBaZ0nmS2zY-unsplash.jpg"><img alt="harry-singh-qBaZ0nmS2zY-unsplash" src="harry-singh-qBaZ0nmS2zY-unsplash.jpg"></a>
+<a href="a_black_sand_with_white_foamy_waves.png"><img alt="a_black_sand_with_white_foamy_waves" src="a_black_sand_with_white_foamy_waves.png"></a>
 
-<a href="alexander-shatov-PHH_0uw9-Qw-unsplash.jpg"><img alt="alexander-shatov-PHH_0uw9-Qw-unsplash" src="alexander-shatov-PHH_0uw9-Qw-unsplash.jpg"></a>
+<a href="a_light_bulb_in_the_dirt.jpg"><img alt="a_light_bulb_in_the_dirt" src="a_light_bulb_in_the_dirt.jpg"></a>
 
-<a href="monochrome-mountains-clouds.jpg"><img alt="monochrome-mountains-clouds" src="monochrome-mountains-clouds.jpg"></a>
+<a href="a_street_lights_at_night.jpg"><img alt="a_street_lights_at_night" src="a_street_lights_at_night.jpg"></a>
 
-<a href="time_passing_denis_lomme.jpg"><img alt="time_passing_denis_lomme" src="time_passing_denis_lomme.jpg"></a>
+<a href="a_person_standing_in_front_of_a_waterfall.jpg"><img alt="a_person_standing_in_front_of_a_waterfall" src="a_person_standing_in_front_of_a_waterfall.jpg"></a>
 
-<a href="2 - DEl93OU-dark.jpg"><img alt="2 - DEl93OU-dark" src="2 - DEl93OU-dark.jpg"></a>
+<a href="a_foggy_landscape_with_trees_and_hills.jpg"><img alt="a_foggy_landscape_with_trees_and_hills" src="a_foggy_landscape_with_trees_and_hills.jpg"></a>
 
-<a href="marek-piwnicki-pRiUWB0YVeQ-unsplash.jpg"><img alt="marek-piwnicki-pRiUWB0YVeQ-unsplash" src="marek-piwnicki-pRiUWB0YVeQ-unsplash.jpg"></a>
+<a href="a_bird_flying_over_a_mountain.jpg"><img alt="a_bird_flying_over_a_mountain" src="a_bird_flying_over_a_mountain.jpg"></a>
 
-<a href="2 - DEl93OU.jpg"><img alt="2 - DEl93OU" src="2 - DEl93OU.jpg"></a>
+<a href="a_mountain_range_with_clouds.jpg"><img alt="a_mountain_range_with_clouds" src="a_mountain_range_with_clouds.jpg"></a>
 
-<a href="pexels-pixabay-434645.jpg"><img alt="pexels-pixabay-434645" src="pexels-pixabay-434645.jpg"></a>
+<a href="a_moon_in_the_sky_above_mountains.jpg"><img alt="a_moon_in_the_sky_above_mountains" src="a_moon_in_the_sky_above_mountains.jpg"></a>
 
-<a href="tauben.jpg"><img alt="tauben" src="tauben.jpg"></a>
+<a href="a_street_lights_at_night_01.jpg"><img alt="a_street_lights_at_night_01" src="a_street_lights_at_night_01.jpg"></a>
 
-<a href="monochrome-eye-character.png"><img alt="monochrome-eye-character" src="monochrome-eye-character.png"></a>
+<a href="a_dirt_road_with_trees_in_the_background.jpg"><img alt="a_dirt_road_with_trees_in_the_background" src="a_dirt_road_with_trees_in_the_background.jpg"></a>
 
-<a href="wallpaper.jpg"><img alt="wallpaper" src="wallpaper.jpg"></a>
+<a href="looking_up_view_of_tall_buildings.jpg"><img alt="looking_up_view_of_tall_buildings" src="looking_up_view_of_tall_buildings.jpg"></a>
 
-<a href="denny-muller-zgrakjjOfGk-unsplash.jpg"><img alt="denny-muller-zgrakjjOfGk-unsplash" src="denny-muller-zgrakjjOfGk-unsplash.jpg"></a>
+<a href="a_mountain_with_snow_on_it.jpeg"><img alt="a_mountain_with_snow_on_it" src="a_mountain_with_snow_on_it.jpeg"></a>
 
-<a href="klim-musalimov-5kjxC9SiwH8-unsplash.jpg"><img alt="klim-musalimov-5kjxC9SiwH8-unsplash" src="klim-musalimov-5kjxC9SiwH8-unsplash.jpg"></a>
+<a href="looking_up_at_a_building.jpeg"><img alt="looking_up_at_a_building" src="looking_up_at_a_building.jpeg"></a>
 
-<a href="yannick-pulver-5i664o1oY4c-unsplash.jpg"><img alt="yannick-pulver-5i664o1oY4c-unsplash" src="yannick-pulver-5i664o1oY4c-unsplash.jpg"></a>
+<a href="a_car_in_a_parking_garage.jpg"><img alt="a_car_in_a_parking_garage" src="a_car_in_a_parking_garage.jpg"></a>
 
-<a href="pier.jpeg"><img alt="pier" src="pier.jpeg"></a>
+<a href="a_light_bulb_in_the_dark.png"><img alt="a_light_bulb_in_the_dark" src="a_light_bulb_in_the_dark.png"></a>
 
-<a href="nitin-mendekar-O4rpVAyAC3w-unsplash.jpg"><img alt="nitin-mendekar-O4rpVAyAC3w-unsplash" src="nitin-mendekar-O4rpVAyAC3w-unsplash.jpg"></a>
+<a href="a_building_with_many_square_windows.jpg"><img alt="a_building_with_many_square_windows" src="a_building_with_many_square_windows.jpg"></a>
 
-<a href="2911555.png"><img alt="2911555" src="2911555.png"></a>
+<a href="a_lake_surrounded_by_mountains.jpg"><img alt="a_lake_surrounded_by_mountains" src="a_lake_surrounded_by_mountains.jpg"></a>
 
-<a href="1jznxzg7jaw81.jpg"><img alt="1jznxzg7jaw81" src="1jznxzg7jaw81.jpg"></a>
+<a href="a_black_and_white_photo_of_clouds.jpg"><img alt="a_black_and_white_photo_of_clouds" src="a_black_and_white_photo_of_clouds.jpg"></a>
 
-<a href="blake-verdoorn-NXciM5wByZg-unsplash.jpg"><img alt="blake-verdoorn-NXciM5wByZg-unsplash" src="blake-verdoorn-NXciM5wByZg-unsplash.jpg"></a>
+<a href="a_person_playing_a_guitar.png"><img alt="a_person_playing_a_guitar" src="a_person_playing_a_guitar.png"></a>
 
-<a href="MountainDark.jpg"><img alt="MountainDark" src="MountainDark.jpg"></a>
+<a href="a_white_staircase_with_a_handrail.jpg"><img alt="a_white_staircase_with_a_handrail" src="a_white_staircase_with_a_handrail.jpg"></a>
 
-<a href="pagmzD8.jpeg"><img alt="pagmzD8" src="pagmzD8.jpeg"></a>
+<a href="a_card_on_a_black_surface.jpg"><img alt="a_card_on_a_black_surface" src="a_card_on_a_black_surface.jpg"></a>
 
-<a href="monochrome-mountain-cloud-moon.jpg"><img alt="monochrome-mountain-cloud-moon" src="monochrome-mountain-cloud-moon.jpg"></a>
+<a href="a_stone_walkway_leading_to_a_lighthouse.jpg"><img alt="a_stone_walkway_leading_to_a_lighthouse" src="a_stone_walkway_leading_to_a_lighthouse.jpg"></a>
 
-<a href="museums-of-history-new-south-wales-PU40XfvlrEQ-unsplash.jpg"><img alt="museums-of-history-new-south-wales-PU40XfvlrEQ-unsplash" src="museums-of-history-new-south-wales-PU40XfvlrEQ-unsplash.jpg"></a>
+<a href="a_large_rock_in_the_ocean.jpg"><img alt="a_large_rock_in_the_ocean" src="a_large_rock_in_the_ocean.jpg"></a>
 
-<a href="1H.jpg"><img alt="1H" src="1H.jpg"></a>
+<a href="a_microphone_on_a_stand.jpg"><img alt="a_microphone_on_a_stand" src="a_microphone_on_a_stand.jpg"></a>
 
-<a href="tomasz-sroka-CewT9iFBcgE-unsplash.jpg"><img alt="tomasz-sroka-CewT9iFBcgE-unsplash" src="tomasz-sroka-CewT9iFBcgE-unsplash.jpg"></a>
+<a href="a_pile_of_black_rocks.jpg"><img alt="a_pile_of_black_rocks" src="a_pile_of_black_rocks.jpg"></a>
 
-<a href="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"><img alt="brian-patrick-tagalog-_8hGFBxWD0A-unsplash" src="brian-patrick-tagalog-_8hGFBxWD0A-unsplash.jpg"></a>
+<a href="a_rocky_beach_with_waves_crashing_onto_rocks.jpg"><img alt="a_rocky_beach_with_waves_crashing_onto_rocks" src="a_rocky_beach_with_waves_crashing_onto_rocks.jpg"></a>
 
-<a href="D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg"><img alt="D9xlw7UxTBqQw5sLf8cJ_reef insp-72" src="D9xlw7UxTBqQw5sLf8cJ_reef insp-72.jpg"></a>
+<a href="a_black_and_white_image_of_a_hill.jpg"><img alt="a_black_and_white_image_of_a_hill" src="a_black_and_white_image_of_a_hill.jpg"></a>
 
-<a href="undefined - Imgur(18).jpg"><img alt="undefined - Imgur(18)" src="undefined - Imgur(18).jpg"></a>
+<a href="a_foggy_forest_with_trees_01.jpg"><img alt="a_foggy_forest_with_trees_01" src="a_foggy_forest_with_trees_01.jpg"></a>
 
-<a href="frances-gunn-8BmNurlVR6M-unsplash.jpg"><img alt="frances-gunn-8BmNurlVR6M-unsplash" src="frances-gunn-8BmNurlVR6M-unsplash.jpg"></a>
+<a href="a_black_rose_with_a_black_background.jpg"><img alt="a_black_rose_with_a_black_background" src="a_black_rose_with_a_black_background.jpg"></a>
 
-<a href="1683408835959986.jpg"><img alt="1683408835959986" src="1683408835959986.jpg"></a>
+<a href="a_black_computer_monitor_with_a_white_screen.jpg"><img alt="a_black_computer_monitor_with_a_white_screen" src="a_black_computer_monitor_with_a_white_screen.jpg"></a>
 
-<a href="oscar-keys-ojVMh1QTVGY-unsplash.jpg"><img alt="oscar-keys-ojVMh1QTVGY-unsplash" src="oscar-keys-ojVMh1QTVGY-unsplash.jpg"></a>
+<a href="a_dock_on_the_water.jpeg"><img alt="a_dock_on_the_water" src="a_dock_on_the_water.jpeg"></a>
 
-<a href="ales-krivec-3sBnJqI8LXo-unsplash.jpg"><img alt="ales-krivec-3sBnJqI8LXo-unsplash" src="ales-krivec-3sBnJqI8LXo-unsplash.jpg"></a>
+<a href="a_body_of_water_with_a_white_sky.jpg"><img alt="a_body_of_water_with_a_white_sky" src="a_body_of_water_with_a_white_sky.jpg"></a>
 
-<a href="94SjZ0A.jpeg"><img alt="94SjZ0A" src="94SjZ0A.jpeg"></a>
+<a href="birds_on_top_of_a_bus.jpg"><img alt="birds_on_top_of_a_bus" src="birds_on_top_of_a_bus.jpg"></a>
 
-<a href="lightblack.png"><img alt="lightblack" src="lightblack.png"></a>
+<a href="a_mountain_with_clouds_in_the_sky.jpg"><img alt="a_mountain_with_clouds_in_the_sky" src="a_mountain_with_clouds_in_the_sky.jpg"></a>
 
-<a href="klim-musalimov-QvEG1o0YmsA-unsplash.jpg"><img alt="klim-musalimov-QvEG1o0YmsA-unsplash" src="klim-musalimov-QvEG1o0YmsA-unsplash.jpg"></a>
+<a href="a_road_going_through_a_desert.jpeg"><img alt="a_road_going_through_a_desert" src="a_road_going_through_a_desert.jpeg"></a>
 
-<a href="wallhaven-3ke6ey.jpg"><img alt="wallhaven-3ke6ey" src="wallhaven-3ke6ey.jpg"></a>
+<a href="a_black_and_white_building_with_a_fire_escape.jpg"><img alt="a_black_and_white_building_with_a_fire_escape" src="a_black_and_white_building_with_a_fire_escape.jpg"></a>
 
-<a href="monochrome-clouds.jpg"><img alt="monochrome-clouds" src="monochrome-clouds.jpg"></a>
+<a href="a_city_skyline_seen_through_a_window.jpg"><img alt="a_city_skyline_seen_through_a_window" src="a_city_skyline_seen_through_a_window.jpg"></a>
 
-<a href="1684816030898805.jpg"><img alt="1684816030898805" src="1684816030898805.jpg"></a>
+<a href="a_hallway_with_lights_on_the_ceiling.png"><img alt="a_hallway_with_lights_on_the_ceiling" src="a_hallway_with_lights_on_the_ceiling.png"></a>
 
-<a href="3096067.jpg"><img alt="3096067" src="3096067.jpg"></a>
+<a href="a_mountain_with_snow_on_it.jpg"><img alt="a_mountain_with_snow_on_it" src="a_mountain_with_snow_on_it.jpg"></a>
 
-<a href="nicolas-houdayer--gxb8dbTxPw-unsplash.jpg"><img alt="nicolas-houdayer--gxb8dbTxPw-unsplash" src="nicolas-houdayer--gxb8dbTxPw-unsplash.jpg"></a>
+<a href="a_close_up_of_a_black_surface.jpg"><img alt="a_close_up_of_a_black_surface" src="a_close_up_of_a_black_surface.jpg"></a>
 
-<a href="wallhaven-5dlr78.jpg"><img alt="wallhaven-5dlr78" src="wallhaven-5dlr78.jpg"></a>
+<a href="a_foggy_landscape_with_trees_and_clouds.jpg"><img alt="a_foggy_landscape_with_trees_and_clouds" src="a_foggy_landscape_with_trees_and_clouds.jpg"></a>
 
-<a href="jose-murillo-7x4dOkulU9E-unsplash.jpg"><img alt="jose-murillo-7x4dOkulU9E-unsplash" src="jose-murillo-7x4dOkulU9E-unsplash.jpg"></a>
+<a href="a_person_standing_on_a_cliff_edge.jpg"><img alt="a_person_standing_on_a_cliff_edge" src="a_person_standing_on_a_cliff_edge.jpg"></a>
 
-<a href="h9xl47mbld851.png"><img alt="h9xl47mbld851" src="h9xl47mbld851.png"></a>
+<a href="a_person_sitting_on_a_wall.png"><img alt="a_person_sitting_on_a_wall" src="a_person_sitting_on_a_wall.png"></a>
 
-<a href="mountain.jpeg"><img alt="mountain" src="mountain.jpeg"></a>
+<a href="a_pair_of_playing_cards_on_a_black_surface.jpg"><img alt="a_pair_of_playing_cards_on_a_black_surface" src="a_pair_of_playing_cards_on_a_black_surface.jpg"></a>
 

@@ -1,30 +1,30 @@
 # apocalypse
 
-<a href="kanistra-studio-9-relocation.jpg"><img alt="kanistra-studio-9-relocation" src="kanistra-studio-9-relocation.jpg"></a>
+<a href="a_car_parked_in_a_dark_alley.jpg"><img alt="a_car_parked_in_a_dark_alley" src="a_car_parked_in_a_dark_alley.jpg"></a>
 
-<a href="kanistra-studio-1-lasunrise.jpg"><img alt="kanistra-studio-1-lasunrise" src="kanistra-studio-1-lasunrise.jpg"></a>
+<a href="a_car_with_luggage_on_top_of_it.jpg"><img alt="a_car_with_luggage_on_top_of_it" src="a_car_with_luggage_on_top_of_it.jpg"></a>
 
-<a href="kanistra-studio-3-pickup.jpg"><img alt="kanistra-studio-3-pickup" src="kanistra-studio-3-pickup.jpg"></a>
+<a href="a_building_with_traffic_cones_and_cars_in_the_rain.jpg"><img alt="a_building_with_traffic_cones_and_cars_in_the_rain" src="a_building_with_traffic_cones_and_cars_in_the_rain.jpg"></a>
 
-<a href="kanistra-studio-13-crossing.jpg"><img alt="kanistra-studio-13-crossing" src="kanistra-studio-13-crossing.jpg"></a>
+<a href="a_cartoon_of_a_vehicle_with_a_monster_on_it.jpg"><img alt="a_cartoon_of_a_vehicle_with_a_monster_on_it" src="a_cartoon_of_a_vehicle_with_a_monster_on_it.jpg"></a>
 
-<a href="kanistra-studio-10-la2019.jpg"><img alt="kanistra-studio-10-la2019" src="kanistra-studio-10-la2019.jpg"></a>
+<a href="cars_on_a_train_track.jpg"><img alt="cars_on_a_train_track" src="cars_on_a_train_track.jpg"></a>
 
-<a href="kanistra-studio-11-bridge.jpg"><img alt="kanistra-studio-11-bridge" src="kanistra-studio-11-bridge.jpg"></a>
+<a href="a_group_of_televisions_and_tvs_in_front_of_a_store.jpg"><img alt="a_group_of_televisions_and_tvs_in_front_of_a_store" src="a_group_of_televisions_and_tvs_in_front_of_a_store.jpg"></a>
 
-<a href="kanistra-studio-20-workplace.jpg"><img alt="kanistra-studio-20-workplace" src="kanistra-studio-20-workplace.jpg"></a>
+<a href="a_car_parked_in_a_street.jpg"><img alt="a_car_parked_in_a_street" src="a_car_parked_in_a_street.jpg"></a>
 
-<a href="kanistra-studio-16-district-11.jpg"><img alt="kanistra-studio-16-district-11" src="kanistra-studio-16-district-11.jpg"></a>
+<a href="a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.jpg"><img alt="a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall" src="a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.jpg"></a>
 
-<a href="kanistra-studio-22-noentry.jpg"><img alt="kanistra-studio-22-noentry" src="kanistra-studio-22-noentry.jpg"></a>
+<a href="a_street_with_a_bridge_and_people_sitting_on_it.jpg"><img alt="a_street_with_a_bridge_and_people_sitting_on_it" src="a_street_with_a_bridge_and_people_sitting_on_it.jpg"></a>
 
-<a href="kanistra-studio-2-expedition.jpg"><img alt="kanistra-studio-2-expedition" src="kanistra-studio-2-expedition.jpg"></a>
+<a href="a_car_with_a_can_and_a_can_in_the_desert.jpg"><img alt="a_car_with_a_can_and_a_can_in_the_desert" src="a_car_with_a_can_and_a_can_in_the_desert.jpg"></a>
 
-<a href="kanistra-studio-12-motel.jpg"><img alt="kanistra-studio-12-motel" src="kanistra-studio-12-motel.jpg"></a>
+<a href="a_car_parked_outside_a_motel.jpg"><img alt="a_car_parked_outside_a_motel" src="a_car_parked_outside_a_motel.jpg"></a>
 
-<a href="kanistra-studio-19-pawnshop.jpg"><img alt="kanistra-studio-19-pawnshop" src="kanistra-studio-19-pawnshop.jpg"></a>
+<a href="a_motorcycle_parked_outside_a_restaurant.jpg"><img alt="a_motorcycle_parked_outside_a_restaurant" src="a_motorcycle_parked_outside_a_restaurant.jpg"></a>
 
-<a href="kanistra-studio-8-unicorn.jpg"><img alt="kanistra-studio-8-unicorn" src="kanistra-studio-8-unicorn.jpg"></a>
+<a href="a_video_game_of_a_vehicle.jpg"><img alt="a_video_game_of_a_vehicle" src="a_video_game_of_a_vehicle.jpg"></a>
 
-<a href="kanistra-studio-23-notarius.jpg"><img alt="kanistra-studio-23-notarius" src="kanistra-studio-23-notarius.jpg"></a>
+<a href="a_woman_standing_in_front_of_a_window.jpg"><img alt="a_woman_standing_in_front_of_a_window" src="a_woman_standing_in_front_of_a_window.jpg"></a>
 

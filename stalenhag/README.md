@@ -1,12 +1,12 @@
 # stalenhag
 
-<a href="932537.jpg"><img alt="932537" src="932537.jpg"></a>
+<a href="a_man_and_a_robot_standing_in_a_parking_lot.jpg"><img alt="a_man_and_a_robot_standing_in_a_parking_lot" src="a_man_and_a_robot_standing_in_a_parking_lot.jpg"></a>
 
-<a href="515961.jpg"><img alt="515961" src="515961.jpg"></a>
+<a href="a_group_of_tall_buildings_with_cartoon_characters_on_them.jpg"><img alt="a_group_of_tall_buildings_with_cartoon_characters_on_them" src="a_group_of_tall_buildings_with_cartoon_characters_on_them.jpg"></a>
 
-<a href="914760.jpg"><img alt="914760" src="914760.jpg"></a>
+<a href="a_snow_covered_road_with_two_large_machines.jpg"><img alt="a_snow_covered_road_with_two_large_machines" src="a_snow_covered_road_with_two_large_machines.jpg"></a>
 
-<a href="609847.jpg"><img alt="609847" src="609847.jpg"></a>
+<a href="a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground.jpg"><img alt="a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground" src="a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground.jpg"></a>
 
-<a href="980248.jpg"><img alt="980248" src="980248.jpg"></a>
+<a href="a_bird_on_a_statue.jpg"><img alt="a_bird_on_a_statue" src="a_bird_on_a_statue.jpg"></a>
 

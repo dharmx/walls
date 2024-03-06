@@ -1,56 +1,56 @@
 # retro
 
-<a href="atari.png"><img alt="atari" src="atari.png"></a>
+<a href="a_colorful_rectangular_sign_with_white_text.png"><img alt="a_colorful_rectangular_sign_with_white_text" src="a_colorful_rectangular_sign_with_white_text.png"></a>
 
-<a href="japan3.png"><img alt="japan3" src="japan3.png"></a>
+<a href="a_red_and_black_logo.png"><img alt="a_red_and_black_logo" src="a_red_and_black_logo.png"></a>
 
-<a href="tokyo.png"><img alt="tokyo" src="tokyo.png"></a>
+<a href="a_black_sign_with_red_text_and_blue_and_yellow_squares.png"><img alt="a_black_sign_with_red_text_and_blue_and_yellow_squares" src="a_black_sign_with_red_text_and_blue_and_yellow_squares.png"></a>
 
-<a href="topk5.png"><img alt="topk5" src="topk5.png"></a>
+<a href="a_logo_on_a_red_background_01.png"><img alt="a_logo_on_a_red_background_01" src="a_logo_on_a_red_background_01.png"></a>
 
-<a href="jpn.png"><img alt="jpn" src="jpn.png"></a>
+<a href="a_logo_with_a_circle_and_text.png"><img alt="a_logo_with_a_circle_and_text" src="a_logo_with_a_circle_and_text.png"></a>
 
-<a href="tokyo4.png"><img alt="tokyo4" src="tokyo4.png"></a>
+<a href="a_blue_rectangular_sign_with_white_text.png"><img alt="a_blue_rectangular_sign_with_white_text" src="a_blue_rectangular_sign_with_white_text.png"></a>
 
-<a href="wallpaperflare.com_wallpaper(6).jpg"><img alt="wallpaperflare.com_wallpaper(6)" src="wallpaperflare.com_wallpaper(6).jpg"></a>
+<a href="a_logo_with_colorful_circles.png"><img alt="a_logo_with_colorful_circles" src="a_logo_with_colorful_circles.png"></a>
 
-<a href="japantok.png"><img alt="japantok" src="japantok.png"></a>
+<a href="a_logo_on_a_red_background_02.png"><img alt="a_logo_on_a_red_background_02" src="a_logo_on_a_red_background_02.png"></a>
 
-<a href="doom.jpg"><img alt="doom" src="doom.jpg"></a>
+<a href="a_computer_screen_with_a_logo.png"><img alt="a_computer_screen_with_a_logo" src="a_computer_screen_with_a_logo.png"></a>
 
-<a href="tok3.png"><img alt="tok3" src="tok3.png"></a>
+<a href="a_logo_with_a_red_and_blue_circle.png"><img alt="a_logo_with_a_red_and_blue_circle" src="a_logo_with_a_red_and_blue_circle.png"></a>
 
-<a href="japan4.png"><img alt="japan4" src="japan4.png"></a>
+<a href="a_colorful_square_with_black_text.png"><img alt="a_colorful_square_with_black_text" src="a_colorful_square_with_black_text.png"></a>
 
-<a href="ps1.png"><img alt="ps1" src="ps1.png"></a>
+<a href="a_colorful_logo_with_text.png"><img alt="a_colorful_logo_with_text" src="a_colorful_logo_with_text.png"></a>
 
-<a href="apple.png"><img alt="apple" src="apple.png"></a>
+<a href="a_logo_with_a_rainbow_colored_design.png"><img alt="a_logo_with_a_rainbow_colored_design" src="a_logo_with_a_rainbow_colored_design.png"></a>
 
-<a href="nasa3.png"><img alt="nasa3" src="nasa3.png"></a>
+<a href="a_logo_with_a_rainbow_colored_stripe.png"><img alt="a_logo_with_a_rainbow_colored_stripe" src="a_logo_with_a_rainbow_colored_stripe.png"></a>
 
-<a href="atari2.png"><img alt="atari2" src="atari2.png"></a>
+<a href="a_colorful_logo_with_white_text.png"><img alt="a_colorful_logo_with_white_text" src="a_colorful_logo_with_white_text.png"></a>
 
-<a href="nasa2.png"><img alt="nasa2" src="nasa2.png"></a>
+<a href="a_colorful_square_with_black_text_01.png"><img alt="a_colorful_square_with_black_text_01" src="a_colorful_square_with_black_text_01.png"></a>
 
-<a href="atari3.png"><img alt="atari3" src="atari3.png"></a>
+<a href="a_black_background_with_white_text_and_red_dots.png"><img alt="a_black_background_with_white_text_and_red_dots" src="a_black_background_with_white_text_and_red_dots.png"></a>
 
-<a href="microsoft.png"><img alt="microsoft" src="microsoft.png"></a>
+<a href="a_black_and_white_sign_with_red_and_black_text.png"><img alt="a_black_and_white_sign_with_red_and_black_text" src="a_black_and_white_sign_with_red_and_black_text.png"></a>
 
-<a href="mario.png"><img alt="mario" src="mario.png"></a>
+<a href="a_colorful_square_with_black_text_02.png"><img alt="a_colorful_square_with_black_text_02" src="a_colorful_square_with_black_text_02.png"></a>
 
-<a href="nasa.png"><img alt="nasa" src="nasa.png"></a>
+<a href="a_logo_on_a_red_background.png"><img alt="a_logo_on_a_red_background" src="a_logo_on_a_red_background.png"></a>
 
-<a href="win2.png"><img alt="win2" src="win2.png"></a>
+<a href="a_colorful_mask_on_a_black_background.jpg"><img alt="a_colorful_mask_on_a_black_background" src="a_colorful_mask_on_a_black_background.jpg"></a>
 
-<a href="japan2.png"><img alt="japan2" src="japan2.png"></a>
+<a href="a_white_pyramids_on_a_black_background.jpg"><img alt="a_white_pyramids_on_a_black_background" src="a_white_pyramids_on_a_black_background.jpg"></a>
 
-<a href="polaroid.png"><img alt="polaroid" src="polaroid.png"></a>
+<a href="a_black_and_white_logo.png"><img alt="a_black_and_white_logo" src="a_black_and_white_logo.png"></a>
 
-<a href="rad.png"><img alt="rad" src="rad.png"></a>
+<a href="a_rainbow_colored_logo_with_an_apple.png"><img alt="a_rainbow_colored_logo_with_an_apple" src="a_rainbow_colored_logo_with_an_apple.png"></a>
 
-<a href="pride.png"><img alt="pride" src="pride.png"></a>
+<a href="a_blue_square_with_white_lines_and_stars.png"><img alt="a_blue_square_with_white_lines_and_stars" src="a_blue_square_with_white_lines_and_stars.png"></a>
 
-<a href="ps2.png"><img alt="ps2" src="ps2.png"></a>
+<a href="a_logo_of_a_company.png"><img alt="a_logo_of_a_company" src="a_logo_of_a_company.png"></a>
 
-<a href="win95.png"><img alt="win95" src="win95.png"></a>
+<a href="a_logo_with_black_text_and_orange_circles_and_flowers.png"><img alt="a_logo_with_black_text_and_orange_circles_and_flowers" src="a_logo_with_black_text_and_orange_circles_and_flowers.png"></a>
 

@@ -1,88 +1,88 @@
 # abstract
 
-<a href="black.jpeg"><img alt="black" src="black.jpeg"></a>
+<a href="a_colorful_background_with_different_shapes_and_patterns.png"><img alt="a_colorful_background_with_different_shapes_and_patterns" src="a_colorful_background_with_different_shapes_and_patterns.png"></a>
 
-<a href="wallhaven-4owpzm.jpg"><img alt="wallhaven-4owpzm" src="wallhaven-4owpzm.jpg"></a>
+<a href="a_mountain_with_a_lake_in_the_background.jpg"><img alt="a_mountain_with_a_lake_in_the_background" src="a_mountain_with_a_lake_in_the_background.jpg"></a>
 
-<a href="1640963942611.png"><img alt="1640963942611" src="1640963942611.png"></a>
+<a href="a_white_lines_on_a_black_background.jpeg"><img alt="a_white_lines_on_a_black_background" src="a_white_lines_on_a_black_background.jpeg"></a>
 
-<a href="wallhaven-lqmg7q.jpg"><img alt="wallhaven-lqmg7q" src="wallhaven-lqmg7q.jpg"></a>
+<a href="a_painting_of_a_man_with_a_dripping_face.jpg"><img alt="a_painting_of_a_man_with_a_dripping_face" src="a_painting_of_a_man_with_a_dripping_face.jpg"></a>
 
-<a href="1634162439688.png"><img alt="1634162439688" src="1634162439688.png"></a>
+<a href="a_statue_of_a_woman_with_wings_and_a_plant.png"><img alt="a_statue_of_a_woman_with_wings_and_a_plant" src="a_statue_of_a_woman_with_wings_and_a_plant.png"></a>
 
-<a href="1637336939551.jpg"><img alt="1637336939551" src="1637336939551.jpg"></a>
+<a href="a_white_line_drawing_of_a_group_of_trees.jpg"><img alt="a_white_line_drawing_of_a_group_of_trees" src="a_white_line_drawing_of_a_group_of_trees.jpg"></a>
 
-<a href="1638672440860.png"><img alt="1638672440860" src="1638672440860.png"></a>
+<a href="a_painting_of_a_building_in_a_dark_landscape.png"><img alt="a_painting_of_a_building_in_a_dark_landscape" src="a_painting_of_a_building_in_a_dark_landscape.png"></a>
 
-<a href="maze4k.png"><img alt="maze4k" src="maze4k.png"></a>
+<a href="a_man_sitting_in_a_chair.png"><img alt="a_man_sitting_in_a_chair" src="a_man_sitting_in_a_chair.png"></a>
 
-<a href="1637643605103.jpg"><img alt="1637643605103" src="1637643605103.jpg"></a>
+<a href="a_drawing_of_a_sun_and_a_ball.png"><img alt="a_drawing_of_a_sun_and_a_ball" src="a_drawing_of_a_sun_and_a_ball.png"></a>
 
-<a href="aaaa1.jpg"><img alt="aaaa1" src="aaaa1.jpg"></a>
+<a href="a_drawing_of_an_astronaut_holding_a_rocket.jpg"><img alt="a_drawing_of_an_astronaut_holding_a_rocket" src="a_drawing_of_an_astronaut_holding_a_rocket.jpg"></a>
 
-<a href="1637327575813.png"><img alt="1637327575813" src="1637327575813.png"></a>
+<a href="a_man_and_woman_eating_food.jpg"><img alt="a_man_and_woman_eating_food" src="a_man_and_woman_eating_food.jpg"></a>
 
-<a href="wallhaven-o33x55.png"><img alt="wallhaven-o33x55" src="wallhaven-o33x55.png"></a>
+<a href="a_black_and_white_picture_of_mountains_and_trees.png"><img alt="a_black_and_white_picture_of_mountains_and_trees" src="a_black_and_white_picture_of_mountains_and_trees.png"></a>
 
-<a href="gentoo.png"><img alt="gentoo" src="gentoo.png"></a>
+<a href="a_group_of_white_lines_on_a_black_background.jpeg"><img alt="a_group_of_white_lines_on_a_black_background" src="a_group_of_white_lines_on_a_black_background.jpeg"></a>
 
-<a href="wallpaper.jpg"><img alt="wallpaper" src="wallpaper.jpg"></a>
+<a href="a_black_and_white_drawing_of_a_woman_in_a_black_and_white_dress.jpg"><img alt="a_black_and_white_drawing_of_a_woman_in_a_black_and_white_dress" src="a_black_and_white_drawing_of_a_woman_in_a_black_and_white_dress.jpg"></a>
 
-<a href="wp5121892.jpg"><img alt="wp5121892" src="wp5121892.jpg"></a>
+<a href="a_white_swirly_circle_on_a_black_background.png"><img alt="a_white_swirly_circle_on_a_black_background" src="a_white_swirly_circle_on_a_black_background.png"></a>
 
-<a href="penrose_triangle_a_topological_picturebook.jpeg"><img alt="penrose_triangle_a_topological_picturebook" src="penrose_triangle_a_topological_picturebook.jpeg"></a>
+<a href="a_pink_and_green_object_with_circles_and_dots.png"><img alt="a_pink_and_green_object_with_circles_and_dots" src="a_pink_and_green_object_with_circles_and_dots.png"></a>
 
-<a href="o6nxhmkfsd791.png"><img alt="o6nxhmkfsd791" src="o6nxhmkfsd791.png"></a>
+<a href="a_pyramids_with_palm_trees.png"><img alt="a_pyramids_with_palm_trees" src="a_pyramids_with_palm_trees.png"></a>
 
-<a href="1637849501425.jpg"><img alt="1637849501425" src="1637849501425.jpg"></a>
+<a href="a_close_up_of_a_person_with_wings.jpg"><img alt="a_close_up_of_a_person_with_wings" src="a_close_up_of_a_person_with_wings.jpg"></a>
 
-<a href="1639324186243.png"><img alt="1639324186243" src="1639324186243.png"></a>
+<a href="a_woman_with_long_hair_wearing_sunglasses.png"><img alt="a_woman_with_long_hair_wearing_sunglasses" src="a_woman_with_long_hair_wearing_sunglasses.png"></a>
 
-<a href="wallhaven-ox7qxp.jpg"><img alt="wallhaven-ox7qxp" src="wallhaven-ox7qxp.jpg"></a>
+<a href="a_map_of_a_city.jpg"><img alt="a_map_of_a_city" src="a_map_of_a_city.jpg"></a>
 
-<a href="8e5mgubkb7791.jpg"><img alt="8e5mgubkb7791" src="8e5mgubkb7791.jpg"></a>
+<a href="a_chair_on_a_platform_with_a_halo_above_it.jpg"><img alt="a_chair_on_a_platform_with_a_halo_above_it" src="a_chair_on_a_platform_with_a_halo_above_it.jpg"></a>
 
-<a href="YT4oncJ.jpg"><img alt="YT4oncJ" src="YT4oncJ.jpg"></a>
+<a href="a_black_liquid_floating_in_the_air.jpg"><img alt="a_black_liquid_floating_in_the_air" src="a_black_liquid_floating_in_the_air.jpg"></a>
 
-<a href="light.png"><img alt="light" src="light.png"></a>
+<a href="a_painting_of_a_man_with_a_face_on_his_head.png"><img alt="a_painting_of_a_man_with_a_face_on_his_head" src="a_painting_of_a_man_with_a_face_on_his_head.png"></a>
 
-<a href="1640372689217.png"><img alt="1640372689217" src="1640372689217.png"></a>
+<a href="a_colorful_swirls_of_paint.jpg"><img alt="a_colorful_swirls_of_paint" src="a_colorful_swirls_of_paint.jpg"></a>
 
-<a href="wallhaven-wqqerq.png"><img alt="wallhaven-wqqerq" src="wallhaven-wqqerq.png"></a>
+<a href="a_white_drawing_of_a_person_with_a_mask_on_his_head.png"><img alt="a_white_drawing_of_a_person_with_a_mask_on_his_head" src="a_white_drawing_of_a_person_with_a_mask_on_his_head.png"></a>
 
-<a href="d0a.1.0.png"><img alt="d0a.1.0" src="d0a.1.0.png"></a>
+<a href="a_blue_and_orange_background.jpg"><img alt="a_blue_and_orange_background" src="a_blue_and_orange_background.jpg"></a>
 
-<a href="jezebielwp.png"><img alt="jezebielwp" src="jezebielwp.png"></a>
+<a href="a_painting_of_a_mountain.png"><img alt="a_painting_of_a_mountain" src="a_painting_of_a_mountain.png"></a>
 
-<a href="1638597695178.jpg"><img alt="1638597695178" src="1638597695178.jpg"></a>
+<a href="a_painting_of_a_building_in_the_desert.png"><img alt="a_painting_of_a_building_in_the_desert" src="a_painting_of_a_building_in_the_desert.png"></a>
 
-<a href="1645251474069.jpg"><img alt="1645251474069" src="1645251474069.jpg"></a>
+<a href="a_black_and_white_logo.png"><img alt="a_black_and_white_logo" src="a_black_and_white_logo.png"></a>
 
-<a href="1637824731328.png"><img alt="1637824731328" src="1637824731328.png"></a>
+<a href="a_group_of_bubbles_on_a_white_background.jpg"><img alt="a_group_of_bubbles_on_a_white_background" src="a_group_of_bubbles_on_a_white_background.jpg"></a>
 
-<a href="smg9jgc1qxg81.jpg"><img alt="smg9jgc1qxg81" src="smg9jgc1qxg81.jpg"></a>
+<a href="a_white_building_with_balconies.jpg"><img alt="a_white_building_with_balconies" src="a_white_building_with_balconies.jpg"></a>
 
-<a href="minimal_squares.png"><img alt="minimal_squares" src="minimal_squares.png"></a>
+<a href="a_group_of_buildings_with_blue_awnings.png"><img alt="a_group_of_buildings_with_blue_awnings" src="a_group_of_buildings_with_blue_awnings.png"></a>
 
-<a href="arabia-gruv.png"><img alt="arabia-gruv" src="arabia-gruv.png"></a>
+<a href="a_face_in_a_blue_light.jpeg"><img alt="a_face_in_a_blue_light" src="a_face_in_a_blue_light.jpeg"></a>
 
-<a href="f0h2exztx3991.jpg"><img alt="f0h2exztx3991" src="f0h2exztx3991.jpg"></a>
+<a href="a_screenshot_of_a_computer.jpg"><img alt="a_screenshot_of_a_computer" src="a_screenshot_of_a_computer.jpg"></a>
 
-<a href="1629254800931.png"><img alt="1629254800931" src="1629254800931.png"></a>
+<a href="a_skeleton_standing_on_a_pile_of_skulls.png"><img alt="a_skeleton_standing_on_a_pile_of_skulls" src="a_skeleton_standing_on_a_pile_of_skulls.png"></a>
 
-<a href="wallhaven-95y961.png"><img alt="wallhaven-95y961" src="wallhaven-95y961.png"></a>
+<a href="a_black_and_white_image_of_a_group_of_people.png"><img alt="a_black_and_white_image_of_a_group_of_people" src="a_black_and_white_image_of_a_group_of_people.png"></a>
 
-<a href="Abstract_pastel_wallpaper.png"><img alt="Abstract_pastel_wallpaper" src="Abstract_pastel_wallpaper.png"></a>
+<a href="a_tree_and_a_rock.png"><img alt="a_tree_and_a_rock" src="a_tree_and_a_rock.png"></a>
 
-<a href="1632112923543.jpg"><img alt="1632112923543" src="1632112923543.jpg"></a>
+<a href="a_group_of_potted_plants.jpg"><img alt="a_group_of_potted_plants" src="a_group_of_potted_plants.jpg"></a>
 
-<a href="head-transformed.jpeg"><img alt="head-transformed" src="head-transformed.jpeg"></a>
+<a href="two_black_and_white_images_of_mountains.jpg"><img alt="two_black_and_white_images_of_mountains" src="two_black_and_white_images_of_mountains.jpg"></a>
 
-<a href="teal-liquid.jpg"><img alt="teal-liquid" src="teal-liquid.jpg"></a>
+<a href="a_statue_of_a_woman_with_wings_and_wings.png"><img alt="a_statue_of_a_woman_with_wings_and_wings" src="a_statue_of_a_woman_with_wings_and_wings.png"></a>
 
-<a href="wallhaven-j89okp.png"><img alt="wallhaven-j89okp" src="wallhaven-j89okp.png"></a>
+<a href="a_tree_in_the_snow.jpg"><img alt="a_tree_in_the_snow" src="a_tree_in_the_snow.jpg"></a>
 
-<a href="1637336228660.png"><img alt="1637336228660" src="1637336228660.png"></a>
+<a href="a_black_and_white_maze.png"><img alt="a_black_and_white_maze" src="a_black_and_white_maze.png"></a>
 
-<a href="bdx_map_toner_16x9.jpg"><img alt="bdx_map_toner_16x9" src="bdx_map_toner_16x9.jpg"></a>
+<a href="a_black_and_white_drawing_of_a_person_with_a_blindfold.png"><img alt="a_black_and_white_drawing_of_a_person_with_a_blindfold" src="a_black_and_white_drawing_of_a_person_with_a_blindfold.png"></a>
 

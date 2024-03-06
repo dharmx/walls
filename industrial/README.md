@@ -1,4 +1,4 @@
 # industrial
 
-<a href="leo-fosdal-TgWWeaTAXCM-unsplash.jpg"><img alt="leo-fosdal-TgWWeaTAXCM-unsplash" src="leo-fosdal-TgWWeaTAXCM-unsplash.jpg"></a>
+<a href="a_group_of_metal_objects_in_a_warehouse.jpg"><img alt="a_group_of_metal_objects_in_a_warehouse" src="a_group_of_metal_objects_in_a_warehouse.jpg"></a>
 

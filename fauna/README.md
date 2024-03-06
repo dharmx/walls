@@ -1,38 +1,38 @@
 # fauna
 
-<a href="44 - sgNnIlC.png"><img alt="44 - sgNnIlC" src="44 - sgNnIlC.png"></a>
+<a href="a_black_and_orange_drawing_of_a_bug.png"><img alt="a_black_and_orange_drawing_of_a_bug" src="a_black_and_orange_drawing_of_a_bug.png"></a>
 
-<a href="93 - OhH5pDB.png"><img alt="93 - OhH5pDB" src="93 - OhH5pDB.png"></a>
+<a href="a_black_animal_with_white_stripes_and_green_plants.png"><img alt="a_black_animal_with_white_stripes_and_green_plants" src="a_black_animal_with_white_stripes_and_green_plants.png"></a>
 
-<a href="103 - qlVeiGJ.png"><img alt="103 - qlVeiGJ" src="103 - qlVeiGJ.png"></a>
+<a href="a_cartoon_of_an_animal_with_shells.png"><img alt="a_cartoon_of_an_animal_with_shells" src="a_cartoon_of_an_animal_with_shells.png"></a>
 
-<a href="83 - 5LwU1CQ.png"><img alt="83 - 5LwU1CQ" src="83 - 5LwU1CQ.png"></a>
+<a href="a_cartoon_of_a_deer_with_a_bunch_of_worms.png"><img alt="a_cartoon_of_a_deer_with_a_bunch_of_worms" src="a_cartoon_of_a_deer_with_a_bunch_of_worms.png"></a>
 
-<a href="118 - vleWbqJ.png"><img alt="118 - vleWbqJ" src="118 - vleWbqJ.png"></a>
+<a href="a_black_creature_with_white_eyes_and_black_branches.png"><img alt="a_black_creature_with_white_eyes_and_black_branches" src="a_black_creature_with_white_eyes_and_black_branches.png"></a>
 
-<a href="82 - XH3CALU.png"><img alt="82 - XH3CALU" src="82 - XH3CALU.png"></a>
+<a href="a_group_of_cartoon_animals_with_green_tentacles.png"><img alt="a_group_of_cartoon_animals_with_green_tentacles" src="a_group_of_cartoon_animals_with_green_tentacles.png"></a>
 
-<a href="43 - q8NnaGn.png"><img alt="43 - q8NnaGn" src="43 - q8NnaGn.png"></a>
+<a href="a_cartoon_of_a_snail_with_cats_on_it.png"><img alt="a_cartoon_of_a_snail_with_cats_on_it" src="a_cartoon_of_a_snail_with_cats_on_it.png"></a>
 
-<a href="45 - h5oqryH.png"><img alt="45 - h5oqryH" src="45 - h5oqryH.png"></a>
+<a href="a_black_and_orange_creature.png"><img alt="a_black_and_orange_creature" src="a_black_and_orange_creature.png"></a>
 
-<a href="112 - Fs9VKVt.png"><img alt="112 - Fs9VKVt" src="112 - Fs9VKVt.png"></a>
+<a href="a_cartoon_of_a_red_alien_with_black_eyes_and_long_legs.png"><img alt="a_cartoon_of_a_red_alien_with_black_eyes_and_long_legs" src="a_cartoon_of_a_red_alien_with_black_eyes_and_long_legs.png"></a>
 
-<a href="114 - hJNe17i.png"><img alt="114 - hJNe17i" src="114 - hJNe17i.png"></a>
+<a href="a_black_and_white_drawing_of_a_horse.png"><img alt="a_black_and_white_drawing_of_a_horse" src="a_black_and_white_drawing_of_a_horse.png"></a>
 
-<a href="95 - rg7fJWE.png"><img alt="95 - rg7fJWE" src="95 - rg7fJWE.png"></a>
+<a href="a_black_and_green_creature_with_yellow_and_green_objects.png"><img alt="a_black_and_green_creature_with_yellow_and_green_objects" src="a_black_and_green_creature_with_yellow_and_green_objects.png"></a>
 
-<a href="94 - eT7KxIE.png"><img alt="94 - eT7KxIE" src="94 - eT7KxIE.png"></a>
+<a href="a_cartoon_of_a_bug.png"><img alt="a_cartoon_of_a_bug" src="a_cartoon_of_a_bug.png"></a>
 
-<a href="148 - yG5NYrU.png"><img alt="148 - yG5NYrU" src="148 - yG5NYrU.png"></a>
+<a href="a_drawing_of_snakes_on_a_blue_background.png"><img alt="a_drawing_of_snakes_on_a_blue_background" src="a_drawing_of_snakes_on_a_blue_background.png"></a>
 
-<a href="119 - TRYgosT.png"><img alt="119 - TRYgosT" src="119 - TRYgosT.png"></a>
+<a href="a_group_of_deer_with_antlers_and_rocks.png"><img alt="a_group_of_deer_with_antlers_and_rocks" src="a_group_of_deer_with_antlers_and_rocks.png"></a>
 
-<a href="41 - WuLF3HC.png"><img alt="41 - WuLF3HC" src="41 - WuLF3HC.png"></a>
+<a href="a_white_dog_with_fruits_on_it.png"><img alt="a_white_dog_with_fruits_on_it" src="a_white_dog_with_fruits_on_it.png"></a>
 
-<a href="68 - sL8nGrX.png"><img alt="68 - sL8nGrX" src="68 - sL8nGrX.png"></a>
+<a href="a_blue_lizard_and_a_trilobite.png"><img alt="a_blue_lizard_and_a_trilobite" src="a_blue_lizard_and_a_trilobite.png"></a>
 
-<a href="48 - AZ1gcib.png"><img alt="48 - AZ1gcib" src="48 - AZ1gcib.png"></a>
+<a href="a_cartoon_of_a_deer_with_coral_branches.png"><img alt="a_cartoon_of_a_deer_with_coral_branches" src="a_cartoon_of_a_deer_with_coral_branches.png"></a>
 
-<a href="104 - gAC61L6.png"><img alt="104 - gAC61L6" src="104 - gAC61L6.png"></a>
+<a href="a_cartoon_of_a_sea_creature.png"><img alt="a_cartoon_of_a_sea_creature" src="a_cartoon_of_a_sea_creature.png"></a>
 

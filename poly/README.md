@@ -1,18 +1,18 @@
 # poly
 
-<a href="retro-pc.png"><img alt="retro-pc" src="retro-pc.png"></a>
+<a href="a_group_of_old_computer_equipment.png"><img alt="a_group_of_old_computer_equipment" src="a_group_of_old_computer_equipment.png"></a>
 
-<a href="pokemon-pixel-4k.png"><img alt="pokemon-pixel-4k" src="pokemon-pixel-4k.png"></a>
+<a href="a_pixel_art_of_a_room_with_people_and_a_room_with_a_black_background.png"><img alt="a_pixel_art_of_a_room_with_people_and_a_room_with_a_black_background" src="a_pixel_art_of_a_room_with_people_and_a_room_with_a_black_background.png"></a>
 
-<a href="buildings.png"><img alt="buildings" src="buildings.png"></a>
+<a href="a_cartoon_of_a_room_with_people_and_a_black_background.png"><img alt="a_cartoon_of_a_room_with_people_and_a_black_background" src="a_cartoon_of_a_room_with_people_and_a_black_background.png"></a>
 
-<a href="inzo.jpg"><img alt="inzo" src="inzo.jpg"></a>
+<a href="a_green_mountains_with_pink_and_blue_sky.jpg"><img alt="a_green_mountains_with_pink_and_blue_sky" src="a_green_mountains_with_pink_and_blue_sky.jpg"></a>
 
-<a href="low-poly-fantasy-village.png"><img alt="low-poly-fantasy-village" src="low-poly-fantasy-village.png"></a>
+<a href="a_small_town_with_many_houses.png"><img alt="a_small_town_with_many_houses" src="a_small_town_with_many_houses.png"></a>
 
-<a href="poly-comets.png"><img alt="poly-comets" src="poly-comets.png"></a>
+<a href="a_purple_pyramid_in_the_desert.jpg"><img alt="a_purple_pyramid_in_the_desert" src="a_purple_pyramid_in_the_desert.jpg"></a>
 
-<a href="pokemon-center.png"><img alt="pokemon-center" src="pokemon-center.png"></a>
+<a href="a_video_game_screen_with_a_diamond_and_green_lights.png"><img alt="a_video_game_screen_with_a_diamond_and_green_lights" src="a_video_game_screen_with_a_diamond_and_green_lights.png"></a>
 
-<a href="62f5ff164846d.jpg"><img alt="62f5ff164846d" src="62f5ff164846d.jpg"></a>
+<a href="a_black_and_white_photo_of_a_city.png"><img alt="a_black_and_white_photo_of_a_city" src="a_black_and_white_photo_of_a_city.png"></a>
 

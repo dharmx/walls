@@ -1,20 +1,20 @@
 # spam
 
-<a href="car.png"><img alt="car" src="car.png"></a>
+<a href="a_street_with_signs_and_lights.png"><img alt="a_street_with_signs_and_lights" src="a_street_with_signs_and_lights.png"></a>
 
-<a href="ibm.jpg"><img alt="ibm" src="ibm.jpg"></a>
+<a href="a_group_of_buildings_with_neon_lights.png"><img alt="a_group_of_buildings_with_neon_lights" src="a_group_of_buildings_with_neon_lights.png"></a>
 
-<a href="Gruvy Japan.png"><img alt="Gruvy Japan" src="Gruvy Japan.png"></a>
+<a href="a_logo_with_lines_and_rays.jpg"><img alt="a_logo_with_lines_and_rays" src="a_logo_with_lines_and_rays.jpg"></a>
 
-<a href="destiny.png"><img alt="destiny" src="destiny.png"></a>
+<a href="a_city_with_neon_lights.png"><img alt="a_city_with_neon_lights" src="a_city_with_neon_lights.png"></a>
 
-<a href="street.png"><img alt="street" src="street.png"></a>
+<a href="a_street_lights_and_buildings_at_night.png"><img alt="a_street_lights_and_buildings_at_night" src="a_street_lights_and_buildings_at_night.png"></a>
 
-<a href="output-1659943991.png"><img alt="output-1659943991" src="output-1659943991.png"></a>
+<a href="a_pixel_art_of_a_sword_and_whale.png"><img alt="a_pixel_art_of_a_sword_and_whale" src="a_pixel_art_of_a_sword_and_whale.png"></a>
 
-<a href="conv-PixelSundown.png"><img alt="conv-PixelSundown" src="conv-PixelSundown.png"></a>
+<a href="a_street_with_buildings_and_signs.png"><img alt="a_street_with_buildings_and_signs" src="a_street_with_buildings_and_signs.png"></a>
 
-<a href="city-scape.png"><img alt="city-scape" src="city-scape.png"></a>
+<a href="a_street_with_signs_and_lights_01.png"><img alt="a_street_with_signs_and_lights_01" src="a_street_with_signs_and_lights_01.png"></a>
 
-<a href="Dark red Japan.png"><img alt="Dark red Japan" src="Dark red Japan.png"></a>
+<a href="a_triangle_shaped_object_with_a_blue_and_white_light.png"><img alt="a_triangle_shaped_object_with_a_blue_and_white_light" src="a_triangle_shaped_object_with_a_blue_and_white_light.png"></a>
 

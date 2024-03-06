@@ -1,16 +1,16 @@
 # interior
 
-<a href="wallhaven-zmqwjv.jpg"><img alt="wallhaven-zmqwjv" src="wallhaven-zmqwjv.jpg"></a>
+<a href="a_room_with_a_wooden_cabinet_and_a_picture_frame.jpg"><img alt="a_room_with_a_wooden_cabinet_and_a_picture_frame" src="a_room_with_a_wooden_cabinet_and_a_picture_frame.jpg"></a>
 
-<a href="mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering.jpg"><img alt="mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering" src="mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering.jpg"></a>
+<a href="a_white_wall_with_a_blue_couch_and_a_lamp.jpg"><img alt="a_white_wall_with_a_blue_couch_and_a_lamp" src="a_white_wall_with_a_blue_couch_and_a_lamp.jpg"></a>
 
-<a href="empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg"><img alt="empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering" src="empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg"></a>
+<a href="a_green_plant_in_a_pot.jpg"><img alt="a_green_plant_in_a_pot" src="a_green_plant_in_a_pot.jpg"></a>
 
-<a href="dark-wall-empty-room-with-plants-floor-3d-rendering.jpg"><img alt="dark-wall-empty-room-with-plants-floor-3d-rendering" src="dark-wall-empty-room-with-plants-floor-3d-rendering.jpg"></a>
+<a href="a_plant_in_a_pot.jpg"><img alt="a_plant_in_a_pot" src="a_plant_in_a_pot.jpg"></a>
 
-<a href="masha-rostovskaya-fCW4E22uIxI-unsplash.jpg"><img alt="masha-rostovskaya-fCW4E22uIxI-unsplash" src="masha-rostovskaya-fCW4E22uIxI-unsplash.jpg"></a>
+<a href="a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg"><img alt="a_table_with_a_vase_of_fruit_and_a_pitcher_of_water" src="a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg"></a>
 
-<a href="wallhaven-ym873k.jpg"><img alt="wallhaven-ym873k" src="wallhaven-ym873k.jpg"></a>
+<a href="a_potted_plant_on_a_blue_surface.jpg"><img alt="a_potted_plant_on_a_blue_surface" src="a_potted_plant_on_a_blue_surface.jpg"></a>
 
-<a href="clay-banks-0hG9jeO74-w-unsplash.jpg"><img alt="clay-banks-0hG9jeO74-w-unsplash" src="clay-banks-0hG9jeO74-w-unsplash.jpg"></a>
+<a href="a_small_potted_plant_on_a_wood_surface.jpg"><img alt="a_small_potted_plant_on_a_wood_surface" src="a_small_potted_plant_on_a_wood_surface.jpg"></a>
 

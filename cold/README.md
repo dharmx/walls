@@ -1,34 +1,34 @@
 # cold
 
-<a href="andrea-ferrario-3BfFa7rwqwM-unsplash.jpg"><img alt="andrea-ferrario-3BfFa7rwqwM-unsplash" src="andrea-ferrario-3BfFa7rwqwM-unsplash.jpg"></a>
-
 <a href="vo9lyx14s41a1.webp"><img alt="vo9lyx14s41a1" src="vo9lyx14s41a1.webp"></a>
 
-<a href="city.png"><img alt="city" src="city.png"></a>
+<a href="a_black_sand_beach_with_waves_and_clouds_above.jpg"><img alt="a_black_sand_beach_with_waves_and_clouds_above" src="a_black_sand_beach_with_waves_and_clouds_above.jpg"></a>
 
-<a href="basil-lade-tDwc_wK57Pk-unsplash.jpg"><img alt="basil-lade-tDwc_wK57Pk-unsplash" src="basil-lade-tDwc_wK57Pk-unsplash.jpg"></a>
+<a href="a_snow_covered_houses_and_a_street_light.png"><img alt="a_snow_covered_houses_and_a_street_light" src="a_snow_covered_houses_and_a_street_light.png"></a>
 
-<a href="snow_covered_mountains_robert_haverly.jpg"><img alt="snow_covered_mountains_robert_haverly" src="snow_covered_mountains_robert_haverly.jpg"></a>
+<a href="clouds_above_a_mountain.png"><img alt="clouds_above_a_mountain" src="clouds_above_a_mountain.png"></a>
 
-<a href="mountain.jpg"><img alt="mountain" src="mountain.jpg"></a>
+<a href="a_river_running_through_a_valley.png"><img alt="a_river_running_through_a_valley" src="a_river_running_through_a_valley.png"></a>
 
-<a href="wallhaven-4opomm.jpg"><img alt="wallhaven-4opomm" src="wallhaven-4opomm.jpg"></a>
+<a href="a_mountain_with_snow_and_trees.jpg"><img alt="a_mountain_with_snow_and_trees" src="a_mountain_with_snow_and_trees.jpg"></a>
 
-<a href="w5fohvw1xv191.jpg"><img alt="w5fohvw1xv191" src="w5fohvw1xv191.jpg"></a>
+<a href="a_snow_covered_mountain_top.jpg"><img alt="a_snow_covered_mountain_top" src="a_snow_covered_mountain_top.jpg"></a>
 
-<a href="undefined - Imgur.jpg"><img alt="undefined - Imgur" src="undefined - Imgur.jpg"></a>
+<a href="a_snowy_mountain_with_clouds_above.jpg"><img alt="a_snowy_mountain_with_clouds_above" src="a_snowy_mountain_with_clouds_above.jpg"></a>
 
-<a href="kym-mackinnon-KrrVNx8R640-unsplash.jpg"><img alt="kym-mackinnon-KrrVNx8R640-unsplash" src="kym-mackinnon-KrrVNx8R640-unsplash.jpg"></a>
+<a href="a_music_stand_with_a_book_on_it.jpg"><img alt="a_music_stand_with_a_book_on_it" src="a_music_stand_with_a_book_on_it.jpg"></a>
 
-<a href="wallpaper.png"><img alt="wallpaper" src="wallpaper.png"></a>
+<a href="a_person_standing_on_a_rocky_cliff.png"><img alt="a_person_standing_on_a_rocky_cliff" src="a_person_standing_on_a_rocky_cliff.png"></a>
 
-<a href="overlook_1920x1080.png"><img alt="overlook_1920x1080" src="overlook_1920x1080.png"></a>
+<a href="a_train_tracks_in_a_foggy_day.jpg"><img alt="a_train_tracks_in_a_foggy_day" src="a_train_tracks_in_a_foggy_day.jpg"></a>
 
-<a href="wave2.jpg"><img alt="wave2" src="wave2.jpg"></a>
+<a href="a_mountain_with_snow_and_clouds.jpg"><img alt="a_mountain_with_snow_and_clouds" src="a_mountain_with_snow_and_clouds.jpg"></a>
 
-<a href="mysterious_light_in_pine_trees_nagy_arnold.jpg"><img alt="mysterious_light_in_pine_trees_nagy_arnold" src="mysterious_light_in_pine_trees_nagy_arnold.jpg"></a>
+<a href="a_snowy_mountain_with_dark_clouds.jpg"><img alt="a_snowy_mountain_with_dark_clouds" src="a_snowy_mountain_with_dark_clouds.jpg"></a>
 
-<a href="ocean_front_1920x1080.png"><img alt="ocean_front_1920x1080" src="ocean_front_1920x1080.png"></a>
+<a href="a_mountain_with_clouds_in_the_sky.jpg"><img alt="a_mountain_with_clouds_in_the_sky" src="a_mountain_with_clouds_in_the_sky.jpg"></a>
 
-<a href="andrey-konstantinov-drir5tDCWF4-unsplash.jpg"><img alt="andrey-konstantinov-drir5tDCWF4-unsplash" src="andrey-konstantinov-drir5tDCWF4-unsplash.jpg"></a>
+<a href="a_snowy_landscape_with_trees_and_a_light_on_it.jpg"><img alt="a_snowy_landscape_with_trees_and_a_light_on_it" src="a_snowy_landscape_with_trees_and_a_light_on_it.jpg"></a>
+
+<a href="a_mountain_with_snow_on_it.jpg"><img alt="a_mountain_with_snow_on_it" src="a_mountain_with_snow_on_it.jpg"></a>
 
