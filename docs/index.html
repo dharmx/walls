@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en" data-repo="dharmx/walls">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wallpaper Gallery</title>
+  <meta name="description" content="Explore and download 3.3+ GB of curated wallpapers across 52 categories. Sourced by dharmx and contributors.">
+  
+  <!-- OpenGraph Metadata -->
+  <meta property="og:title" content="walls — Wallpaper Gallery">
+  <meta property="og:description" content="Curated collection of 3.3+ GB wallpapers across 52 category folders.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://cdn.jsdelivr.net/gh/dharmx/walls@main/gruvbox/a_body_of_water_with_buildings_in_the_background.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+
+  <!-- Theme Color Meta Tags -->
+  <meta name="theme-color" content="#f9f9f9" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Prevent Dark Mode FOUC (Flash of Unstyled Content) -->
+  <script>
+    (function() {
+      var saved = localStorage.getItem('walls-theme-preference');
+      var isDark = saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      if (isDark) document.documentElement.classList.add('dark');
+    })();
+  </script>
+
+  <!-- Design System & Styles -->
+  <link rel="stylesheet" href="assets/css/theme.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#category/all" class="logo-link">
+        <div class="logo-badge">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
+            <circle cx="9" cy="9" r="2" />
+            <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />
+          </svg>
+        </div>
+        <span class="logo-text font-heading">walls</span>
+      </a>
+
+      <!-- Header Search Input -->
+      <div class="header-search">
+        <div class="search-input-wrapper">
+          <svg class="search-icon-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/>
+            <path d="m21 21-4.3-4.3"/>
+          </svg>
+          <input 
+            type="search" 
+            id="search-input" 
+            class="search-input" 
+            placeholder="Search wallpapers..." 
+            aria-label="Search wallpapers"
+            autocomplete="off"
+          />
+          <button id="search-clear-btn" class="search-clear-btn" aria-label="Clear search">
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Header Actions Right -->
+      <div class="header-actions">
+        <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle light/dark theme" title="Toggle theme">
+          <!-- Populated dynamically by theme-toggle.js -->
+        </button>
+        <a 
+          href="https://github.com/dharmx/walls" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          class="btn-icon" 
+          aria-label="View on GitHub"
+          title="View source repo on GitHub"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div id="hero-marquee-wrapper" class="hero-marquee-wrapper">
+      <div id="hero-marquee-track" class="hero-marquee-track"></div>
+    </div>
+    <div class="hero-scrim"></div>
+    <div class="container hero-content">
+      <h1 class="hero-title">Walls</h1>
+      <p class="hero-tagline">High-resolution wallpapers for every workspace.</p>
+      <div class="hero-stats">
+        <span id="stat-total-files" class="stat-number">...</span>
+        <span class="stat-divider"></span>
+        <span id="stat-total-categories" class="stat-number">...</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Category Filter Rail Section -->
+  <section class="category-rail-section">
+    <div class="container category-rail-inner">
+      <button id="all-categories-modal-btn" class="btn-icon category-all-grid-btn" title="View all 52 categories" aria-label="View all categories in grid">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/>
+          <rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/>
+        </svg>
+      </button>
+      <div class="category-rail-scroll-container">
+        <button id="rail-scroll-prev" class="rail-scroll-btn prev" aria-label="Scroll categories left">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+        </button>
+        <div id="category-chips-wrapper" class="category-chips-wrapper">
+          <!-- Rendered dynamically by app.js -->
+        </div>
+        <button id="rail-scroll-next" class="rail-scroll-btn next" aria-label="Scroll categories right">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        </button>
+      </div>
+      <div id="category-download-all-container">
+        <!-- Rendered dynamically when category selected -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Gallery Grid -->
+  <main class="gallery-section container">
+    <div id="search-result-count" class="search-result-count" style="display: none;"></div>
+    <div id="gallery-grid" class="gallery-grid-container">
+      <!-- Gallery cards rendered dynamically -->
+    </div>
+
+    <!-- Infinite Scroll Sentinel -->
+    <div id="loading-sentinel" class="loading-sentinel">
+      <div class="spinner"></div>
+      <span class="text-sm">Loading more wallpapers...</span>
+    </div>
+  </main>
+
+  <!-- Full-Screen Lightbox Modal -->
+  <dialog id="lightbox-dialog" class="lightbox-dialog">
+    <div class="lightbox-header">
+      <span class="lightbox-counter">1 of 1</span>
+      <button class="lightbox-close-btn" aria-label="Close modal">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="lightbox-body">
+      <button class="lightbox-nav-btn prev" aria-label="Previous wallpaper">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="m15 18-6-6 6-6"/>
+        </svg>
+      </button>
+      
+      <div class="lightbox-media-container">
+        <!-- Media rendered dynamically -->
+      </div>
+
+      <button class="lightbox-nav-btn next" aria-label="Next wallpaper">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="m9 18 6-6-6-6"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="lightbox-footer">
+      <div class="lightbox-details">
+        <h2 class="lightbox-title">Wallpaper Title</h2>
+        <div class="lightbox-meta"></div>
+      </div>
+      <div class="lightbox-actions">
+        <button class="btn-primary lightbox-download-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/>
+          </svg>
+          <span>Download Wallpaper</span>
+        </button>
+        <button class="btn-secondary lightbox-copy-btn" title="Copy Direct URL">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/>
+          </svg>
+          <span>Copy Link</span>
+        </button>
+        <a href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary lightbox-github-btn" title="View on GitHub">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+          </svg>
+          <span>View on GitHub</span>
+        </a>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- All Categories Grid Modal -->
+  <dialog id="all-categories-dialog" class="all-categories-dialog">
+    <div class="all-categories-modal-header">
+      <h2 class="all-categories-modal-title">All Categories</h2>
+      <button id="all-categories-close-btn" class="modal-close-btn" aria-label="Close categories modal">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+        </svg>
+      </button>
+    </div>
+    <div id="all-categories-modal-grid" class="all-categories-modal-grid">
+      <!-- Populated dynamically by app.js -->
+    </div>
+  </dialog>
+
+  <!-- Scroll To Top Button -->
+  <button id="scroll-to-top-btn" class="scroll-to-top-btn" aria-label="Scroll to top" title="Scroll to top">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m18 15-6-6-6 6"/>
+    </svg>
+  </button>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>Wallpapers curated by <strong>dharmx</strong> and contributors.</p>
+      <div class="footer-links">
+        <a href="https://github.com/dharmx/walls" target="_blank" rel="noopener noreferrer" class="footer-link">GitHub Repository</a>
+        <span>•</span>
+        <a href="https://github.com/dharmx/walls#sources" target="_blank" rel="noopener noreferrer" class="footer-link">Image Sources</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/icons.js"></script>
+  <script src="assets/js/theme-toggle.js"></script>
+  <script src="assets/js/manifest.js"></script>
+  <script src="assets/js/gallery.js"></script>
+  <script src="assets/js/lightbox.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

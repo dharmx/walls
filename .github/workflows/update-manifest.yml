@@ -1,0 +1,35 @@
+name: Update Wallpaper Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'docs/**'
+      - '.github/**'
+      - '*.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Manifest
+        run: node scripts/generate-manifest.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/manifest.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update wallpapers manifest.json" && git push)
